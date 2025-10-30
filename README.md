@@ -40,7 +40,7 @@ For example, to find the 10-K for VTR with accession number `0000740260-25-00005
 
 **What are the limitations of the data?**
 
--   **Images are not included**: Images and graphical content are not processed.
--   **Complex table structures may be lost**: HTML tables in the narrative text are converted to plain text, potentially losing their original structure.
--   **Limited scope of documents**: Processing focuses on main filing documents (8-K, 10-K, 10-Q) and key exhibits (EX-99.1, EX-99.2).
--   **Simplified XBRL data**: The XBRL extraction is basic and does not parse the full XBRL taxonomy for complex financial relationships.
+-   **Images and other binary content are not included**: Any images, graphical content, or other binary files (e.g., `.jpg`, `.gif`, `.xlsx`, `.zip`) embedded within the filings are skipped and not converted to text or otherwise processed.
+-   **Many exhibits are excluded**: While some key exhibits (EX-99.1, EX-99.2) are processed for narrative text, many other exhibits (e.g., material contracts, lists of subsidiaries, legal opinions) are currently excluded. These may contain important supplementary information.
+-   **Complex table structures may be lost**: HTML tables in the narrative text are converted to plain text, which may result in a loss of their original structure and readability.
+-   **Full XBRL/XML data is not parsed**: Only inline XBRL tags from the main filing documents are extracted into markdown tables. The vast majority of XBRL taxonomy files (`.xsd`, `.xml`) and other XML/JSON metadata files are excluded, meaning a comprehensive, interconnected view of the financial data is not available.
