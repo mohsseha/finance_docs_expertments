@@ -1,0 +1,3 @@
+This repository contains processed SEC EDGAR filings for senior housing REITs, specifically for the following tickers: AHR, DHC, VTR, and WELL. The filings have been extracted and organized for easier access and analysis.
+
+To navigate the repository, follow this structure: `/<TICKER>/<FORM_TYPE>/<ACCESSION_NUMBER>`. For example, to find the 10-K for VTR with accession number `0000740260-25-000052`, you would navigate to `/VTR/10-K/0000740260-25-000052/`. Within each accession number directory, you will find the processed text of the filing.
