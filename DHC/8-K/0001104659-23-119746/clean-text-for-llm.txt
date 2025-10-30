@@ -1,0 +1,148 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm2331061d1_8k.htm ===
+================================================================================
+
+false
+0001075415
+0001075415
+2023-11-17
+2023-11-17
+0001075415
+us-gaap:CommonStockMember
+2023-11-17
+2023-11-17
+0001075415
+DHC:SeniorNotesDue2042Member
+2023-11-17
+2023-11-17
+0001075415
+DHC:SeniorNotesDue2046Member
+2023-11-17
+2023-11-17
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC  20549
+FORM
+8-K
+CURRENT REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+November 17, 2023
+DIVERSIFIED HEALTHCARE TRUST
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+,
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices) (Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+In this Current Report on Form 8-K, the terms “we”,
+“us”, and “our” refer to Diversified Healthcare Trust.
+Item 5.02. Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On November 17, 2023, our Board of Trustees,
+or the Board, appointed Christopher J. Bilotto as our President and Chief Executive Officer, effective January 1, 2024.
+Mr. Bilotto
+,
+age 46, has been an executive vice president of our manager, The RMR Group LLC, or RMR, since October 2023, senior vice
+president of RMR from October 2020 to September 2023 and a vice president of RMR from 2016 to September 2020.
+Mr. Bilotto is responsible for overseeing portfolio management for all office, industrial and retail properties managed by RMR
+and hotel and senior living asset management, as well as development and redevelopment across the United States. Prior to joining
+RMR in 2011, Mr. Bilotto worked at General Growth Properties in various management roles.
+Mr. Bilotto
+currently serves as president and chief executive officer of Office Properties Income Trust, but he has resigned from those
+positions effective December 31, 2023.
+There is no arrangement or understanding between
+Mr. Bilotto
+and any other person pursuant to which
+Mr. Bilotto
+was appointed as our President and Chief Executive Officer. There are no transactions, relationships or agreements between
+Mr. Bilotto
+and us that would require disclosure pursuant to Item 404(a) of Regulation S-K.
+Mr. Bilotto
+does not have a family relationship with any member of the Board or any of our executive officers.
+Mr. Bilotto
+will replace Jennifer F. Francis, who is retiring from RMR on June 30, 2024, and therefore has resigned as our President and Chief
+Executive Officer, effective December 31, 2023.
+In connection
+with Mr. Bilotto’s appointment as our President and Chief Executive Offer, we will enter into an indemnification agreement
+with Mr. Bilotto, which agreement will be on substantially the same terms as the indemnification agreements we have entered with
+our Trustees and other executive officers. We have previously filed a form of indemnification agreement as
+Exhibit 10.6
+to our Quarterly
+Report on Form 10-Q for the quarter ended September 30, 2023, which form is incorporated herein by reference.
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/ Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Dated:  November 20, 2023
+

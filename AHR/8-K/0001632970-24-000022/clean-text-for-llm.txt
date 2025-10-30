@@ -1,0 +1,112 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20240214.htm ===
+================================================================================
+
+ahr-20240214
+FALSE
+0001632970
+0001632970
+2024-02-14
+2024-02-14
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+February 14, 2024
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+000-55775
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 1.01 Entry Into a Material Definitive Agreement.
+The information reported in Item 2.03 of this Current Report on Form 8-K is incorporated herein by reference.
+Item 2.03 Creation of a Direct Financial Obligation or an Obligation under an Off-Balance Sheet Arrangement of a Registrant.
+Second Amendment and Restatement to Credit Facilities
+As previously reported, on January 25, 2019, we, through American Healthcare REIT Holdings, LP, or the Operating Partnership, formally known as Griffin-American Healthcare REIT III Holdings, LP, its parent, formally known as Griffin-American Healthcare REIT IV, Inc., as successor by merger with Griffin-American Healthcare REIT III, Inc., and certain of our subsidiaries, entered into a credit agreement, or the 2019 Corporate Credit Agreement, with Bank of America, N.A., or Bank of America; KeyBank, National Association, or KeyBank; Citizens Bank, National Association, or Citizens Bank; and a syndicate of other banks, as lenders, to obtain a credit facility with an aggregate maximum principal amount of $630,000,000, or the 2019 Corporate Line of Credit. The 2019 Corporate Line of Credit initially consisted of a senior unsecured revolving credit facility in an aggregate amount of $150,000,000 and a senior unsecured term loan facility in an aggregate amount of $480,000,000. On January 19, 2022, we entered into an agreement, or the 2022 Credit Agreement, that amended, restated, superseded and replaced the 2019 Corporate Credit Agreement to provide for a credit facility with an aggregate maximum principal amount up to $1,050,000,000, or the 2022 Credit Facility. The 2022 Credit Facility consisted of a senior unsecured revolving credit facility in the initial aggregate amount of $500,000,000 and a senior unsecured term loan facility in the initial aggregate amount of $550,000,000.
+On February 14, 2024, we, through the Operating Partnership, as borrower, certain of our subsidiaries, or the subsidiary guarantors, and our company, collectively as guarantors, entered into an agreement, or the 2024 Credit Agreement, that amends, restates, supersedes and replaces the 2022 Credit Agreement with Bank of America, as administrative agent and letters of credit issuer; KeyBank and Citizens Bank, as syndication agents for the revolving facility and the term loan facility and letters of credit issuers; Bank of the West, as a syndication agent for the term loan facility, Fifth Third Bank, National Association, or Fifth Third Bank, as documentation agent for the term loan facility, Truist Bank and Regions Bank, as managing agents for the term loan facility; Barclays Bank PLC; Citibank, N.A.; Credit Agricole Corporate and Investment Bank; Fifth Third Bank; Morgan Stanley Bank, N.A.; Regions Bank; Royal Bank of Canada and Truist Bank, as managing agents for the revolving facility; KeyBanc Capital Markets and Citizens Bank as joint lead arrangers for the revolving facility and the term loan facility; and BofA Securities, Inc., as a joint lead arranger and sole bookrunner for the revolving facility and the term loan facility, to obtain a credit facility with an aggregate maximum principal amount up to $1,150,000,000, or the 2024 Credit Facility. The 2024 Credit Facility consists of a senior unsecured revolving credit facility in the initial aggregate amount of $600,000,000 and a senior unsecured term loan facility in the initial aggregate amount of $550,000,000.
+Unless defined herein, all capitalized terms are as defined in the 2024 Credit Agreement. Under the terms of the 2024 Credit Agreement, the Revolving Loans mature on February 14, 2028, and may be extended for one 12-month period, subject to the satisfaction of certain conditions, including payment of an extension fee. The Term Loan matures on January 19, 2027, and may not be extended. The maximum principal amount of the 2024 Credit Facility may be increased by an aggregate incremental amount of $600,000,000, subject to: (i) the terms of the 2024 Credit Agreement; and (ii) at least five business days’ prior written notice to Bank of America.
+The 2024 Credit Facility bears interest at varying rates based upon, at our option, (i) the Daily Simple Secured Overnight Financing Rate, or Daily SOFR, plus the Applicable Rate for Daily SOFR Rate Loans or (ii) the Term Secured Overnight Financing Rate, or the Term SOFR, plus the Applicable Rate for Term SOFR Rate Loans. If, under the terms of the 2024 Credit Agreement, there is an inability to determine the Daily SOFR or the Term SOFR, then the 2024 Credit Facility will bear interest at a rate per annum equal to the Base Rate plus the Applicable Rate for Base Rate Loans. The loans may be repaid in whole or in part without prepayment premium or penalty, subject to certain conditions.
+We are required to pay a fee on the unused portion of the lenders’ commitments under the 2024 Credit Agreement computed at (a) 0.25% per annum if the actual daily Commitment Utilization Percentage for such quarter is less than or equal to 50% and (b) 0.20% per annum if the actual daily Commitment Utilization Percentage for such quarter is greater than 50%, which fee shall be computed on the actual daily amount of the Available Commitments during the period for which payment is made and payable in arrears on a quarterly basis.
+At any time that the Applicable Rate is determined based on the Debt Ratings Based Pricing Grid, we are required to pay a facility fee as determined in the Debt Ratings Based Pricing Grid multiplied by the actual daily amount of the Aggregate Revolving Commitments, or, if the Aggregate Revolving Commitments have terminated, the Outstanding Amount of all Revolving Loans and L/C Obligations, regardless of usage.
+The 2024 Credit Agreement contains various affirmative and negative covenants that are customary for credit facilities and transactions of this type, including limitations on the incurrence of debt by our operating partnership and its subsidiaries and limitations on secured recourse indebtedness. The 2024 Credit Agreement also imposes certain financial covenants based on the following criteria: (a) Consolidated Leverage Ratio; (b) Consolidated Secured Leverage Ratio; (c) Consolidated Tangible Net Worth; (d) Consolidated Fixed Charge Coverage Ratio; (e) Consolidated Unencumbered Leverage Ratio; (f) Consolidated Unencumbered Interest Coverage Ratio;  and (g) Secured Recourse Indebtedness.
+The 2024 Credit Agreement requires us to add additional subsidiaries as guarantors in the event the value of the assets owned by the subsidiary guarantors falls below a certain threshold as set forth in the 2024 Credit Agreement. In the event of default, Bank of America has the right to terminate the commitment of each Lender to make Loans and any obligation of the L/C Issuer to make L/C Credit Extensions under the 2024 Credit Agreement, and to accelerate the payment on any unpaid principal amount of all outstanding loans and all interest accrued and unpaid thereon. The aggregate borrowing capacity under the 2024 Credit Facility was $1,150,000,000 as of February 14, 2024.
+The 2024 Credit Facility replaces the 2022 Credit Facility. The material terms of the 2024 Credit Agreement are qualified in their entirety by the agreement attached as Exhibit 10.1 to this Current Report on Form 8-K and incorporated herein by reference.
+Certain agents, arrangers and lenders to the 2024 Credit Facility, and their affiliates, have performed and may in the future perform commercial banking, investment banking, underwriting and advisory services for us and/or our affiliates from time to time for which they have received and may in the future receive customary fees and reimbursement of expenses.
+Item 7.01 Regulation FD Disclosure.
+On February 21, 2024, we issued a press release announcing the 2024 Credit Facility and additional recent developments. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein solely for purposes of this Item 7.01 disclosure.
+The information furnished under this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed to be "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+10.1
+Second Amended and Restated Credit Agreement, dated February 14, 2024, by and among American Healthcare REIT Holdings, LP, American Healthcare REIT, Inc., and certain subsidiaries and Bank of America, N.A., KeyBank, National Association, Citizens Bank, National Association, Bank of the West, Barclays Banks PLC, Credit Agricole Corporate and Investment Bank, Fifth Third Bank, National Association, Morgan Stanley Bank, N.A., Truist Bank, Regions Bank, Royal Bank of Canada, KeyBanc Capital Markets and BofA Securities, Inc.
+99.1
+Press release, dated February 21, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+February 21, 2024
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 3: EX-99.1 - ex991pressrelease.htm ===
+================================================================================
+
+EXHIBIT 99.1      Contact:   Alan Peterson        VP, Investor Rela�ons & Finance        (949) 270-9200        investorrela�ons@ahcreit.com    American Healthcare REIT Amends Credit Facility and   Provides Update on Key Post-Offering Ini�a�ves    IRVINE, Calif., February 21, 2024 /PRNewswire/ -- American Healthcare REIT, Inc. (NYSE: AHR)  announced today that it has amended its exis�ng credit facility, extending its maturity date and  increasing its size to up to $1,150,000,000. The credit facility consists of an unsecured revolving  credit facility in the ini�al aggregate amount of $600,000,000 and an unsecured term loan  facility in the ini�al aggregate amount of $550,000,000. The revolving por�on of the credit  facility now matures on February 14, 2028, and may be extended for one 12-month period,  subject to certain condi�ons, and the term loan por�on of the facility matures on January 19,  2027. The amended credit facility will allow for increased flexibility as the company evaluates  opportuni�es, while maintaining the strength of its capital structure since its recently  completed underwriten public offering of common stock and the lis�ng of its common stock on  the New York Stock Exchange.   “We are pleased with the new terms of our credit facility with our lending partners,” said Danny  Prosky, President and Chief Execu�ve Officer of American Healthcare REIT. “We believe this  credit facility will benefit our stockholders and allow us to con�nue to grow our diverse por�olio  of healthcare real estate assets.”  Post-Offering Update  The company also announced progress it has made since its recently completed underwriten  public offering of common stock and lis�ng on the New York Stock Exchange earlier this month.  Since the closing of the offering on February 9, 2024, the company has repaid approximately  $721 million of outstanding debt with a weighted average interest rate of 7.53%. As of February  16, 2024, the company had $747,000,000 of outstanding balances on its lines of credit and term  loan, with a weighted average interest rate of 5.91% (taking into account the effect of swap  instruments), and $803,000,000 of aggregate availability under its lines of credit and term loan.
+This significant reduc�on in outstanding debt has resulted in a meaningful improvement in the  company’s leverage metrics and will result in approximately $54 million in interest expense  savings on an annualized basis.  On por�olio performance, the company reported updated occupancies for its important  Integrated Senior Health Campuses and Senior Housing Opera�ng Por�olio (SHOP) segments  that showed con�nued growth. As of February 9, 2024, occupancy for the company’s same- store Integrated Senior Health Campuses was 87.6%, up from 86.6% for the three months  ended September 30, 2023, while occupancy for the company’s same-store SHOP was 82.6%,  up substan�ally from 78.8% for the three months ended September 30, 2023. Total occupancies  for the company’s Integrated Senior Health Campuses and SHOP segments as of February 9,  2024 were 87.3% and 82.7%, respec�vely. Occupancy for the company’s Medical Office Building  segment was 88.9%, down slightly from 89.7% as of September 30, 2023 due to an�cipated  tenant vacancies.  “We have con�nued to make good progress on key ini�a�ves since our recent equity offering  and lis�ng,” Mr. Prosky said. “The reduc�on in outstanding debt not only strengthens our  balance sheet but also provides substan�al interest expense savings in today’s heightened  interest rate environment. We expect that our strengthened balance sheet coupled with strong  por�olio performance, driven by our senior housing investments, will posi�on the company well  to grow value for our stockholders.”  Recent Transac�on Ac�vity  In February 2024, the company closed on the acquisi�on of a senior housing por�olio in Oregon  consis�ng of 856 beds across 12 campuses. The total considera�on consisted of $94.5 million of  assumed debt, plus closing costs, reflec�ng a price per bed of approximately $110,000. The  assumed debt has a fixed interest rate of 4.54% and matures on January 1, 2028. The por�olio  will be managed by Compass Senior Living through a RIDEA structure. The company has a  longstanding rela�onship with Compass Senior Living in its senior housing–leased por�olio and  recognized the strength of the operator through the COVID-19 pandemic. The management  agreement will be the company’s first with Compass Senior Living expanding the company’s  high-quality operator rela�onships.  About American Healthcare REIT, Inc.  American Healthcare REIT, Inc. is a self-managed real estate investment trust (REIT) that  acquires, owns and operates a diversified por�olio of clinical healthcare real estate proper�es,  focusing primarily on medical office buildings, senior housing, skilled nursing facili�es, and other  healthcare-related facili�es. As of September 30, 2023, its total assets of approximately $4.6  billion consisted of 298 buildings and integrated senior health campuses owned and/or  operated by the company that are located in 36 states, the United Kingdom and the Isle of Man,  represen�ng approximately 18.9 million square feet of gross leasable area.
+Forward-Looking Statements  Certain statements contained in this press release, including statements rela�ng to the  company’s expecta�ons regarding its por�olio growth, interest expense savings and balance  sheet, may be considered forward-looking statements within the meaning of Sec�on 27A of the  Securi�es Act of 1933, as amended, and Sec�on 21E of the Securi�es Exchange Act of 1934, as  amended. The company intends for all such forward-looking statements to be covered by the  applicable safe harbor provisions for forward-looking statements contained in those acts.  Readers are cau�oned not to place undue reliance on these forward-looking statements, which  speak only as of the date of this press release. Any such forward-looking statements are based  on current expecta�ons, es�mates and projec�ons about the industry and markets in which the  company operates, and beliefs of, and assump�ons made by, the company’s management and  involve known and unknown risks and uncertain�es that could cause actual results to differ  materially from those expressed or implied therein, including, without limita�on risks included  in the company’s Annual Report on Form 10-K for the year ended December 31, 2022 and other  periodic reports. Except as required by law, the company does not undertake any obliga�on to  update or revise any forward-looking statements contained in this release.
+

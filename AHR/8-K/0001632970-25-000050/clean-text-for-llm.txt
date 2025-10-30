@@ -1,0 +1,152 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20250625.htm ===
+================================================================================
+
+ahr-20250625
+FALSE
+0001632970
+0001632970
+2025-06-25
+2025-06-25
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+June 25, 2025
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+001-41951
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 5.07 Submission of Matters to a Vote of Security Holders.
+On June 25, 2025, we held our 2025 Annual Meeting of Stockholders. At the meeting, our stockholders voted on the following four proposals: (i) to consider and vote upon the election of nine directors, each to hold office for a one-year term expiring at the 2026 Annual Meeting of Stockholders and until his or her successor is duly elected and qualifies; (ii) to consider and vote upon the ratification of the appointment of Deloitte & Touche LLP, or Deloitte & Touche, as our independent registered public accounting firm for the year ending December 31, 2025; (iii) to approve, on an advisory (non-binding) basis, the compensation paid to our named executive officers for the year ended December 31, 2024; and (iv) to approve the American Healthcare REIT, Inc. 2025 Manager Equity Plan. The four proposals are described in detail in our definitive proxy statement, dated April 10, 2025, as filed with the United States Securities and Exchange Commission on Schedule 14A on April 10, 2025.
+The votes with respect to each of the proposals are set forth below.
+Proposal 1.   To consider and vote upon the election of nine directors, each to hold office for a one-year term expiring at the 2026 Annual Meeting of Stockholders and until his or her successor is duly elected and qualifies:
+Nominee
+Shares For
+Shares Withheld
+Broker Non-Votes
+Jeffrey T. Hanson
+110,491,724
+6,780,802
+22,564,319
+Danny Prosky
+116,312,997
+959,529
+22,564,319
+Mathieu B. Streiff
+111,148,837
+6,123,689
+22,564,319
+Scott A. Estes
+116,035,501
+1,237,025
+22,564,319
+Brian J. Flornes
+100,685,107
+16,587,419
+22,564,319
+Dianne Hurley
+115,425,541
+1,846,985
+22,564,319
+Marvin R. O'Quinn
+116,676,785
+595,741
+22,564,319
+Valerie Richardson
+114,471,250
+2,801,276
+22,564,319
+Wilbur H. Smith III
+113,438,464
+3,834,062
+22,564,319
+The nine above-referenced nominees therefore were elected as our directors by the requisite vote of our stockholders necessary for approval.
+Proposal 2.  To consider and vote upon the ratification of the appointment of Deloitte & Touche as our independent registered public accounting firm for the year ending December 31, 2025:
+Shares For
+Shares Against
+Shares Abstained
+138,414,959
+1,139,417
+282,469
+The appointment of Deloitte & Touche as our independent registered public accounting firm for the year ending December 31, 2025, therefore was ratified by the requisite vote of our stockholders necessary for approval.
+Proposal 3.   To approve, on an advisory (non-binding) basis, the compensation paid to our named executive officers for the year ended December 31, 2024:
+Shares For
+Shares Against
+Shares Abstained
+Broker Non-Votes
+109,297,003
+7,525,316
+450,207
+22,564,319
+The compensation of our named executive officers therefore was approved by the requisite vote of our stockholders, on an advisory basis.
+Proposal 4.   To approve the American Healthcare REIT, Inc. 2025 Manager Equity Plan:
+Shares For
+Shares Against
+Shares Abstained
+Broker Non-Votes
+112,586,838
+4,273,480
+412,208
+22,564,319
+The American Healthcare REIT, Inc. 2025 Manager Equity Plan
+therefore was approved by the requisite vote of our stockholders
+.
+No other proposals were submitted to a vote of our stockholders at the annual meeting.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+June 26, 2025
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+

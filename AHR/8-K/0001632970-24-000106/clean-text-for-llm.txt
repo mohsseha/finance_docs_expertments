@@ -1,0 +1,95 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20240918.htm ===
+================================================================================
+
+ahr-20240918
+FALSE
+0001632970
+0001632970
+2024-09-18
+2024-09-18
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+September 18, 2024
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+001-41951
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 1.01 Entry into a Material Definitive Agreement
+On September 20, 2024, we closed the public offering of 20,010,000 shares, or the Offering, of our common stock, $0.01 par value per share, or Common Stock. In connection with the Offering, we and American Healthcare REIT Holdings, LP, or our Operating Partnership, entered into an underwriting agreement on September 18, 2024 with BofA Securities, Inc., Morgan Stanley & Co. LLC and KeyBanc Capital Markets Inc., as representatives of the several underwriters named therein, or the Underwriting Agreement, to issue and sell 20,010,000 shares of Common Stock, including 2,610,000 shares due to the exercise in full of the underwriters’ option to purchase additional shares. The Underwriting Agreement contains customary representations, warranties and covenants among the parties. These representations, warranties and covenants are not representations of factual information to investors about us and our Operating Partnership or our or its subsidiaries, and the sale of Common Stock pursuant to the Underwriting Agreement is not a representation that there has not been any change in our condition or that of our Operating Partnership. The shares were offered and sold under a prospectus supplement and related prospectus filed with the Securities and Exchange Commission pursuant to our effective shelf registration statement on Form S-3 (File No. 333-281488).
+The summary above is qualified in its entirety by reference to the full text of the Underwriting Agreement. A copy of the Underwriting Agreement is filed as Exhibit 1.1 to this Current Report on Form 8-K and incorporated herein by reference.
+Item 8.01 Other Events.
+As previously announced, on November 3, 2023, we entered into a Membership Interest Purchase Agreement, as amended, or the Option Agreement, with affiliates of NorthStar Healthcare Income, Inc., or NorthStar.
+Pursuant to the Option Agreement, we had an option to purchase all of the 24% minority membership interest held by NorthStar in our subsidiary, Trilogy REIT Holdings, LLC, or Trilogy Holdings, which is the entity through which we indirectly own and/or operate our integrated senior health campuses.
+On September 20, 2024, using a portion of the net proceeds from the Offering, we exercised the option under the Option Agreement and consummated the associated purchase for a total all-cash purchase price of approximately $258.0 million. This reflects a “base” purchase price of $247.0 million and a supplemental payment of $11.0 million relating to NorthStar’s pro-rata share of Trilogy Holdings’ budgeted distributions to its members during the pre-exercise period relative to NorthStar’s actual distributions received during that period. With the closing of this purchase transaction, we now own 100% of Trilogy Holdings.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+1.1
+Underwriting Agreement, dated as of September 18, 2024, among the Company and the Operating Partnership, and BofA Securities, Inc., Morgan Stanley & Co. LLC and KeyBanc Capital Markets Inc., as representatives of the several underwriters named therein
+5.1
+Opinion of Venable LLP as to the legality of the Common Stock
+23.1
+Consent of Venable LLP (included in Exhibit 5.1)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+September 20, 2024
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+

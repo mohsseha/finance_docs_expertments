@@ -1,0 +1,97 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20240410.htm ===
+================================================================================
+
+ahr-20240410
+FALSE
+0001632970
+0001632970
+2024-04-10
+2024-04-10
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+April 10, 2024
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+001-41951
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 7.01 Regulation FD Disclosure.
+On April 10, 2024, our board of directors issued a response to an unsolicited mini-tender offer from an unaffiliated third party, CMG Partners, LLC, and its affiliates, CMG Income Fund II, LLC, CMG Liquidity Fund, LLC, and Blue River Capital, LLC, to purchase up to 225,000 shares of our Class T and Class I common stock at a price of $9.07 per share. For several reasons discussed in the response letter, our board of directors has determined not to make any recommendation and to remain neutral as to whether stockholders should tender shares in the offer. The response letter, addressed to our stockholders, is available on our website in the Investor Relations – News section at www.AmericanHealthcareREIT.com and is attached to this Form 8-K as Exhibit 99.1 and incorporated by reference in its entirety into this Item 7.01. The response letter to stockholders will also be mailed to our stockholders upon their request.
+The information in this report, including Exhibit 99.1, is being furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+99
+.1
+American Healthcare REIT, Inc. Response Letter Re. CMG Tender Offer dated April 10, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+April 10, 2024
+By:
+Mark E. Foster
+Name: Mark E. Foster
+Title: Executive Vice President, General Counsel and Secretary
+
+
+================================================================================
+=== DOCUMENT 2: EX-99.1 - exhiibt991cmgtenderoffer.htm ===
+================================================================================
+
+THIS LETTER IS POSTED ON THE AHR WEBSITE AND FILED WITH THE SEC ON FORM 8-K ON APRIL 10, 2024*  The Board MAKES NO RECOMMENDATION with respect to the CMG tender offer  April 10, 2024  Dear Stockholder:  I am writing to you on behalf of the board of directors (the “Board”) of American Healthcare REIT, Inc.  (“AHR”) to notify you about an unsolicited third-party mini-tender offer (the “CMG Offer”) being made for your  shares of AHR Class T and/or Class I common stock by CMG Partners, LLC and its affiliates, CMG Income Fund  II, LLC, CMG Liquidity Fund, LLC, and Blue River Capital, LLC (collectively, “CMG”), in what we believe is an  opportunistic attempt to purchase your shares. CMG is offering to purchase up to an aggregate of 225,000 shares of  AHR’s Class T and Class I common stock (the “Shares”) at a low price of $9.07 per share (the “CMG Offer Price”),  which is substantially below the closing price of $13.79 per share of AHR’s common stock on the New York Stock  Exchange (“NYSE”) as of April 9, 2024. This is not an offer from AHR.   AHR is required by applicable Securities and Exchange Commission (“SEC”) rules and regulations to  inform you of its position, if any, with respect to the CMG Offer. In evaluating the CMG Offer, the Board  considered, among other things, the following factors:  (i) As you know, AHR’s common stock was listed and began trading on the NYSE on February 7, 2024. The CMG Offer Price of $9.07 per share is approximately 34.2% lower than the NYSE closing price of AHR’s common stock on April 9, 2024. (ii) While AHR’s Class T and Class I common stock is not currently listed and tradeable on the NYSE— currently, only AHR’s common stock is listed on the NYSE—AHR’s outstanding Class T and Class I common stock will automatically convert into listed common stock on August 5, 2024. Accordingly, on August 5, 2024, you will have the opportunity to sell your converted shares on the NYSE at the then current market price, which was $13.79 as of April 9, 2024. Stockholders who tender their Shares to CMG pursuant to the CMG Offer will forgo the right to participate in any benefits due to the listing of AHR’s common stock after the automatic conversion of their shares, including the ability to sell their converted shares of AHR common stock on the NYSE. However, the liquidity opportunities with respect to the Class T and Class I common stock are limited until such automatic conversion occurs. Furthermore, while the Class T and Class I common stock will automatically convert into listed common stock on August 5, 2024, AHR can make no assurances that a public trading market for the listed common stock will develop, will be maintained, or will be liquid at the time of such conversion or at any time thereafter. In addition, AHR can make no assurances regarding the future market price of the listed common stock or whether you will be able to sell your shares at a price in excess of the CMG Offer Price.    (iii) While the Board believes that the CMG Offer represents an opportunistic attempt by CMG to purchase the Shares and make a profit, the Board is aware that stockholders may need near-term liquidity prior to the conversion of the Class T and Class I common stock into listed common stock on August 5, 2024, in light of the current financial markets and lack of certainty regarding the future market price of AHR’s listed common stock. (iv) It is the general position of the Board to not make a recommendation with respect to tender offers and for each stockholder to evaluate such offers factoring their unique circumstances. EXHIBIT 99.1
+After carefully evaluating the CMG Offer and consulting with AHR’s management and such  advisors as deemed appropriate by the Board, the Board REMAINS NEUTRAL and makes NO  RECOMMENDATION on whether any AHR stockholder should accept or decline the CMG Offer for their  shares. While the Board carefully evaluates any unsolicited tender offers by third parties in accordance with  applicable SEC rules and regulations, in light of the fact that each stockholder must make their own independent  decision whether to tender or refrain from tendering their shares based on their individual circumstances, it is the  general position of the Board to not make a recommendation with respect to tender offers unless the terms and  conditions of a tender offer clearly warrant a specific position by the Board.    Please note that stockholders who tender their shares will lose their right to receive any future distributions  that are paid after the conclusion of the CMG Offer. AHR currently pays distributions at an annualized rate of $1.00  per share. While there are no guarantees of future distributions and there can be no certainty regarding the long-term  value of AHR’s common stock because the value is dependent on a number of factors, stockholders who tender their  shares pursuant to the CMG Offer would give up their rights to any future distributions after the conclusion of the  CMG Offer.    As stated by CMG, the CMG Offer is being made “for investment purposes and with the intention of  making a profit from the ownership of the Shares.” In establishing the CMG Offer price of $9.07 per Share, CMG  acknowledges that it is “motivated to establish a price low enough to anticipate making a profit on its investment.”  CMG determined the CMG Offer Price pursuant to its own analysis and states that “[they] have not made an  independent appraisal of the Shares or [AHR’s] properties and are not qualified to appraise real estate.” Hence,  CMG acknowledges that its offer price was established based on CMG’s own analysis and objectives without  consideration of your financial objectives.     We urge you to consult your financial advisor and exercise caution with respect to this and other mini- tender offers. The SEC has cautioned investors about these kinds of offers in an investor alert, as they are often  made in an attempt to profit at investors’ expense. The SEC noted that these offers “have been increasingly used to  catch investors off guard,” and cautioned that investors need to scrutinize these types of offers carefully. To read  more about the risks of “mini-tender” offers, please review the alert at www.sec.gov/investor/pubs/minitend.htm.    SEC rules permit third parties, such as CMG, to distribute unsolicited mini-tender offers to stockholders of  public companies. However, in order to maintain the confidentiality of our stockholders, AHR has only provided  stockholder mailing information needed to distribute the CMG Offer materials to a third-party financial printer that  is unaffiliated with CMG. Therefore, CMG will not have access to any additional stockholder information unless the  stockholder agrees to accept the tender offer by CMG. None of AHR’s directors or executive officers intends to  tender any shares in the CMG Offer.    The Board understands that you must make your own independent decision whether to tender or refrain  from tendering your shares. We strongly urge you to carefully consider all aspects of the CMG Offer in light of your  own circumstances, including (i) your investment objectives, (ii) your financial circumstances, including your  tolerance for risk and need for immediate liquidity that cannot be satisfied by other means, (iii) other financial  opportunities available to you, (iv) your own tax position and tax consequences, and (v) other factors you determine  are relevant to your decision. You should carefully review all of the CMG Offer documents sent to you by CMG, as  well as AHR’s publicly available annual, quarterly and other reports filed with the SEC at www.sec.gov, and consult  with your own financial, tax and other advisors in evaluating the CMG Offer before deciding whether to tender your  shares.    PLEASE CONSULT WITH YOUR FINANCIAL ADVISOR AND TAX ADVISOR ABOUT THE IMPACT  OF A SALE ON YOUR OWN PARTICULAR SITUATION.
+Should you have any questions or need further information about your options, please feel free to contact  your financial advisor or AHR Investor Services at 844-460-9414.    Sincerely,    Danny Prosky  Chief Executive Officer, President and Director    * You may request a printed copy of this letter by calling your financial advisor or American Healthcare  REIT, Inc. Investor Services at 844-460-9414.         Cautionary Note Regarding Forward-Looking Statements    Certain statements contained in this letter other than historical facts may be considered forward-looking statements within  the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934,  as amended. These forward-looking statements are predictions and generally can be identified by use of statements that include  phrases such as “believe,” “expect,” “anticipate,” “estimate,” “intend,” “plan,” “foresee,” “looking ahead,” “is confident,”  “should,” “will,” “predicted,” “likely” or other words or phrases of similar import. Similarly, statements that describe or contain  information related to matters such as AHR’s intent, belief or expectation with respect to the conversion of shares of Class T and  Class I common stock; the NYSE trading market and price of AHR’s shares of common stock; liquidity options and distribution  rates and amounts are forward-looking statements. These forward-looking statements often reflect a number of assumptions and  involve known and unknown risks, uncertainties and other factors that could cause AHR’s actual results to differ materially from  those currently anticipated in these forward-looking statements. Certain factors that could cause actual results to differ materially  from these forward-looking statements are listed from time to time in AHR’s SEC reports, including, but not limited to, the risk  factors provided in AHR’s Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.
+

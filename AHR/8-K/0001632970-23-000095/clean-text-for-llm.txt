@@ -1,0 +1,145 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20231103.htm ===
+================================================================================
+
+ahr-20231103
+FALSE
+0001632970
+0001632970
+2023-11-03
+2023-11-03
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+November 3, 2023
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+000-55775
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 1.01 Entry into a Material Definitive Agreement.
+On November 3, 2023 (the “Agreement Date”), American Healthcare REIT, Inc. (“we”) and our subsidiary GAHC3 Trilogy JV, LLC (“Buyer”) entered into a Membership Interest Purchase Agreement (the “Option Agreement”) with NorthStar Healthcare Income Operating Partnership, LP and its subsidiary Trilogy Holdings NT-HCI, LLC (“Seller”).  NorthStar Healthcare Income Operating Partnership LP, which is the operating partnership of NorthStar Healthcare Income, Inc., is the guarantor of Seller’s obligations in the Option Agreement.
+Option Agreement
+Pursuant to the Option Agreement, Buyer has an option to purchase all of the minority membership interest held by Seller in our subsidiary Trilogy REIT Holdings, LLC (“Trilogy Holdings”). If Buyer exercises this purchase option, then we will thereupon own 100% of Trilogy Holdings.  Subject to Buyer’s satisfaction of several closing conditions (including those described below) and assuming that Buyer exercises both “extension options” described below, Buyer may exercise this purchase option and thereby consummate the purchase at any time on or before September 30, 2025.
+If Buyer exercises the purchase option, then the all cash purchase price payable at the closing of the purchase transaction (the “Closing,” and the date on which the Closing occurs, the “Closing Date”) will be $240.5 million if Buyer consummates the purchase on or before March 31, 2024, would increase to $247.0 million if Buyer consummates the purchase from April 1, 2024 to and including December 31, 2024, and would further increase to $260.0 million if Buyer consummates the purchase on or after January 1, 2025, in each case plus a supplemental cash payment amount (the “Supplemental Payment Amount”) of up to $25,600 per day for the period between July 1, 2023 until the Closing Date.  The Supplemental Payment Amount will be the positive difference (if any) between Seller’s pro rata share of Trilogy Holdings’ budgeted distributions to its members during such pre-Closing period relative to Seller’s actual distributions received during that period.  If the Closing occurs on September 30, 2025, then the Supplemental Payment Amount could be up to approximately $21 million.
+The Option Agreement also allows Buyer (at Buyer’s election), instead of paying entirely in cash, to consummate the purchase transaction by using a combination of cash (subject to a minimum cash amount as described below) and the issuance by us of new Series A Cumulative Convertible Preferred Stock, $0.01 par value per share (the “Convertible Preferred Stock”), as purchase price consideration. The minimum cash amount (the “Minimum Cash Consideration”) will be $24.05 million if Buyer consummates the purchase on or before March 31, 2024, $24.7 million if Buyer consummates the purchase from April 1, 2024 to and including December 31, 2024, and $26.0 million if Buyer consummates the purchase on or after January 1, 2025, in each case plus the Supplemental Payment Amount. If Buyer exercises the purchase option and elects to pay for the purchase using only the Minimum Cash Consideration, then we would pay for Buyer’s remaining portion of the purchase price consideration by issuing to Seller 9,360,000 shares of Convertible Preferred Stock, with each such share having a liquidation preference per share of $25.00 and with the aggregate liquidation preference of all such shares totaling $234.0 million.
+There are several customary and other conditions to Seller’s obligations to consummate the Closing, including the following if Buyer elects to pay any portion of the purchase price consideration in shares of Convertible Preferred Stock:
+•
+We and our subsidiaries must have received at least $200.0 million of proceeds from (1) one or more equity offerings (which may include an underwritten public offering of our common stock (the “Common Stock”)) following the Agreement Date and/or (2) certain asset sales by us and subsidiaries after October 20, 2023.
+•
+We must have listed our Common Stock on a national securities exchange.
+•
+We must not have suffered a “material adverse effect” that is continuing.
+•
+Our and Buyer’s representations and warranties in the Option Agreement must be true and correct as of the Closing Date as though made on and as of the Closing Date, except where the failure of those representations and warranties to be true and correct has not had and would not be reasonably expected to have a “material adverse effect” on us.
+•
+If Buyer consummates the transaction after March 30, 2025, then we must (1) have a registration statement under the Securities Act of 1933, as amended (the “Securities Act”), effective prior to the Closing that relates to, among other things, our issuance of the Convertible Preferred Stock and (2) issue shares of Convertible Preferred Stock at the Closing pursuant to such registration statement.
+Buyer may terminate the Option Agreement at any time prior to the Closing and, in such case, may be required to pay a cash termination fee to Seller. Seller may also terminate the Option Agreement if the Closing has not occurred prior to an “outside date” (as described below), and in such case, Buyer may also be required to pay a cash termination fee to Seller.  We describe this potential cash termination fee below.
+The “outside date” is initially September 30, 2024.  However, Buyer may elect to (1) extend the outside date until March 30, 2025 (the “First Extension Option”) by increasing the termination fee as described below and pre-paying (at the time of such extension) $7.8 million of such termination fee (the “First Extension Fee”) and (2) further extend the outside date until September 30, 2025 (the “Second Extension Option”) by further increasing the termination fee and pre-paying (at the time of such extension) an additional $3.9 million of such termination fee (the “Second Extension Fee”). The parties will credit any such pre-payments of the termination fee against the cash portion of the purchase price consideration if Buyer later consummates the purchase transaction.  Additionally, Seller will refund these pre-payments to Buyer following a termination of the Option Agreement if on the date of such termination (subject to a Seller cure right) Seller has failed to comply in all material respects with its covenant obligations in the Option Agreement (a “Seller Covenant Breach”).
+If Buyer or Seller terminates the Option Agreement (which, as noted above, Seller can only do under certain specified conditions), then (subject to a limited exception involving a Seller Covenant Breach) Buyer must pay Seller a cash termination fee as follows:
+•
+If, at the time of termination, Buyer has not exercised the First Extension Option and a “Qualifying IPO” has not occurred, then Buyer must pay Seller a cash termination fee of $3.9 million.  For purposes of the Option Agreement, a “Qualifying IPO” is an underwritten public offering of our Common Stock pursuant to an effective registration statement under the Securities Act resulting in at least $200.0 million of proceeds to us.
+•
+If, at the time of termination, Buyer has not exercised the First Extension Option, but a Qualifying IPO has occurred, then Buyer must pay Seller a cash termination fee of $7.8 million.
+•
+If, at the time of termination, Buyer has exercised the First Extension Option but has not yet exercised the Second Extension Option, then Buyer must pay Seller a cash termination fee of $11.7 million (but reduced by the $7.8 million First Extension Fee that Buyer pre-paid towards such termination fee in connection with its exercise of the First Extension Option).
+•
+If, at the time of termination, Buyer has exercised both the First Extension Option and Second Extension Option, then Buyer must pay Seller a cash termination fee of $15.6 million (but reduced by both the $7.8 million First Extension Fee and the $3.9 million Second Extension Fee that Buyer pre-paid towards such termination fee in connection with its exercise of the First Extension Option and Second Extension Option).
+In all cases, Seller’s right to receive a cash termination fee (if due) will be its sole and exclusive remedy for any loss suffered by it and its affiliates in connection with the Option Agreement and the failure of the Closing to occur.
+The Option Agreement also contains customary representations, warranties and covenants of the parties thereto, and the parties have agreed to customary indemnification provisions for any breaches by them of their respective representations, warranties and covenants.  These representations and warranties will generally survive for 12 months following the Closing and thereupon expire.  In addition, the parties’ indemnification obligations are generally subject to a “basket amount” (a deductible) of $1,950,000 and are subject to a “cap amount” of $19,500,000.
+The foregoing description of the Option Agreement is summary in nature and therefore incomplete. As such, we qualify our description of it by reference to the full text of such agreement.  We have attached a copy of the Option Agreement as Exhibit 10.1 to this Current Report on Form 8-K and incorporate it herein.
+Note that the parties to the Option Agreement have made the representations and warranties therein only for purposes of, and solely for the benefit of the parties to, the Option Agreement.  The parties made these representations and warranties subject to limitations; made them for the purposes of allocating contractual risk among the parties instead of establishing these matters as facts; made them in many cases subject to standards of materiality applicable to the parties that differ from those applicable to our investors; and qualified them by confidential disclosure letters shared only among the parties to the Option Agreement and that we have not included with the copy of the Option Agreement that we have filed as an exhibit to this Current Report on Form 8-K.  Accordingly, these representations and warranties (when made or at any other time) do not describe the actual state of affairs of the parties, and our investors should not rely on them as statements of fact. Moreover, the information concerning the subject matter of the representations and warranties may change after the date as of which the parties made the applicable representation and warranty such that it becomes inaccurate, and the parties may not later reflect these subsequent changes in their public disclosures.  Accordingly, our investors should reference the representations and warranties in the Option Agreement only for information regarding the terms of the Option Agreement, and not for any other information regarding us or our affiliates (including Buyer) or our or their business or operations.  Our investors should also not read the Option Agreement alone, but should instead read it in conjunction with other information regarding us, our affiliates (including Buyer) and our or their business or operations that we include or incorporate in the various filings and documents that we file or furnish with the Securities and Exchange Commission (“SEC”) and that is otherwise publicly available.
+Articles Supplementary for the Convertible Preferred Stock
+If Buyer consummates the purchase under the Option Agreement and we issue any shares of Convertible Preferred Stock as part of the purchase price consideration thereunder, then, at or prior to the Closing, we will file Articles Supplementary governing the rights, privileges and preferences of the Convertible Preferred Stock (the “Articles Supplementary”) with the State Department of Assessments and Taxation of Maryland.
+We have included the form of Articles Supplementary as an exhibit to the Option Agreement that is filed as an exhibit to this Current Report on Form 8-K.
+Ownership Limit Waiver
+Our Fourth Articles of Amendment and Restatement (as amended and supplemented, our “Charter”) contains ownership limits such that no person or entity can actually, beneficially or constructively own more than 9.9% in value of the aggregate of the then outstanding shares of our capital stock (which includes Common Stock and any Convertible Preferred Stock we may issue) or more than 9.9% (in value or number of shares, whichever is more restrictive) of the aggregate of the then outstanding shares of our Common Stock.  We refer to these as our “Charter Ownership Limits.”  Under our Charter, our Board of Directors may grant a waiver from the Charter Ownership Limits.
+If Buyer consummates the purchase under the Option Agreement and we issue any shares of Convertible Preferred Stock as part of the purchase price consideration thereunder, then, at the Closing, our Board of Directors will grant a waiver from the Charter Ownership Limits for the benefit of Seller and NorthStar Healthcare Income, Inc. (the “Ownership Limit Waiver”).  We have included the form of Ownership Limit Waiver as an exhibit to the Option Agreement that is filed as an exhibit to this Current Report on Form 8-K.
+Registration Rights Agreements
+If Buyer consummates the purchase under the Option Agreement and we issue any shares of Convertible Preferred Stock as part of the purchase price consideration thereunder, then, at the Closing, we and Seller will enter into (1) a registration rights agreement relating to the Convertible Preferred Stock (the “Preferred Stock Registration Rights Agreement”) and (2) a registration rights agreement relating to the shares of Common Stock issuable upon conversion of those shares of Convertible Preferred Stock (the “Common Stock Registration Rights Agreement”).
+We have included the form of Preferred Stock Registration Rights Agreement and the form of Common Stock Registration Rights Agreement as exhibits to the Option Agreement that is filed as an exhibit to this Current Report on Form 8-K.
+Put Rights Letter Agreement
+If Buyer consummates the purchase under the Option Agreement and we issue any shares of Convertible Preferred Stock as part of the purchase price consideration thereunder, then, at the Closing, we and Seller will enter into a letter agreement (a “Put Rights Letter Agreement”) with Seller pursuant to which in certain instances Seller and certain of its permitted transferees may require us to redeem for cash any or all of their shares of Convertible Preferred Stock.
+We have included the form of Put Rights Letter Agreement as an exhibit to the Option Agreement that is filed as an exhibit to this Current Report on Form 8-K.
+Item 7.01 Regulation FD Disclosure.
+On November 7, 2023, we issued a press release regarding our entry into the Option Agreement.  We have attached a copy of this press release as Exhibit 99.1 to this Current Report on Form 8-K and incorporate it herein.
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed to be “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section.
+Forward-Looking Statements
+This Current Report on Form 8-K contains statements that constitute “forward-looking statements” within the meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act.  We intend for all such statements to be covered by the applicable safe-harbor provisions for forward-looking statements contained in the Securities Act and the Exchange Act.  Readers should not place undue reliance on these statements, which speak only as of the date they were made.  These statements are based on management’s current expectations and beliefs and are subject to a number of trends and uncertainties that could cause actual results to differ materially from those described in the forward-looking statements.  As such, we can give no assurance that our expectations
+will be attained.  Factors that could cause actual results to differ materially from our expectations include, but are not limited to, the possibility that Buyer does not later elect to exercise the purchase option under the Option Agreement; Buyer’s failure to satisfy the conditions to Seller’s obligations to consummate the Closing even if Buyer desires to exercise the purchase option; and other factors, including those set forth in the Risk Factors section of our Annual Report on Form 10-K for the year ended December 31, 2022, our subsequent Quarterly Reports on Form 10-Q and other reports filed or furnished by us with the SEC, copies of which are available on the SEC’s website at www.sec.gov.  Except as required by law, we do not undertake any obligation to update or revise any forward-looking statements herein.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+10.1*
+Membership Interest Purchase Agreement, dated as of November 3, 2023, by and among GAHC3 Trilogy JV, LLC, American Healthcare REIT, Inc., Trilogy Holdings NT-HCI, LLC and NorthStar Healthcare Income Operating Partnership, LP
+99.1
+Press release, dated November 7, 2023
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+* Copies of the forms of the Articles Supplementary, the Ownership Limit Waiver, the Preferred Stock Registration Rights Agreement, the Common Stock Registration Rights Agreement and the Put Rights Letter Agreement are included as exhibits to the Membership Interest Purchase Agreement.  Pursuant to Item 601(a)(5) of Regulation S-K, we have not, however, filed with the Membership Interest Purchase Agreement certain other schedules and attachments thereto. We will provide a copy of any omitted schedule or attachment to the SEC or its staff upon request.
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+November 7, 2023
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 3: EX-99.1 - exhibit991pressrelease.htm ===
+================================================================================
+
+Exhibit 99.1              American Healthcare REIT Enters into Purchase Option Agreement to  Acquire Full Ownership of Trilogy REIT Holdings  IRVINE, Calif. (Nov. 7, 2023) – American Healthcare REIT, Inc. (“AHR”) announced today that it has  entered into a purchase agreement with affiliates of NorthStar Healthcare Income, Inc. (“NorthStar”)  that grants AHR the option to purchase all of the minority membership interest held by NorthStar in  Trilogy REIT Holdings, LLC (“Trilogy REIT Holdings”), a subsidiary of AHR. If AHR exercises the purchase  option, then upon the closing thereof, AHR will own 100% of Trilogy REIT Holdings, and indirectly 97.4%  of Trilogy Investors, LLC (“Trilogy”) (which is the parent company of Trilogy Health Services, LLC), with  the remaining 2.6% minority interest primarily owned by certain executives and employees of Trilogy’s  operator, Trilogy Management Services, LLC.0F 1    Founded in 1997, Trilogy is a leading owner-operator of purpose-built integrated senior health  campuses throughout the states of Indiana, Ohio, Michigan and Kentucky.  During the course of its 26- year history, Trilogy has experienced consistent growth primarily through the development of new  campuses and opportunistic expansions of existing ones. As of June 30, 2023, Trilogy operates a total of  123 properties comprised of more than 13,000 beds. Trilogy’s integrated senior health campuses offer a  range of care, including assisted living, memory care, independent living and skilled nursing services.    “Trilogy has been strategically built over the course of nearly three decades in select markets that have  experienced growing demand for long-term care services and in which Trilogy has established an  industry-leading presence,” explained Danny Prosky, president and chief executive officer of AHR.  “Trilogy constitutes more than a third of American Healthcare REIT’s $4.4 billion1F 2 portfolio and is the  strongest performing component. Trilogy is one of the nation’s finest senior care operators, as  evidenced by its remarkable recovery from the COVID pandemic, which battered the senior care  industry.”    Trilogy’s unique assets and differentiated strategy have driven impressive growth over the last year.  Compared to the same period last year, same-store occupancy increased by 380 basis points to 86.0%  for the three months ended June 30, 2023. Additionally, same-store net operating income increased by  16.9% for the three months ended June 30, 2023, compared to the same period last year.    Under the terms of the purchase agreement, AHR may exercise the option at any time on or before  September 30, 2025 for an all-cash purchase price ranging from $240.5 million to $260.0 million,  dependent upon the date of closing of the purchase.    1 Ownership interests based on approximate ownership interests held as of June 30, 2023.  2 Based on gross investment value, which is comprised of acquisition costs and subsequent capital expenditures,  net of dispositions and impairments, that pertain to the company’s pro-rata ownership as of June 30, 2023.  Contact: Damon Elder   Spotlight Marketing Communications   (949) 427-1377   damon@spotlightmarcom.com
+AHR can also elect to complete the purchase transaction by using a combination of cash and the  issuance of new convertible preferred stock. AHR may use preferred stock for up to 90% of the purchase  price, with the balance paid in cash. If issued, the preferred stock would have an initial annual dividend  rate of 4.75% on the $25 per share liquidation preference of the preferred stock, with this rate  increasing over time, and the preferred stock would be convertible at the holder’s option on or after  July 1, 2026 into AHR common stock. AHR may also redeem the shares of preferred stock, in whole or in  part, for cash at any time.    There are several customary and other conditions related to the purchase agreement between AHR and  NorthStar. The transaction closing is not subject to any regulatory approvals.  Please refer to AHR’s filing  on Form 8-K (filed on the same date as this press release) with the U.S. Securities and Exchange  Commission (the “SEC”) for further information.    About American Healthcare REIT, Inc.  American Healthcare REIT, Inc., a self-managed, publicly registered, healthcare real estate investment  trust, owns and/or operates a diverse portfolio of healthcare real estate assets totaling approximately  19.1 million square feet, with a gross investment value of approximately $4.4 billion. As of June 30,  2023, this international portfolio included 300 properties comprised of medical office buildings, senior  housing communities, skilled nursing facilities, and other real estate-related investments across 36  states, the United Kingdom and the Isle of Man. For more information, please visit  www.AmericanHealthcareREIT.com.    Forward-Looking Statements  This press release contains statements that constitute “forward-looking statements” within the meaning  of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act  of 1934, as amended (together, the “Acts”). AHR intends for all such statements to be covered by the  applicable safe-harbor provisions for forward-looking statements contained in the Acts. Readers should  not place undue reliance on these statements, which speak only as of the date they were made. These  statements are based on management’s current expectations and beliefs and are subject to a number of  trends and uncertainties that could cause actual results to differ materially from those described in the  forward-looking statements. As such, AHR can give no assurance that its expectations will be attained.  Factors that could cause actual results to differ materially from our expectations include, but are not  limited to, the possibility that AHR does not elect to exercise its purchase option with NorthStar; AHR’s  failure to satisfy the conditions to NorthStar’s obligations to consummate the transaction even if AHR  desires to exercise the purchase option; and other factors, including those set forth in the Risk Factors  section of AHR’s Annual Report on Form 10-K for the year ended December 31, 2022, AHR’s subsequent  Quarterly Reports on Form 10-Q and other reports filed or furnished by AHR with the SEC, copies of  which are available on the SEC’s website at www.sec.gov. Except as required by law, AHR does not  undertake any obligation to update or revise any forward-looking statements herein.    ###
+

@@ -1,0 +1,4297 @@
+
+================================================================================
+=== DOCUMENT 1: 10-Q - dhc-20240331.htm ===
+================================================================================
+
+dhc-20240331
+0001075415
+false
+12/31
+2024
+Q1
+http://fasb.org/us-gaap/2023#OtherAssets
+http://fasb.org/us-gaap/2023#OtherAssets
+http://fasb.org/us-gaap/2023#OtherLiabilities
+http://fasb.org/us-gaap/2023#OtherLiabilities
+0001075415
+2024-01-01
+2024-03-31
+0001075415
+dhc:SeniorNotesDue2042Member
+2024-01-01
+2024-03-31
+0001075415
+dhc:SeniorNotesDue2046Member
+2024-01-01
+2024-03-31
+0001075415
+2024-05-01
+xbrli:shares
+0001075415
+2024-03-31
+iso4217:USD
+0001075415
+2023-12-31
+0001075415
+us-gaap:SecuredDebtMember
+2024-03-31
+0001075415
+us-gaap:SecuredDebtMember
+2023-12-31
+0001075415
+us-gaap:UnsecuredDebtMember
+2024-03-31
+0001075415
+us-gaap:UnsecuredDebtMember
+2023-12-31
+iso4217:USD
+xbrli:shares
+0001075415
+dhc:RentalIncomeMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:RentalIncomeMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+2023-01-01
+2023-03-31
+0001075415
+2023-01-01
+2023-03-31
+0001075415
+srt:AffiliatedEntityMember
+2024-01-01
+2024-03-31
+0001075415
+srt:AffiliatedEntityMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:CommonStockMember
+2023-12-31
+0001075415
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001075415
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001075415
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001075415
+dhc:CumulativeCommonDistributionsMember
+2023-12-31
+0001075415
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:CumulativeCommonDistributionsMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CommonStockMember
+2024-03-31
+0001075415
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001075415
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001075415
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001075415
+dhc:CumulativeCommonDistributionsMember
+2024-03-31
+0001075415
+us-gaap:CommonStockMember
+2022-12-31
+0001075415
+us-gaap:AdditionalPaidInCapitalMember
+2022-12-31
+0001075415
+us-gaap:RetainedEarningsMember
+2022-12-31
+0001075415
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2022-12-31
+0001075415
+dhc:CumulativeCommonDistributionsMember
+2022-12-31
+0001075415
+2022-12-31
+0001075415
+us-gaap:RetainedEarningsMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:CumulativeCommonDistributionsMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:AdditionalPaidInCapitalMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:CommonStockMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:CommonStockMember
+2023-03-31
+0001075415
+us-gaap:AdditionalPaidInCapitalMember
+2023-03-31
+0001075415
+us-gaap:RetainedEarningsMember
+2023-03-31
+0001075415
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-03-31
+0001075415
+dhc:CumulativeCommonDistributionsMember
+2023-03-31
+0001075415
+2023-03-31
+dhc:property
+dhc:state
+0001075415
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+2024-03-31
+0001075415
+dhc:SeniorLivingCommunitiesMember
+2024-03-31
+0001075415
+dhc:JointVentureMember
+2024-03-31
+dhc:jointVenture
+0001075415
+stpr:AZ
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+dhc:MedicalOfficeMember
+2024-03-31
+0001075415
+stpr:AZ
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+dhc:MedicalOfficeMember
+2024-01-01
+2024-03-31
+0001075415
+stpr:AZ
+us-gaap:DisposalGroupDisposedOfBySaleNotDiscontinuedOperationsMember
+dhc:MedicalOfficeMember
+2024-03-01
+2024-03-31
+0001075415
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+dhc:LifeScienceAndMedicalOfficeMember
+2024-03-31
+0001075415
+dhc:SeniorLivingCommunitiesMember
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+2024-03-31
+0001075415
+dhc:PropertiesUnderAgreementToSellMember
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+us-gaap:SubsequentEventMember
+2024-05-02
+0001075415
+dhc:MedicalOfficeMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:MedicalOfficeMember
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+2024-03-31
+xbrli:pure
+utr:sqft
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:TheLSMDFundREITLLCMember
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+stpr:MA
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+stpr:CA
+dhc:TheLSMDFundREITLLCMember
+2024-03-31
+0001075415
+dhc:SeaportInnovationLLCMember
+us-gaap:CorporateJointVentureMember
+2024-03-31
+0001075415
+srt:MinimumMember
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+2024-03-31
+0001075415
+dhc:USSwapRateMember
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:SecuredOvernightFinancingRateSOFRMember
+stpr:CA
+dhc:TheLSMDFundREITLLCMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+us-gaap:InterestRateCapMember
+dhc:SecuredOvernightFinancingRateSOFRMember
+dhc:TheLSMDFundREITLLCMember
+stpr:CA
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:SecuredOvernightFinancingRateSOFRMember
+stpr:CA
+dhc:TheLSMDFundREITLLCMember
+2024-03-31
+dhc:option
+0001075415
+us-gaap:CorporateJointVentureMember
+stpr:CA
+dhc:TheLSMDFundREITLLCMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:MedicalOfficeBuildingandLifeScienceBuildingMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:AlerisLifeIncMember
+2024-03-31
+0001075415
+dhc:AlerisLifeIncMember
+2024-03-31
+0001075415
+us-gaap:EquityMethodInvestmentsMember
+dhc:AlerisLifeIncMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:AlerisLifeIncMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:MortgagesMember
+2024-03-31
+0001075415
+dhc:FinanceLeasedPropertiesMember
+2024-03-31
+0001075415
+us-gaap:LineOfCreditMember
+us-gaap:UnsecuredDebtMember
+2023-12-21
+0001075415
+us-gaap:LineOfCreditMember
+us-gaap:UnsecuredDebtMember
+2024-03-31
+0001075415
+us-gaap:LineOfCreditMember
+us-gaap:UnsecuredDebtMember
+2023-01-01
+2023-01-31
+0001075415
+us-gaap:LineOfCreditMember
+us-gaap:UnsecuredDebtMember
+2023-01-31
+0001075415
+us-gaap:LineOfCreditMember
+us-gaap:UnsecuredDebtMember
+2023-02-28
+0001075415
+us-gaap:LineOfCreditMember
+us-gaap:UnsecuredDebtMember
+2023-02-01
+2023-02-28
+0001075415
+us-gaap:SecuredDebtMember
+dhc:SeniorSecuredNoteDue2026Member
+2024-03-31
+0001075415
+us-gaap:SecuredDebtMember
+dhc:SeniorSecuredNotesDueJanuary2026Member
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes975PercentDue2025Member
+us-gaap:SeniorNotesMember
+2024-03-31
+0001075415
+us-gaap:SeniorNotesMember
+dhc:SeniorUnsecuredNotes4375PercentDue2031Member
+2024-03-31
+0001075415
+dhc:UnsecuredDebtNotGuaranteedMember
+2024-03-31
+0001075415
+us-gaap:SecuredDebtMember
+dhc:SeniorSecuredNotesDueJanuary2026Member
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:SecuredDebtMember
+dhc:SeniorSecuredNoteDue2026Member
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeaportInnovationLLCMember
+us-gaap:FairValueMeasurementsRecurringMember
+dhc:JointVentureMember
+2024-03-31
+0001075415
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeaportInnovationLLCMember
+us-gaap:FairValueMeasurementsRecurringMember
+dhc:JointVentureMember
+2023-12-31
+0001075415
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+dhc:TheLSMDFundREITLLCMember
+dhc:JointVentureMember
+2024-03-31
+0001075415
+us-gaap:FairValueInputsLevel3Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+us-gaap:FairValueMeasurementsRecurringMember
+dhc:TheLSMDFundREITLLCMember
+dhc:JointVentureMember
+2023-12-31
+0001075415
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0001075415
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:FairValueInputsLevel2Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2023-12-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+us-gaap:MeasurementInputDiscountRateMember
+2024-03-31
+0001075415
+dhc:MeasurementInputMarketCapitalizationRateMember
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:SeaportInnovationLLCMember
+2024-01-01
+2024-03-31
+0001075415
+srt:MinimumMember
+us-gaap:CorporateJointVentureMember
+dhc:TheLSMDFundREITLLCMember
+us-gaap:MeasurementInputDiscountRateMember
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+srt:MaximumMember
+dhc:TheLSMDFundREITLLCMember
+us-gaap:MeasurementInputDiscountRateMember
+2024-03-31
+0001075415
+dhc:MeasurementInputMarketCapitalizationRateMember
+srt:MinimumMember
+us-gaap:CorporateJointVentureMember
+dhc:TheLSMDFundREITLLCMember
+2024-03-31
+0001075415
+dhc:MeasurementInputMarketCapitalizationRateMember
+us-gaap:CorporateJointVentureMember
+srt:MaximumMember
+dhc:TheLSMDFundREITLLCMember
+2024-03-31
+0001075415
+us-gaap:CorporateJointVentureMember
+dhc:TheLSMDFundREITLLCMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:FairValueMeasurementsNonrecurringMember
+us-gaap:DisposalGroupHeldforsaleNotDiscontinuedOperationsMember
+dhc:MedicalOfficeMember
+2024-03-31
+0001075415
+us-gaap:FairValueMeasurementsNonrecurringMember
+dhc:MedicalOfficeMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes9.750PercentDue2024Member
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes9.750PercentDue2024Member
+2024-03-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes9.750PercentDue2024Member
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes9.750PercentDue2024Member
+2023-12-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes9.750PercentDue2024Member
+2023-12-31
+0001075415
+dhc:SeniorSecuredNotesMember
+dhc:SeniorSecuredNotesZeroCouponRateDue2026Member
+2024-03-31
+0001075415
+dhc:SeniorSecuredNotesMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorSecuredNotesZeroCouponRateDue2026Member
+2024-03-31
+0001075415
+dhc:SeniorSecuredNotesMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorSecuredNotesZeroCouponRateDue2026Member
+2024-03-31
+0001075415
+dhc:SeniorSecuredNotesMember
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorSecuredNotesZeroCouponRateDue2026Member
+2023-12-31
+0001075415
+dhc:SeniorSecuredNotesMember
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorSecuredNotesZeroCouponRateDue2026Member
+2023-12-31
+0001075415
+dhc:SeniorUnsecuredNotes4.75PercentDue2028Member
+dhc:SeniorUnsecuredNotesMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes4.75PercentDue2028Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes4.75PercentDue2028Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes4.75PercentDue2028Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2023-12-31
+0001075415
+dhc:SeniorUnsecuredNotes4.75PercentDue2028Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2023-12-31
+0001075415
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes4375PercentDue2031Member
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes4375PercentDue2031Member
+2024-03-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes4375PercentDue2031Member
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes4375PercentDue2031Member
+2023-12-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes4375PercentDue2031Member
+2023-12-31
+0001075415
+dhc:SeniorUnsecuredNotes5625PercentDue2042Member
+dhc:SeniorUnsecuredNotesMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes5625PercentDue2042Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes5625PercentDue2042Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2024-03-31
+0001075415
+dhc:SeniorUnsecuredNotes5625PercentDue2042Member
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2023-12-31
+0001075415
+dhc:SeniorUnsecuredNotes5625PercentDue2042Member
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+2023-12-31
+0001075415
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes625PercentDue2046Member
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes625PercentDue2046Member
+2024-03-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes625PercentDue2046Member
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes625PercentDue2046Member
+2023-12-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SeniorUnsecuredNotesMember
+dhc:SeniorUnsecuredNotes625PercentDue2046Member
+2023-12-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SecuredDebtsAndFinanceLeasesMember
+2024-03-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SecuredDebtsAndFinanceLeasesMember
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+dhc:SecuredDebtsAndFinanceLeasesMember
+2023-12-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+dhc:SecuredDebtsAndFinanceLeasesMember
+2023-12-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2024-03-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2024-03-31
+0001075415
+us-gaap:CarryingReportedAmountFairValueDisclosureMember
+2023-12-31
+0001075415
+us-gaap:EstimateOfFairValueFairValueDisclosureMember
+2023-12-31
+0001075415
+us-gaap:FairValueInputsLevel1Member
+2024-03-31
+dhc:security
+0001075415
+us-gaap:FairValueInputsLevel1Member
+2023-12-31
+0001075415
+us-gaap:FairValueInputsLevel2Member
+2023-12-31
+0001075415
+us-gaap:FairValueInputsLevel2Member
+2024-03-31
+0001075415
+dhc:ReitManagementAndResearchMember
+2024-01-01
+2024-03-31
+0001075415
+2024-02-15
+2024-02-15
+0001075415
+us-gaap:SubsequentEventMember
+2024-04-11
+2024-04-11
+dhc:segment
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+us-gaap:OperatingSegmentsMember
+dhc:RentalIncomeMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+dhc:RentalIncomeMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateNonSegmentMember
+dhc:RentalIncomeMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+dhc:ResidentFeesAndServicesMember
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+us-gaap:OperatingSegmentsMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+2024-01-01
+2024-03-31
+0001075415
+us-gaap:CorporateNonSegmentMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+us-gaap:OperatingSegmentsMember
+2024-03-31
+0001075415
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+2024-03-31
+0001075415
+us-gaap:CorporateNonSegmentMember
+2024-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+us-gaap:OperatingSegmentsMember
+dhc:RentalIncomeMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+dhc:RentalIncomeMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:CorporateNonSegmentMember
+dhc:RentalIncomeMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+dhc:ResidentFeesAndServicesMember
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+us-gaap:CorporateNonSegmentMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+us-gaap:OperatingSegmentsMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+2023-01-01
+2023-03-31
+0001075415
+us-gaap:CorporateNonSegmentMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:MedicalOfficeAndLifeSciencePortfolioSegmentMember
+us-gaap:OperatingSegmentsMember
+2023-12-31
+0001075415
+us-gaap:OperatingSegmentsMember
+dhc:SeniorHousingOperatingPortfolioSegmentMember
+2023-12-31
+0001075415
+us-gaap:CorporateNonSegmentMember
+2023-12-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:SeniorLivingCommunityMember
+dhc:FiveStarQualityCareIncMember
+2024-01-01
+2024-03-31
+dhc:community
+0001075415
+srt:AffiliatedEntityMember
+dhc:SeniorLivingCommunityMember
+dhc:FiveStarQualityCareIncMember
+2023-01-01
+2023-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:FiveStarQualityCareIncMember
+2024-01-01
+2024-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:FiveStarQualityCareIncMember
+2023-01-01
+2023-03-31
+0001075415
+srt:AffiliatedEntityMember
+us-gaap:OperatingExpenseMember
+dhc:FiveStarQualityCareIncMember
+2024-01-01
+2024-03-31
+0001075415
+srt:AffiliatedEntityMember
+us-gaap:OperatingExpenseMember
+dhc:FiveStarQualityCareIncMember
+2023-01-01
+2023-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:FiveStarQualityCareIncMember
+dhc:RehabilitationServicesMember
+2024-01-01
+2024-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:FiveStarQualityCareIncMember
+dhc:RehabilitationServicesMember
+2023-01-01
+2023-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:SeniorLivingCommunityMember
+dhc:ThirdPartyManagersMember
+2024-01-01
+2024-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:SeniorLivingCommunityMember
+dhc:ThirdPartyManagersMember
+2023-01-01
+2023-03-31
+0001075415
+srt:AffiliatedEntityMember
+dhc:SeniorLivingCommunityMember
+dhc:ThirdPartyManagersMember
+srt:ScenarioForecastMember
+2024-04-01
+2024-06-30
+0001075415
+dhc:ResidentFeesAndServicesMember
+dhc:BasicHousingAndSupportServicesMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+dhc:BasicHousingAndSupportServicesMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+dhc:MedicareAndMedicaidProgramsMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+dhc:MedicareAndMedicaidProgramsMember
+2023-01-01
+2023-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+dhc:PrivatePayAndOtherThirdPartyPayerServicesMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ResidentFeesAndServicesMember
+dhc:PrivatePayAndOtherThirdPartyPayerServicesMember
+2023-01-01
+2023-03-31
+dhc:employee
+0001075415
+dhc:SeniorLivingCommunityMember
+dhc:ReitManagementAndResearchMember
+2024-01-01
+2024-03-31
+dhc:agreement
+0001075415
+dhc:ReitManagementAndResearchMember
+2023-01-01
+2023-03-31
+dhc:jointVenture_arrangement
+0001075415
+dhc:DiversifiedHealthcareTrustMember
+dhc:ABPTrustAndMr.PortnoyMember
+2024-03-31
+0001075415
+dhc:AlerisLifeIncMember
+us-gaap:RelatedPartyMember
+2023-03-20
+0001075415
+dhc:AlerisLifeIncMember
+dhc:AlerisLifeIncMember
+2023-03-20
+0001075415
+dhc:AlerisLifeIncMember
+2023-02-02
+2023-02-02
+0001075415
+dhc:AlerisLifeIncMember
+2024-02-16
+0001075415
+dhc:AlerisLifeIncMember
+2024-02-16
+2024-02-16
+0001075415
+dhc:ABPTrustMember
+dhc:AlerisLifeIncMember
+2024-02-16
+0001075415
+dhc:ReitManagementAndResearchLLCMember
+us-gaap:RelatedPartyMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ReitManagementAndResearchLLCMember
+us-gaap:RelatedPartyMember
+2024-03-31
+0001075415
+dhc:ReitManagementAndResearchLLCMember
+dhc:RentalIncomeMember
+2024-01-01
+2024-03-31
+0001075415
+dhc:ReitManagementAndResearchLLCMember
+dhc:RentalIncomeMember
+2023-01-01
+2023-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC  20549
+FORM
+10-Q
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2024
+OR
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+Commission File Number
+1-15319
+DIVERSIFIED HEALTHCARE TRUST
+(Exact Name of Registrant as Specified in Its Charter)
+Maryland
+04-3445278
+(State or Other Jurisdiction of Incorporation or
+Organization)
+(IRS Employer Identification No.)
+Two Newton Place, 255 Washington Street, Suite 300,
+Newton
+,
+MA
+02458-1634
+(Address of Principal Executive Offices) (Zip Code)
+617
+-
+796 - 8350
+(Registrant's Telephone Number, Including Area Code)
+Securities registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange On Which Registered
+Common Shares of Beneficial Interest
+DHC
+The Nasdaq Stock Market LLC
+5.625% Senior Notes due 2042
+DHCNI
+The Nasdaq Stock Market LLC
+6.25% Senior Notes due 2046
+DHCNL
+The Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant:  (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).
+Yes
+☒
+No
+☐
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company.  See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and "emerging growth company" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+☐
+Accelerated filer
+☒
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).  Yes
+☐
+No
+☒
+Number of registrant's common shares outstanding as of May 1, 2024:
+240,393,722
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+FORM 10-Q
+March 31, 2024
+INDEX
+Page
+PART I
+Financial Information
+Item 1.
+Financial Statements (unaudited)
+1
+Condensed Consolidated Balance Sheets — March 31, 2024 and December 31, 2023
+1
+Condensed Consolidated Statements of Comprehensive Income (Loss) — Three
+Months Ended
+March
+3
+1
+, 202
+4
+and 20
+23
+2
+Condensed Consolidated Statements of Shareholders' Equity — Three
+Months Ended
+March
+3
+1
+, 202
+4
+and 202
+3
+3
+Condensed Consolidated Statements of Cash Flows —
+Three
+Months Ended
+March
+3
+1
+, 202
+4
+and 202
+3
+4
+Notes to Condensed Consolidated Financial Statements
+6
+Item 2.
+Management's Discussion and Analysis of Financial Condition and Results of Operations
+17
+Item 3.
+Quantitative and Qualitative Disclosures About Market Risk
+33
+Item 4.
+Controls and Procedures
+33
+Warning Concerning Forward-Looking Statements
+34
+Statement Concerning Limited Liability
+36
+PART II
+Other Information
+37
+Item 1A.
+Risk Factors
+37
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+37
+Item 6.
+Exhibits
+37
+Signatures
+40
+References in this Quarterly Report on Form 10-Q to the Company, we, us or our include Diversified Healthcare Trust and its consolidated subsidiaries unless otherwise expressly stated or the context indicates otherwise.
+Table of Contents
+PART I.
+Financial Information
+Item 1.  Financial Statements.
+DIVERSIFIED HEALTHCARE TRUST
+CONDENSED CONSOLIDATED BALANCE SHEETS
+(dollars in thousands, except share data)
+(unaudited)
+March 31,
+December 31,
+2024
+2023
+Assets
+Real estate properties:
+Land
+$
+641,481
+$
+652,977
+Buildings and improvements
+6,129,767
+6,165,490
+Total real estate properties, gross
+6,771,248
+6,818,467
+Accumulated depreciation
+(
+2,062,327
+)
+(
+2,020,843
+)
+Total real estate properties, net
+4,708,921
+4,797,624
+Investments in unconsolidated joint ventures
+130,299
+129,916
+Assets of properties held for sale
+38,107
+9,447
+Cash and cash equivalents
+207,123
+245,939
+Restricted cash
+1,040
+1,022
+Equity method investment
+15,740
+—
+Acquired real estate leases and other intangible assets, net
+31,723
+33,948
+Other assets, net
+215,084
+228,240
+Total assets
+$
+5,348,037
+$
+5,446,136
+Liabilities and Shareholders' Equity
+Senior secured notes, net
+$
+751,890
+$
+731,211
+Senior unsecured notes, net
+2,073,757
+2,072,618
+Secured debt and finance leases, net
+12,197
+13,020
+Liabilities of properties held for sale
+218
+32
+Accrued interest
+23,751
+22,847
+Other liabilities
+237,521
+269,517
+Total liabilities
+3,099,334
+3,109,245
+Commitments and contingencies
+Shareholders' equity:
+Common shares of beneficial interest, $
+.01
+par value:
+300,000,000
+shares authorized,
+240,393,722
+and
+240,423,898
+shares issued and outstanding, respectively
+2,404
+2,405
+Additional paid in capital
+4,618,950
+4,618,470
+Cumulative net income
+1,692,019
+1,778,278
+Cumulative other comprehensive loss
+(
+4
+)
+—
+Cumulative distributions
+(
+4,064,666
+)
+(
+4,062,262
+)
+Total shareholders' equity
+2,248,703
+2,336,891
+Total liabilities and shareholders' equity
+$
+5,348,037
+$
+5,446,136
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+1
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+CONDENSED CONSOLIDATED STATEMENTS OF COMPREHENSIVE INCOME (LOSS)
+(amounts in thousands, except per share data)
+(unaudited)
+Three Months Ended March 31,
+2024
+2023
+Revenues:
+Rental income
+$
+62,650
+$
+66,438
+Residents fees and services
+308,126
+279,592
+Total revenues
+370,776
+346,030
+Expenses:
+Property operating expenses
+307,604
+286,080
+Depreciation and amortization
+70,133
+64,800
+General and administrative
+7,568
+5,873
+Acquisition and certain other transaction related costs
+86
+93
+Impairment of assets
+12,142
+5,925
+Total expenses
+397,533
+362,771
+(Loss) gain on sale of properties
+(
+5,874
+)
+1,233
+Gains and losses on equity securities, net
+—
+8,126
+Interest and other income
+2,237
+4,195
+Interest expense (including net amortization of debt discounts, premiums and issuance costs of $
+24,863
+and $
+2,074
+, respectively)
+(
+57,576
+)
+(
+47,780
+)
+Loss on modification or early extinguishment of debt
+—
+(
+1,075
+)
+Loss before income tax (expense) benefit and equity in net earnings (losses) of investees
+(
+87,970
+)
+(
+52,042
+)
+Income tax (expense) benefit
+(
+187
+)
+31
+Equity in net earnings (losses) of investees
+1,898
+(
+647
+)
+Net loss
+$
+(
+86,259
+)
+$
+(
+52,658
+)
+Other comprehensive loss:
+Equity in unrealized losses of an investee
+(
+4
+)
+—
+Other comprehensive loss
+(
+4
+)
+—
+Comprehensive loss
+$
+(
+86,263
+)
+$
+(
+52,658
+)
+Weighted average common shares outstanding (basic and diluted)
+239,193
+238,589
+Per common share amounts (basic and diluted):
+Net loss
+$
+(
+0.36
+)
+$
+(
+0.22
+)
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+2
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+CONDENSED CONSOLIDATED STATEMENTS OF SHAREHOLDERS' EQUITY
+(dollars in thousands)
+(unaudited)
+Number of
+Shares
+Common
+Shares
+Additional
+Paid In
+Capital
+Cumulative
+Net Income
+Cumulative Other Comprehensive Loss
+Cumulative Distributions
+Total Shareholders' Equity
+Balance at December 31, 2023:
+240,423,898
+$
+2,405
+$
+4,618,470
+$
+1,778,278
+$
+—
+$
+(
+4,062,262
+)
+$
+2,336,891
+Net loss
+—
+—
+—
+(
+86,259
+)
+—
+—
+(
+86,259
+)
+Equity in unrealized losses of an investee
+—
+—
+—
+—
+(
+4
+)
+—
+(
+4
+)
+Distributions
+—
+—
+—
+—
+—
+(
+2,404
+)
+(
+2,404
+)
+Share grants
+—
+—
+558
+—
+—
+—
+558
+Share repurchases
+(
+30,176
+)
+(
+1
+)
+(
+78
+)
+—
+—
+—
+(
+79
+)
+Balance at March 31, 2024:
+240,393,722
+$
+2,404
+$
+4,618,950
+$
+1,692,019
+$
+(
+4
+)
+$
+(
+4,064,666
+)
+$
+2,248,703
+Balance at December 31, 2022:
+239,694,842
+$
+2,397
+$
+4,617,031
+$
+2,071,850
+$
+—
+$
+(
+4,052,667
+)
+$
+2,638,611
+Net loss
+—
+—
+—
+(
+52,658
+)
+—
+—
+(
+52,658
+)
+Distributions
+—
+—
+—
+—
+—
+(
+2,397
+)
+(
+2,397
+)
+Share grants
+—
+—
+270
+—
+—
+—
+270
+Share repurchases
+(
+5,975
+)
+—
+(
+6
+)
+—
+—
+—
+(
+6
+)
+Share forfeitures
+(
+6,400
+)
+—
+(
+1
+)
+—
+—
+—
+(
+1
+)
+Balance at March 31, 2023:
+239,682,467
+$
+2,397
+$
+4,617,294
+$
+2,019,192
+$
+—
+$
+(
+4,055,064
+)
+$
+2,583,819
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+3
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+(dollars in thousands)
+(unaudited)
+Three Months Ended March 31,
+2024
+2023
+Cash flows from operating activities:
+Net loss
+$
+(
+86,259
+)
+$
+(
+52,658
+)
+Adjustments to reconcile net loss to cash provided by operating activities:
+Depreciation and amortization
+70,133
+64,800
+Net amortization of debt discounts, premiums and issuance costs
+24,863
+2,074
+Straight line rental income
+(
+291
+)
+(
+2,448
+)
+Amortization of acquired real estate leases and other intangible assets, net
+28
+(
+311
+)
+Loss on modification or early extinguishment of debt
+—
+1,075
+Impairment of assets
+12,142
+5,925
+Loss (gain) on sale of properties
+5,874
+(
+1,233
+)
+Gains and losses on equity securities, net
+—
+(
+8,126
+)
+Other non-cash adjustments, net
+(
+385
+)
+(
+674
+)
+Unconsolidated joint venture distributions
+1,231
+1,411
+Equity in net (earnings) losses of investees
+(
+1,898
+)
+647
+Change in assets and liabilities:
+Deferred leasing costs, net
+(
+669
+)
+(
+1,954
+)
+Other assets
+10,102
+15,499
+Accrued interest
+904
+2,540
+Other liabilities
+(
+7,173
+)
+(
+20,525
+)
+Net cash provided by operating activities
+28,602
+6,042
+Cash flows from investing activities:
+Real estate improvements
+(
+46,723
+)
+(
+60,292
+)
+Proceeds from sale of properties, net
+3,343
+3,548
+Investment in AlerisLife Inc.
+(
+15,459
+)
+—
+Net cash used in investing activities
+(
+58,839
+)
+(
+56,744
+)
+Cash flows from financing activities:
+Repayments of borrowings on credit facility
+—
+(
+250,000
+)
+Repayment of other debt
+(
+822
+)
+(
+538
+)
+Payment of debt issuance costs
+(
+5,257
+)
+(
+1,990
+)
+Repurchase of common shares
+(
+78
+)
+(
+6
+)
+Distributions to shareholders
+(
+2,404
+)
+(
+2,397
+)
+Net cash used in financing activities
+(
+8,561
+)
+(
+254,931
+)
+Decrease in cash and cash equivalents and restricted cash
+(
+38,798
+)
+(
+305,633
+)
+Cash and cash equivalents and restricted cash at beginning of period
+246,961
+688,302
+Cash and cash equivalents and restricted cash at end of period
+$
+208,163
+$
+382,669
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+4
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)
+(dollars in thousands)
+(unaudited)
+Three Months Ended March 31,
+2024
+2023
+Supplemental cash flow information:
+Interest paid
+$
+31,809
+$
+43,166
+Income taxes paid
+$
+—
+$
+—
+Non-cash investing activities:
+Receivable from AlerisLife Inc. tender offer
+$
+—
+$
+14,006
+Real estate improvements accrued, not paid
+$
+17,369
+$
+20,195
+Supplemental disclosure of cash and cash equivalents and restricted cash:
+The following table provides a reconciliation of cash and cash equivalents and restricted cash reported within our condensed consolidated balance sheets to the amount shown in our condensed consolidated statements of cash flows:
+As of March 31,
+2024
+2023
+Cash and cash equivalents
+$
+207,123
+$
+380,117
+Restricted cash
+(1)
+1,040
+2,552
+Total cash and cash equivalents and restricted cash shown in our condensed consolidated statements of cash flows
+$
+208,163
+$
+382,669
+(1)
+Restricted cash consists of amounts escrowed for real estate taxes, insurance and capital expenditures at certain of our mortgaged properties.
+The accompanying notes are an integral part of these unaudited condensed consolidated financial statements.
+5
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+Note 1.
+Basis of Presentation
+The accompanying condensed consolidated financial statements of Diversified Healthcare Trust and its subsidiaries, or we, us, or our, are unaudited. Certain information and disclosures required by U.S. generally accepted accounting principles, or GAAP, for complete financial statements have been condensed or omitted. We believe the disclosures made are adequate to make the information presented not misleading. However, the accompanying condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes contained in our Annual Report on Form 10-K for the year ended December 31, 2023, or our Annual Report.
+In the opinion of management, all adjustments (consisting of normal recurring accruals) considered necessary for a fair statement of results for the interim period have been included. All intercompany transactions and balances with or among our consolidated subsidiaries have been eliminated. Operating results for interim periods are not necessarily indicative of the results that may be expected for the full year.
+The preparation of these financial statements in conformity with GAAP requires us to make estimates and assumptions that affect reported amounts. Actual results could differ from those estimates. Significant estimates in our condensed consolidated financial statements include purchase price allocations, useful lives of fixed assets and impairments of real estate and intangible assets.
+We have been, are currently, and expect in the future to be involved in claims, lawsuits, and regulatory and other governmental audits, investigations and proceedings arising in the ordinary course of our business, some of which may involve material amounts. Also, the defense and resolution of these claims, lawsuits, and regulatory and other governmental audits, investigations and proceedings may require us to incur significant expense. We account for claims and litigation losses in accordance with the Financial Accounting Standards Board, or FASB, Accounting Standards Codification Topic 450,
+Contingencies
+, or ASC 450. Under ASC 450, loss contingency provisions are recorded for probable and estimable losses at our best estimate of a loss or, when a best estimate cannot be made, at our estimate of the minimum loss. These estimates are often developed prior to knowing the amount of the ultimate loss, require the application of considerable judgment, and are refined as additional information becomes known. Accordingly, we are often initially unable to develop a best estimate of loss and therefore the estimated minimum loss amount, which could be zero, is recorded; and then, as information becomes known, the minimum loss amount is updated, as appropriate. A minimum or best estimate amount may be increased or decreased when events result in a changed expectation.
+Note 2.
+Recent Accounting Pronouncements
+On November 27, 2023, the FASB issued Accounting Standards Update, or ASU, No. 2023-07,
+Segment Reporting (Topic 280): Improvements to Reportable Segment Disclosures
+, or ASU No. 2023-07, which requires public entities to: (i) provide disclosures of significant segment expenses and other segment items if they are regularly provided to the Chief Operating Decision Maker, or the CODM, and included in each reported measure of segment profit or loss; (ii) provide all annual disclosures about a reportable segment’s profit or loss and assets currently required by ASC 280, Segment Reporting, or ASC 280, in interim periods; and (iii) disclose the CODM’s title and position, as well as an explanation of how the CODM uses the reported measures and other disclosures. Public entities with a single reportable segment must apply all the disclosure requirements of ASU No. 2023-07, as well as all the existing segment disclosures under ASC 280. The amendments in ASU No. 2023-07 are incremental to the requirements in ASC 280 and do not change how a public entity identifies its operating segments, aggregates those operating segments, or applies the quantitative thresholds to determine its reportable segments. ASU No. 2023-07 should be applied retrospectively to all prior periods presented in the financial statements and is effective for fiscal years beginning after December 15, 2023, and interim periods within fiscal years beginning after December 15, 2024. Early adoption is permitted. We are currently evaluating the impact ASU No. 2023-07 will have on our consolidated financial statements and disclosures.
+On December 14, 2023, the FASB issued ASU No. 2023-09,
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures
+, or ASU No. 2023-09, which requires public entities to enhance their annual income tax disclosures by requiring: (i) consistent categories and greater disaggregation of information in the rate reconciliation, and (ii) income taxes paid disaggregated by jurisdiction. ASU No. 2023-09 should be applied prospectively but entities have the option to apply it retrospectively to all prior periods presented in the financial statements. ASU No. 2023-09 is effective for annual periods
+6
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+beginning after December 15, 2024, with early adoption permitted. We are currently evaluating the impact ASU No. 2023-09 will have on our consolidated financial statements and disclosures.
+Note 3.
+Real Estate and Other Investments
+As of March 31, 2024, we owned
+371
+properties located in
+36
+states and Washington, D.C., including
+four
+properties classified as held for sale and
+two
+closed senior living communities, and we owned an equity interest in each of
+two
+unconsolidated joint ventures that own medical office and life science properties located in
+five
+states.
+Acquisitions and Dispositions:
+We did
+not
+acquire any properties during the three months ended March 31, 2024.
+During the three months ended March 31, 2024, we sold
+one
+property for a sales price of $
+3,600
+, excluding closing costs, as presented in the table below. The sale of this property does not represent a significant disposition and we do not believe this sale represents a strategic shift in our business. As a result, the results of operations for this property are included in continuing operations through the date of sale of such property in our condensed consolidated statements of comprehensive income (loss).
+Date of Sale
+Location
+Type of Property
+Number of Properties
+Sales Price
+(1)
+Loss on Sale
+March 2024
+Arizona
+Medical Office
+1
+$
+3,600
+$
+5,874
+(1)
+Sales price excludes closing costs.
+As of March 31, 2024, we had
+four
+properties classified as held for sale in our condensed consolidated balance sheet as follows:
+Type of Property
+Number of Properties
+Real Estate Properties, Net
+Medical Office and Life Science
+3
+$
+34,245
+Senior Living
+1
+1,525
+4
+$
+35,770
+As of May 2, 2024, we had
+two
+properties under agreements to sell for an aggregate sales price of approximately $
+10,375
+, excluding closing costs. We may not complete the sales of any or all of the properties we currently plan to sell. Also, we may sell some or all of these properties at amounts that are less than currently expected and/or less than the carrying values of such properties and we may incur losses on any such sales as a result.
+Impairment:
+We regularly evaluate our assets for indicators of impairment. Impairment indicators may include declining tenant or resident occupancy, weak or declining profitability from the property, decreasing tenant cash flows or liquidity, our decision to dispose of an asset before the end of its estimated useful life, and legislative, market or industry changes that could permanently reduce the value of an asset. If indicators of impairment are present, we evaluate the carrying value of the affected assets by comparing it to the expected future undiscounted cash flows to be generated from those assets. The future cash flows are subjective and are based in part on assumptions regarding hold periods, market rents and terminal capitalization rates. If the sum of these expected future cash flows is less than the carrying value, we reduce the net carrying value of the asset to its estimated fair value.
+During the three months ended March 31, 2024, we recorded impairment charges of $
+12,142
+related to
+two
+medical office properties that were classified as held for sale as of March 31, 2024.
+7
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+Equity Method Investments in Unconsolidated Joint Ventures:
+As of March 31, 2024, we had equity investments in unconsolidated joint ventures as follows:
+Joint Venture
+DHC Ownership
+DHC Carrying Value of Investment at March 31, 2024
+Number of Properties
+Location
+Square Feet
+Seaport Innovation LLC
+10
+%
+$
+85,922
+1
+MA
+1,134,479
+The LSMD Fund REIT LLC
+20
+%
+44,377
+10
+CA, MA, NY, TX, WA
+1,068,763
+$
+130,299
+11
+2,203,242
+The following table provides a summary of the mortgage debts of these joint ventures:
+Joint Venture
+Coupon Rate
+Maturity Date
+Principal Balance at March 31, 2024
+(1)
+Mortgage Notes Payable (secured by
+one
+property in Massachusetts)
+(2) (3)
+3.53
+%
+11/6/2028
+$
+620,000
+Mortgage Notes Payable (secured by
+nine
+properties in
+five
+states)
+(4)
+3.46
+%
+2/11/2032
+189,800
+Mortgage Notes Payable (secured by
+one
+property in California)
+(4)
+(5)
+6.38
+%
+2/9/2025
+266,825
+4.22
+%
+$
+1,076,625
+(1)
+Amounts are not adjusted for our minority equity interest.
+(2)
+We provide certain guaranties on this debt.
+(3)
+This mortgage loan requires interest only payments until the anticipated repayment date on August 6, 2026, at which time all accrued and unpaid interest along with the principal balance of $
+620,000
+is expected to be repaid. This mortgage loan matures on November 6, 2028 and any unpaid principal from the anticipated repayment date through the maturity date bears interest at a variable rate of the greater of
+6.53
+% or the then effective U.S. swap rate for the swap terminating on the maturity date plus
+5.00
+%.
+(4)
+The debt securing these properties is non-recourse to us.
+(5)
+This mortgage loan matures on February 9, 2025 and requires interest to be paid at an annual rate of the one month term secured overnight financing rate, or SOFR, plus a premium of
+1.90
+%. This joint venture has also purchased an interest rate cap through February 2025 with a SOFR strike rate equal to
+4.48
+% and an initial premium of $
+1,200
+. The maturity date of this mortgage loan is subject to
+two
+remaining
+one-year
+extension options.
+We account for the unconsolidated joint venture for
+10
+medical office and life science properties in which we own a
+20
+% equity interest, or the LSMD JV, and the unconsolidated joint venture for a life science property located in Boston, Massachusetts in which we own a
+10
+% equity interest, or the Seaport JV, using the equity method of accounting under the fair value option. During the three months ended March 31, 2024 and 2023, respectively, we recognized a $
+1,613
+and $(
+647
+) change in the fair value of our investments in our unconsolidated joint ventures. These amounts are included in equity in net earnings (losses) of investees in our condensed consolidated statements of comprehensive income (loss). See Note 6 for further information regarding the valuation of our investment in these joint ventures.
+Equity Method Investment in AlerisLife:
+As of March 31, 2024, we owned approximately
+34.0
+% of the outstanding common shares of AlerisLife Inc., or AlerisLife. We account for our
+34.0
+% non-controlling interest in AlerisLife using the equity method of accounting.
+As of March 31, 2024, our investment in AlerisLife had a carrying value of $
+15,740
+. The cost basis of our investment in AlerisLife exceeded our proportionate share of AlerisLife's total stockholders' equity book value on the date of acquisition of our initial interest in AlerisLife, which was February 16, 2024, by an aggregate of $
+29,500
+. As required under GAAP, we are amortizing this difference to equity in earnings of an investee over 21 years, the weighted average remaining useful life of the real estate assets owned by AlerisLife and the intangible contract asset with us as of the date of acquisition. We recorded amortization of the basis difference of $
+174
+for the three months ended March 31, 2024. We recognized income of $
+111
+related to our investment in AlerisLife for the three months ended March 31, 2024. These amounts are included in equity in net earnings (losses) of investees in our condensed consolidated statements of comprehensive income (loss). See Note 11 for further information regarding our investment in AlerisLife.
+8
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+Note 4.
+Leases
+We are a lessor of medical office and life science properties, senior living communities and other healthcare related properties. Our leases provide our tenants with the contractual right to use and economically benefit from all of the premises demised under the leases; therefore, we have determined to evaluate our leases as lease arrangements.
+Our leases provide for base rent payments and, in addition, may include variable payments. Rental income from operating leases, including any payments derived by index or market based indices, is recognized on a straight line basis over the lease term when we have determined that the collectability of substantially all of the lease payments is probable. Some of our leases have options to extend or terminate the lease exercisable at the option of our tenants, which are considered when determining the lease term.
+We increased rental income to record revenue on a straight line basis by $
+291
+and $
+2,448
+for the three months ended March 31, 2024 and 2023, respectively. Rents receivable, excluding receivables related to our properties classified as held for sale, if any, include $
+74,704
+and $
+75,306
+of straight line rent receivables at March 31, 2024 and December 31, 2023, respectively, and are included in other assets, net in our condensed consolidated balance sheets.
+We do not include in our measurement of our lease receivables certain variable payments, including changes in the index or market based indices after the inception of the lease, certain tenant reimbursements and other income until the specific events that trigger the variable payments have occurred. Such payments totaled $
+11,350
+and $
+11,986
+for the three months ended March 31, 2024 and 2023, respectively, of which tenant reimbursements totaled $
+11,284
+and $
+11,924
+, respectively.
+Right of Use Asset and Lease Liability:
+For leases where we are the lessee, we recognized a right of use asset and a lease liability equal to the present value of the minimum lease payments with rental payments being applied to the lease liability and the right of use asset being amortized over the term of the lease. The values of the right of use assets and related liabilities representing our future obligation under the respective lease arrangements for which we are the lessee were $
+22,555
+and $
+22,937
+, respectively, as of March 31, 2024, and $
+23,366
+and $
+23,748
+, respectively, as of December 31, 2023. The right of use assets and related lease liabilities are included within
+other assets, net
+and
+other liabilities
+, respectively, within our condensed consolidated balance sheets. In addition, we lease equipment at certain of our managed senior living communities. These leases are short term in nature, are cancelable with no fee or do not result in an annual expense in excess of our capitalization policy and, as a result, are not recorded on our condensed consolidated balance sheets.
+Note 5.
+Indebtedness
+Our principal debt obligations, excluding any debt obligations of our joint ventures, at March 31, 2024 were: (1) $
+2,100,000
+outstanding principal amount of senior unsecured notes; (2) $
+940,534
+outstanding principal amount of senior secured notes; and (3) $
+8,669
+principal amount of mortgage debt secured by
+one
+property. The mortgaged property had a net book value of $
+13,466
+at March 31, 2024. We also had
+two
+properties subject to finance leases that expire in 2026 with lease obligations totaling $
+3,528
+at March 31, 2024; these
+two
+properties had an aggregate net book value of $
+22,365
+at March 31, 2024.
+Until its repayment in full on December 21, 2023, we had a $
+450,000
+credit facility that was fully drawn. As of December 21, 2023, our former credit facility was paid off in full and the related credit agreement was terminated. The weighted average annual interest rate for borrowings under our former credit facility was
+7.6
+% for the three months ended March 31, 2023. In January 2023, pursuant to the credit agreement, we repaid $
+113,627
+in outstanding borrowings under our former credit facility and the commitments were reduced to $
+586,373
+. In February 2023, we and our lenders amended the credit agreement to reduce the commitments from $
+586,373
+to $
+450,000
+following our repayment of $
+136,373
+in outstanding borrowings under our former credit facility, and as a result of that reduction in commitments, we recorded a loss on modification or early extinguishment of debt of $
+1,075
+for the three months ended March 31, 2023.
+As of March 31, 2024, all $
+940,534
+of our senior secured notes due 2026 are fully and unconditionally guaranteed, on a joint, several and senior secured basis, by certain of our subsidiaries that own
+95
+properties, or the Collateral Guarantors, and on a joint, several and unsecured basis, by all our subsidiaries other than the Collateral Guarantors and certain excluded subsidiaries, and all $
+500,000
+of our
+9.75
+% senior notes due 2025 and all $
+500,000
+of our
+4.375
+% senior notes due 2031 were fully and unconditionally guaranteed, on a joint, several and unsecured basis, by all of our subsidiaries, except for certain excluded subsidiaries. The notes and related guarantees (other than our senior secured notes and the guarantees provided by the
+9
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+Collateral Guarantors) are effectively subordinated to all of our and the subsidiary guarantors' secured indebtedness, respectively, to the extent of the value of the collateral securing such secured indebtedness, and the notes and related guarantees are structurally subordinated to all indebtedness and other liabilities and any preferred equity of any of our subsidiaries that do not guarantee the notes. Our remaining $
+1,100,000
+of senior unsecured notes do not have the benefit of any guarantees as of March 31, 2024.
+Our senior secured notes due 2026 and the guarantees provided by the Collateral Guarantors are secured by a first priority lien and security interest in each of the collateral properties and
+100
+% of the equity interests in each of the Collateral Guarantors. No cash interest will accrue on these notes prior to maturity. The accreted value of these notes will increase at a rate of
+11.25
+% per annum compounded semiannually on January 15 and July 15 of each year, such that the accreted value will equal the principal amount at maturity. During the three months ended March 31, 2024, we recognized discount accretion of $
+20,659
+for our senior secured notes due 2026 in interest expense in our condensed consolidated statements of comprehensive income (loss). We have a one-time option to extend the maturity date of these notes by
+one year
+, to January 15, 2027, subject to satisfaction of certain conditions and payment of an extension fee. If we exercise this option, interest payments will be due semiannually during the extension period at an initial interest rate of
+11.25
+% with increases of
+50
+basis points every 90 days these notes remain outstanding.
+Note 6.
+Fair Value of Assets and Liabilities
+The following table presents certain of our assets that are measured at fair value at March 31, 2024 and December 31, 2023, categorized by the level of inputs as defined in the fair value hierarchy under GAAP, used in the valuation of each asset.
+As of March 31, 2024
+As of December 31, 2023
+Description
+Carrying Value
+Carrying Value
+Recurring Fair Value Measurements Assets:
+Investment in unconsolidated joint venture (Level 3)
+(1)
+$
+85,922
+$
+85,699
+Investment in unconsolidated joint venture (Level 3)
+(2)
+$
+44,377
+$
+44,217
+Non-Recurring Fair Value Measurements Assets:
+Real estate properties held for sale (Level 2)
+(3)
+$
+19,744
+$
+—
+(1)
+The
+10
+% equity interest we own in the Seaport JV is included in investments in unconsolidated joint ventures in our condensed consolidated balance sheet, and is reported at fair value, which is based on significant unobservable inputs (Level 3 inputs). The significant unobservable inputs used in the fair value analysis are a discount rate of
+8.00
+%, an exit capitalization rate of
+6.00
+%, a holding period of
+10
+years and market rents. The assumptions made in the fair value analysis are based on the location, type and nature of the property, and current and anticipated market conditions, which are derived from appraisers. See Note 3 for further information regarding this joint venture.
+(2)
+The
+20
+% equity interest we own in the LSMD JV is included in investments in unconsolidated joint ventures in our condensed consolidated balance sheet, and is reported at fair value, which is based on significant unobservable inputs (Level 3 inputs). The significant unobservable inputs used in the fair value analysis are discount rates of between
+6.50
+% and
+8.00
+%, exit capitalization rates of between
+4.75
+% and
+7.00
+%, holding periods of
+10
+years and market rents. The assumptions we made in the fair value analysis are based on the location, type and nature of each property, and current and anticipated market conditions, which are derived from appraisers. See Note 3 for further information regarding this joint venture.
+(3)
+We have assets in our condensed consolidated balance sheets that are measured at fair value on a non-recurring basis. During the three months ended March 31, 2024, we recorded impairment charges of $
+12,142
+to reduce the carrying value of
+two
+medical office properties that are classified as held for sale to their estimated sales price, less estimated costs to sell, of $
+19,744
+under agreements to sell that we have entered into with third parties. See Note 3 for further information about impairment charges and the properties we have classified as held for sale.
+In addition to the assets described in the table above, our financial instruments at March 31, 2024 and December 31, 2023 included cash and cash equivalents, restricted cash, certain other assets, senior unsecured notes, senior secured notes, secured debt and finance leases and certain other unsecured obligations and liabilities.
+The fair values of these financial instruments approximated their carrying values in our condensed consolidated financial statements as of such dates, except as follows:
+10
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+As of March 31, 2024
+As of December 31, 2023
+Description
+Carrying Amount
+(1)
+Estimated Fair Value
+Carrying Amount
+(1)
+Estimated Fair Value
+Senior unsecured notes,
+9.750
+% coupon rate, due 2025
+$
+497,892
+$
+500,350
+$
+497,454
+$
+490,750
+Senior secured notes,
+zero
+coupon rate, due 2026
+751,890
+798,419
+731,211
+771,981
+Senior unsecured notes,
+4.750
+% coupon rate, due 2028
+495,065
+405,400
+494,746
+384,110
+Senior unsecured notes,
+4.375
+% coupon rate, due 2031
+494,060
+374,350
+493,845
+375,000
+Senior unsecured notes,
+5.625
+% coupon rate, due 2042
+343,041
+200,480
+342,946
+211,400
+Senior unsecured notes,
+6.250
+% coupon rate, due 2046
+243,699
+153,600
+243,627
+154,000
+Secured debt and finance leases
+(2)
+12,197
+11,638
+13,020
+12,284
+$
+2,837,844
+$
+2,444,237
+$
+2,816,849
+$
+2,399,525
+(1)
+Includes unamortized net discounts, premiums and debt issuance costs.
+(2)
+We assumed certain of these secured debts in connection with our acquisition of certain properties. We recorded the assumed mortgage notes at estimated fair value on the date of acquisition and we are amortizing the fair value adjustments, if any, to interest expense over the respective terms of the mortgage notes to adjust interest expense to the estimated market interest rates as of the date of acquisition.
+We estimated the fair values of our
+two
+issuances of senior unsecured notes due 2042 and 2046 based on the closing price on The Nasdaq Stock Market LLC, or Nasdaq, (Level 1 inputs as defined in the fair value hierarchy under GAAP) as of March 31, 2024 and December 31, 2023. We estimated the fair values of our
+three
+issuances of senior unsecured notes due 2025, 2028 and 2031 and our issuance of senior secured notes due 2026 using an average of the bid and ask price on Nasdaq on or about March 31, 2024 and December 31, 2023 (Level 2 inputs as defined in the fair value hierarchy under GAAP). We estimated the fair values of our secured debts by using discounted cash flows analyses and currently prevailing market terms as of the measurement date (Level 3 inputs as defined in the fair value hierarchy under GAAP). Because Level 3 inputs are unobservable, our estimated fair values may differ materially from the actual fair values.
+Note 7.
+Shareholders' Equity
+Common Share Purchases:
+During the three months ended March 31, 2024, we purchased an aggregate of
+30,176
+of our common shares, valued at a weighted average share price of $
+2.58
+per common share, from certain former employees of RMR in satisfaction of tax withholding and payment obligations in connection with the vesting of prior awards of our common shares. We withheld and purchased these common shares at their fair market values based upon the trading prices of our common shares at the close of trading on Nasdaq on the applicable purchase dates.
+Distributions:
+During the three months ended March 31, 2024, we declared and paid quarterly distributions to common shareholders as follows:
+Declaration Date
+Record Date
+Payment Date
+Distribution Per Share
+Total Distributions
+January 11, 2024
+January 22, 2024
+February 15, 2024
+$
+0.01
+$
+2,404
+On April 11, 2024, we declared a quarterly distribution to common shareholders of record on April 22, 2024 of $
+0.01
+per share, or approximately $
+2,404
+. We expect to pay this distribution on or about May 16, 2024 using cash on hand.
+Note 8.
+Segment Reporting
+We operate in, and report financial information for, the following
+two
+segments: Medical Office and Life Science Portfolio and senior housing operating portfolio, or SHOP. We aggregate the operating results of our properties in these
+two
+reporting segments based on their similar operating and economic characteristics. Our Medical Office and Life Science Portfolio segment primarily consists of medical office properties leased to medical providers and other medical related businesses, as well as life science properties primarily leased to biotech laboratories and other similar tenants. Our SHOP segment consists of managed
+11
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+senior living communities that provide short term and long term residential living and, in some instances, care and other services for residents where we pay fees to managers to operate the communities on our behalf.
+We also report “non-segment” operations, which consists of triple net leased senior living communities and wellness centers that are leased to third party operators from which we receive rents, which we do not consider to be sufficiently material to constitute a separate reporting segment, and any other income or expenses that are not attributable to a specific reporting segment.
+For the Three Months Ended March 31, 2024
+Medical Office and Life Science Portfolio
+SHOP
+Non-Segment
+Consolidated
+Revenues:
+Rental income
+$
+54,149
+$
+—
+$
+8,501
+$
+62,650
+Residents fees and services
+—
+308,126
+—
+308,126
+Total revenues
+54,149
+308,126
+8,501
+370,776
+Expenses:
+Property operating expenses
+23,897
+283,416
+291
+307,604
+Depreciation and amortization
+20,740
+46,922
+2,471
+70,133
+General and administrative
+—
+—
+7,568
+7,568
+Acquisition and certain other transaction related costs
+—
+—
+86
+86
+Impairment of assets
+12,142
+—
+—
+12,142
+Total expenses
+56,779
+330,338
+10,416
+397,533
+Loss on sale of properties
+(
+5,874
+)
+—
+—
+(
+5,874
+)
+Gains on equity securities, net
+—
+—
+—
+—
+Interest and other income
+—
+—
+2,237
+2,237
+Interest expense
+(
+222
+)
+(
+68
+)
+(
+57,286
+)
+(
+57,576
+)
+Loss before income tax expense and equity in net earnings of investees
+(
+8,726
+)
+(
+22,280
+)
+(
+56,964
+)
+(
+87,970
+)
+Income tax expense
+—
+—
+(
+187
+)
+(
+187
+)
+Equity in net earnings of investees
+1,613
+—
+285
+1,898
+Net loss
+$
+(
+7,113
+)
+$
+(
+22,280
+)
+$
+(
+56,866
+)
+$
+(
+86,259
+)
+As of March 31, 2024
+Medical Office and Life Science Portfolio
+SHOP
+Non-Segment
+Consolidated
+Total assets
+$
+1,834,609
+$
+3,103,540
+$
+409,888
+$
+5,348,037
+12
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+For the Three Months Ended March 31, 2023
+Medical Office and Life Science Portfolio
+SHOP
+Non-Segment
+Consolidated
+Revenues:
+Rental income
+$
+57,022
+$
+—
+$
+9,416
+$
+66,438
+Residents fees and services
+—
+279,592
+—
+279,592
+Total revenues
+57,022
+279,592
+9,416
+346,030
+Expenses:
+Property operating expenses
+23,515
+262,329
+236
+286,080
+Depreciation and amortization
+20,035
+42,152
+2,613
+64,800
+General and administrative
+—
+—
+5,873
+5,873
+Acquisition and certain other transaction related costs
+—
+—
+93
+93
+Impairment of assets
+2,308
+3,617
+—
+5,925
+Total expenses
+45,858
+308,098
+8,815
+362,771
+Gain on sale of properties
+—
+1,233
+—
+1,233
+Gains on equity securities, net
+—
+—
+8,126
+8,126
+Interest and other income
+—
+—
+4,195
+4,195
+Interest expense
+(
+109
+)
+(
+271
+)
+(
+47,400
+)
+(
+47,780
+)
+Loss on modification or early extinguishment of debt
+—
+—
+(
+1,075
+)
+(
+1,075
+)
+Income (loss) before income tax benefit and equity in net losses of investees
+11,055
+(
+27,544
+)
+(
+35,553
+)
+(
+52,042
+)
+Income tax benefit
+—
+—
+31
+31
+Equity in net losses of investees
+(
+647
+)
+—
+—
+(
+647
+)
+Net income (loss)
+$
+10,408
+$
+(
+27,544
+)
+$
+(
+35,522
+)
+$
+(
+52,658
+)
+As of December 31, 2023
+Medical Office and Life Science Portfolio
+SHOP
+Non-Segment
+Consolidated
+Total assets
+$
+1,866,422
+$
+3,134,978
+$
+444,736
+$
+5,446,136
+Note 9.
+Senior Living Community Management Agreements
+Our managed senior living communities are operated by third parties pursuant to management agreements. Five Star Senior Living, or Five Star, which is an operating division of AlerisLife, manages many of our SHOP communities. Five Star manages these communities for us pursuant to a master management agreement. AlerisLife guarantees the payment and performance of each of its applicable subsidiary's obligations under the applicable management agreements.
+In connection with ABP Trust’s acquisition of AlerisLife on March 20, 2023, we amended the master management agreement with AlerisLife to eliminate any change of control default or event of default provisions. See Note 11 for further information regarding ABP Trust's acquisition of AlerisLife.
+Our Senior Living Communities Managed by Five Star.
+Five Star managed
+119
+of our senior living communities as of both March 31, 2024 and 2023. We lease our senior living communities that are managed by Five Star to our taxable REIT subsidiaries, or TRSs.
+We incurred management fees payable to Five Star of $
+10,407
+and $
+10,014
+for the three months ended March 31, 2024 and 2023, respectively. For the three months ended March 31, 2024 and 2023, $
+9,998
+and $
+9,137
+, respectively, of the total management fees were expensed to property operating expenses in our condensed consolidated statements of comprehensive income (loss) and $
+409
+and $
+877
+, respectively, were capitalized in our condensed consolidated balance sheets. The amounts capitalized are being depreciated over the estimated useful lives of the related capital assets.
+13
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+We incurred fees of $
+10
+and $
+879
+for the three months ended March 31, 2024 and 2023, respectively, with respect to rehabilitation services Five Star provided at our senior living communities that are payable by us. These amounts are included in property operating expenses in our condensed consolidated statements of comprehensive income (loss).
+We lease to Five Star space at certain of our senior living communities, which it uses to provide certain outpatient rehabilitation and wellness services.
+Our Senior Living Communities Managed by Other Third Party Managers.
+Several other third party managers managed
+111
+of our senior living communities as of both March 31, 2024 and 2023. We lease our senior living communities that are managed by these third party managers to our TRSs.
+In March 2024, we terminated our management agreement with one of our third party managers which manages certain of our communities located in Wisconsin and Illinois. We have transitioned these communities to another third party manager which we have an existing relationship with. The terms of the management agreement for these communities are generally consistent with the terms of the existing management agreements with our other third party managers. We paid termination and other fees of $
+1,106
+during the second quarter of 2024, and expect to incur additional costs during 2024, related to the transition of these communities.
+We incurred management fees payable to these third party managers of $
+5,725
+and $
+5,238
+for the three months ended March 31, 2024 and 2023, respectively. These amounts are included in property operating expenses in our condensed consolidated statements of comprehensive income (loss).
+The following table presents residents fees and services revenue from all of our managed senior living communities disaggregated by the type of contract and payer:
+Three Months Ended March 31,
+Revenue from contracts with customers:
+2024
+2023
+Basic housing and support services
+$
+243,655
+$
+222,187
+Medicare and Medicaid programs
+23,849
+21,657
+Private pay and other third party payer SNF services
+40,622
+35,748
+Total residents fees and services
+$
+308,126
+$
+279,592
+Note 10.
+Business and Property Management Agreements with RMR
+We have
+no
+employees. The personnel and various services we require to operate our business are provided to us by RMR. We have
+two
+agreements with RMR to provide management services to us: (1) a business management agreement, which relates to our business generally; and (2) a property management agreement, which relates to the property level operations of many of our properties, including our medical office and life science properties, and major renovation or repositioning activities at our senior living communities that we may request RMR to manage from time to time. See Note 11 for further information regarding our relationship, agreements and transactions with RMR.
+We recognized net business management fees of $
+4,878
+and $
+3,270
+for the three months ended March 31, 2024 and 2023, respectively. The net business management fees we recognized for the three months ended March 31, 2024 include $
+849
+of estimated incentive fees based on our common share total return, as defined in our business management agreement. Although we recognized estimated incentive fees in accordance with GAAP, the actual amount of annual incentive fees for 2024, if any, will be based on our common share total return as defined in our business management agreement, for the
+three-year
+period ending December 31, 2024, and will be payable in January 2025. We did not incur any incentive fee payable for the year ended December 31, 2023. We recognize business management and incentive fees in general and administrative expenses in our condensed consolidated statements of comprehensive income (loss).
+We recognized aggregate net property management and construction supervision fees of $
+1,904
+and $
+1,992
+for the three months ended March 31, 2024 and 2023, respectively. For the three months ended March 31, 2024 and 2023, $
+1,538
+and $
+1,463
+, respectively, of the total property management fees were expensed to property operating expenses in our condensed consolidated statements of comprehensive income (loss) and $
+366
+and $
+529
+, respectively, were capitalized as building
+14
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+improvements in our condensed consolidated balance sheets. The amounts capitalized are being depreciated over the estimated useful lives of the related capital assets.
+We are generally responsible for all our operating expenses, including certain expenses incurred or arranged by RMR on our behalf. We are generally not responsible for payment of RMR's employment, office or administrative expenses incurred to provide management services to us, except for the employment and related expenses of RMR's employees assigned to work exclusively or partly at our properties, our share of the wages, benefits and other related costs of RMR's centralized accounting personnel, our share of RMR's costs for providing our internal audit function, or as otherwise agreed. Our property level operating expenses are generally incorporated into the rents charged to our tenants, including certain payroll and related costs incurred by RMR. We reimbursed RMR $
+3,728
+and $
+3,533
+for these expenses and costs for the three months ended March 31, 2024 and 2023, respectively. These amounts are included in property operating expenses or general and administrative expenses, as applicable, in our condensed consolidated statements of comprehensive income (loss) for these periods.
+Management Agreements between our Joint Ventures and RMR.
+We have
+two
+separate joint venture arrangements with third party institutional investors, the Seaport JV and the LSMD JV. RMR provides management services to both of these joint ventures. Our joint ventures are not our consolidated subsidiaries and, as a result, we are not obligated to pay management fees to RMR under our management agreements with RMR for the services it provides regarding the joint ventures.
+Note 11.
+Related Person Transactions
+We have relationships and historical and continuing transactions with RMR, RMR Inc., AlerisLife (including Five Star) and others related to them, including other companies to which RMR or its subsidiaries provide management services and some of which have trustees, directors or officers who are also our Trustees or officers. RMR Inc. is the majority owned subsidiary of RMR. The Chair of our Board of Trustees and one of our Managing Trustees, Adam D. Portnoy, is the sole trustee, an officer and the controlling shareholder of ABP Trust, which is the controlling shareholder of RMR Inc., the chair of the board of directors, a managing director and the president and chief executive officer of RMR Inc., an officer and employee of RMR and, until the acquisition of AlerisLife by ABP Trust on March 20, 2023, the chair of the board of directors and a managing director of AlerisLife, and currently the sole director of AlerisLife. Jennifer F. Francis, our other Managing Trustee, our former President and Chief Executive Officer and a former managing director of AlerisLife served as an officer of RMR until December 31, 2023 and will remain an employee of RMR until her retirement on July 1, 2024. Our current President and Chief Executive Officer and our Chief Financial Officer and Treasurer are also employees and officers of RMR. Jennifer B. Clark, our Secretary and former Managing Trustee, also serves as a managing director and the executive vice president, general counsel and secretary of RMR Inc., an officer and employee of RMR, an officer of ABP Trust and secretary of AlerisLife and, until March 20, 2023, a managing director of AlerisLife. Certain of AlerisLife's officers are officers and employees of RMR. Some of our Independent Trustees also serve as independent trustees of other public companies to which RMR or its subsidiaries provide management services. Mr. Portnoy serves as the chair of the board and as a managing trustee of these companies. Other officers of RMR, including Ms. Clark and certain of our officers, serve as managing trustees or officers of certain of these companies. In addition, officers of RMR and RMR Inc. serve as our officers and officers of other companies to which RMR or its subsidiaries provide management services. As of March 31, 2024, ABP Trust and Mr. Portnoy owned
+9.8
+% of our outstanding common shares.
+AlerisLife.
+Until March 20, 2023, we were AlerisLife's largest stockholder, owning approximately
+31.9
+% of AlerisLife's outstanding common shares, and ABP Acquisition LLC, or ABP Acquisition, a subsidiary of ABP Trust, together with ABP Trust, owned approximately
+6.1
+% of AlerisLife's outstanding common shares. Five Star is an operating division of AlerisLife. Five Star manages certain of the senior living communities we own. RMR provides management services to both us and AlerisLife.
+On February 2, 2023, AlerisLife entered into an Agreement and Plan of Merger, or the ALR Merger Agreement, with certain subsidiaries of ABP Trust, pursuant to which ABP Trust acquired all of the publicly held outstanding AlerisLife common shares at a price of $
+1.31
+per share by tender offer.
+In connection with the ALR Merger Agreement, on February 2, 2023, we agreed to tender all the AlerisLife common shares that we and our subsidiary then owned, into the tender offer at the tender offer price, subject to the right, but not the obligation, to purchase, on or before December 31, 2023, AlerisLife common shares at the tender offer price, and otherwise pursuant to a stockholders agreement to be entered into at the time of any such purchase. On December 20, 2023, we and ABP Trust extended our right to purchase AlerisLife common shares until March 31, 2024.
+15
+Table of Contents
+DIVERSIFIED HEALTHCARE TRUST
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+(dollar amounts in thousands, except per share data or as otherwise stated)
+On February 16, 2024, we exercised this purchase right and acquired, together with our applicable TRS, approximately
+34.0
+% of the then outstanding AlerisLife common shares from ABP Trust at the tender offer price, for a total purchase price of $
+14,890
+, and we, our applicable TRS, ABP Trust and AlerisLife entered into a stockholders agreement. Following this acquisition, ABP Trust owns the remaining approximately
+66.0
+% of AlerisLife.
+See Note 9 for further information regarding our relationships, agreements and transactions with AlerisLife (including Five Star).
+Our Joint Ventures.
+In connection with our entering into the LSMD JV in January 2022, we paid mortgage escrow amounts and closing costs that were payable by that joint venture. The remaining costs totaled $
+6,080
+as of March 31, 2024 and are included in other assets, net, in our condensed consolidated balance sheet. RMR provides management services to each of the Seaport JV and the LSMD JV. See Note 10 for further information regarding those management agreements with RMR.
+Our Manager, RMR.
+We have
+two
+agreements with RMR to provide management services to us. See Note 10 for further information regarding our management agreements with RMR.
+Leases with RMR.
+We lease office space to RMR in certain of our properties for RMR’s property management offices. We recognized rental income from RMR for this leased office space of $
+109
+and $
+61
+for the three months ended March 31, 2024 and 2023, respectively.
+For further information about these and other such relationships and certain other related person transactions, see our Annual Report.
+Note 12.
+Income Taxes
+We have elected to be taxed as a real estate investment trust, or REIT, under the Internal Revenue Code of 1986, as amended, and, as such, are generally not subject to federal and most state income taxation on our operating income provided we distribute our taxable income to our shareholders and meet certain organization and operating requirements. We do, however, lease our managed senior living communities to our wholly owned TRSs that, unlike most of our subsidiaries, file a separate consolidated federal corporate income tax return and are subject to federal and state income taxes. Our consolidated income tax provision includes the income tax provision related to the operations of our TRSs and certain state income taxes we incur despite our taxation as a REIT. Our current income tax expense (or benefit) fluctuates from period to period based primarily on the timing of our income, including gains on the disposition of properties or losses in a particular quarter. For the three months ended March 31, 2024 and 2023, we recognized income tax expense of $
+187
+and benefit of $
+31
+, respectively.
+Note 13.
+Weighted Average Common Share
+s
+We calculate basic earnings per common share using the two class method. We calculate diluted earnings per share using the more dilutive of the two class method or the treasury stock method. Unvested share awards and other potentially dilutive common shares, together with the related impact on earnings, are considered when calculating diluted earnings per share.
+16
+Table of Contents
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results of Operations.
+The following discussion should be read in conjunction with our condensed consolidated financial statements and notes thereto included in this Quarterly Report on Form 10-Q and with our Annual Report.
+OVERVIEW
+We are a REIT organized under Maryland law that primarily owns medical office and life science properties, senior living communities and other healthcare related properties throughout the United States. As of March 31, 2024, we owned 371 properties located in 36 states and Washington, D.C., including four properties classified as held for sale and two closed senior living communities. At March 31, 2024, the gross book value of our real estate assets at cost plus certain acquisition costs, before depreciation and purchase price allocations and less impairment write downs, was $7.2 billion.
+As of March 31, 2024, we owned an equity interest in each of the Seaport JV and the LSMD JV that own medical office and life science properties located in five states with an aggregate of approximately 2.2 million rentable square feet that were 98% leased with an average (by annualized rental income) remaining lease term of 5.1 years.
+We are closely monitoring the impacts of the current economic and market conditions on all aspects of our business, including, but not limited to, high interest rates, prolonged high inflation, labor market challenges, supply chain disruptions, volatility in the public equity and debt markets, geopolitical risks, economic downturns or a possible recession and changes in real estate utilization. We expect to experience continued volatility in labor, insurance and food costs in our SHOP segment.
+In response to significant and prolonged increases in inflation, the U.S. Federal Reserve has raised interest rates multiple times since the beginning of 2022. Although the U.S. Federal Reserve has indicated that it may lower interest rates in 2024, we cannot be sure that it will do so, and interest rates may remain at the current high levels or continue to increase. These inflationary pressures in the United States, as well as global geopolitical instability and tensions, have given rise to uncertainty regarding economic downturns or a possible recession and potential disruptions in the financial markets. An economic recession, or continued or intensified disruptions in the financial markets, could adversely affect our financial condition and that of our managers, operators and tenants, could adversely impact the ability or willingness of our managers, operators, tenants or residents to pay amounts owed to us, could impair our ability to effectively deploy our capital or realize our target returns on our investments, may restrict our access to, and would likely increase our cost of, capital, and may cause the values of our properties and of our securities to decline.
+We are encouraged by positive trends, including increases in rates and occupancy, in our SHOP segment. Additionally, we expect that favorable supply and demand dynamics in the senior living industry will enable our managers to generate better returns at our communities than we experienced in the years following the COVID-19 pandemic. While certain costs, primarily labor, insurance and food costs, have increased, we expect these cost increases to moderate, which will provide our managers the opportunity to increase rates in excess of increases in costs, resulting in improving returns to us.
+For further information and risks relating to these economic uncertainties, including changes related to the COVID-19 pandemic, and their impact on our business and financial condition, see Part I, Item 1, "Business" and Part I, Item 1A, "Risk Factors" in our Annual Report.
+PORTFOLIO OVERVIEW
+The following tables present an overview of our portfolio (dollars in thousands, except investment per square foot or unit data):
+As of March 31, 2024
+Number
+of Properties
+Square Feet or Number of Units
+Gross Book Value of Real Estate Assets
+(1)
+% of Total Gross Book Value of Real Estate Assets
+Investment per Square Foot or Unit
+(2)
+Q1 2024 Revenues
+% of
+Q1 2024 Revenues
+Q1 2024 NOI
+(3)
+% of Q1 2024 NOI
+Medical Office and Life Science Portfolio
+(4)
+102
+8,486,969
+sq. ft.
+$
+2,263,388
+31.4
+%
+$
+267
+$
+54,149
+14.6
+%
+$
+30,252
+47.9
+%
+SHOP
+232
+25,220
+units
+4,540,601
+63.1
+%
+$
+180,040
+308,126
+83.1
+%
+24,710
+39.1
+%
+Triple net leased senior living communities
+27
+2,062
+units
+202,907
+2.8
+%
+$
+98,403
+5,377
+1.5
+%
+5,335
+8.4
+%
+Wellness centers
+10
+812,000
+sq. ft.
+194,416
+2.7
+%
+$
+239
+3,124
+0.8
+%
+2,875
+4.6
+%
+Total
+371
+$
+7,201,312
+100.0
+%
+$
+370,776
+100.0
+%
+$
+63,172
+100.0
+%
+17
+Table of Contents
+Occupancy
+As of and For the Three Months Ended March 31,
+2024
+2023
+Medical Office and Life Science Portfolio
+(5)
+82.9
+%
+85.1
+%
+SHOP
+78.9
+%
+76.9
+%
+Triple net leased senior living communities
+100.0
+%
+100.0
+%
+Wellness centers
+100.0
+%
+100.0
+%
+(1)
+Represents gross book value of real estate assets at cost plus certain acquisition costs, before depreciation and purchase price allocations and less impairment write downs, if any.
+(2)
+Represents gross book value of real estate assets divided by number of rentable square feet or living units, as applicable.
+(3)
+We calculate our NOI on a consolidated basis and by reportable segment. Our definition of NOI and our reconciliation of net income (loss) to NOI are included below under the heading “Non-GAAP Financial Measures”.
+(4)
+Our medical office and life science property leases include some triple net leases where, in addition to paying fixed rents, the tenants assume the obligation to operate and maintain the properties at their expense, and some net and modified gross leases where we are responsible for the operation and maintenance of the properties and we charge tenants for some or all of the property operating costs. A portion of our medical office and life science property leases are full-service leases where we receive fixed rent from our tenants and no reimbursement for our property operating costs.
+(5)
+Medical office and life science property occupancy data is as of March 31, 2024 and 2023 and includes (i) out of service assets undergoing redevelopment, (ii) space which is leased but is not occupied or is being offered for sublease by tenants and (iii) space being fitted out for occupancy.
+During the three months ended March 31, 2024, we entered into new and renewal leases in our Medical Office and Life Science Portfolio segment as summarized in the following table (dollars and square feet in thousands, except per square foot amounts):
+Three Months Ended March 31, 2024
+New Leases
+Renewals
+Total
+Square feet leased during the quarter
+25
+76
+101
+Weighted average rental rate change (by rentable square feet)
+35.3
+%
+7.0
+%
+11.5
+%
+Weighted average lease term (years)
+6.3
+2.9
+3.6
+Total leasing costs and concession commitments
+(1)
+$
+1,418
+$
+696
+$
+2,114
+Total leasing costs and concession commitments per square foot
+(1)
+$
+56.49
+$
+9.18
+$
+20.95
+Total leasing costs and concession commitments per square foot per year
+(1)
+$
+8.97
+$
+3.16
+$
+5.88
+(1)
+Includes commitments made for leasing expenditures and concessions, such as tenant improvements, leasing commissions, tenant reimbursements and free rent.
+18
+Table of Contents
+During the three months ended March 31, 2024, we entered into renewal leases at three of our wellness centers totaling 129,600 square feet at rates that were 7.5% higher than prior rents for the same space at a weighted average lease term of five years. We did not incur any leasing costs or concessions commitments for these renewals.
+Lease Expiration Schedules
+As of March 31, 2024, lease expirations in our Medical Office and Life Science Portfolio segment were as follows (dollars in thousands):
+Year
+Number of Tenants
+Square Feet Leased
+Percent of Total
+Cumulative Percent of Total
+Annualized  Rental Income
+(1)
+Percent of Total
+Cumulative Percent of Total
+2024
+57
+484,323
+6.9
+%
+6.9
+%
+$
+12,366
+5.6
+%
+5.6
+%
+2025
+76
+617,857
+8.8
+%
+15.7
+%
+17,462
+8.0
+%
+13.6
+%
+2026
+57
+739,881
+10.5
+%
+26.2
+%
+23,389
+10.7
+%
+24.3
+%
+2027
+66
+981,909
+14.0
+%
+40.2
+%
+24,605
+11.2
+%
+35.5
+%
+2028
+54
+1,161,376
+16.5
+%
+56.7
+%
+35,975
+16.4
+%
+51.9
+%
+2029
+53
+597,467
+8.5
+%
+65.2
+%
+17,385
+7.9
+%
+59.8
+%
+2030
+25
+300,877
+4.3
+%
+69.5
+%
+7,750
+3.5
+%
+63.3
+%
+2031
+22
+917,785
+13.0
+%
+82.5
+%
+26,771
+12.2
+%
+75.5
+%
+2032
+16
+268,698
+3.8
+%
+86.3
+%
+11,869
+5.4
+%
+80.9
+%
+2033 and thereafter
+44
+966,376
+13.7
+%
+100.0
+%
+41,721
+19.1
+%
+100.0
+%
+Total
+470
+7,036,549
+100.0
+%
+$
+219,293
+100.0
+%
+Weighted average remaining lease term (in years)
+5.0
+5.5
+(1)
+Annualized rental income is based on rents pursuant to existing leases as of March 31, 2024, including straight line rent adjustments and estimated recurring expense reimbursements for certain net and modified gross leases and excluding lease value amortization at certain of our medical office and life science properties.
+As of March 31, 2024, lease expirations at our triple net leased senior living communities leased to third party operators and wellness centers were as follows (dollars in thousands):
+Year
+Number of Properties
+Number of Units or Square Feet
+Annualized  Rental Income
+(1)
+Percent of Total
+Cumulative Percent of Total
+2024
+—
+—
+$
+—
+—
+%
+—
+%
+2025
+—
+—
+—
+—
+%
+—
+%
+2026
+—
+—
+—
+—
+%
+—
+%
+2027
+4
+533 units
+4,612
+11.8
+%
+11.8
+%
+2028
+—
+—
+—
+—
+%
+11.8
+%
+2029
+1
+155 units
+547
+1.4
+%
+13.2
+%
+2030
+5
+283 units and 129,500 sq. ft.
+5,046
+12.9
+%
+26.1
+%
+2031
+—
+—
+—
+—
+%
+26.1
+%
+2032
+18
+876 units
+9,836
+25.1
+%
+51.2
+%
+2033 and thereafter
+9
+215 units and 682,500 sq. ft.
+19,148
+48.8
+%
+100.0
+%
+Total
+37
+$
+39,189
+100.0
+%
+(1)
+Annualized rental income is based on rents pursuant to existing leases as of March 31, 2024. Annualized rental income includes estimated percentage rents and straight line rent adjustments and excludes lease value amortization.
+19
+RESULTS OF OPERATIONS (dollars and square feet in thousands, unless otherwise noted)
+We operate in, and report financial information for, the following two segments: Medical Office and Life Science Portfolio and SHOP. We aggregate the operating results of our properties in these two reporting segments based on their similar operating and economic characteristics. Our Medical Office and Life Science Portfolio segment primarily consists of medical office properties leased to medical providers and other medical related businesses, as well as life science properties primarily leased to biotech laboratories and other similar tenants. Our SHOP segment consists of managed senior living communities that provide short term and long term residential living and, in some instances, care and other services for residents where we pay fees to managers to operate the communities on our behalf.
+We also report “non-segment” operations, which consists of triple net leased senior living communities and wellness centers that are leased to third party operators from which we receive rents, which we do not consider to be sufficiently material to constitute a separate reporting segment, and any other income or expenses that are not attributable to a specific reporting segment.
+The following table summarizes the results of operations of each of our segments for the three months ended March 31, 2024 and 2023:
+Three Months Ended March 31,
+2024
+2023
+Revenues:
+Medical Office and Life Science Portfolio
+$
+54,149
+$
+57,022
+SHOP
+308,126
+279,592
+Non-Segment
+8,501
+9,416
+Total revenues
+$
+370,776
+$
+346,030
+Net income (loss):
+Medical Office and Life Science Portfolio
+$
+(7,113)
+$
+10,408
+SHOP
+(22,280)
+(27,544)
+Non-Segment
+(56,866)
+(35,522)
+Net loss
+$
+(86,259)
+$
+(52,658)
+The following section analyzes and discusses the results of operations of each of our segments for the periods presented.
+20
+Three Months Ended March 31, 2024 Compared to Three Months Ended March 31, 2023 (dollars and square feet in thousands, except average monthly rate):
+Unless otherwise indicated, references in this section to changes or comparisons of results, income or expenses refer to comparisons of the results for the three months ended March 31, 2024 to the three months ended March 31, 2023. Our definition of net operating income, or NOI, and our reconciliation of net income (loss) to NOI and a description of why we believe NOI is an appropriate supplemental measure are included below under the heading “Non-GAAP Financial Measures.”
+Three Months Ended March 31,
+2024
+2023
+$ Change
+% Change
+NOI by segment:
+Medical Office and Life Science Portfolio
+$
+30,252
+$
+33,507
+$
+(3,255)
+(9.7)
+%
+SHOP
+24,710
+17,263
+7,447
+43.1
+%
+Non-Segment
+8,210
+9,180
+(970)
+(10.6)
+%
+Total NOI
+63,172
+59,950
+3,222
+5.4
+%
+Depreciation and amortization
+70,133
+64,800
+5,333
+8.2
+%
+General and administrative
+7,568
+5,873
+1,695
+28.9
+%
+Acquisition and certain other transaction related costs
+86
+93
+(7)
+(7.5)
+%
+Impairment of assets
+12,142
+5,925
+6,217
+104.9
+%
+(Loss) gain on sale of properties
+(5,874)
+1,233
+(7,107)
+nm
+Gains and losses on equity securities, net
+—
+8,126
+(8,126)
+(100.0)
+%
+Interest and other income
+2,237
+4,195
+(1,958)
+(46.7)
+%
+Interest expense
+(57,576)
+(47,780)
+(9,796)
+20.5
+%
+Loss on modification or early extinguishment of debt
+—
+(1,075)
+1,075
+(100.0)
+%
+Loss before income tax (expense) benefit and equity in net earnings (losses) of investees
+(87,970)
+(52,042)
+(35,928)
+69.0
+%
+Income tax (expense) benefit
+(187)
+31
+(218)
+nm
+Equity in net earnings (losses) of investees
+1,898
+(647)
+2,545
+nm
+Net loss
+$
+(86,259)
+$
+(52,658)
+$
+(33,601)
+63.8
+%
+nm - not meaningful
+Medical Office and Life Science Portfolio
+:
+Comparable Properties
+(1)
+All Properties
+As of March 31,
+As of March 31,
+2024
+2023
+2024
+2023
+Total properties
+93
+93
+102
+105
+Total square feet
+7,651
+7,657
+8,487
+8,809
+Occupancy
+89.8
+%
+92.9
+%
+82.9
+%
+85.1
+%
+Three Months Ended March 31,
+Comparable
+(1)
+Non-Comparable
+Properties Results
+Properties Results
+Consolidated Properties Results
+$
+%
+$
+%
+2024
+2023
+Change
+Change
+2024
+2023
+2024
+2023
+Change
+Change
+Rental income
+$
+52,344
+$
+53,560
+$
+(1,216)
+(2.3)
+%
+$
+1,805
+$
+3,462
+$
+54,149
+$
+57,022
+$
+(2,873)
+(5.0)
+%
+Property operating expenses
+(21,771)
+(20,671)
+1,100
+5.3
+%
+(2,126)
+(2,844)
+(23,897)
+(23,515)
+382
+1.6
+%
+NOI
+$
+30,573
+$
+32,889
+$
+(2,316)
+(7.0)
+%
+$
+(321)
+$
+618
+$
+30,252
+$
+33,507
+$
+(3,255)
+(9.7)
+%
+(1)
+Consists of medical office and life science properties that we have owned and which have been in service continuously since January 1, 2023; excludes properties classified as held for sale or out of service undergoing redevelopment, if any, and properties owned by unconsolidated joint ventures in each of which we own an equity interest.
+Rental income.
+Rental income decreased at our comparable properties primarily due to vacancies at certain of our properties, partially offset by increased parking revenue at one of our properties. Rental income also decreased at our non-comparable
+21
+properties primarily due to a tenant default at one of our properties, partially offset by an increase in rental income at one of our recently redeveloped properties.
+Property operating expenses.
+Property operating expenses consist of real estate taxes, utility expenses, insurance, management fees, salaries and benefit costs of property level personnel, repairs and maintenance expense, cleaning expense and other direct costs of operating these properties. The increase in property operating expenses at our comparable properties is primarily due to an increase in repairs and maintenance expense, real estate taxes and other direct costs. Property operating expenses decreased at our non-comparable properties primarily due to dispositions since January 1, 2023.
+Net operating income.
+The change in NOI reflects the net changes in rental income and property operating expenses described above.
+SHOP
+:
+Comparable Properties
+(1)
+All Properties
+As of and For the Three Months
+As of and For the Three Months
+Ended March 31,
+Ended March 31,
+2024
+2023
+2024
+2023
+Total properties
+229
+229
+232
+234
+Number of units
+25,160
+25,160
+25,220
+25,327
+Occupancy
+79.0
+%
+77.1
+%
+78.9
+%
+76.9
+%
+Average monthly rate
+(2)
+$
+5,165
+$
+4,837
+$
+5,165
+$
+4,837
+Three Months Ended March 31,
+Comparable
+(1)
+Non-Comparable
+Properties Results
+Properties Results
+Consolidated Properties Results
+$
+%
+$
+%
+2024
+2023
+Change
+Change
+2024
+2023
+2024
+2023
+Change
+Change
+Residents fees and services
+$
+308,111
+$
+279,416
+$
+28,695
+10.3
+%
+$
+15
+$
+176
+$
+308,126
+$
+279,592
+$
+28,534
+10.2
+%
+Property operating expenses
+(282,820)
+(261,805)
+21,015
+8.0
+%
+(596)
+(524)
+(283,416)
+(262,329)
+21,087
+8.0
+%
+NOI
+$
+25,291
+$
+17,611
+$
+7,680
+43.6
+%
+$
+(581)
+$
+(348)
+$
+24,710
+$
+17,263
+$
+7,447
+43.1
+%
+(1)
+Consists of senior living communities that we have owned and which have been in service, reported in the same segment and operated by the same operator continuously since January 1, 2023; excludes communities classified as held for sale, closed or out of service, if any.
+(2)
+Average monthly rate reflects the average monthly residents fees and services per occupied unit for the period presented. The average monthly rate is calculated based on the actual number of days during the period.
+Residents fees and services.
+Residents fees and services are the revenues earned at our managed senior living communities. We recognize these revenues as services are provided and related fees are accrued. Residents fees and services increased at our comparable properties primarily due to increases in occupancy and average monthly rate at our communities.
+Property operating expenses.
+Property operating expenses consist of real estate taxes, utility expenses, insurance, wages and benefit costs of community level personnel, repairs and maintenance expense, management fees, cleaning expense and other direct costs of operating these communities. Property operating expenses increased at our comparable properties primarily due to increases in labor costs, dietary expenses, insurance costs and other direct costs, partially offset by reduced contract labor.
+Net operating income.
+The change in NOI reflects the net changes in residents fees and services and property operating expenses described above.
+22
+Non-Segment
+(1)
+:
+Comparable Properties
+(2)
+All Properties
+As of and For the Three Months Ended March 31,
+As of and For the Three Months Ended March 31,
+2024
+2023
+2024
+2023
+Total properties:
+Triple net leased senior living communities
+26
+26
+27
+27
+Wellness centers
+10
+10
+10
+10
+Rent coverage:
+Triple net leased senior living communities
+(3)
+1.49
+x
+1.47
+x
+1.49
+x
+1.47
+x
+Wellness centers
+(3)
+1.67
+x
+1.72
+x
+1.67
+x
+1.72
+x
+Three Months Ended March 31,
+Comparable
+(2)
+Non-Comparable
+Properties Results
+Properties Results
+Consolidated Properties Results
+$
+%
+$
+%
+2024
+2023
+Change
+Change
+2024
+2023
+2024
+2023
+Change
+Change
+Rental income
+$
+8,360
+$
+9,416
+$
+(1,056)
+(11.2)
+%
+$
+141
+$
+—
+$
+8,501
+$
+9,416
+$
+(915)
+(9.7)
+%
+Property operating expenses
+(250)
+(236)
+14
+5.9
+%
+(41)
+—
+(291)
+(236)
+55
+23.3
+%
+NOI
+$
+8,110
+$
+9,180
+$
+(1,070)
+(11.7)
+%
+$
+100
+$
+—
+$
+8,210
+$
+9,180
+$
+(970)
+(10.6)
+%
+(1)
+Non-segment operations consists of all of our other operations, including certain senior living communities and wellness centers that are leased to third party operators, which segment we do not consider to be sufficiently material to constitute a separate reporting segment, and any other income or expenses that are not attributable to a specific reporting segment.
+(2)
+Consists of properties that we have owned and which have been reported in the same segment and leased to the same operator continuously since January 1, 2023; excludes properties classified as held for sale, if any.
+(3)
+All tenant operating data presented are based upon the operating results provided by our tenants for the most recent prior period for which tenant operating results are available to us. Rent coverage is calculated using the annualized operating cash flows from our triple net lease tenants' operations of our properties, before subordinated charges, if any, divided by annualized rental income. We have not independently verified tenant operating data. Excludes data for historical periods prior to our ownership of certain properties, as well as data for properties sold or classified as held for sale, if any, or for which there was a transfer of operations during the periods presented. Excludes rent coverage for one of our closed senior living communities, the tenant of which was in default under the applicable lease with us as of March 31, 2024.
+Rental income.
+Rental income decreased at our comparable properties primarily due to a cash settlement and higher cash rents received during the three months ended March 31, 2023 from a tenant previously in default under leases for six of our wellness centers. In January 2023, we agreed to amend the lease for three of these wellness centers and repossess the remaining three wellness centers. The three wellness centers we repossessed were subsequently re-leased to other tenants.
+Property operating expenses.
+Property operating expenses consist of real estate taxes, insurance and other expenses that are not paid directly by our tenants. There was not a significant change in property operating expenses.
+Net operating income.
+The change in NOI reflects the net changes in rental income and property operating expenses described above.
+Consolidated
+:
+Depreciation and amortization expense.
+Depreciation and amortization expense increased primarily due to the purchase of capital improvements at certain of our properties, partially offset by certain depreciable assets becoming fully depreciated and dispositions since January 1, 2023.
+General and administrative expense
+. General and administrative expense consists of fees paid to RMR under our business management agreement, legal and accounting fees, fees and expenses of our Trustees, equity compensation expense and other costs relating to our status as a publicly traded company. General and administrative expense increased primarily due to $849 of estimated business management incentive fees that we recognized for the three months ended March 31, 2024 as a result of our total shareholder return exceeding the returns for the MSCI U.S. REIT/Health Care REIT Index over the applicable measurement period and an increase in our business management fees of $759.
+Acquisition and certain other transaction related costs.
+Acquisition and certain other transaction related costs primarily represent costs incurred with acquisitions and non-recurring transactions that we expensed under GAAP.
+23
+Impairment of assets.
+For information about our asset impairment charges, see Note 3 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q and Note 3 to our consolidated financial statements included in Part IV, Item 15 of our Annual Report.
+(Loss) gain on sale of properties.
+For information regarding (loss) gain on sale of properties, see Note 3 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q and Note 3 to our consolidated financial statements included in Part IV, Item 15 of our Annual Report.
+Gains and losses on equity securities, net.
+Gains and losses on equity securities, net, represent the net unrealized losses to adjust our investment in AlerisLife to its fair value. For further information regarding our investment in AlerisLife, see Note 11 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+Interest and other income.
+The decrease in interest and other income is primarily due to lower average invested cash balances, partially offset by increased interest rates on invested cash balances during the three months ended March 31, 2024 compared to the three months ended March 31, 2023.
+Interest expense.
+Interest expense increased primarily due to the issuance of $940,534 of our senior secured notes due 2026 in December 2023, resulting in discount accretion of $20,659 in the 2024 period. This increase was partially offset by the repayment and termination of our former credit facility and the redemption of $250,000 of our senior notes that were scheduled to mature in May 2024. The net proceeds from our $940,534 senior secured notes due 2026 were used to make these repayments aggregating $700,000.
+Income tax (expense) benefit
+. Income tax (expense) benefit is the result of operating income we earned in certain jurisdictions where we are subject to state income taxes.
+Equity in net earnings (losses) of investees.
+Equity in net earnings (losses) of investees is the change in the fair value of our investments in our joint ventures and also represents our proportionate share of the earnings of our equity method investment in AlerisLife. For further information regarding our investment in AlerisLife, see Notes 3 and 11 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+24
+Non-GAAP Financial Measures (dollars in thousands, except per share amounts)
+We present certain "non-GAAP financial measures" within the meaning of applicable rules of the Securities and Exchange Commission, or the SEC, including funds from operations, or FFO, normalized funds from operations, or Normalized FFO, and NOI for the three months ended March 31, 2024 and 2023. These measures do not represent cash generated by operating activities in accordance with GAAP and should not be considered alternatives to net income (loss) as indicators of our operating performance or as measures of our liquidity. These measures should be considered in conjunction with net income (loss) as presented in our condensed consolidated statements of comprehensive income (loss). We consider these non-GAAP measures to be appropriate supplemental measures of operating performance for a REIT, along with net income (loss). We believe these measures provide useful information to investors because by excluding the effects of certain historical amounts, such as depreciation and amortization, they may facilitate a comparison of our operating performance between periods and with other REITs and, in the case of NOI, reflecting only those income and expense items that are generated and incurred at the property level may help both investors and management to understand the operations of our properties.
+Funds From Operations and Normalized Funds From Operations
+We calculate FFO and Normalized FFO as shown below. FFO is calculated on the basis defined by the National Association of Real Estate Investment Trusts, which is net income (loss), calculated in accordance with GAAP, excluding any gain or loss on sale of properties, equity in net earnings or losses of investees, loss on impairment of real estate assets, gains or losses on equity securities, net, if any, and including adjustments to reflect our proportionate share of FFO of our equity method investees, plus real estate depreciation and amortization of consolidated properties, as well as certain other adjustments currently not applicable to us. In calculating Normalized FFO, we adjust for the items shown below including similar adjustments for our unconsolidated joint ventures, if any, and include business management incentive fees, if any, only in the fourth quarter versus the quarter when they are recognized as an expense in accordance with GAAP due to their quarterly volatility not necessarily being indicative of our core operating performance and the uncertainty as to whether any such business management incentive fees will be payable when all contingencies for determining such fees are known at the end of the calendar year. FFO and Normalized FFO are among the factors considered by our Board of Trustees when determining the amount of distributions to our shareholders. Other factors include, but are not limited to, requirements to maintain our qualification for taxation as a REIT, limitations in the agreements governing our debt, the availability to us of debt and equity capital, our expectation of our future capital requirements and operating performance, and our expected needs for and availability of cash to pay our obligations. Other real estate companies and REITs may calculate FFO and Normalized FFO differently than we do.
+Our calculations of FFO and Normalized FFO for the three months ended March 31, 2024 and 2023 and reconciliations of net income (loss), the most directly comparable financial measure under GAAP reported in our condensed consolidated financial statements, to FFO and Normalized FFO appear in the following table. This table also provides a comparison of distributions to shareholders, FFO and Normalized FFO and net income (loss) per share for these periods.
+25
+Three Months Ended March 31,
+2024
+2023
+Net loss
+$
+(86,259)
+$
+(52,658)
+Depreciation and amortization
+70,133
+64,800
+Loss (gain) on sale of properties
+5,874
+(1,233)
+Impairment of assets
+12,142
+5,925
+Gains on equity securities, net
+—
+(8,126)
+Equity in net (earnings) losses of investees
+(1,898)
+647
+Share of FFO from unconsolidated joint ventures
+2,014
+1,999
+Adjustments to reflect our share of FFO attributable to an equity method investment
+582
+(1,586)
+FFO
+2,588
+9,768
+Business management incentive fees
+(1)
+849
+—
+Acquisition and certain other transaction related costs
+86
+93
+Loss on modification or early extinguishment of debt
+—
+1,075
+Adjustments to reflect our share of Normalized FFO attributable to an equity method investment
+—
+1,576
+Normalized FFO
+$
+3,523
+$
+12,512
+Weighted average common shares outstanding (basic and diluted)
+239,193
+238,589
+Per common share data (basic and diluted):
+Net loss
+$
+(0.36)
+$
+(0.22)
+FFO
+$
+0.01
+$
+0.04
+Normalized FFO
+$
+0.01
+$
+0.05
+Distributions declared
+$
+0.01
+$
+0.01
+(1)
+Incentive fees under our business management agreement are payable after the end of each calendar year, are calculated based on common share total return, as defined, and are included in general and administrative expense in our condensed consolidated statements of comprehensive income (loss). In calculating net income (loss) in accordance with GAAP, we recognize estimated business management incentive fee expense, if any, in the first, second and third quarters. Although we recognize this expense, if any, in the first, second and third quarters for purposes of calculating net income (loss), we do not include these amounts in the calculation of Normalized FFO until the fourth quarter, when the amount of the business management incentive fee expense for the calendar year, if any, is determined.
+Property Net Operating Income (NOI)
+We calculate NOI as shown below. The calculation of NOI excludes certain components of net income (loss) in order to provide results that are more closely related to our property level results of operations. We define NOI as income from our real estate less our property operating expenses. NOI excludes amortization of capitalized tenant improvement costs and leasing commissions that we record as depreciation and amortization. We use NOI to evaluate individual and company-wide property level performance. Other real estate companies and REITs may calculate NOI differently than we do.
+26
+The calculation of NOI by reportable segment is included above in this Item 2. The following table includes the reconciliation of net loss to NOI for the three months ended March 31, 2024 and 2023.
+Three Months Ended March 31,
+2024
+2023
+Reconciliation of Net Loss to NOI:
+Net loss
+$
+(86,259)
+$
+(52,658)
+Equity in net (earnings) losses of investees
+(1,898)
+647
+Income tax expense (benefit)
+187
+(31)
+Loss before income tax (expense) benefit and equity in net earnings (losses) of investees
+(87,970)
+(52,042)
+Loss on modification or early extinguishment of debt
+—
+1,075
+Interest expense
+57,576
+47,780
+Interest and other income
+(2,237)
+(4,195)
+Gains on equity securities, net
+—
+(8,126)
+Loss (gain) on sale of properties
+5,874
+(1,233)
+Impairment of assets
+12,142
+5,925
+Acquisition and certain other transaction related costs
+86
+93
+General and administrative
+7,568
+5,873
+Depreciation and amortization
+70,133
+64,800
+Total NOI
+$
+63,172
+$
+59,950
+Medical Office and Life Science Portfolio NOI
+$
+30,252
+$
+33,507
+SHOP NOI
+24,710
+17,263
+Non-Segment NOI
+8,210
+9,180
+Total NOI
+$
+63,172
+$
+59,950
+LIQUIDITY AND CAPITAL RESOURCES
+Our principal sources of cash to meet operating and capital expenses, pay our debt service obligations and make distributions to our shareholders are the operating cash flows we generate as rental income from our leased properties, residents fees and services revenues from our managed communities and proceeds from the disposition of certain properties. We believe that these sources of funds will be sufficient to meet our operating and capital expenses, pay our debt service obligations and make distributions to our shareholders for at least the next 12 months. Our future cash flows from operating activities will depend primarily upon:
+•
+our ability to receive rents from our tenants;
+•
+our ability to maintain or increase the occupancy of, and the rates at, our properties;
+•
+our and our managers' abilities to control operating expenses and capital expenses at our properties, including increased operating expenses that we may incur in response to wage and commodity price inflation, limited labor availability and increased insurance costs; and
+•
+our managers' abilities to maintain or increase our returns from our managed senior living communities.
+Although the senior living industry has been adversely affected by a slow recovery from the COVID-19 pandemic, as well as economic and market conditions, there have been signs of recovery. While we are encouraged by positive trends, including increases in rates and occupancy in our SHOP segment and favorable supply and demand dynamics in the senior living industry, generally, we cannot be sure that these trends will continue to benefit us and any benefits we do realize may be uneven. While we continue to experience volatility in labor, insurance and food costs in our SHOP segment, we expect increases in these costs to moderate and we continue to work with our senior living operators to manage these costs and to increase rates and occupancy at our communities, which we believe will enable our managers to generate better returns to us.
+27
+Table of Contents
+We also continue to invest capital in our SHOP segment in order to capitalize on these positive trends and increase the probability of higher cash flows to us.
+On December 21, 2023, we completed a private offering of $940.5 million in aggregate principal amount at maturity of senior secured notes due January 2026, with a one-year extension option. The net proceeds from the offering were approximately $730.4 million after deducting initial purchaser discounts and estimated offering costs. We used a portion of the net proceeds to repay in full the $450.0 million outstanding under our then secured credit facility and to redeem $250.0 million of our senior notes that were scheduled to mature in May 2024. As a result of these transactions, we have no significant debt maturities until June 2025 when $500.0 million of our senior notes will become due, and as of March 31, 2024, we had $207.1 million of cash and cash equivalents. Additionally, as of March 31, 2024, our ratio of consolidated income available for debt service to debt service is above the 1.5x incurrence requirement under our senior notes, on a pro forma basis. We are able to refinance existing or maturing debt and issue new debt as long as this ratio is at or above 1.5x on a pro forma basis at the time of such refinancing or issuance.
+Until its repayment in full and termination on December 21, 2023, we had a $450.0 million credit facility that was fully drawn.
+During the three months ended March 31, 2024, we sold one property for a sales price of $3.6 million, excluding closing costs. As of May 2, 2024, we had two properties under agreements to sell for an aggregate sales price of approximately $10.4 million, excluding closing costs. We may not complete the sales of any or all of the properties we currently plan to sell. Also, we may sell some or all of these properties at amounts that are less than currently expected and/or less than the carrying values of such properties and we may incur losses on any such sales as a result.
+The following is a summary of our sources and uses of cash flows for the periods presented, as reflected in our condensed consolidated statements of cash flows (dollars in thousands):
+Three Months Ended March 31,
+2024
+2023
+Cash and cash equivalents and restricted cash at beginning of period
+$
+246,961
+$
+688,302
+Net cash provided by (used in):
+Operating activities
+28,602
+6,042
+Investing activities
+(58,839)
+(56,744)
+Financing activities
+(8,561)
+(254,931)
+Cash and cash equivalents and restricted cash at end of period
+$
+208,163
+$
+382,669
+Our Operating Liquidity and Resources
+We generally receive minimum rents from tenants at our medical office and life science properties, triple net leased senior living communities and wellness centers monthly, we receive residents fees and services revenues, net of expenses, from our managed senior living communities monthly and we receive percentage rents from tenants at certain of our senior living communities monthly, quarterly or annually.
+The change in cash provided by operating activities for the three months ended March 31, 2024 compared to the prior period was primarily due to increased NOI as a result of increased rates and occupancy at the senior living communities in our SHOP segment. Additionally, cash interest payments decreased in the 2024 period compared to the 2023 period primarily due to the repayment and termination of our former credit facility and the redemption of $250.0 million of senior notes that were scheduled to mature in May 2024.
+Our Investing Liquidity and Resources
+The change in cash used in investing activities for the three months ended March 31, 2024 compared to the prior period was primarily due to our purchase on February 16, 2024 of approximately 34.0% of the then outstanding AlerisLife common shares from ABP Trust at the tender offer price of $1.31 per share for a total purchase price, including transaction related costs, of $15.5 million, partially offset by a decrease in real estate improvements in the 2024 period compared to the 2023 period.
+28
+Table of Contents
+The following is a summary of capital expenditures, development, redevelopment and other activities for the periods presented (dollars in thousands):
+Three Months Ended March 31,
+2024
+2023
+Medical Office and Life Science Portfolio capital expenditures:
+Lease related costs
+(1)
+$
+6,029
+$
+6,748
+Building improvements
+(2)
+919
+856
+Recurring capital expenditures - Medical Office and Life Science Portfolio
+6,948
+7,604
+Wellness centers lease related costs
+(1)
+6,923
+—
+SHOP segment fixed assets and capital improvements
+10,091
+23,644
+Total recurring capital expenditures
+$
+23,962
+$
+31,248
+Development, redevelopment and other activities - Medical Office and Life Science Portfolio
+(3)
+$
+713
+$
+1,922
+Development, redevelopment and other activities - SHOP segment
+(3)
+1,189
+16,223
+Total development, redevelopment and other activities
+$
+1,902
+$
+18,145
+(1)
+Lease related costs generally include capital expenditures to improve tenants' space or amounts paid directly to tenants to improve their space and other leasing related costs, such as brokerage commissions and tenant inducements.
+(2)
+Building improvements generally include capital expenditures to replace obsolete building components that extend the useful life of existing assets or other improvements to increase the marketability of the property.
+(3)
+Development, redevelopment and other activities generally include capital expenditures that reposition a property or result in new sources of revenue.
+We generally plan to continue investing capital in our properties, including redevelopment projects, to better position these properties in their respective markets in order to increase our returns in future years. However, we have deferred, and may continue to defer, our capital expenditures to preserve liquidity.
+As of March 31, 2024, we had estimated unspent leasing related obligations at our triple net leased wellness centers and our medical office and life science properties of approximately $43.2 million, of which we expect to spend approximately $33.1 million during the next 12 months. We expect to fund these obligations using operating cash flows we generate as rental income from our leased properties, residents fees and services revenues from our managed communities, cash on hand, proceeds from the disposition of certain properties and future financing activities with unencumbered properties.
+We are currently in the process of redeveloping certain properties in our Medical Office and Life Science Portfolio and a number of our managed senior living communities, which projects are expected to be completed at various times between 2024 and 2025. We continue to assess opportunities to redevelop other properties in our Medical Office and Life Science Portfolio and SHOP segment. These redevelopment projects may require significant capital expenditures and time to complete, and we have deferred, and may in the future defer, certain redevelopment projects to preserve liquidity.
+Due to labor availability constraints and wage and commodity price inflation, the capital investments we plan to make may be delayed or cost more than we expect. For further information regarding our dispositions, see Note 3 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+Our Financing Liquidity and Resources
+The change in cash used in financing activities for the three months ended March 31, 2024 compared to the prior period was primarily due to higher repayments of borrowings under our former credit facility during the 2023 period.
+As of March 31, 2024, we had $207.1 million of cash and cash equivalents. We typically use cash balances, net proceeds from offerings of securities, debt issuances or dispositions of assets and cash flows from our operations to fund our operations, debt repayments, distributions, acquisitions, investments, capital expenditures and other general business purposes.
+Until its repayment in full and termination on December 21, 2023, we had a $450.0 million credit facility that was fully drawn. At December 21, 2023, our former credit facility required interest to be paid on borrowings at an annual rate of 8.4%, plus a facility fee of $0.3 million per quarter.
+29
+Table of Contents
+During the three months ended March 31, 2024, we paid quarterly cash distributions to our shareholders totaling approximately $2.4 million using existing cash balances. On April 11, 2024, we declared a quarterly distribution payable to common shareholders of record on April 22, 2024 in the amount of $0.01 per share, or approximately $2.4 million. We expect to pay this distribution on or about May 16, 2024 using cash on hand. For further information regarding the distribution we paid during 2023, see Note 7 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+We believe we may have access to certain types of financings, including debt or equity offerings, to fund our operations and repay our debts and other obligations as they become due. Our ability to complete, and the costs associated with, future debt or equity transactions depends primarily upon credit market conditions and our then creditworthiness and our ability to be in compliance with our debt covenants as discussed below. We have no control over market conditions. Our credit and debt ratings depend upon evaluations by credit rating agencies of our business practices and plans, including our ability to maintain our earnings, to stagger our debt maturities and to balance our use of debt and equity capital so that our financial performance and leverage ratios afford us flexibility to withstand any reasonably anticipated adverse changes. Similarly, our ability to raise equity capital in the future will depend primarily upon equity capital market conditions and our ability to conduct our business to maintain and grow our operating cash flows. We intend to conduct our business activities in a manner which will afford us reasonable access to capital for investment and financing activities, but we cannot be sure that we will be able to successfully carry out that intention. A protracted negative impact on the economy or the industries in which our properties and businesses operate, wage and commodity price inflation, high interest rates, increased insurance costs, geopolitical risks or other economic, market or industry conditions, including the delayed recovery of the senior housing industry, economic downturns and a possible recession, may have various negative consequences including a decline in financing availability and increased costs for financing. Further, those conditions could also disrupt capital markets and limit our access to financing from public sources, particularly if the global financial markets experience significant disruptions.
+In January 2023, pursuant to the then existing credit agreement, we repaid $113.6 million in outstanding borrowings under our former credit facility and the commitments were reduced to $586.4 million. In February 2023, we and our lenders amended the credit agreement to reduce the commitments from $586.4 million to $450.0 million following our repayment of $136.4 million in outstanding borrowings under our former credit facility.
+In December 2023, we issued $940.5 million in aggregate principal amount at maturity of our senior secured notes due 2026 in a private offering, raising net proceeds of $730.4 million, after deducting initial purchaser discounts and estimated offering costs. These notes are fully and unconditionally guaranteed, on a joint, several and senior secured basis, by the Collateral Guarantors, and on a joint, several and unsecured basis, by all our subsidiaries other than the Collateral Guarantors and certain excluded subsidiaries. These notes and the guarantees provided by the Collateral Guarantors are secured by a first priority lien and security interest in each of the collateral properties and 100% of the equity interests in each of the Collateral Guarantors. No cash interest will accrue on these notes prior to maturity. The accreted value of these notes will increase at a rate of 11.25% per annum compounded semiannually on January 15 and July 15 of each year. We used the net proceeds from this offering to repay in full and terminate our then $450.0 million secured credit facility and to redeem $250.0 million of our senior notes which were scheduled to mature in May 2024.
+In January 2024, Moody's Investors Service, or Moody's, upgraded our 9.75% senior notes due 2025 and our 4.375% senior notes due 2031 ratings from Ca to Caa3 and our senior unsecured debt rating from C to Ca, and Moody's also assigned a Caa2 rating to our senior secured notes due 2026.
+In January 2024, Standard & Poor's Rating Services, or Standard & Poor's, upgraded our 9.75% senior notes due 2025 rating from CCC+ to B, our 4.375% senior notes due 2031 rating from CCC+ to B and our senior unsecured debt rating from CCC- to CCC, and Standard & Poor's also assigned a B rating to our senior secured notes due 2026.
+For further information regarding our outstanding debt, see Note 5 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+Debt Covenants
+Our principal debt obligations at March 31, 2024 were: (1) $2.1 billion outstanding principal amount of senior unsecured notes; (2) $940.5 million outstanding principal amount of senior secured notes; and (3) $8.7 million aggregate principal amount of mortgage notes (excluding discounts, premiums and net debt issuance costs) secured by one property. For further information regarding our indebtedness, see Note 5 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q.
+30
+Table of Contents
+Our senior notes are governed by our senior notes indentures and their supplements. Our senior notes indentures and their supplements provide for acceleration of payment of all amounts outstanding upon the occurrence and continuation of certain events of default. Our senior notes indentures and their supplements also contain covenants that restrict our ability to incur debts, including debts secured by mortgages on our properties, in excess of calculated amounts and require us to maintain various financial ratios. As of March 31, 2024, we believe we were in compliance with all of the covenants under our senior notes indentures and their supplements and our other debt obligations. Although we continue to take steps to enhance our ability to maintain sufficient liquidity, as noted elsewhere in this Quarterly Report on Form 10-Q, a protracted negative impact on the economy or the industries in which our properties and businesses operate resulting from wage or commodity price inflation, high interest rates, geopolitical risks or other economic, market or industry conditions, including the delayed recovery of the senior housing industry, economic downturns or a possible recession, may cause increased pressure on our ability to satisfy financial and other covenants. If our operating results and financial condition are significantly negatively impacted by economic conditions or otherwise, we may fail to satisfy our debt covenants and conditions.
+Our senior notes indentures and their supplements do not contain provisions for acceleration which could be triggered by our debt ratings. See "—Our Financing Liquidity and Resources" above for information regarding recent changes to our issuer credit rating and senior debt ratings.
+Our senior unsecured notes indentures and their supplements contain cross default provisions to any other debts of more than $20.0 million ($50.0 million or more in the case of our senior notes indentures and supplements entered in February 2016, February 2018, June 2020, February 2021 and December 2023).
+The loan agreements governing the aggregate $620.0 million secured debt financing related to the Seaport JV contain customary covenants and provide for acceleration of payment of all amounts due thereunder upon the occurrence and continuation of certain events of default. We no longer include this $620.0 million of secured debt financing in our condensed consolidated balance sheet following the deconsolidation of the net assets of this joint venture; however, we continue to provide certain guaranties on this debt. The debt secured by the properties included in the LSMD JV in which we own a 20% equity interest is guaranteed by this joint venture and is non-recourse to us.
+Supplemental Guarantor Information
+On May 28, 2020, we issued $1.0 billion of our 9.75% senior notes due 2025. We subsequently redeemed $500.0 million of this debt in June 2022, with $500.0 million remaining outstanding. On February 3, 2021, we issued $500.0 million of our 4.375% senior notes due 2031. As of March 31, 2024, all $500.0 million of our 9.75% senior notes due 2025 and all $500.0 million of our 4.375% senior notes due 2031 were fully and unconditionally guaranteed, on a joint, several and unsecured basis, by all of our subsidiaries, except for certain excluded subsidiaries. The notes and related guarantees are effectively subordinated to all of our and the subsidiary guarantors' secured indebtedness, respectively, to the extent of the value of the collateral securing such secured indebtedness, and are structurally subordinated to all indebtedness and other liabilities and any preferred equity of any of our subsidiaries that do not guarantee the notes. Our remaining $1.1 billion of senior unsecured notes do not have the benefit of any guarantees.
+A subsidiary guarantor's guarantee of our 9.75% senior notes due 2025 and our 4.375% senior notes due 2031, as applicable, and all other obligations of such subsidiary guarantor under the indenture governing the notes will automatically terminate and such subsidiary guarantor will automatically be released from all of its obligations under such subsidiary guarantee and the indenture under certain circumstances, including on or after the date (a) the notes have an investment grade rating from two rating agencies and one of such investment grade ratings is a mid-BBB investment grade rating and (b) no default or event of default has occurred and is continuing under the indenture. Our non-guarantor subsidiaries are separate and distinct legal entities and have no obligation, contingent or otherwise, to pay any amounts due on our 9.75% senior notes due 2025 or our 4.375% senior notes due 2031 or the respective guarantees, or to make any funds available therefor, whether by dividend, distribution, loan or other payments. The rights of holders of our 9.75% senior notes due 2025 and our 4.375% senior notes due 2031, as applicable, to benefit from any of the assets of our non-guarantor subsidiaries are subject to the prior satisfaction of claims of those subsidiaries' creditors and any preferred equity holders. As a result, our 9.75% senior notes due 2025 and our 4.375% senior notes due 2031 and the respective guarantees are structurally subordinated to all indebtedness, guarantees and other liabilities of our subsidiaries that do not guarantee our 9.75% senior notes due 2025 and our 4.375% senior notes due 2031, including guarantees of other indebtedness of ours, payment obligations under lease agreements, trade payables and preferred equity.
+31
+Table of Contents
+The following tables present summarized financial information for guarantor entities and issuer, on a combined basis after eliminating (i) intercompany transactions and balances among the guarantor entities and (ii) equity in earnings from, and any investments in, any subsidiary that is a non-guarantor (dollars in thousands):
+March 31, 2024
+December 31, 2023
+Real estate properties, net
+$
+3,633,182
+$
+3,685,280
+Other assets, net
+465,650
+502,590
+Total assets
+$
+4,098,832
+$
+4,187,870
+Indebtedness, net
+$
+2,825,647
+$
+2,803,829
+Other liabilities
+214,307
+241,742
+Total liabilities
+$
+3,039,954
+$
+3,045,571
+Three Months Ended March 31, 2024
+Revenues
+$
+324,711
+Expenses
+365,317
+Loss from continuing operations
+(95,658)
+Net loss
+(93,947)
+Related Person Transactions
+We have relationships and historical and continuing transactions with RMR, RMR Inc., AlerisLife (including Five Star) and others related to them. For further information about these and other such relationships and related person transactions, see Notes 9, 10 and 11 to our condensed consolidated financial statements included in Part I, Item 1 of this Quarterly Report on Form 10-Q, our Annual Report, our definitive Proxy Statement for our 2024 Annual Meeting of Shareholders and our other filings with the SEC. In addition, see the section captioned “Risk Factors” of our Annual Report for a description of risks that may arise as a result of these and other related person transactions and relationships. We may engage in additional transactions with related persons, including businesses to which RMR or its subsidiaries provide management services.
+Critical Accounting Estimates
+The preparation of financial statements in conformity with GAAP requires us to make estimates and assumptions that affect reported amounts. Actual results could differ from those estimates. Significant estimates in our condensed consolidated financial statements include purchase price allocations, useful lives of fixed assets and impairments of real estate and intangible assets.
+A discussion of our critical accounting estimates is included in our Annual Report. There have been no significant changes in our critical accounting estimates since the year ended December 31, 2023.
+Impact of Government Reimbursement
+For the three months ended March 31, 2024, substantially all of our NOI was generated from properties where a majority of the revenues are derived from our tenants' and residents' private resources, and a small amount of our NOI was generated from properties where a majority of the revenues are derived from Medicare and Medicaid payments. Nonetheless, we own, and our tenants, managers and operators operate, facilities in many states that participate in federal and state healthcare payment programs, including the federal Medicare and state Medicaid programs and other federal and state healthcare payment programs. Also, some of our medical office and life science property tenants participate in federal Medicare and state Medicaid programs and other government healthcare payment programs.
+32
+Table of Contents
+For more information regarding the government healthcare funding and regulation of our business, please see the section captioned “Business—Government Regulation and Reimbursement” in our Annual Report and the section captioned “Management's Discussion and Analysis of Financial Condition and Results of Operations—Impact of Government Reimbursement” in our Annual Report.
+Item 3.  Quantitative and Qualitative Disclosures About Market Risk.
+We are exposed to risks associated with market changes in interest rates. We manage our exposure to this market risk by monitoring available financing alternatives. Other than as described below, we do not currently foresee any significant changes in our exposure to fluctuations in interest rates or in how we manage this exposure in the near future.
+We may in the future enter into hedge arrangements or derivative contracts from time to time to mitigate our exposure to changes in interest rates.
+Fixed Rate Debt
+There have been no material changes to market interest rate risks associated with our fixed rate debt during the three months ended March 31, 2024. For a discussion of market interest rate risks associated with our fixed rate debt, see "Quantitative and Qualitative Disclosures About Market Risk" included in Part II, Item 7A of our 2023 Annual Report.
+Floating Rate Debt
+At March 31, 2024, we did not have any floating rate debt obligations.
+Item 4.  Controls and Procedures.
+As of the end of the period covered by this Quarterly Report on Form 10-Q, our management carried out an evaluation, under the supervision and with the participation of our President and Chief Executive Officer and our Chief Financial Officer and Treasurer, of the effectiveness of our disclosure controls and procedures pursuant to Rules 13a-15 and 15d-15 under the Securities Exchange Act of 1934, as amended. Based upon that evaluation, our President and Chief Executive Officer and our Chief Financial Officer and Treasurer concluded that our disclosure controls and procedures are effective.
+There have been no changes in our internal control over financial reporting during the quarter ended March 31, 2024 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+33
+Table of Contents
+Warning Concerning Forward-Looking Statements
+This Quarterly Report on Form 10-Q contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and other securities laws that are subject to risks and uncertainties. These statements may include words such as “believe”, “expect”, “anticipate”, “intend”, “plan”, “estimate”, “will”, “may” and negatives or derivatives of these or similar expressions. These forward-looking statements include, among others, statements about: our efforts to manage costs and increase occupancy at our SHOP communities; demand for medical office and life science leased space; our future leasing activity; market demand and supply for healthcare services for older adults and senior living communities; expected costs related to the transition of certain senior living communities; our leverage; the sufficiency of our liquidity; our liquidity needs and sources; our capital expenditure plans and commitments; the transition of operations at certain of our senior living communities to new managers; our acquisitions and our pending or potential property dispositions; our redevelopment, repositioning and construction activities and plans; and the amount and timing of future distributions.
+Forward-looking statements reflect our current expectations, are based on judgments and assumptions, are inherently uncertain and are subject to risks, uncertainties and other factors, which could cause our actual results, performance or achievements to differ materially from expected future results, performance or achievements expressed or implied in those forward-looking statements. Some of the risks, uncertainties and other factors that may cause our actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements include, but are not limited to, the following:
+•
+The impact of unfavorable market and commercial real estate industry conditions due to possible reduced demand for healthcare related space and senior living communities, high interest rates, wage and commodity price inflation, limited labor availability, increased insurance costs, supply chain disruptions, volatility in the public equity and debt markets, pandemics, geopolitical instability and tensions, economic downturns or a possible recession or changes in real estate utilization, among other things, on us and our managers and other operators and tenants,
+•
+Our senior living operators' abilities to successfully and profitably operate the communities they manage for us,
+•
+The continuing impact of changing market practices, including those that arose or intensified during the COVID-19 pandemic, or delayed returns to prior market practices on us and our managers and other operators and tenants, such as reduced demand for leased medical office, life science and other space of ours and residencies at senior living communities, increased operating costs and labor availability constraints,
+•
+The financial strength of our managers and other operators and tenants,
+•
+Whether the aging U.S. population and increasing life spans of seniors will increase the demand for senior living communities and other medical and healthcare related properties and healthcare services,
+•
+Whether our tenants will renew or extend their leases or whether we will obtain replacement tenants on terms as favorable to us as our prior leases,
+•
+The likelihood that our tenants and residents will pay rent or be negatively impacted by continuing unfavorable market and commercial real estate industry conditions,
+•
+Our managers' abilities to increase or maintain rates charged to residents of our senior living communities and manage operating costs for those communities,
+•
+Our ability to increase or maintain occupancy at our properties on terms desirable to us,
+•
+Our ability to increase rents when our leases expire or renew,
+•
+Costs we incur and concessions we grant to lease our properties,
+•
+Risk and uncertainties regarding the costs and timing of development, redevelopment and repositioning activities, including as a result of prolonged high inflation, cost overruns, supply chain challenges, labor shortages, construction delays or inability to obtain necessary permits or volatility in the commercial real estate markets,
+•
+Our ability to manage our capital expenditures and other operating costs effectively and to maintain and enhance our properties and their appeal to tenants and residents,
+34
+Table of Contents
+•
+Our ability to effectively raise and balance our use of debt and equity capital,
+•
+Our ability to comply with the financial covenants under our debt agreements,
+•
+Our ability to make required payments on our debt,
+•
+Our ability to maintain sufficient liquidity and otherwise manage leverage,
+•
+Our credit ratings,
+•
+Our ability to sell properties at prices or returns we target,
+•
+Our ability to sell additional equity interests in, or contribute additional properties to, our existing joint ventures, or enter into additional, real estate joint ventures or to attract co-venturers and benefit from our existing joint ventures or any real estate joint ventures we may enter into,
+•
+Our ability to acquire, develop, redevelop or reposition properties that realize our targeted returns,
+•
+Our ability to pay distributions to our shareholders and to maintain or increase the amount of such distributions,
+•
+The ability of RMR to successfully manage us,
+•
+Competition in the real estate industry, particularly in those markets in which our properties are located,
+•
+Government regulations affecting Medicare and Medicaid reimbursement rates and operational requirements,
+•
+Compliance with, and changes to, federal, state and local laws and regulations, accounting rules, tax laws and similar matters,
+•
+Exposure to litigation and regulatory and government proceedings due to the nature of the senior living and other health and wellness related service businesses,
+•
+Actual and potential conflicts of interest with our related parties, including our Managing Trustees, RMR, ABP Trust, AlerisLife and others affiliated with them,
+•
+Limitations imposed by and our ability to satisfy complex rules to maintain our qualification for taxation as a REIT for U.S. federal income tax purposes,
+•
+Acts of terrorism, outbreaks of pandemics or other public health safety events or conditions, war or other hostilities, global climate change or other manmade or natural disasters beyond our control, and
+•
+Other matters.
+These risks, uncertainties and other factors are not exhaustive and should be read in conjunction with other cautionary statements that are included in our periodic filings. The information contained elsewhere in this Quarterly Report on Form 10-Q or in our other filings with the SEC, including under the caption “Risk Factors”, or incorporated herein or therein, identifies other important factors that could cause differences from our forward-looking statements. Our other filings with the SEC are available on the SEC's website at www.sec.gov.
+You should not place undue reliance upon our forward-looking statements.
+Except as required by law, we do not intend to update or change any forward-looking statements as a result of new information, future events or otherwise.
+35
+Table of Contents
+Statement Concerning Limited Liability
+The Amended and Restated Declaration of Trust establishing Diversified Healthcare Trust, dated September 20, 1999, as amended and supplemented, as filed with the State Department of Assessments and Taxation of Maryland, provides that no trustee, officer, shareholder, employee or agent of Diversified Healthcare Trust shall be held to any personal liability, jointly or severally, for any obligation of, or claim against, Diversified Healthcare Trust. All persons dealing with Diversified Healthcare Trust in any way shall look only to the assets of Diversified Healthcare Trust for the payment of any sum or the performance of any obligation.
+36
+Table of Contents
+PART II.
+Other Information
+Item 1A. Risk Factors.
+There have been no material changes to risk factors from those we previously disclosed in our Annual Report.
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Issuer purchases of equity securities.
+The following table provides information about our purchases of our equity securities during the quarter ended March 31, 2024:
+Calendar Month
+Number of Shares Purchased
+(1)
+Average Price Paid per Share
+Total Number of Shares Purchased as Part of Publicly Announced Plans or Programs
+Maximum Approximate Dollar Value of Shares that May Yet Be Purchased Under the Plans or Programs
+January 1 - January 31, 2024
+5,535
+$
+3.59
+—
+$
+—
+March 1 - March 31, 2024
+24,641
+2.35
+—
+—
+Total
+30,176
+$
+2.58
+—
+$
+—
+(1) These common share withholdings and purchases were made to satisfy tax withholding and payment obligations of certain former employees of RMR in connection with the vesting of prior awards of our common shares. We withheld and purchased these common shares at their fair market values based upon the trading prices of our common shares at the close of trading on Nasdaq on the purchase dates.
+Item 6. Exhibits.
+Exhibit
+Number
+Description
+3.1
+Composite Copy of Articles of Amendment and Restatement, dated September 20, 1999, as amended to date. (Incorporated by reference to the Company's Quarterly Report on Form 10-Q for the quarter ended June 30, 2020.)
+3.2
+Articles Supplementary, dated May 11, 2000. (Incorporated by reference to the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2000.)
+3.3
+Articles Supplementary, dated June 30, 2017. (Incorporated by reference to the Company's Current Report on Form 8-K filed on June 30, 2017.)
+3.4
+Articles Supplementary, dated May 19, 2020. (Incorporated by reference to the Company's Current Report on Form 8-K filed on May 20, 2020.)
+3.5
+Third Amended and Restated Bylaws of the Company, adopted November 1, 2023. (Incorporated by reference to the Company's Quarterly Report on Form 10-Q for the quarter ended September 30, 2023.)
+4.1
+Form of Common Share Certificate. (Incorporated by reference to the Company's Current Report on Form 8-K filed on January 2, 2020.)
+4.2
+Indenture, dated as of December 20, 2001, between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association, as successor trustee to State Street Bank and Trust Company). (Incorporated by reference to the Company's Registration Statement on Form S-3, File No. 333-76588.)
+4.3
+Supplemental Indenture No. 7, dated as of July 20, 2012, between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 5.625% Senior Notes due 2042, including form thereof. (Incorporated by reference to the Company's Registration Statement on Form 8-A filed on July 20, 2012.)
+4.4
+Indenture, dated as of February 18, 2016, between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association). (Incorporated by reference to the Company's Current Report on Form 8-K filed on February 18, 2016.)
+4.5
+First Supplemental Indenture, dated as of February 18, 2016, between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 6.25% Senior Notes due 2046, including form thereof. (Incorporated by reference to the Company's Current Report on Form 8-K filed on February 18, 2016.)
+37
+Table of Contents
+4.6
+Second Supplemental Indenture, dated as of February 12, 2018, between the Company and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 4.75% Senior Notes due 2028, including form thereof. (Incorporated by reference to the Company's Annual Report on Form 10-K for the year ended December 31, 2017.)
+4.7
+Third Supplemental Indenture, dated as of June 2, 2020, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 9.750% Senior Notes due 2025, including form thereof. (Incorporated by reference to the Company's Current Report on Form 8-K filed on June 5, 2020.)
+4.8
+Supplemental Indenture, dated as of March 5, 2021, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 9.750% Senior Notes due 2025. (Incorporated by reference to the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2021.)
+4.9
+Supplemental Indenture, dated as of September 9, 2022, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 9.750% Senior Notes due 2025. (Incorporated by reference to the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022.)
+4.10
+Supplemental Indenture, dated as of November 22, 2022, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 9.750% Senior Notes due 2025. (Incorporated by reference to the Company's Annual Report on Form 10-K for the year ended December 31, 2022.)
+4.11
+Supplemental Indenture, dated as of March 1, 2024, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 9.750% Senior Notes due 2025. (Filed herewith.)
+4.12
+Fourth Supplemental Indenture, dated as of February 8, 2021, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 4.375% Senior Notes due 2031, including form thereof. (Incorporated by reference to the Company's Annual Report on Form 10-K for the year ended December 31, 2020.)
+4.13
+Supplemental Indenture, dated as of March 5, 2021, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 4.375% Senior Notes due 2031. (Incorporated by reference to the Company's Quarterly Report on Form 10-Q for the quarter ended March 31, 2021.)
+4.14
+Supplemental Indenture, dated as of September 9, 2022, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 4.375% Senior Notes due 2031. (Incorporated by reference to the Company’s Quarterly Report on Form 10-Q for the quarter ended September 30, 2022.)
+4.15
+Supplemental Indenture, dated as of November 22, 2022, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 4.375% Senior Notes due 2031. (Incorporated by reference to the Company's Annual Report on Form 10-K for the year ended December 31, 2022.)
+4.16
+Supplemental Indenture, dated as of March 1, 2024, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association), related to 4.375% Senior Notes due 2031. (Filed herewith.)
+4.17
+Indenture, dated as of December 21, 2023, among the Company, certain subsidiaries of the Company named therein as guarantors and U.S. Bank Trust Company, National Association. (Incorporated by reference to the Company's Current Report on Form 8-K filed on December 22, 2023.)
+4.18
+Registration Rights and Lock-Up Agreement, dated as of June 5, 2015, among the Company, ABP Trust (f/k/a Reit Management & Research Trust) and Adam D. Portnoy. (Incorporated by reference to the Company's Current Report on Form 8-K filed on June 8, 2015.)
+10.1
+Release of Certain Guarantors, dated as of March 1, 2024, related to 9.750% Senior Notes due 2025, among the Company, certain subsidiaries of the Company named therein and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association). (Filed herewith.)
+10.2
+Release of Certain Guarantors, dated as of March 1, 2024, related to 4.375% Senior Notes due 2031, among the Company
+, certain subsidiaries of the Company
+named therein and U.S. Bank Trust Company, National Association (as successor in interest to U.S. Bank National Association). (Filed herewith.)
+10.3
+Stockholders Agreement, dated as of February 16, 2024, by and among AlerisLife Inc., the Company, DHC Holdings LLC and ABP Trust. (Filed herewith.)
+22.1
+List of Subsidiary Guarantors.
+(Incorporated by reference to the Company's Annual Report on Form 10-K for the year ended December 31, 202
+3
+.)
+31.1
+Rule 13a-14(a) Certification. (Filed herewith.)
+31.2
+Rule 13a-14(a) Certification. (Filed herewith.)
+38
+Table of Contents
+32.1
+Section 1350 Certification. (Furnished herewith.)
+101.INS
+XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
+101.SCH
+XBRL Taxonomy Extension Schema Document. (Filed herewith.)
+101.CAL
+XBRL Taxonomy Extension Calculation Linkbase Document. (Filed herewith.)
+101.DEF
+XBRL Taxonomy Extension Definition Linkbase Document. (Filed herewith.)
+101.LAB
+XBRL Taxonomy Extension Label Linkbase Document. (Filed herewith.)
+101.PRE
+XBRL Taxonomy Extension Presentation Linkbase Document. (Filed herewith.)
+104
+Cover Page Interactive Data File. (Formatted as Inline XBRL and contained in Exhibit 101.)
+39
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/ Christopher J. Bilotto
+Christopher J. Bilotto
+President and Chief Executive Officer
+Dated: May 6, 2024
+By:
+/s/ Matthew C. Brown
+Matthew C. Brown
+Chief Financial Officer and Treasurer
+(principal financial and accounting officer)
+Dated: May 6, 2024
+40
+

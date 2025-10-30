@@ -1,0 +1,112 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20250620.htm ===
+================================================================================
+
+ahr-20250620
+FALSE
+0001632970
+0001632970
+2025-06-20
+2025-06-20
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+June 20, 2025
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+001-41951
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 7.01 Regulation FD Disclosure.
+Second Quarter 2025 Distribution
+On June 20, 2025, we issued a press release announcing our second quarter 2025 distribution, as further described in Item 8.01 below. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated by reference herein.
+The information furnished under this Item 7.01, including Exhibit 99.1, shall not be deemed to be “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+Item 8.01 Other Events.
+On June 20, 2025, our board of directors authorized a distribution to holders of our common stock of record as of the close of business on June 30, 2025, for the quarter commencing on April 1, 2025 and ending on June 30, 2025. The quarterly distribution will be equal to $0.25 per share of our common stock, which is equal to an annualized distribution rate of $1.00 per share. The second quarter distribution will be paid in cash on or about July 18, 2025, only from legally available funds.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+99.1
+American Healthcare REIT, Inc. Press Release dated June 20, 2025
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+June 20, 2025
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 2: EX-99.1 - exhibit991secondquarter202.htm ===
+================================================================================
+
+Exhibit 99.1
+American Healthcare REIT Declares Second Quarter 2025 Distribution
+IRVINE, Calif., June 20, 2025 — American Healthcare REIT, Inc. (NYSE: AHR) announced today that its board of directors has declared a quarterly distribution of $0.25 per share for the quarter ending June 30, 2025. The distribution will be payable in cash on or about July 18, 2025, to all holders of record of its common stock as of the close of business on June 30, 2025.
+About American Healthcare REIT, Inc.
+American Healthcare REIT, Inc. (NYSE: AHR) is a real estate investment trust that acquires, owns and operates a diversified portfolio of clinical healthcare real estate, focusing primarily on senior housing communities, skilled nursing, and outpatient medical buildings across the United States, and in the United Kingdom and the Isle of Man.
+SOURCE American Healthcare REIT, Inc.
+Investor Contact:
+Alan Peterson
+VP, Investor Relations & Finance
+(949) 270-9200
+investorrelations@ahcreit.com
+Media Contact:
+Damon Elder
+Spotlight Marketing Communications
+(949) 427-1377
+damon@spotlightmarcom.com
+

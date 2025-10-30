@@ -1,0 +1,1811 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20250807.htm ===
+================================================================================
+
+ahr-20250807
+FALSE
+0001632970
+0001632970
+2025-08-07
+2025-08-07
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+August 7, 2025
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+001-41951
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 2.02 Results of Operations and Financial Condition.
+On August 7, 2025, we issued an earnings release announcing our financial position as of June 30, 2025 and our results for the quarter then ended. A copy of the earnings release is attached hereto as Exhibit 99.1 to this Current Report on Form 8-K and is incorporated by reference herein.
+Item 7.01 Regulation FD Disclosure.
+On August 7, 2025, we released certain supplemental data for the quarter ended June 30, 2025. A copy of the supplemental data is attached hereto as Exhibit 99.2 to this Current Report on Form 8-K and is incorporated by reference herein.
+The information contained in Items 2.02 and 7.01 hereof, including Exhibits 99.1 and 99.2 incorporated by reference herein, is being “furnished” and shall not be deemed “filed” for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, except as shall be expressly set forth by the specific reference in such filing.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+99.1
+American Healthcare REIT, Inc. Earnings Release, dated August 7, 2025
+99.2
+American Healthcare REIT, Inc. Second Quarter 2025 Supplemental
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+August 7, 2025
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 2: EX-99.1 - pressrelease-q22025earning.htm ===
+================================================================================
+
+Exhibit 99.1
+Press Release
+Irvine, CA – August 7, 2025
+Contact: Alan Peterson
+Email:
+investorrelations@ahcreit.com
+American Healthcare REIT (“AHR”) Announces Second Quarter 2025 Results;
+Increases Full Year 2025 Guidance
+American Healthcare REIT, Inc. (the “Company,” “we,” “our,” “management,” or “us”) (NYSE: AHR) announced today its second quarter 2025 results and is increasing full year 2025 guidance.
+Key Highlights:
+•
+Reported GAAP net income attributable to controlling interest of $9.9 million and GAAP net income attributable to common stockholders of $0.06 per diluted share for the three months ended June 30, 2025.
+•
+Reported Normalized Funds from Operations attributable to common stockholders (“NFFO”) of $0.42 per diluted share for the three months ended June 30, 2025.
+•
+Achieved total portfolio Same-Store Net Operating Income (“NOI”) growth of 13.9%  for the three months ended June 30, 2025, compared to the same period in 2024.
+•
+Achieved  23.0% and 18.3% Same-Store NOI growth during the three months ended June 30, 2025, from its senior housing operating properties (“SHOP”) and integrated senior health campuses (“ISHC”), respectively, compared to the same period in 2024.
+•
+During the three months ended June 30, 2025, the Company acquired a new SHOP asset for approximately $65.0 million. Year-to-date 2025, the Company has closed on approximately $255 million of new investments.
+•
+During the three months ended June 30, 2025, the Company issued 5,451,577 shares of common stock through its at-the-market equity offering program ("ATM program")  for gross proceeds of approximately $188.6 million. Additionally, the Company entered into a forward sales agreement to sell 3,554,525 shares of common stock through its ATM program, which the Company settled subsequent to quarter end for net proceeds of approximately $126.0 million.
+•
+Increasing total portfolio Same-Store NOI growth guidance for the year ending December 31, 2025, by 150 basis points at the midpoint from a range of 9.0% to 13.0% to a revised range of 11.0% to 14.0%, primarily due to strong operating results in its ISHC and SHOP segments during the three months ended June 30, 2025.
+•
+Increasing NFFO guidance for the year ending December 31, 2025, by $0.05 at the midpoint from a range of $1.58 to $1.64 to a revised range of $1.64 to $1.68, due to increased expectations for full year 2025 NOI growth for its Same-Store portfolio and recent accretive capital allocation activity.
+•
+Reported a 0.8x improvement to Net Debt-to-Annualized Adjusted EBITDA from 4.5x as of March 31, 2025 to 3.7x as of June 30, 2025.
+•
+Awarded the Great Place To Work
+®
+Certification™ for 2025, based on direct feedback from employees and an independent analysis conducted by Great Place To Work
+®
+, the global authority on workplace culture.
+“Fundamentals in the long-term care industry remain solid, as evidenced by our strong growth in the second quarter and year to date. This has prompted an increase in our Same-Store NOI growth and NFFO guidance for the full year 2025,” said Danny Prosky, the Company’s President and Chief Executive Officer. “We are also supplementing our robust organic growth with strategic external investments that we believe will be accretive to our future earnings. We've executed all of this, while still improving our financial position and capacity as highlighted by our Net Debt-to-Annualized Adjusted EBITDA of below 4.0x. As a company, our core mission is providing and facilitating high-quality care and outcomes for residents, and I'm proud that we are advancing that mission by adding more quality assets to our portfolio with best-in-class regional operating partners.”
+Page | 1
+Second Quarter 2025 and Year-To Date 2025 Results
+The Company’s Same-Store NOI growth results for the three and six months ended June 30, 2025 are detailed below. Same-Store NOI growth results from its operating portfolio, comprised of ISHC and SHOP segments, led the Company's growth in the second quarter of 2025, compared to the same period in 2024, supported by proactive expense management, incremental occupancy gains, and mid-single-digit RevPOR growth.
+Three Months Ended June 30, 2025 Relative to Three Months Ended June 30, 2024
+Segment
+Same-Store NOI Growth
+ISHC
+18.3%
+Outpatient Medical
+1.4%
+SHOP
+23.0%
+Triple-Net Leased Properties
+1.4%
+Total Portfolio
+13.9%
+Six Months Ended June 30, 2025 Relative to Six Months Ended June 30, 2024
+Segment
+Same-Store NOI Growth
+ISHC
+19.0%
+Outpatient Medical
+1.7%
+SHOP
+26.6%
+Triple-Net Leased Properties
+0.0%
+Total Portfolio
+14.5%
+“Demand in the first quarter was primarily driven by the winter and flu season, which increased the need for post-acute care skilled nursing care within our ISHC segment, whereas independent and assisted living units saw more move-out activity in the first quarter," said Gabe Willhite, the Company’s Chief Operating Officer. "As the second quarter progressed, we observed demand become more broad-based for our operating portfolio, as ISHC continued to show steady occupancy gains, with stronger relative demand for independent living and assisted living units. Our SHOP segment saw a similar rise in demand, exhibiting consistent occupancy improvements throughout the quarter driven by the most move-ins we have realized in any quarter since prior to the onset of the pandemic, ultimately leading to spot Same-Store occupancy north of 87.5% by quarter end. Looking ahead, we anticipate higher move-in activity to continue through the busier summer selling season across our operating portfolio, which we believe will further increase occupancy. We believe this occupancy trend, coupled with our hands-on asset management approach and revenue management strategies, will provide for solid results in the second half of the year where we expect to continue achieving strong growth within our operating portfolio.”
+Transactional Activity
+During the three months ended June 30, 2025, the Company:
+•
+Completed a previously announced acquisition of a SHOP asset for approximately $65.0 million. Operations at the property were transitioned to Heritage Senior Living, one of the Company's existing regional operators in a RIDEA structure.
+•
+Sold four Non-Core Properties for gross proceeds of approximately $33.5 million, including three previously announced dispositions for gross proceeds of $29 million.
+Subsequent to quarter end, the Company:
+•
+Purchased its partners' 51% outstanding interests in an unconsolidated joint venture including five pre-stabilized campuses. The recently developed campuses contain 704 beds and will continue to be operated by Trilogy Management Services ("TMS"). Four of the campuses are not yet stabilized and opened within the
+Page | 2
+last year. Total consideration for the acquisition of its partners' 51% interests, including the extinguishment of all partnership level debt, was approximately $118.4 million.
+•
+Completed the acquisition of two new SHOP assets for approximately $33.5 million. One of the properties is managed by one of the Company's existing regional operating partners, Compass Senior Living, which managed the asset for the previous owner. Upon acquisition of the other property, the Company installed Great Lakes Management, to operate the building establishing a new regional operator relationship.
+•
+Acquired four new long-term care assets within the Company's ISHC property segment for approximately $65.3 million. These properties were operated by TMS prior to the Company's acquisition, and will continue to be operated by TMS.
+•
+Completed a lease buyout within its ISHC segment for approximately $7.7 million.
+•
+Sold one Non-Core Property for approximately $1.8 million.
+Following the Company's completed transaction activity during the three months ended June 30, 2025, and subsequent to quarter end, the Company has over $300 million of awarded deals within its investments pipeline, which include existing and newly awarded deals since the Company's First Quarter 2025 Earnings Release. The Company expects to close the remaining pipeline by the end of the year, but it cannot guarantee, or provide certainty regarding timing on, the closings. Therefore, the Company is not including any additional transaction activity, including the awarded deals in its investments pipeline, beyond the transactions disclosed as completed in this section within its increased full-year 2025 guidance.
+Development Activity
+The Company did not start any new development projects during the three months ended June 30, 2025. The Company's total in-process development pipeline is expected to cost approximately $57.8 million, of which $23.8 million has been spent as of June 30, 2025.
+Capital Markets and Balance Sheet Activity
+As of June 30, 2025, the Company’s total consolidated indebtedness was $1.55 billion, and it had approximately $733.5
+million of total liquidity, comprised of cash and undrawn capacity on its line of credit. The Company's Net-Debt-to-Annualized Adjusted EBITDA as of June 30, 2025, was 3.7x.
+During the three months ended June 30, 2025, the Company issued 5,451,577 shares of common stock through its ATM program for gross proceeds of approximately $188.6 million, at an average price of $34.60 per share. Additionally, during the three months ended June 30, 2025, the Company entered into a forward sales agreement to sell 3,554,525 shares of common stock through its ATM program. Subsequent to quarter end, the Company settled the entire forward sales agreement by issuing the shares for net cash proceeds of approximately $126.0 million. Also subsequent to quarter end, the Company issued an additional 432,367 shares of common stock for gross proceeds of approximately $15.7 million through its ATM program, at an average price of $36.25 per share.
+“I’m pleased with our ability to deliver exceptional NFFO per share growth all while continuing to de-lever the balance sheet - our strong earnings growth and strategic equity issuances utilizing the ATM program have helped us create capacity for future investment activity.” said Brian Peay, the Company’s Chief Financial Officer.  “Our strong operating performance achieved by our impressive operating partners is driving an increase in our full-year 2025 total portfolio Same-Store NOI growth and NFFO per share guidance.”
+Full Year 2025 Guidance
+The Company is increasing guidance for the year ending December 31, 2025 to reflect its improved outlook on operations, capital markets activity and capital allocation activity executed during the second quarter of 2025, as well as activity completed subsequent to quarter end. Guidance does not assume additional transaction or capital markets activity beyond the items previously disclosed or items disclosed in this earnings release. Updated guidance ranges are detailed in the table on the next page:
+Page | 3
+Full Year 2025 Guidance
+Metric
+Midpoint
+Current FY 2025 Range
+Prior FY 2025 Range
+Net income per diluted share
+$0.35
+$0.33 to $0.37
+$0.29 to $0.35
+NAREIT FFO per diluted share
+$1.59
+$1.57 to $1.61
+$1.49 to $1.55
+NFFO per diluted share
+$1.66
+$1.64 to $1.68
+$1.58 to $1.64
+Total Portfolio SS NOI Growth
+12.5%
+11.0% to 14.0%
+9.0% to 13.0%
+Segment-Level SS NOI Growth / (Decline):
+ISHC
+17.0%
+15.0% to 19.0%
+12.0% to 16.0%
+Outpatient Medical
+1.3%
+1.0% to 1.5%
+(1.0%) to 1.0%
+SHOP
+22.0%
+20.0% to 24.0%
+20.0% to 24.0%
+Triple-Net Leased Properties
+(0.5%)
+(0.8%) to (0.3%)
+(1.5%) to (0.5%)
+Certain of the assumptions underlying the Company’s 2025 guidance can be found within the Non-GAAP reconciliations in this earnings release and in the appendix of the Company’s Second Quarter 2025 Supplemental Financial Information (“Supplemental”). A reconciliation of net income (loss) calculated in accordance with GAAP to NAREIT FFO and NFFO can be found within the Non-GAAP reconciliations in this earnings release. Non-GAAP financial measures and other terms, as used in this earnings release, are also defined and further explained in the Supplemental. The Company is unable to provide, without unreasonable effort, guidance for the most comparable GAAP financial measures of total revenues and property operating and maintenance expenses. Additionally, a reconciliation of the forward-looking Non-GAAP financial measures of Same-Store NOI growth to the comparable GAAP financial measures cannot be provided without unreasonable effort because the Company is unable to reasonably predict certain items contained in the GAAP measures, including non-recurring and infrequent items that are not indicative of the Company’s ongoing operations. Such items include, but are not limited to, impairment on depreciated real estate assets, net gain or loss on sale of real estate assets, stock-based compensation, casualty loss, non-Same-Store revenue and non-Same-Store operating expenses. These items are uncertain, depend on various factors and could have a material impact on the Company’s GAAP results for the guidance period.
+Distributions
+As previously announced, the Company’s Board of Directors declared a cash distribution for the quarter ended June 30, 2025 of $0.25 per share of its common stock. The second quarter distribution was paid in cash on or about July 18, 2025, to stockholders of record as of June 30, 2025.
+Supplemental Information
+The Company has disclosed supplemental information regarding its portfolio, financial position and results of operations as of, and for the three and six months ended June 30, 2025, and certain other information, which is available on the Investor Relations section of the Company's website at
+https://ir.americanhealthcarereit.com
+.
+Conference Call and Webcast Information
+The Company will host a webcast and conference call at 1:00 p.m. Eastern Time on August 8, 2025.
+During the conference call, Company executives will review second quarter 2025 results, discuss recent events and conduct a question-and-answer period.
+To join via webcast, investors may use the following link:
+https://events.q4inc.com/attendee/185284343
+.
+To join the live telephone conference call, please dial one of the following numbers at least five minutes prior to the start time:
+North America - Toll-Free: (800) 715-9871
+International Toll: +1 (646) 307-1963
+Conference ID: 2930459
+A digital replay of the call will be available on the Investor Relations section of the Company’s website at
+https://ir.americanhealthcarereit.com
+shortly after the conclusion of the call.
+Page | 4
+Forward-Looking Statements
+Certain statements contained in this press release, including statements relating to the Company's expectations regarding its performance, interest expense savings, balance sheet, net income or loss per diluted share, NAREIT FFO per diluted share, NFFO per diluted share, total portfolio Same-Store NOI growth, segment-level Same-Store NOI growth or decline, occupancy, NOI growth, revenue growth, margin expansion, purchases and sales of assets, development plans, and plans for Trilogy may be considered forward-looking statements within the meaning of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. The Company intends for all such forward-looking statements to be covered by the applicable safe harbor provisions for forward-looking statements contained in those acts. Such forward-looking statements generally can be identified by the use of forward-looking terminology, such as “may,” “will,” “can,” “expect,” “intend,” “anticipate,” “estimate,” “believe,” “continue,” “possible,” “initiatives,” “focus,” “seek,” “objective,” “goal,” “strategy,” “plan,” “potential,” “potentially,” “preparing,” “projected,” “future,” “long-term,” “once,” “should,” “could,” “would,” “might,” “uncertainty” or other similar words. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this press release. Any such forward-looking statements are based on current expectations, estimates and projections about the industry and markets in which the Company operates, and beliefs of, and assumptions made by, the Company's management and involve known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied therein, including, without limitation, changing macroeconomic conditions, domestic legal and fiscal policies, and geopolitical conditions and other risks disclosed in the Company's Annual Report on Form 10-K for the year ended December 31, 2024, filed on February 28, 2025, and other periodic reports filed with the Securities and Exchange Commission. Except as required by law, the Company does not undertake any obligation to update or revise any forward-looking statements contained in this release.
+Non-GAAP Financial Measures
+The Company’s reported results are presented in accordance with GAAP. The Company also discloses the following non-GAAP financial measures: EBITDA, Adjusted EBITDA, Net Debt-to-Annualized Adjusted EBITDA, NAREIT FFO, NFFO, NOI and Same-Store NOI. The Company believes these non-GAAP financial measures are useful supplemental measures of its operating performance and used by investors and analysts to compare the operating performance of the Company between periods and to other REITs or companies on a consistent basis without having to account for differences caused by unanticipated and/or incalculable items. Definitions of the non-GAAP financial measures used herein and reconciliations to the most directly comparable financial measure calculated in accordance with GAAP can be found at the end of this earnings release. See below and "Definitions" for further information regarding the Company's non-GAAP financial measures.
+EBITDA and Adjusted EBITDA
+Management uses earnings before interest, taxes, depreciation and amortization (“EBITDA”) and Adjusted EBITDA to facilitate internal and external comparisons to our historical operating results and in making operating decisions. EBITDA and Adjusted EBITDA are widely used by investors, lenders, credit and equity analysts in the valuation, comparison, and investment recommendations of companies. Additionally, EBITDA and Adjusted EBITDA are utilized by our Board of Directors to evaluate management. Neither EBITDA nor Adjusted EBITDA represents net income (loss) or cash flows provided by operating activities as determined in accordance with GAAP and should not be considered as alternative measures of profitability or liquidity. Finally, the EBITDA and Adjusted EBITDA may not be comparable to similarly entitled items reported by other REITs or other companies. In addition, management uses Net Debt-to-Annualized Adjusted EBITDA as a measure of our ability to service our debt.
+NAREIT Funds from Operations (FFO) and Normalized Funds from Operations (NFFO)
+We believe that the use of FFO, which excludes the impact of real estate-related depreciation and amortization and impairments, provides a further understanding of our operating performance to investors, industry analysts and our management, and when compared year over year, reflects the impact on our operations from trends in occupancy rates, rental rates, operating costs, general and administrative expenses and interest costs, which
+Page | 5
+may not be immediately apparent from net income (loss) as determined in accordance with GAAP. However, FFO and NFFO should not be construed to be (i) more relevant or accurate than the current GAAP methodology in calculating net income (loss) as an indicator of our operating performance, (ii) more relevant or accurate than GAAP cash flows from operations as an indicator of our liquidity or (iii) indicative of funds available to fund our cash needs, including our ability to make distributions to our stockholders. The method utilized to evaluate the value and performance of real estate under GAAP should be construed as a more relevant measure of operational performance and considered more prominently than the Non-GAAP FFO and NFFO measures and the adjustments to GAAP in calculating FFO and NFFO. Presentation of this information is intended to provide useful information to investors, industry analysts and management as they compare the operating performance metrics used by the REIT industry, although it should be noted that some REITs may use different methods of calculating funds from operations and normalized funds from operations, so comparisons with such REITs may not be meaningful.
+Net Operating Income
+We believe that NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI are appropriate supplemental performance measures to reflect the performance of our operating assets because NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI exclude certain items that are not associated with the operations of the properties. We believe that NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI are widely accepted measures of comparative operating performance in the real estate community and are useful to investors in understanding the profitability and operating performance of our property portfolio. However, our use of the terms NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI may not be comparable to that of other real estate companies as they may have different methodologies for computing these amounts.
+NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI are not equivalent to our net income (loss) as determined under GAAP and may not be a useful measure in measuring operational income or cash flows. Furthermore, NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI should not be considered as alternatives to net income (loss) as an indication of our operating performance or as an alternative to cash flows from operations as an indication of our liquidity. NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI should not be construed to be more relevant or accurate than the GAAP methodology in calculating net income (loss). NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI should be reviewed in conjunction with other measurements as an indication of our performance.
+About American Healthcare REIT, Inc.
+American Healthcare REIT, Inc. (NYSE: AHR) is a real estate investment trust that acquires, owns and operates a diversified portfolio of clinical healthcare real estate, focusing primarily on senior housing communities, skilled nursing facilities, and outpatient medical buildings across the United States, and in the United Kingdom and the Isle of Man.
+Page | 6
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+As of June 30, 2025 and December 31, 2024
+(In thousands, except share and per share amounts) (Unaudited)
+June 30,
+2025
+December 31,
+2024
+ASSETS
+Real estate investments, net
+$
+3,346,121
+$
+3,366,648
+Debt security investment, net
+91,849
+91,264
+Cash and cash equivalents
+133,494
+76,702
+Restricted cash
+36,497
+46,599
+Accounts and other receivables, net
+224,072
+211,104
+Identified intangible assets, net
+155,886
+161,473
+Goodwill
+234,942
+234,942
+Operating lease right-of-use assets, net
+147,893
+163,987
+Other assets, net
+135,896
+135,338
+Total assets
+$
+4,506,650
+$
+4,488,057
+LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY
+Liabilities:
+Mortgage loans payable, net
+$
+983,510
+$
+982,071
+Lines of credit and term loan, net
+549,632
+688,534
+Accounts payable and accrued liabilities
+273,702
+258,324
+Identified intangible liabilities, net
+2,618
+3,001
+Financing obligations
+34,364
+34,870
+Operating lease liabilities
+148,215
+165,239
+Security deposits, prepaid rent and other liabilities
+51,965
+51,856
+Total liabilities
+2,044,006
+2,183,895
+Commitments and contingencies
+Redeemable noncontrolling interests
+—
+220
+Equity:
+Stockholders’ equity:
+Preferred stock, $0.01 par value per share; 200,000,000 shares authorized; none issued and outstanding
+—
+—
+Common Stock, $0.01 par value per share; 700,000,000 shares authorized; 164,578,233 and 157,446,697 shares issued and outstanding as of June 30, 2025 and December 31, 2024, respectively
+1,638
+1,564
+Additional paid-in capital
+3,957,653
+3,720,268
+Accumulated deficit
+(1,536,301)
+(1,458,089)
+Accumulated other comprehensive loss
+(1,993)
+(2,512)
+Total stockholders’ equity
+2,420,997
+2,261,231
+Noncontrolling interests
+41,647
+42,711
+Total equity
+2,462,644
+2,303,942
+Total liabilities, redeemable noncontrolling interests and equity
+$
+4,506,650
+$
+4,488,057
+Page | 7
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME (LOSS)
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands, except share and per share amounts) (Unaudited)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2025
+2024
+2025
+2024
+Revenues:
+Resident fees and services
+$
+501,285
+$
+458,013
+$
+998,461
+$
+910,131
+Real estate revenue
+41,218
+46,568
+84,645
+93,983
+Total revenues
+542,503
+504,581
+1,083,106
+1,004,114
+Expenses:
+Property operating expenses
+426,285
+402,564
+858,708
+806,193
+Rental expenses
+12,990
+13,323
+26,633
+27,050
+General and administrative
+14,943
+11,746
+28,098
+23,574
+Business acquisition expenses
+(79)
+15
+1,758
+2,797
+Depreciation and amortization
+41,941
+45,264
+83,055
+88,031
+Total expenses
+496,080
+472,912
+998,252
+947,645
+Other income (expense):
+Interest expense:
+Interest expense, net
+(22,632)
+(30,596)
+(45,577)
+(67,034)
+(Loss) gain in fair value of derivative financial instruments
+(629)
+388
+(1,379)
+6,805
+(Loss) gain on dispositions of real estate investments, net
+(2,676)
+(2)
+(3,035)
+2,261
+Impairment of real estate investments
+(12,659)
+—
+(34,365)
+—
+Loss from unconsolidated entities
+(1,238)
+(1,035)
+(3,086)
+(2,240)
+Foreign currency gain (loss)
+2,742
+82
+4,158
+(344)
+Other income, net
+1,480
+3,106
+3,005
+4,969
+Total net other expense
+(35,612)
+(28,057)
+(80,279)
+(55,583)
+Income before income taxes
+10,811
+3,612
+4,575
+886
+Income tax expense
+(732)
+(686)
+(1,336)
+(964)
+Net income (loss)
+10,079
+2,926
+3,239
+(78)
+Net income attributable to noncontrolling interests
+(171)
+(947)
+(135)
+(1,835)
+Net income (loss) attributable to controlling interest
+$
+9,908
+$
+1,979
+$
+3,104
+$
+(1,913)
+Net income (loss) per share of Common Stock, Class T common stock and Class I common stock attributable to controlling interest:
+Basic
+$
+0.06
+$
+0.01
+$
+0.02
+$
+(0.02)
+Diluted
+$
+0.06
+$
+0.01
+$
+0.02
+$
+(0.02)
+Weighted average number of shares of Common Stock, Class T common stock and Class I common stock outstanding:
+Basic
+160,499,581
+130,532,144
+158,721,080
+117,413,643
+Diluted
+161,143,556
+130,689,889
+159,318,503
+117,413,643
+Net income (loss)
+$
+10,079
+$
+2,926
+$
+3,239
+$
+(78)
+Other comprehensive income (loss):
+Foreign currency translation adjustments
+343
+12
+519
+(31)
+Total other comprehensive income (loss)
+343
+12
+519
+(31)
+Comprehensive income (loss)
+10,422
+2,938
+3,758
+(109)
+Comprehensive income attributable to noncontrolling interests
+(171)
+(947)
+(135)
+(1,835)
+Comprehensive income (loss) attributable to controlling interest
+$
+10,251
+$
+1,991
+$
+3,623
+$
+(1,944)
+Page | 8
+AMERICAN HEALTHCARE REIT, INC.
+NAREIT FFO and Normalized FFO Reconciliation
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands, except share and per share amounts) (Unaudited)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+10,079
+$
+2,926
+$
+3,239
+$
+(78)
+Depreciation and amortization related to real estate — consolidated properties
+41,850
+45,226
+82,865
+87,955
+Depreciation and amortization related to real estate — unconsolidated entities
+506
+186
+1,003
+372
+Impairment of real estate investments — consolidated properties
+12,659
+—
+34,365
+—
+Loss (gain) on dispositions of real estate investments, net — consolidated properties
+2,676
+2
+3,035
+(2,261)
+Net income attributable to noncontrolling interests
+(171)
+(947)
+(135)
+(1,835)
+Depreciation, amortization, impairments and net gain/loss on dispositions — noncontrolling interests
+(803)
+(5,647)
+(1,695)
+(11,109)
+NAREIT FFO attributable to controlling interest
+$
+66,796
+$
+41,746
+$
+122,677
+$
+73,044
+Business acquisition expenses
+$
+(79)
+$
+15
+$
+1,758
+$
+2,797
+Amortization of above- and below-market leases
+355
+419
+768
+845
+Amortization of closing costs — debt security investment
+12
+80
+49
+156
+Change in deferred rent
+(720)
+(556)
+(1,392)
+(1,145)
+Non-cash impact of changes to equity instruments
+3,190
+2,765
+5,741
+4,700
+Capitalized interest
+(345)
+(71)
+(442)
+(205)
+Loss on debt extinguishments
+1,298
+—
+1,806
+1,280
+Loss (gain) in fair value of derivative financial instruments
+629
+(388)
+1,379
+(6,805)
+Foreign currency (gain) loss
+(2,742)
+(82)
+(4,158)
+344
+Adjustments for unconsolidated entities
+5
+(138)
+5
+(248)
+Adjustments for noncontrolling interests
+(22)
+(50)
+(72)
+75
+Normalized FFO attributable to controlling interest
+$
+68,377
+$
+43,740
+$
+128,119
+$
+74,838
+NAREIT FFO and Normalized FFO weighted average common shares outstanding — diluted
+161,143,556
+130,689,889
+159,318,503
+117,413,643
+NAREIT FFO per common share attributable to controlling interest — diluted
+$
+0.41
+$
+0.32
+$
+0.77
+$
+0.62
+Normalized FFO per common share attributable to controlling interest — diluted
+$
+0.42
+$
+0.33
+$
+0.80
+$
+0.64
+Page | 9
+AMERICAN HEALTHCARE REIT, INC.
+Adjusted EBITDA Reconciliation
+For the Three Months Ended June 30, 2025
+(In thousands) (Unaudited)
+Net income
+$
+10,079
+Interest expense, net (including amortization of deferred financing costs, debt discount/premium and loss on debt extinguishments)
+22,632
+Income tax expense
+732
+Depreciation and amortization (including amortization of leased assets and accretion of lease liabilities)
+42,387
+EBITDA
+$
+75,830
+Loss from unconsolidated entities
+1,238
+Straight line rent and amortization of above/below market leases
+(811)
+Non-cash impact of changes to equity instruments
+3,190
+Business acquisition expenses
+(79)
+Loss on dispositions of real estate investments, net
+2,676
+Amortization of closing costs — debt security investment
+12
+Foreign currency gain
+(2,742)
+Loss in fair value of derivative financial instruments
+629
+Impairment of real estate investments
+12,659
+Non-recurring one-time items
+495
+Adjusted EBITDA
+$
+93,097
+Page | 10
+AMERICAN HEALTHCARE REIT, INC.
+NOI and Cash NOI Reconciliation
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2025
+2024
+2025
+2024
+Net income (loss)
+$
+10,079
+$
+2,926
+$
+3,239
+$
+(78)
+General and administrative
+14,943
+11,746
+28,098
+23,574
+Business acquisition expenses
+(79)
+15
+1,758
+2,797
+Depreciation and amortization
+41,941
+45,264
+83,055
+88,031
+Interest expense
+22,632
+30,596
+45,577
+67,034
+Loss (gain) in fair value of derivative financial instruments
+629
+(388)
+1,379
+(6,805)
+Loss (gain) on dispositions of real estate investments, net
+2,676
+2
+3,035
+(2,261)
+Impairment of real estate investments
+12,659
+—
+34,365
+—
+Loss from unconsolidated entities
+1,238
+1,035
+3,086
+2,240
+Foreign currency (gain) loss
+(2,742)
+(82)
+(4,158)
+344
+Other income, net
+(1,480)
+(3,106)
+(3,005)
+(4,969)
+Income tax expense
+732
+686
+1,336
+964
+Net operating income
+$
+103,228
+$
+88,694
+$
+197,765
+$
+170,871
+Straight line rent
+(821)
+(748)
+(1,556)
+(1,880)
+Facility rental expense
+7,278
+7,888
+14,777
+16,728
+Other non-cash adjustments
+182
+315
+384
+706
+Cash NOI from dispositions
+(393)
+—
+(614)
+—
+Cash NOI attributable to noncontrolling interests
+(1)
+(261)
+(247)
+(517)
+(477)
+Cash NOI
+$
+109,213
+$
+95,902
+$
+210,239
+$
+185,948
+____________
+(1)
+All periods are based upon current quarter's ownership percentage.
+Page | 11
+AMERICAN HEALTHCARE REIT, INC.
+Same-Store NOI Reconciliation
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2025
+2024
+2025
+2024
+ISHC
+NOI
+$
+60,068
+$
+45,308
+$
+112,785
+$
+87,288
+Facility rental expense
+7,278
+7,888
+14,777
+16,728
+Cash NOI from dispositions
+(198)
+—
+(472)
+—
+Cash NOI
+(1)
+$
+67,148
+$
+53,196
+$
+127,090
+$
+104,016
+New acquisitions/dispositions/other
+(1)
+(5,065)
+(224)
+(5,624)
+(1,505)
+Non-Core Properties
+(1)
+—
+(497)
+(563)
+(950)
+Same-Store NOI
+(1)
+$
+62,083
+$
+52,475
+$
+120,903
+$
+101,561
+Outpatient Medical
+NOI
+$
+19,062
+$
+21,011
+$
+39,571
+$
+41,989
+Straight line rent
+(259)
+(128)
+(432)
+(286)
+Other non-cash adjustments
+(36)
+82
+(77)
+246
+Cash NOI from dispositions
+(203)
+—
+(205)
+—
+Cash NOI
+(2)
+$
+18,564
+$
+20,965
+$
+38,857
+$
+41,949
+Dispositions
+—
+(694)
+—
+(1,456)
+Non-Core Properties
+(355)
+(2,318)
+(2,421)
+(4,670)
+Same-Store NOI
+(2)
+$
+18,209
+$
+17,953
+$
+36,436
+$
+35,823
+SHOP
+NOI
+$
+14,932
+$
+10,141
+$
+26,968
+$
+16,650
+Cash NOI from dispositions
+8
+—
+63
+—
+Cash NOI attributable to noncontrolling interests
+(2)
+(70)
+(60)
+(137)
+(106)
+Cash NOI
+$
+14,870
+$
+10,081
+$
+26,894
+$
+16,544
+New acquisitions/dispositions
+(4,002)
+(1,358)
+(6,141)
+(1,332)
+Development conversion
+277
+510
+637
+1,050
+Non-Core Properties
+(35)
+(34)
+(117)
+(34)
+Other normalizing adjustments
+202
+—
+325
+838
+Same-Store NOI
+$
+11,312
+$
+9,199
+$
+21,598
+$
+17,066
+Triple-Net Leased Properties
+NOI
+$
+9,166
+$
+12,234
+$
+18,441
+$
+24,944
+Straight line rent
+(562)
+(620)
+(1,124)
+(1,594)
+Other non-cash adjustments
+218
+233
+461
+460
+Cash NOI attributable to noncontrolling interest
+(2)
+(191)
+(187)
+(380)
+(371)
+Cash NOI
+$
+8,631
+$
+11,660
+$
+17,398
+$
+23,439
+Debt security investment
+(1,163)
+(2,039)
+(2,644)
+(4,120)
+Dispositions
+—
+(2,127)
+—
+(4,291)
+Non-Core Properties
+(161)
+(286)
+(304)
+(576)
+Same-Store NOI
+$
+7,307
+$
+7,208
+$
+14,450
+$
+14,452
+Page | 12
+AMERICAN HEALTHCARE REIT, INC.
+Same-Store NOI Reconciliation - (Continued)
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2025
+2024
+2025
+2024
+Total Portfolio
+NOI
+$
+103,228
+$
+88,694
+$
+197,765
+$
+170,871
+Straight line rent
+(821)
+(748)
+(1,556)
+(1,880)
+Facility rental expense
+7,278
+7,888
+14,777
+16,728
+Other non-cash adjustments
+182
+315
+384
+706
+Cash NOI from dispositions
+(393)
+—
+(614)
+—
+Cash NOI attributable to noncontrolling interests
+(2)
+(261)
+(247)
+(517)
+(477)
+Cash NOI
+(1)(2)
+$
+109,213
+$
+95,902
+$
+210,239
+$
+185,948
+Debt security investment
+(1,163)
+(2,039)
+(2,644)
+(4,120)
+New acquisitions/dispositions/other
+(1)
+(9,067)
+(4,403)
+(11,765)
+(8,584)
+Development conversion
+277
+510
+637
+1,050
+Non-Core Properties
+(1)
+(551)
+(3,135)
+(3,405)
+(6,230)
+Other normalizing adjustments
+(1)
+202
+—
+325
+838
+Same-Store NOI
+(1)(2)
+$
+98,911
+$
+86,835
+$
+193,387
+$
+168,902
+____________
+(1)
+Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024.
+(2)
+All periods are based upon current quarter's ownership percentage.
+Page | 13
+AMERICAN HEALTHCARE REIT, INC.
+Same-Store Revenue Reconciliation
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended June 30,
+Six Ended June 30,
+2025
+2024
+2025
+2024
+ISHC
+GAAP revenue
+$
+423,825
+$
+393,774
+$
+847,189
+$
+786,896
+Cash revenue from dispositions
+(1,201)
+—
+(2,681)
+—
+Cash revenue
+(1)
+$
+422,624
+$
+393,774
+$
+844,508
+$
+786,896
+Revenue attributable to new acquisitions/dispositions/other
+(1)
+(99,681)
+(98,521)
+(198,253)
+(196,469)
+Revenue attributable to Non-Core Properties
+(1)
+—
+(3,506)
+(3,855)
+(6,906)
+Same-Store revenue
+(1)
+$
+322,943
+$
+291,747
+$
+642,400
+$
+583,521
+Outpatient Medical
+GAAP revenue
+$
+31,254
+$
+33,682
+$
+64,448
+$
+67,749
+Straight line rent
+(259)
+(128)
+(432)
+(286)
+Other non-cash adjustments
+(350)
+(267)
+(674)
+(452)
+Cash revenue from dispositions
+(460)
+—
+(460)
+—
+Cash revenue
+(2)
+$
+30,185
+$
+33,287
+$
+62,882
+$
+67,011
+Revenue attributable to dispositions
+—
+(986)
+—
+(2,148)
+Revenue attributable to Non-Core Properties
+(1,508)
+(4,222)
+(5,399)
+(8,426)
+Same-Store revenue
+(2)
+$
+28,677
+$
+28,079
+$
+57,483
+$
+56,437
+SHOP
+GAAP revenue
+$
+77,460
+$
+64,239
+$
+151,272
+$
+123,235
+Cash revenue from dispositions
+—
+—
+(166)
+—
+Cash revenue attributable to noncontrolling interests
+(2)
+(310)
+(291)
+(613)
+(567)
+Cash revenue
+$
+77,150
+$
+63,948
+$
+150,493
+$
+122,668
+Revenue attributable to new acquisitions/dispositions
+(20,765)
+(12,161)
+(38,692)
+(20,482)
+Revenue attributable to development conversion
+(753)
+(415)
+(1,391)
+(685)
+Revenue attributable to Non-Core Properties
+(580)
+(524)
+(1,169)
+(1,006)
+Other normalizing revenue adjustments
+—
+—
+—
+174
+Same-Store revenue
+$
+55,052
+$
+50,848
+$
+109,241
+$
+100,669
+Triple-Net Leased Properties
+GAAP revenue
+$
+9,964
+$
+12,886
+$
+20,197
+$
+26,234
+Straight line rent
+(562)
+(620)
+(1,124)
+(1,594)
+Other non-cash adjustments
+199
+212
+424
+422
+Cash revenue attributable to noncontrolling interest
+(2)
+(191)
+(186)
+(381)
+(372)
+Cash revenue
+$
+9,410
+$
+12,292
+$
+19,116
+$
+24,690
+Debt security investment
+(1,163)
+(2,039)
+(2,644)
+(4,120)
+Revenue attributable to dispositions
+—
+(2,169)
+—
+(4,338)
+Revenue attributable to Non-Core Properties
+(183)
+(319)
+(365)
+(633)
+Other normalizing revenue adjustments
+(261)
+—
+(522)
+—
+Same-Store revenue
+$
+7,803
+$
+7,765
+$
+15,585
+$
+15,599
+Page | 14
+AMERICAN HEALTHCARE REIT, INC.
+Same-Store Revenue Reconciliation - (Continued)
+For the Three and Six Months Ended June 30, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended June 30,
+Six Months Ended June 30,
+2025
+2024
+2025
+2024
+Total Portfolio
+GAAP revenue
+$
+542,503
+$
+504,581
+$
+1,083,106
+$
+1,004,114
+Straight line rent
+(821)
+(748)
+(1,556)
+(1,880)
+Other non-cash adjustments
+(151)
+(55)
+(250)
+(30)
+Cash revenue from dispositions
+(1,661)
+—
+(3,307)
+—
+Cash revenue attributable to noncontrolling interests
+(2)
+(501)
+(477)
+(994)
+(939)
+Cash revenue
+(1)
+$
+539,369
+$
+503,301
+$
+1,076,999
+$
+1,001,265
+Debt security investment
+(1,163)
+(2,039)
+(2,644)
+(4,120)
+Revenue attributable to new acquisitions/dispositions/other
+(1)
+(120,446)
+(113,837)
+(236,945)
+(223,437)
+Revenue attributable to development conversion
+(753)
+(415)
+(1,391)
+(685)
+Revenue attributable to Non-Core Properties
+(1)
+(2,271)
+(8,571)
+(10,788)
+(16,971)
+Other normalizing revenue adjustments
+(1)
+(261)
+—
+(522)
+174
+Same-Store revenue
+(1)(2)
+$
+414,475
+$
+378,439
+$
+824,709
+$
+756,226
+____________
+(1)
+Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024.
+(2)
+All periods are based upon current quarter's ownership percentage.
+Page | 15
+AMERICAN HEALTHCARE REIT, INC.
+Earnings Guidance Reconciliation
+For the Year Ending December 31, 2025
+(Dollars and shares in millions, except per share amounts) (Unaudited)
+Current Full Year                              2025 Guidance
+Prior Full Year                              2025 Guidance
+Low
+High
+Low
+High
+Net income attributable to common stockholders
+$
+53.70
+$
+60.50
+$
+46.70
+$
+56.10
+Depreciation and amortization
+(1)
+168.30
+168.30
+167.60
+167.60
+Impairment and gains/losses from dispositions
+37.40
+37.40
+22.10
+22.10
+NAREIT FFO attributable to common stockholders
+$
+259.40
+$
+266.20
+$
+236.40
+$
+245.80
+Amortization of other intangible assets/liabilities
+(1)
+$
+1.60
+$
+1.60
+$
+1.80
+$
+1.80
+Change in deferred rent
+(1)
+(2.80)
+(2.80)
+(2.70)
+(2.70)
+Non-cash impact of changes to equity plan
+(1)(2)
+12.50
+12.50
+12.10
+12.10
+Other adjustments
+(3)
+(0.40)
+(0.40)
+3.00
+3.00
+Normalized FFO attributable to common stockholders
+$
+270.30
+$
+277.10
+$
+250.60
+$
+260.00
+Net income per common share — diluted
+$
+0.33
+$
+0.37
+$
+0.29
+$
+0.35
+NAREIT FFO per common share — diluted
+$
+1.57
+$
+1.61
+$
+1.49
+$
+1.55
+Normalized FFO per common share — diluted
+$
+1.64
+$
+1.68
+$
+1.58
+$
+1.64
+NAREIT FFO and Normalized FFO weighted average shares — diluted
+165.0
+165.0
+158.5
+158.5
+Total Portfolio Same-Store NOI growth
+11.0
+%
+14.0
+%
+9.0
+%
+13.0
+%
+Segment-Level Same-Store NOI growth / (decline):
+ISHC
+15.0
+%
+19.0
+%
+12.0
+%
+16.0
+%
+Outpatient Medical
+1.0
+%
+1.5
+%
+(1.0
+%)
+1.0
+%
+SHOP
+20.0
+%
+24.0
+%
+20.0
+%
+24.0
+%
+Triple-Net Leased Properties
+(0.8
+%)
+(0.3
+%)
+(1.5
+%)
+(0.5
+%)
+____________
+(1)
+Amounts presented net of noncontrolling interests' share and AHR's share of unconsolidated entities.
+(2)
+Amounts represent amortization of equity compensation and fair value adjustments to performance-based equity compensation.
+(3)
+Includes adjustments for capitalized interest, business acquisition expenses and additional items as noted in the Company’s definition of NFFO.
+Page | 16
+Definitions
+Adjusted EBITDA:
+EBITDA excluding the impact of gain or loss from unconsolidated entities, straight line rent and amortization of above/below market leases, non-cash stock-based compensation expense, business acquisition expenses, gain or loss on sales of real estate investments, unrealized foreign currency gain or loss, change in fair value of derivative financial instruments, impairments of real estate investments, impairments of intangible assets and goodwill, and non-recurring one-time items.
+Annualized Adjusted EBITDA:
+Current period (shown as quarterly) Adjusted EBITDA multiplied by 4.
+Cash NOI:
+NOI excluding the impact of, without duplication, (1) non-cash items such as straight-line rent and the amortization of lease intangibles, (2) third-party facility rent payments and (3) other items set forth in the Cash NOI reconciliation included herein. Both Cash NOI and Same-Store NOI include Pro-Rata ownership and other adjustments.
+EBITDA:
+A Non-GAAP financial measure that is defined as earnings before interest, taxes, depreciation and amortization.
+GAAP revenue:
+Revenue recognized in accordance with Generally Accepted Accounting Principles (“GAAP”), which includes straight line rent and other non-cash adjustments.
+ISHC:
+Integrated senior health campuses include a range of senior care, including independent living, assisted living, memory care, skilled nursing services and certain ancillary businesses. Integrated senior health campuses are operated utilizing a RIDEA structure.
+NAREIT FFO or FFO:
+Funds from operations attributable to controlling interest; a Non-GAAP financial measure, consistent with the standards established by the White Paper on FFO approved by the Board of Governors of NAREIT (the “White Paper”). The White Paper defines FFO as net income (loss) computed in accordance with GAAP, excluding gains or losses from sales of certain real estate assets, gains or losses upon consolidation of a previously held equity interest, and impairment write-downs of certain real estate assets and investments, plus depreciation and amortization related to real estate, after adjustments for unconsolidated partnerships and joint ventures. While impairment charges are excluded from the calculation of FFO as described above, investors are cautioned that impairments are based on estimated future undiscounted cash flows. Adjustments for unconsolidated partnerships and joint ventures are calculated to reflect FFO.
+Net Debt:
+Total long-term debt, excluding operating lease liabilities, less cash and cash equivalents and restricted cash related to debt.
+NOI:
+Net operating income; a Non-GAAP financial measure that is defined as net income (loss), computed in accordance with GAAP, generated from properties before general and administrative expenses, business acquisition expenses, depreciation and amortization, interest expense, gain or loss in fair value of derivative financial instruments, gain or loss on dispositions, impairments of real estate investments, impairments of intangible assets and goodwill, income or loss from unconsolidated entities, gain on re-measurement of previously held equity interest, foreign currency gain or loss, other income or expense and income tax benefit or expense.
+Non-Core Properties:
+Assets that have been deemed not essential to generating future economic benefit or value to our day-to-day operations and/or are projected to be sold.
+Normalized FFO or NFFO:
+FFO further adjusted for the following items included in the determination of GAAP net income (loss): expensed acquisition fees and costs, which we refer to as business acquisition expenses; amounts relating to changes in deferred rent and amortization of above and below-market leases (which are adjusted in order to reflect such payments from a GAAP accrual basis); the non-cash impact of changes to our equity instruments; non-cash or non-recurring income or expense; the noncash effect of income tax benefits or expenses; capitalized interest; impairments of intangible assets and goodwill; amortization of closing costs on debt investments; mark-to-market adjustments included in net income (loss); gains or losses included in net income (loss) from the extinguishment or
+Page | 17
+sale of debt, hedges, foreign exchange, derivatives or securities holdings where trading of such holdings is not a fundamental attribute of the business plan; and after adjustments for consolidated and unconsolidated partnerships and joint ventures, with such adjustments calculated to reflect Normalized FFO on the same basis.
+Occupancy:
+With respect to OM, the percentage of total rentable square feet leased and occupied, including month-to-month leases, as of the date reported. With respect to all other property types, occupancy represents average quarterly operating occupancy based on the most recent quarter of available data. The Company uses unaudited, periodic financial information provided solely by tenants to calculate occupancy and has not independently verified the information. Occupancy metrics are reflected at our Pro-Rata share.
+Outpatient Medical or OM:
+Outpatient Medical buildings.
+Pro-Rata:
+For the quarter ended June 30, 2025
+,
+we owned and/or operated eight buildings through entities of which we owned between 90.0% and 98.0% of the ownership interests. Because we have a controlling interest in these entities, these entities and the properties these entities own are consolidated in our financial statements in accordance with GAAP. However, while such properties are presented in our financial statements on a consolidated basis, we are only entitled to our Pro-Rata share of the net cash flows generated by such properties. As a result, we have presented certain property information herein based on our Pro-Rata ownership interest in these entities and the properties these entities own, as of the applicable date, and not on a consolidated basis. In such instances, information is noted as being presented on a “Pro-Rata share” basis.
+RevPOR:
+Revenue per occupied room. RevPOR is calculated as total revenue generated by occupied rooms divided by the number of occupied rooms.
+RIDEA:
+Used to describe properties within the portfolio that utilize the RIDEA structure as described in “RIDEA structure”.
+RIDEA structure:
+A structure permitted by the REIT Investment Diversification and Empowerment Act of 2007, pursuant to which we lease certain healthcare real estate properties to a wholly-owned taxable REIT subsidiary (“TRS”), which in turn contracts with an
+eligible independent contractor (“EIK”) to operate such properties for a fee. Under this structure, the EIK receives management fees, and the TRS receives revenue from the operation of the healthcare real estate properties and retains, as profit, any revenue remaining after payment of expenses (including intercompany rent paid to us and any taxes at the TRS level) necessary to operate the property. Through the RIDEA structure, in addition to receiving rental revenue from the TRS, we retain any after-tax profit from the operation of the healthcare real estate properties and benefit from any improved operational performance while bearing the risk of any decline in operating performance at the properties.
+Same-Store or SS:
+Properties owned or consolidated the full year in both comparison years and that are not otherwise excluded. Properties are excluded from Same-Store if they are: (1) sold, classified as held for sale or properties whose operations were classified as discontinued operations in accordance with GAAP; (2) impacted by materially disruptive events, such as flood or fire for an extensive period of time; or (3) scheduled to undergo or currently undergoing major expansions/renovations or business model transitions or have transitioned business models after the start of the prior comparison period.
+Same-Store NOI or SS NOI:
+Cash NOI for our Same-Store properties. Same-Store NOI is used to evaluate the operating performance of our properties using a consistent population which controls for changes in the composition of our portfolio. Both Cash NOI and Same-Store NOI include ownership and other adjustments.
+SHOP:
+Senior housing operating properties.
+Square Feet or Sq. Ft.:
+Net rentable square feet calculated utilizing Building Owners and Managers Association measurement standards.
+Page | 18
+Total Debt:
+The principal balances of the Company’s revolving credit facility, term loan and secured indebtedness as reported in the Company’s consolidated financial statements.
+Trilogy:
+Trilogy Investors, LLC; one of our consolidated subsidiaries, in which we indirectly owned a 100% interest as of June 30, 2025.
+Triple-net leased:
+A lease where the tenant is responsible for making rent payments, maintaining the leased property, and paying property taxes and other expenses.
+Page | 19
+
+
+================================================================================
+=== DOCUMENT 3: EX-99.2 - exhibit992q22025suppleme.htm ===
+================================================================================
+
+Second Quarter 2025 Supplemental Exhibit 99.2
+2 Forward-Looking Statements Certain statements contained in this supplemental, filed in conjunction with the Second Quarter 2025 Earnings Press Release, including statements relating to American  Healthcare REIT, Inc.'s (the "Company") expectations regarding its performance, interest expense savings, balance sheet, net income or loss per diluted share, NAREIT FFO per  diluted share, NFFO per diluted share, NOI growth, total portfolio Same-Store NOI growth, segment-level Same-Store NOI growth or decline, occupancy, revenue growth, margin  expansion, purchases and sales of assets, development plans, and plans for Trilogy may be considered forward-looking statements within the meaning of Section 27A of the  Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. The Company intends for all such forward-looking statements to be  covered by the applicable safe harbor provisions for forward-looking statements contained in those acts. Such forward-looking statements generally can be identified by the  use of forward-looking terminology such as “may,” “will,” “can,” “expect,” “intend,” “anticipate,” “estimate,” “believe,” “continue,” “possible,” “initiatives,” “focus,” “seek,” “objective,”  “goal,” “strategy,” “plan,” “potential,” “potentially,” “preparing,” “projected,” “future,” “long-term,” “once,” “should,” “could,” “would,” “might,” “uncertainty,” or other similar words.  Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date of this supplemental. Any such forward-looking  statements are based on current expectations, estimates and projections about the industry and markets in which the Company operates and beliefs of, and assumptions made  by, the Company's management and involve known and unknown risks and uncertainties that could cause actual results to differ materially from those expressed or implied  therein, including, without limitation, changing macroeconomic conditions, domestic legal and fiscal policies, and geopolitical conditions and other risks disclosed in the  Company’s periodic reports as filed with the Securities and Exchange Commission. Except as required by law, the Company does not undertake any obligation to update or  revise any forward-looking statements contained in this Supplemental. Disclaimers
+3 Non-GAAP Financial Measures The Company’s reported results are presented in accordance with GAAP. The Company also discloses the following non-GAAP financial measures: EBITDA, Adjusted EBITDA,  Net Debt-to-Annualized Adjusted EBITDA, NAREIT FFO, NFFO, NOI and Same-Store NOI. The Company believes these non-GAAP financial measures are useful supplemental  measures of its operating performance and used by investors and analysts to compare the operating performance of the Company between periods and to other REITs or  companies on a consistent basis without having to account for differences caused by unanticipated and/or incalculable items. Definitions of the non-GAAP financial measures  used herein and reconciliations to the most directly comparable financial measure calculated in accordance with GAAP can be found at the end of this Supplemental. See below  for further information regarding the Company's non-GAAP financial measures. EBITDA and Adjusted EBITDA Management uses earnings before interest, taxes, depreciation and amortization (“EBITDA”) and Adjusted EBITDA to facilitate internal and external comparisons to our  historical operating results and in making operating decisions. EBITDA and Adjusted EBITDA are widely used by investors, lenders, credit and equity analysts in the valuation,  comparison, and investment recommendations of companies. Additionally, EBITDA and Adjusted EBITDA are utilized by our Board of Directors to evaluate management.  Neither EBITDA nor Adjusted EBITDA represents net income (loss) or cash flows provided by operating activities as determined in accordance with GAAP and should not be  considered as alternative measures of profitability or liquidity. Finally, EBITDA and Adjusted EBITDA may not be comparable to similarly entitled items reported by other REITs  or other companies. In addition, management uses Net Debt-to-Annualized Adjusted EBITDA as a measure of our ability to service our debt. NAREIT Funds from Operations (FFO) and Normalized Funds from Operations (NFFO) We believe that the use of FFO, which excludes the impact of real estate-related depreciation and amortization and impairments, provides a further understanding of our  operating performance to investors, industry analysts and our management, and when compared year over year, reflects the impact on our operations from trends in occupancy  rates, rental rates, operating costs, general and administrative expenses and interest costs, which may not be immediately apparent from net income (loss) as determined in  accordance with GAAP. However, FFO and NFFO should not be construed to be (i) more relevant or accurate than the current GAAP methodology in calculating net income (loss)  as an indicator of our operating performance, (ii) more relevant or accurate than GAAP cash flows from operations as an indicator of our liquidity or (iii) indicative of funds  available to fund our cash needs, including our ability to make distributions to our stockholders. The method utilized to evaluate the value and performance of real estate under  GAAP should be construed as a more relevant measure of operational performance and considered more prominently than the non-GAAP FFO and NFFO measures and the  adjustments to GAAP in calculating FFO and NFFO. Presentation of this information is intended to provide useful information to investors, industry analysts and management as  they compare the operating performance metrics used by the REIT industry, although it should be noted that some REITs may use different methods of calculating funds from  operations and normalized funds from operations, so comparisons with such REITs may not be meaningful. Net Operating Income We believe that NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI are appropriate supplemental performance measures to reflect the performance of our operating assets  because NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI exclude certain items that are not associated with the operations of the properties. We believe that NOI, Cash  NOI, Pro-Rata Cash NOI and Same-Store NOI are widely accepted measures of comparative operating performance in the real estate community and are useful to investors in  understanding the profitability and operating performance of our property portfolio. However, our use of the terms NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI may  not be comparable to that of other real estate companies as they may have different methodologies for computing these amounts. NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI are not equivalent to our net income (loss) as determined under GAAP and may not be a useful measure in measuring  operational income or cash flows. Furthermore, NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI should not be considered as alternatives to net income (loss) as an  indication of our operating performance or as an alternative to cash flows from operations as an indication of our liquidity. NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store  NOI should not be construed to be more relevant or accurate than the GAAP methodology in calculating net income (loss). NOI, Cash NOI, Pro-Rata Cash NOI and Same-Store NOI  should be reviewed in conjunction with other measurements as an indication of our performance. Disclaimers
+4 Overview & Financial Highlights (as of 6/30/2025) (dollars in thousands, except per share) Portfolio Overview Pro-Rata (3)(4) Consolidated (4) Campuses /  Properties Beds/Units (1) Leased % (2) Wtd Avg Lease  Term (years) Annualized Cash NOI Annualized Cash NOI Integrated Senior Health Campuses (ISHC) 124 12,657  88.8%  — $ 268,592  61.5% $ 268,592  61.3%  Outpatient Medical (OM) 78 3,952  86.1%  4.9  74,256  17.0%  74,256  17.0%  Senior Housing Operating Properties (SHOP) 70 5,679  85.7%  —  59,480  13.6%  59,760  13.6%  Triple-Net Leased Properties 19 1,498  100.0%  13.3  29,872  6.8%  30,632  7.0%  Debt Security Investment  —  —  —  —  4,652  1.1%  4,652  1.1%  Total 291  6.8 $ 436,852  100.0% $ 437,892  100.0%  CONSOLIDATED ANNUALIZED CASH NOI Debt Security  Investment 1.1% OM 17.0% SHOP 13.6% ISHC 61.3% Triple-Net  Leased  Properties  7.0% (1) Outpatient Medical represents GLA in thousands, rather than Beds/Units. (2) ISHC and SHOP occupancies are quarterly averages, while OM and Triple-Net Leased Properties are quarter-end spot occupancies. (3) Represents all properties at Pro-Rata ownership based upon current quarter's ownership percentage. (4) See reconciliations in the appendix of this presentation. Annualized Cash NOI shown as current quarter Cash NOI multiplied by four.             Note: Except as otherwise noted, all data herein is presented on a consolidated basis. Earnings Highlights (4) Q2 2024 Q2 2025 %  Change YTD  6/30/2024 YTD   6/30/2025 %  Change NAREIT FFO per share - diluted $ 0.32 $ 0.41  28.1 % $0.62 $0.77  24.2 % Normalized FFO per share - diluted $ 0.33 $ 0.42  27.3 % $0.64 $0.80  25.0 % Same-Store NOI Performance (3)(4) Campuses /  Properties Q2 2024 Q2 2025 %  Change YTD  6/30/2024 YTD  6/30/2025 %  Change ISHC 116 $ 52,475 $ 62,083  18.3% $ 101,561 $ 120,903  19.0%  OM 67  17,953  18,209  1.4%  35,823  36,436  1.7%  SHOP 47  9,199  11,312  23.0%  17,066  21,598  26.6%  Triple-Net Leased Properties 17  7,208  7,307  1.4%  14,452  14,450  —%  Total 247 $ 86,835 $ 98,911  13.9 % $168,902 $193,387  14.5 %
+5 Integrated Senior Health Campuses (ISHC) (1) Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024. (2) See reconciliations in the appendix of this presentation. (3) Controllable expenses include utilities, food, repairs and maintenance, and other operating expenses. (4) Non-Controllable expenses include property taxes and insurance. Total Portfolio (1) Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Campuses 126 127 126 125 124 — — IL/AL/MC units 5,560 5,584 5,565 5,530 5,431 5,560 5,431 SNF beds 7,431 7,436 7,355 7,310 7,226 7,431 7,226 Consolidated total beds/units 12,991 13,020 12,920 12,840 12,657 12,991 12,657 Average occupancy  86.0%  86.9%  87.5%  88.5%  88.8%  85.8%  88.6%  Cash Revenue (2) $ 393,774 $ 409,626 $ 421,516 $ 421,884 $ 422,624 $ 786,896 $ 844,508  Operating expenses  340,578  353,608  360,629  361,942  355,476  682,880  717,418  Cash NOI (2) $ 53,196 $ 56,018 $ 60,887 $ 59,942 $ 67,148 $ 104,016 $ 127,090  Cash NOI margin %  13.5%  13.7%  14.4%  14.2%  15.9%  13.2%  15.0%  Maintenance Capex $ 3,371 $ 3,769 $ 4,569 $ 4,109 $ 3,711 $ 6,411 $ 7,820  Same-Store (1) Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q2 2025 vs  Q2 2024 YTD 6/30/24 YTD 6/30/25 YTD 2025 vs  YTD 2024 Campuses 116 116 116 116 116 116 116 Consolidated beds/units 11,928 11,944 11,940 11,942 11,936 11,928 11,936 Average occupancy  86.7%  87.4%  87.8%  88.8%  88.9%  219 bps  86.6%  88.9%  227 bps Same-Store revenue (2) $ 291,747 $ 299,030 $ 312,432 $ 319,457 $ 322,943  10.7% $ 583,521 $ 642,400  10.1%  Same-Store operating expenses  239,272  246,983  256,019  260,637  260,860  9.0%  481,960  521,497  8.2%  Compensation  153,261  157,092  165,918  162,590  165,088  7.7%  307,115  327,678  6.7%  Controllable (3)  77,521  80,481  81,343  87,657  85,216  9.9%  157,601  172,873  9.7%  Non-Controllable (4)  8,490  9,410  8,758  10,390  10,556  24.3%  17,244  20,946  21.5%  Same-Store NOI (2) $ 52,475 $ 52,047 $ 56,413 $ 58,820 $ 62,083  18.3% $ 101,561 $ 120,903  19.0%  Same-Store NOI margin %  18.0%  17.4%  18.1%  18.4%  19.2%  124 bps  17.4%  18.8%  142 bps (dollars in thousands)
+6 ISHC Revenue per Payor and Bed Type Average Daily Rate % of Resident Days % of Revenue Q2 2024 Q2 2025 % change Q2 2024 Q2 2025 Q2 2024 Q2 2025 Private $ 380.37 $ 404.32  6.3 %  12.0 %  11.2 %  14.1 %  12.9 % Managed Care/Insurance $ 409.33 $ 431.79  5.5 %  0.4 %  0.3 %  0.5 %  0.4 % Medicaid $ 291.68 $ 319.39  9.5 %  23.1 %  22.1 %  20.8 %  20.3 % Hospice Medicaid $ 290.11 $ 314.36  8.4 %  3.1 %  3.3 %  2.8 %  3.0 % Medicare $ 644.11 $ 687.60  6.8 %  11.7 %  11.7 %  23.0 %  22.9 % Medicare Advantage $ 525.75 $ 572.21  8.8 %  5.8 %  7.2 %  9.4 %  11.9 % Total Skilled Nursing $ 408.87 $ 446.46  9.2 %  56.1 %  55.8 %  70.6 %  71.4 % Total Senior Housing $ 186.39 $ 194.80  4.5 %  43.9 %  44.2 %  25.2 %  24.7 % Ancillary revenue $ 13.74 $ 13.66  (0.6) %  0.0 %  0.0 %  4.2 %  3.9 % Total, including ancillary revenue $ 322.28 $ 347.31  7.8 %  100.0 %  100.0 %  100.0 %  100.0 % Quality Mix  73.8 %  74.6 %  76.4 %  76.7 %
+7 Outpatient Medical (1) See reconciliations in the appendix of this presentation. Total Portfolio Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Properties 83 83 81 81 78 — — Consolidated GLA (sq ft) 4,400 4,400 4,262 4,260 3,952 4,400 3,952 Ending occupancy  88.5%  88.1%  87.9%  87.4%  86.1%  88.5%  86.1%  Cash revenue (1) $ 33,287 $ 33,305 $ 32,439 $ 32,697 $ 30,185 $ 67,011 $ 62,882  Operating expenses  12,322  12,300  12,115  12,404  11,621  25,062  24,025  Cash NOI (1) $ 20,965 $ 21,005 $ 20,324 $ 20,293 $ 18,564 $ 41,949 $ 38,857  Cash NOI margin %  63.0%  63.1%  62.7%  62.1%  61.5%  62.6%  61.8%  Revenue per square foot $ 30.26 $ 30.28 $ 30.44 $ 30.70 $ 30.55 $ 30.46 $ 31.82  Cash NOI per square foot $ 19.06 $ 19.10 $ 19.07 $ 19.05 $ 18.79 $ 19.07 $ 19.66  Maintenance Capex $ 3,612 $ 2,962 $ 3,724 $ 7,355 $ 2,904 $ 5,333 $ 10,259  Same-Store Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q2 2025 vs  Q2 2024 YTD 6/30/24 YTD 6/30/25 YTD 2025 vs  YTD 2024 Properties 67 67 67 67 67 67 67 Consolidated GLA (sq ft) 3,493 3,493 3,493 3,490 3,493 3,493 3,493 Ending occupancy  91.9 %  92.1 %  92.3 %  92.2 %  91.7 %  (18) bps  91.9 %  91.7 %  (18) bps Same-Store revenue (1) $ 28,079 $ 28,327 $ 28,529 $ 28,806 $ 28,677  2.1% $ 56,437 $ 57,483  1.9%  Same-Store operating expenses  10,126  10,269  10,365  10,579  10,468  3.4%  20,614  21,047  2.1%  Same-Store NOI (1) $ 17,953 $ 18,058 $ 18,164 $ 18,227 $ 18,209  1.4% $ 35,823 $ 36,436  1.7%  Same-Store NOI margin %  63.9 %  63.7 %  63.7 %  63.3 %  63.5 %  (44) bps  63.5 %  63.4 %  (9) bps Same-Store revenue per square foot $ 32.15 $ 32.44 $ 32.67 $ 33.02 $ 32.84 $ 32.31 $ 32.91  Same-Store NOI per square foot $ 20.56 $ 20.68 $ 20.80 $ 20.89 $ 20.85 $ 20.51 $ 20.86  (dollars and square feet in thousands, except revenue per square foot and NOI per square foot)
+8 Outpatient Medical (as of 6/30/2025) Tenants ABR % S&P Credit Rating Christus Good Shepherd Health System $ 7,793  8.8% A Prime Healthcare  3,684  4.2% B- Montefiore Medical Center  2,464  2.8% BBB- Atrius Health, Inc.  2,249  2.6% BBB Cullman Regional Medical Center  1,939  2.2% — Remaining Portfolio  69,952  79.4%  Total $ 88,081  100.0%  Square Feet % On-Campus/Adjacent  1,821  46.1%  Off-Campus Affiliated  1,149  29.1%  Unaffiliated  981  24.8%  Total  3,952  100.0%  OM Absorption Occupied Square Feet as of December 31, 2024 3,747 Expirations (396) Renewals 335 New leases 27 Terminations (28) Adjustment/remeasurement — Dispositions (285) Occupied Square Feet as of June 30, 2025 3,400 Trailing 12-months Retention 81.2% (dollars and square feet in thousands)
+9 (1) Includes future leases signed, but not commenced. (2) Indicates total ABR expiring in the applicable year. Expiring Leases (1) Year # of Expiring  Leases Total Sq. Ft. % of GLA ABR (2) % of Total ABR Average Rent  per Sq. Ft. 2025 55 249  7.4% $ 6,512  6.6% $ 26.15  2026 51 214  6.3%  4,930  5.0%  23.04  2027 60 441  13.0%  12,113  12.2%  27.47  2028 58 525  15.4%  15,580  15.7%  29.68  2029 63 524  15.4%  14,875  15.0%  28.39  Thereafter 156 1,450  42.5%  45,343  45.5%  31.27  Total 443 3,403  100.0% $ 99,353  100.0% $ 29.20  (dollars and square feet in thousands, except average rent per square foot) Outpatient Medical (as of 6/30/2025)
+10 Senior Housing Operating Properties (SHOP) (1) See reconciliations in the appendix of this presentation. (2) Controllable expenses include utilities, food, repairs and maintenance, and other operating expenses. (3) Non-Controllable expenses include property taxes and insurance. Total Portfolio Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Properties 64 69 70 69 70 — — IL/AL/MC units 5,076 5,353 5,465 5,391 5,578 5,076 5,578 SNF beds 95 95 100 100 101 95 101 Consolidated total beds/units 5,171 5,448 5,565 5,491 5,679 5,171 5,679 Average occupancy  84.0 %  85.2 %  86.0 %  85.5 %  85.7 %  83.2 %  85.6 % Cash revenue (1) $ 63,948 $ 66,912 $ 73,239 $ 73,343 $ 77,150 $ 122,668 $ 150,493  Operating expenses  53,867  55,683  60,644  61,319  62,280  106,124  123,599  Cash NOI (1) $ 10,081 $ 11,229 $ 12,595 $ 12,024 $ 14,870 $ 16,544 $ 26,894  Cash NOI margin %  15.8 %  16.8 %  17.2 %  16.4 %  19.3 %  13.5 %  17.9 % RevPOR $ 4,934 $ 5,006 $ 5,136 $ 5,246 $ 5,347 $ 4,867 $ 5,296  Maintenance Capex $ 3,496 $ 4,485 $ 4,393 $ 2,814 $ 3,489 $ 4,285 $ 6,303  Same-Store Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q2 2025 vs  Q2 2024 YTD 6/30/24 YTD 6/30/25 YTD 2025 vs  YTD 2024 Properties 47 47 47 47 47 47 47 Consolidated beds/units 4,082 4,081 4,108 4,122 4,122 4,082 4,122 Average occupancy  85.9%  87.1%  87.6%  86.6%  86.6%  67 bps  84.9%  86.6%  168 bps Same-Store revenue (1) $ 50,848 $ 52,033 $ 53,158 $ 54,189 $ 55,052  8.3% $ 100,669 $ 109,241  8.5%  Same-Store operating expenses  41,649  42,540  43,324  43,903  43,740  5.0%  83,603  87,643  4.8%  Compensation  25,060  25,136  25,662  25,447  25,756  2.8%  50,019  51,203  2.4%  Controllable (2)  13,649  14,649  15,020  15,632  15,304  12.1%  27,801  30,936  11.3%  Non-Controllable (3)  2,940  2,755  2,642  2,824  2,680  (8.8) %  5,783  5,504  (4.8) % Same-Store NOI (1) $ 9,199 $ 9,493 $ 9,834 $ 10,286 $ 11,312  23.0% $ 17,066 $ 21,598  26.6%  Same-Store NOI margin %  18.1 %  18.2 %  18.5 %  19.0 %  20.5 %  246 bps  17.0 %  19.8 %  282 bps RevPOR $ 4,869 $ 4,924 $ 4,966 $ 5,112 $ 5,189  6.6% $ 4,846 $ 5,149  6.2%  (dollars in thousands, except RevPOR, and Pro-Rata)
+11 ISHC & SHOP Partners (as of 6/30/2025) Partner/Operator State Number of  Properties/Campuses  Pro-Rata Share  Beds/Units Consolidated Beds/ Units Trilogy Management Services KY,IN,MI,OH,WI 126 12,867 12,867 Senior Solutions Management Group AR,MS,TX,LA,MO,GA 20 1,652 1,685 Priority Life Care IN, MI 11 914 914 Compass Senior Living OR, WA 15 907 907 Cogir Senior Living NC,CA,UT,WA 14 904 904 Heritage Senior Living PA,VA 6 839 839 Heritage Communities NE 2 220 220 Total 194 18,303 18,336
+12 Triple-Net Leased Properties (1) Facilities are 100% triple-net leased, and operators' occupancies excludes hospitals. (2) See reconciliations in the appendix of this presentation. (3) Includes currency adjustment for UK properties at 6/30/2025 YTD average GBP/USD rate of 1.30. Total Portfolio Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Properties 27 27 19 19 19 — — AL/MC beds/units 538 538 538 538 538 538 538 SNF beds 2,061 2,061 956 960 960 2,061 960 Consolidated total beds/units 2,599 2,599 1,494 1,498 1,498 2,599 1,498 Average operator occupancy (1)  91.7%  91.4%  89.2%  89.0%  89.3%  91.3%  89.2%  Cash revenue (2) $ 10,253 $ 10,305 $ 8,096 $ 8,225 $ 8,247 $ 20,570 $ 16,472  Debt security investment  2,039  2,453  2,117  1,481  1,163  4,120  2,644  Operating expenses  632  482  541  939  779  1,251  1,718  Cash NOI (2) $ 11,660 $ 12,276 $ 9,672 $ 8,767 $ 8,631 $ 23,439 $ 17,398  Cash NOI margin %  94.9%  96.2%  94.7%  90.3%  91.7%  94.9%  91.0%  Same-Store Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q2 2025 vs  Q2 2024 YTD 6/30/24 YTD 6/30/25 YTD 2025 vs  YTD 2024 Properties 17 17 17 17 17 17 17 Consolidated beds/units 1,360 1,360 1,360 1,364 1,364 1,360 1,364 Average operator occupancy (1)  88.0 %  88.0 %  89.0 %  89.0 %  88.9 %  90 bps  87.6 %  88.9 %  128 bps Same-Store revenue (2) $ 7,765 $ 7,815 $ 7,823 $ 7,782 $ 7,803  0.5 % $ 15,599 $ 15,585  (0.1) % Same-Store operating expenses  557  451  516  639  496  (11.0) %  1,147  1,135  (1.0) % Same-Store NOI (2) $ 7,208 $ 7,364 $ 7,307 $ 7,143 $ 7,307  1.4% $ 14,452 $ 14,450  0.0%  Same-Store NOI margin %  92.8 %  94.2 %  93.4 %  91.8 %  93.6 %  82 bps  92.6 %  92.7 %  7 bps Same-Store NOI (Constant Currency) (3) $ 7,242 $ 7,360 $ 7,324 $ 7,181 $ 7,269  0.4% $ 14,516 $ 14,450  (0.5) % (dollars in thousands and Pro-Rata)
+13 Triple-Net Leased Properties Rent Payment Coverage Stratification (1) Represents trailing twelve month coverage metrics as of March 31, 2025. Percentages are based on Pro-Rata Cash NOI for the three months ended  June 30, 2025. (2) Represents combined coverage metrics for all leases within each property type and total segment. Contribution to Pro-Rata Cash NOI at each Coverage Stratification for Q2 2025 (1) Tenant EBITDAR Coverage Tenant EBITDARM Coverage Coverage Senior  Housing- Leased SNFs Hospital Total Weighted  Average  Maturity  (years) Number  of Leases Senior  Housing- Leased SNFs Hospital Total Weighted  Average  Maturity  (years) Number  of Leases < 0.80x — —  1.7 %  1.7 % 11.9 1 — —  1.7 %  1.7 %  11.9 1 0.80x - 0.89x — — — — — — — — — — — — 0.90x - 0.99x  0.6 % — —  0.6 % 6.9 1 — — — — — — 1.00x - 1.09x — — — — — — — — — — — — 1.10x - 1.19x —  0.1 % —  0.1 % 8.8 1  0.6 % — —  0.6 % 6.9 1 1.20x - 1.29x  1.2 % — —  1.2 % 25.2 1 — — — —  — — 1.30x - 1.39x — — — — — — — — — — — — 1.40x - 1.49x —  1.7 % —  1.7 % 16.0 1 — — — —  — — 1.50x - 1.59x — — — — — —  1.2 % — —  1.2 % 25.2 1 1.60x - 1.69x — — — — — — — — — — — — 1.70x - 1.79x — — — — — — —  0.1 % —  0.1 % 8.8 1 1.80x - 1.89x — — — — — — — — — — — — 1.90x - 1.99x —  1.2 % —  1.2 % 5.3 1 —  1.7 % —  1.7 %  16.0 1 > 2.00x — —  0.3 %  0.3 % 8.4 1 —  1.2 %  0.3 %  1.5 %  5.9 2 Total  1.8 %  3.0 %  2.0 %  6.8 % 13.3 7  1.8 %  3.0 %  2.0 %  6.8 %  13.3 7 Segment Rent Coverage (2) 1.16x 1.65x 1.75x 1.56x 1.40x 2.12x 1.99x 1.90x Tenant Occupancy  87.2 %  90.5 % N/A  89.3 %  87.2 %  90.5 % N/A  89.3 %
+14 Revenue and Lease Expiration(1) (as of 6/30/2025) (1) Excludes ISHC and SHOP.  (2) Total ABR expiring in the applicable year. Month-to-month leases are included as expirations in 2025. (3) Represents total interest income from debt security investment. ABR of Expiring Leases (2)   as % of Total ABR Year OM Triple-Net Leased  Properties Interest Income (3) Total 2025 $ 6,512  6.6% $ —  0.0% $ —  0.0% $ 6,512  4.6%  2026  4,930  5.0%  —  0.0%  —  0.0%  4,930  3.5%  2027  12,113  12.2%  —  0.0%  —  0.0%  12,113  8.6%  2028  15,580  15.7%  —  0.0%  4,013  100.0%  19,593  13.9%  2029  14,875  15.0%  —  0.0%  —  0.0%  14,875  10.6%  Thereafter  45,343  45.5%  37,107  100.0%  —  0.0%  82,450  58.8%  Total $ 99,353  100.0% $ 37,107  100.0% $ 4,013  100.0% $ 140,473  100.0%  (dollars in thousands)
+15 (1) Debt maturing after 2029 has a weighted average maturity date of March 2052 (27 Years). (2) Interest rates reflect two in-place swap derivatives for $275 million each, which mature on January 19, 2026 with strikes at 4.41% and 3.74%. The Company  has two additional interest rate swap derivatives for $350 million and $200 million with strikes at 3.51% and 3.52%, respectively, which will be effective on  January 20, 2026 and mature on January 19, 2027. (3) Does not include interest rate impact from mortgage insurance premiums and equipment financing. Debt Maturities and Principal Payments (as of 6/30/2025) Period Line of Credit  and Term  Loan Mortgage  Loans  Payable Noncontrolling  Interest's Share  of Mortgage  Loans Payable Combined  Pro-Rata Debt % of  Combined  Pro-Rata  Debt Weighted  Average  Interest  Rate (2)(3) 2025 $ — $ 17,392 $ (136) $ 17,256  1.1%  3.64 % 2026  —  160,094  (8,077)  152,017  9.8%  3.06 % 2027  550,000  56,611  —  606,611  39.2%  5.25 % 2028  —  139,963  —  139,963  9.1%  4.40 % 2029  —  16,963  —  16,963  1.1%  3.36 % Thereafter (1)  —  612,993  —  612,993  39.7%  3.79 % Total $ 550,000 $ 1,004,016 $ (8,213) $ 1,545,803  100.0%  Weighted Interest Rate (2)(3)  5.43%  3.73%  2.64%  4.34%  Weighted average maturity (years)  1.6  18.8  0.9  12.8  Percentage of variable-rate debt  —%  —%  —%  —%  (dollars in thousands)
+16 Year-to-Date 2025 Real Estate Acquisitions and Dispositions Acquisitions Reportable Segment Number of  Properties/  Campuses Beds/Units Gross Purchase  Price Average Cost per  Bed/Unit Integrated Senior Health Campuses - Lease buyout 1 131 $16,087 $123 SHOP 1 187 $65,000 $348 Dispositions Reportable Segment Number of  Properties/  Campuses Beds/Units/GLA (1) Gross Proceeds SHOP 1 88 $3,250 Outpatient Medical 3 311 $24,179 Integrated Senior Health Campuses 2 270 $16,000 (dollars and square feet in thousands) (1) Outpatient Medical represents Square Feet GLA in thousands.
+17 Real Estate Development & Expansions Development Timing Project Name State Segment Type of Project Beds/Units Spent To Date Total Expected  Cost Construction  Start Expected  Completion Portage MI ISHC New Campus 108 $9,912 $22,854 Q3 2024 Q3 2026 Sylvania OH ISHC IL Villas 26 5,435 8,175 Q3 2024 Q4 2025 Harrodsburg KY ISHC IL Villas 32 4,889 9,951 Q3 2024 Q4 2025 Greenfield IN ISHC IL Villas 16 800 3,752 Q4 2024 Q1 2026 Ottawa OH ISHC IL Villas 30 2,143 8,569 Q1 2025 Q4 2025 Mooresville IN ISHC Wing Expansion 27 649 4,463 Q1 2025 Q1 2026 Total 239 $23,828 $57,764 Recently Completed Projects(1) Project Name State Segment Type of Project Units/Beds Spent To Date Construction  Completion Waterford Place IN ISHC IL Villas 22 $6,577 Q3 2024 Oak Ridge IN ISHC IL Villas 10 3,301 Q3 2024 Total 32 $9,878 (dollars in thousands) (1) Includes projects that have been completed in the last twelve months. Certain projects that have been completed more than twelve months ago may  not yet be stabilized.
+18 (1) The Company's guidance constitutes forward-looking statements within the meaning of the federal securities laws and is based on a number of assumptions that are subject to change and  many of which are outside of the Company's control. Actual results may differ materially from the Company's expectations depending on factors discussed herein and in the Company's filings  with the Securities and Exchange Commission. Totals may not add due to rounding. Non-GAAP financial measures and other terms, as used in this supplemental, are also defined and further  explained in the appendix. The Company is unable to provide, without unreasonable effort, guidance for the most comparable GAAP financial measures of total revenues and property  operating and maintenance expenses. Additionally, a reconciliation of the forward-looking non-GAAP financial measures of Same-Store NOI growth to the comparable GAAP financial  measures cannot be provided without unreasonable effort because the Company is unable to reasonably predict certain items contained in the GAAP measures, including non-recurring and  infrequent items that are not indicative of the Company's ongoing operations. Such items include, but are not limited to, impairment on depreciated real estate assets, net gain or loss on sale  of real estate assets, stock-based compensation, casualty loss, non-Same-Store revenue, and non-Same-Store operating expenses. These items are uncertain, depend on various factors,  and could have a material impact on the Company's GAAP results for the guidance period. See reconciliations in the appendix of this presentation. (2) Amounts are presented net of noncontrolling interests' share and AHR's share of unconsolidated entities. (3) Amounts represent amortization of equity compensation and fair value adjustments to performance-based equity compensation.  (4) Includes adjustments for capitalized interest, business acquisition expenses and additional items as noted in the Company’s definition for NFFO.    2025 Guidance(1) NAREIT FFO and NFFO Attributable to Common Stockholders FY 2025 Total Portfolio Same-Store NOI Growth Guidance •  11.0% - 14.0% FY 2025 Segment-Level Same-Store NOI Growth / (Decline) Guidance •  ISHC: 15.0% - 19.0% •  Outpatient Medical: 1.0% - 1.5% •  SHOP: 20.0% - 24.0% •  Triple-Net Leased Properties: (0.8%) - (0.3%) 2025 Guidance - Revised  FY 2025 FY 2025 - per diluted share Low High Low High Net income attributable to common stockholders $ 53.70 $ 60.50 $ 0.33 $ 0.37  Depreciation and amortization (2)  168.30  168.30  1.02  1.02  Impairment and gains/losses from dispositions  37.40  37.40  0.23  0.23  NAREIT FFO attributable to common stockholders $ 259.40 $ 266.20 $ 1.57 $ 1.61  Amortization of other intangible assets/liabilities (2)  1.60  1.60  0.01  0.01  Change in deferred rent (2)  (2.80)  (2.80)  (0.02)  (0.02)  Non-cash impact of changes to equity plan (2)(3)  12.50  12.50  0.08  0.08  Other adjustments (4)  (0.40)  (0.40)  0.00  0.00  Normalized FFO attributable to common stockholders $ 270.30 $ 277.10 $ 1.64 $ 1.68  Weighted average diluted shares (in millions)  165.0  165.0  (dollars in millions, except per share) Other FY 2025 Guidance Assumptions • General and administrative expenses of $56 million to $58 million • Interest expense of $85 million to $90 million • Other income of $2 million to $4 million • Expect to spend $80 million to $100 million for new development starts and on- going development projects • Closed ~$250 million of new investments as of August 7, 2025.
+19 Components of NAV(1) (1) Dollars, square feet and beds/units are presented on a consolidated basis as of June 30, 2025. (2) Cash NOI is adjusted to exclude non-recurring items for the three months ended June 30, 2025. (3) Excludes interest income from debt security investment. (4) Weighted average interest rates reflect in-place swap derivatives.  Segment # of Properties/  Campuses Square  Feet Total Beds/ Units Q2 2025 Cash  NOI (2) Q2 2025 Ann.  Cash NOI (2) ISHC 124  9,142 12,657 $ 67,148 $ 268,592  Outpatient Medical 73  3,825  18,241  72,964  SHOP - Grouped by Avg Occupancy >80% 53  3,876 4,286  14,255  57,020  60%-80% 16  1,178 1,353  1,098  4,392  <60% 1  40 40  (200)  (800)  Triple-Net Leased Properties (3) 17  961 1,364  7,497  29,988  Total 284  19,022 19,700 $ 108,039 $ 432,156  Obligations (Outstanding principal balance as of 6/30/25) Pro-Rata Consolidated Weighted Avg.  Interest Rate Mortgage Debt $ 995,803 $ 1,004,016 3.73% Revolving LOC  —  — 5.69% Term Loan (4)  550,000  550,000 5.43% Total Debt $ 1,545,803 $ 1,554,016  Cash, cash equivalents and restricted cash pertaining to debt  (169,063)  (169,188)  Net Debt $ 1,376,740 $ 1,384,828  Other tangible liabilities, net: Accounts payable and accrued liabilities  273,544  273,624  Other  50,155  50,166  Total other tangible liabilities, net  323,699  323,790  Financing  34,254  34,254  Lease obligations  148,215  148,215  Net obligations $ 1,882,908 $ 1,891,087  Other Assets Debt security investment, gross $ 91,733 $ 91,733  Other tangible assets: Accounts receivable  224,066  224,072  Capital expenditures  41,933  41,940  Inventory  19,428  19,428  Other  40,294  40,311  Total other tangible assets  325,721  325,751  Sold assets/assets expected to be sold  20,125  20,125  Total other assets $ 437,579 $ 437,609  Common Shares and OP Units Issued and Outstanding Total Common Shares 164,578,233 164,578,233 Total OP units 2,004,216 2,004,216 Total Common Shares and OP Units 166,582,449 166,582,449 (dollars and square feet in thousands)
+20 Second Quarter 2025 Supplemental Appendix Non-GAAP Reconciliations and Defined Terms
+21 FFO / NFFO Reconciliation(1) (in thousands, except share and per share amounts) Q2 2025 Q2 2024 YTD 6/30/2025 YTD 6/30/2024 Net income (loss) $ 10,079 $ 2,926 $ 3,239 $ (78)  Depreciation and amortization related to real estate — consolidated properties  41,850  45,226  82,865  87,955  Depreciation and amortization related to real estate — unconsolidated entities  506  186  1,003  372  Impairment of real estate investments — consolidated properties  12,659  —  34,365  —  Loss (gain) on dispositions of real estate investments, net — consolidated properties  2,676  2  3,035  (2,261)  Net income attributable to noncontrolling interests  (171)  (947)  (135)  (1,835)  Depreciation, amortization, impairments and net gain/loss on dispositions — noncontrolling interests  (803)  (5,647)  (1,695)  (11,109)  NAREIT FFO attributable to controlling interest $ 66,796 $ 41,746 $ 122,677 $ 73,044  Business acquisition expenses  (79)  15  1,758  2,797  Amortization of above- and below-market leases  355  419  768  845  Amortization of closing costs — debt security investment  12  80  49  156  Change in deferred rent  (720)  (556)  (1,392)  (1,145)  Non-cash impact of changes to equity instruments  3,190  2,765  5,741  4,700  Capitalized interest  (345)  (71)  (442)  (205)  Loss on debt extinguishments  1,298  —  1,806  1,280  Loss (gain) in fair value of derivative financial instruments  629  (388)  1,379  (6,805)  Foreign currency (gain) loss  (2,742)  (82)  (4,158)  344  Adjustments for unconsolidated entities  5  (138)  5  (248)  Adjustments for noncontrolling interests  (22)  (50)  (72)  75  Normalized FFO attributable to controlling interest $ 68,377 $ 43,740 $ 128,119 $ 74,838  NAREIT FFO and Normalized FFO weighted average common shares outstanding  — diluted 161,143,556 130,689,889 159,318,503 117,413,643 NAREIT FFO per common share attributable to controlling interest — diluted $ 0.41 $ 0.32 $ 0.77 $ 0.62  Normalized FFO per common share attributable to controlling interest — diluted $ 0.42 $ 0.33 $ 0.80 $ 0.64  Distributions paid in cash $ 39,877 $ 32,998 $ 79,425 $ 49,594  (1) Totals may not add due to rounding.
+22 Q2 2025 Net income $ 10,079  Adjustments: Interest expense, net (including amortization of deferred financing costs, debt discount/ premium and loss on debt extinguishments)  22,632  Income tax expense  732  Depreciation and amortization (including amortization of leased assets and accretion of lease  liabilities)  42,387  EBITDA $ 75,830  Loss from unconsolidated entities  1,238  Straight line rent and amortization of above/below market leases  (811)  Non-cash impact of changes to equity instruments  3,190  Business acquisition expenses  (79)  Loss on dispositions of real estate investments, net  2,676  Amortization of closing costs — debt security investment  12  Foreign currency gain  (2,742)  Loss in fair value of derivative financial instruments  629  Impairment of real estate investments  12,659  Non-recurring one-time items  495  Adjusted EBITDA $ 93,097  Adjusted EBITDA Reconciliation (in thousands)
+23 Coverage Ratios and Net Debt Reconciliation(1) (1) The details of the Adjusted EBITDA calculation can be found on the previous page. (2) Includes approximately $1.7 million of cash interest expense from mortgage insurance premiums and equipment financing. (3) Non-cash interest expense includes amortization of loan fees and debt discount/premium. (4) Interest Coverage ratio calculated as Adjusted EBITDA divided by Total Interest. Fixed Charges Coverage ratio calculated as Adjusted EBITDA divided  by Total Fixed Charges. Q2 2025 Interest Coverage Ratios Interest Expense (2) $ 22,632  Capitalized Interest - current period  183  Loss on extinguishment of debt  (1,298)  Non-Cash Interest Expense (3)  (1,402)  Total Interest $ 20,115  Interest Coverage ratio (4) 4.6x Fixed Charges Coverage Ratios Total Interest $ 20,115  Secured Debt Principal Amortization  5,335  Total Fixed Charges $ 25,450  Fixed Charge Coverage Ratio (4) 3.7x Total debt $ 1,554,016  Cash and cash equivalents  (133,494)  Restricted cash pertaining to debt  (35,694)  Net Debt $ 1,384,828  Net Debt-to-Annualized Adjusted EBITDA 3.7x (dollars in thousands)
+24 Same-Store Property Reconciliation For the Three Months Ended June 30, 2025 Integrated Senior  Health Campuses Outpatient Medical SHOP Triple-Net Leased  Properties Total properties/campuses 124 78 70 19 Recent acquisition/development conversions — — (22) — Non-Core Properties — (11) (1) (2) Other (1) (8) — — — Same-Store properties 116 67 47 17            (1) ISHC includes six expansions and two campuses under development.
+25 Cash NOI Reconciliation (1) All periods are based upon current quarter’s ownership percentage. Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Net income (loss) $ 2,926 $ (3,093) $ (32,429) $ (6,840) $ 10,079 $ (78) $ 3,239  General and administrative  11,746  11,921  12,064  13,155  14,943  23,574  28,098  Business acquisition expenses  15  3,537  807  1,837  (79)  2,797  1,758  Depreciation and amortization  45,264  44,246  46,915  41,114  41,941  88,031  83,055  Interest expense  30,596  30,395  30,301  22,945  22,632  67,034  45,577  (Gain) loss in fair value of derivative financial instruments  (388)  8,967  (3,192)  750  629  (6,805)  1,379  Loss (gain) on dispositions of real estate investments, net  2  4  (2,956)  359  2,676  (2,261)  3,035  Impairment of real estate investments  —  —  45,755  21,706  12,659  —  34,365  Loss from unconsolidated entities  1,035  2,123  2,505  1,848  1,238  2,240  3,086  Foreign currency (gain) loss  (82)  (2,689)  3,119  (1,416)  (2,742)  344  (4,158)  Other income, net  (3,106)  (2,138)  (4,246)  (1,525)  (1,480)  (4,969)  (3,005)  Income tax expense  686  263  486  604  732  964  1,336  Total NOI $ 88,694 $ 93,536 $ 99,129 $ 94,537 $ 103,228 $ 170,871 $ 197,765  Straight line rent  (748)  (682)  (672)  (735)  (821)  (1,880)  (1,556)  Facility rental expense  7,888  7,619  7,642  7,499  7,278  16,728  14,777  Other non-cash adjustments  315  323  158  202  182  706  384  Cash NOI from dispositions  —  —  (2,508)  (221)  (393)  —  (614)  Cash NOI attributable to noncontrolling interests (1)  (247)  (268)  (271)  (256)  (261)  (477)  (517)  Cash NOI $ 95,902 $ 100,528 $ 103,478 $ 101,026 $ 109,213 $ 185,948 $ 210,239  (in thousands)
+26 Same-Store NOI Reconciliation (1/2) Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Integrated Senior Health Campuses NOI $ 45,308 $ 48,399 $ 53,586 $ 52,717 $ 60,068 $ 87,288 $ 112,785  Facility rental expense  7,888  7,619  7,642  7,499  7,278  16,728  14,777  Cash NOI from dispositions  —  —  (341)  (274)  (198)  —  (472)  Cash NOI (1) $ 53,196 $ 56,018 $ 60,887 $ 59,942 $ 67,148 $ 104,016 $ 127,090  New acquisitions/dispositions/other (1)  (224)  (4,314)  (4,013)  (559)  (5,065)  (1,505)  (5,624)  Non-Core Properties (1)  (497)  (631)  (461)  (563)  —  (950)  (563)  Other normalizing adjustments (1)  —  974  —  —  —  —  —  Same-Store NOI (1) $ 52,475 $ 52,047 $ 56,413 $ 58,820 $ 62,083 $ 101,561 $ 120,903  Outpatient Medical NOI $ 21,011 $ 21,066 $ 20,800 $ 20,509 $ 19,062 $ 41,989 $ 39,571  Straight line rent  (128)  (148)  (134)  (173)  (259)  (286)  (432)  Other non-cash adjustments  82  87  (81)  (41)  (36)  246  (77)  Cash NOI from dispositions  —  —  (261)  (2)  (203)  —  (205)  Cash NOI (2) $ 20,965 $ 21,005 $ 20,324 $ 20,293 $ 18,564 $ 41,949 $ 38,857  Dispositions  (694)  (663)  —  —  —  (1,456)  —  Non-Core Properties  (2,318)  (2,284)  (2,160)  (2,066)  (355)  (4,670)  (2,421)  Same-Store NOI (2) $ 17,953 $ 18,058 $ 18,164 $ 18,227 $ 18,209 $ 35,823 $ 36,436  SHOP NOI $ 10,141 $ 11,307 $ 12,675 $ 12,036 $ 14,932 $ 16,650 $ 26,968  Cash NOI from dispositions  —  —  —  55  8  —  63  Cash NOI attributable to noncontrolling interests (2)  (60)  (78)  (80)  (67)  (70)  (106)  (137)  Cash NOI $ 10,081 $ 11,229 $ 12,595 $ 12,024 $ 14,870 $ 16,544 $ 26,894  New acquisitions/dispositions  (1,358)  (2,472)  (3,156)  (2,139)  (4,002)  (1,332)  (6,141)  Development conversion  510  664  576  360  277  1,050  637  Non-Core Properties  (34)  (61)  (87)  (82)  (35)  (34)  (117)  Other normalizing adjustments  —  133  (94)  123  202  838  325  Same-Store NOI $ 9,199 $ 9,493 $ 9,834 $ 10,286 $ 11,312 $ 17,066 $ 21,598  (in thousands) (1) Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024. (2) All periods are based upon current quarter’s ownership percentage.
+27 Same-Store NOI Reconciliation (2/2) Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Triple-Net Leased Properties NOI $ 12,234 $ 12,764 $ 12,068 $ 9,275 $ 9,166 $ 24,944 $ 18,441  Straight line rent  (620)  (534)  (538)  (562)  (562)  (1,594)  (1,124)  Other non-cash adjustments  233  236  239  243  218  460  461  Cash NOI from dispositions  —  —  (1,906)  —  —  —  -  Cash NOI attributable to noncontrolling interest (2)  (187)  (190)  (191)  (189)  (191)  (371)  (380)  Cash NOI $ 11,660 $ 12,276 $ 9,672 $ 8,767 $ 8,631 $ 23,439 $ 17,398  Debt security investment  (2,039)  (2,453)  (2,117)  (1,481)  (1,163)  (4,120)  (2,644)  Dispositions  (2,127)  (2,163)  —  —  —  (4,291)  -  Non-Core Properties  (286)  (296)  (248)  (143)  (161)  (576)  (304)  Same-Store NOI $ 7,208 $ 7,364 $ 7,307 $ 7,143 $ 7,307 $ 14,452 $ 14,450  Total Portfolio NOI $ 88,694 $ 93,536 $ 99,129 $ 94,537 $ 103,228 $ 170,871 $ 197,765  Straight line rent  (748)  (682)  (672)  (735)  (821)  (1,880)  (1,556)  Facility rental expense  7,888  7,619  7,642  7,499  7,278  16,728  14,777  Other non-cash adjustments  315  323  158  202  182  706  384  Cash NOI from dispositions  —  —  (2,508)  (221)  (393)  -  (614)  Cash NOI attributable to noncontrolling interests (2)  (247)  (268)  (271)  (256)  (261)  (477)  (517)  Cash NOI (1)(2) $ 95,902 $ 100,528 $ 103,478 $ 101,026 $ 109,213 $ 185,948 $ 210,239  Debt security investment  (2,039)  (2,453)  (2,117)  (1,481)  (1,163)  (4,120)  (2,644)  New acquisitions/dispositions/other (1)  (4,403)  (9,612)  (7,169)  (2,698)  (9,067)  (8,584)  (11,765)  Development conversion  510  664  576  360  277  1,050  637  Non-Core Properties (1)  (3,135)  (3,272)  (2,956)  (2,854)  (551)  (6,230)  (3,405)  Other normalizing adjustments (1)  —  1,107  (94)  123  202  838  325  Same-Store NOI (1)(2) $ 86,835 $ 86,962 $ 91,718 $ 94,476 $ 98,911 $ 168,902 $ 193,387  (in thousands) (1) Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024. (2) All periods are based upon current quarter’s ownership percentage.
+28 Same-Store Revenue Reconciliation (1/2) (1) Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024. (2) All periods are based upon current quarter’s ownership percentage. Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Integrated Senior Health Campuses GAAP revenue $ 393,774 $ 409,626 $ 423,290 $ 423,364 $ 423,825 $ 786,896 $ 847,189  Cash revenue from dispositions  —  —  (1,774)  (1,480)  (1,201)  —  (2,681)  Cash revenue (1) $ 393,774 $ 409,626 $ 421,516 $ 421,884 $ 422,624 $ 786,896 $ 844,508  Revenue attributable to new acquisitions/dispositions/other (1)  (98,521)  (105,755)  (105,457)  (98,572)  (99,681)  (196,469)  (198,253)  Revenue attributable to Non-Core Properties (1)  (3,506)  (3,605)  (3,627)  (3,855)  —  (6,906)  (3,855)  Other normalizing revenue adjustments (1)  —  (1,236)  —  —  —  —  —  Same-Store revenue (1) $ 291,747 $ 299,030 $ 312,432 $ 319,457 $ 322,943 $ 583,521 $ 642,400  Outpatient Medical GAAP revenue $ 33,682 $ 33,715 $ 33,276 $ 33,194 $ 31,254 $ 67,749 $ 64,448  Straight line rent  (128)  (148)  (134)  (173)  (259)  (286)  (432)  Other non-cash adjustments  (267)  (262)  (399)  (324)  (350)  (452)  (674)  Cash revenue from dispositions  —  —  (304)  —  (460)  —  (460)  Cash revenue (2) $ 33,287 $ 33,305 $ 32,439 $ 32,697 $ 30,185 $ 67,011 $ 62,882  Revenue attributable to dispositions  (986)  (881)  —  —  —  (2,148)  —  Revenue attributable to Non-Core Properties  (4,222)  (4,097)  (3,910)  (3,891)  (1,508)  (8,426)  (5,399)  Same-Store revenue (2) $ 28,079 $ 28,327 $ 28,529 $ 28,806 $ 28,677 $ 56,437 $ 57,483  SHOP GAAP revenue $ 64,239 $ 67,208 $ 73,543 $ 73,812 $ 77,460 $ 123,235 $ 151,272  Cash revenue from dispositions  —  —  —  (166)  —  —  (166)  Cash revenue attributable to noncontrolling interests (2)  (291)  (296)  (304)  (303)  (310)  (567)  (613)  Cash revenue $ 63,948 $ 66,912 $ 73,239 $ 73,343 $ 77,150 $ 122,668 $ 150,493  Revenue attributable to new acquisitions/dispositions  (12,161)  (13,912)  (18,916)  (17,927)  (20,765)  (20,482)  (38,692)  Revenue attributable to development conversion  (415)  (411)  (491)  (638)  (753)  (685)  (1,391)  Revenue attributable to Non-Core Properties  (524)  (556)  (580)  (589)  (580) $ (1,006) $ (1,169)  Other normalizing revenue adjustments  —  —  (94)  —  — $ 174 $ —  Same-Store revenue $ 50,848 $ 52,033 $ 53,158 $ 54,189 $ 55,052 $ 100,669 $ 109,241  (in thousands)
+29 Same-Store Revenue Reconciliation (2/2) Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 YTD 6/30/24 YTD 6/30/25 Triple-Net Leased Properties GAAP revenue $ 12,886 $ 13,265 $ 12,631 $ 10,233 $ 9,964 $ 26,234 $ 20,197  Straight line rent  (620)  (534)  (538)  (562)  (562)  (1,594)  (1,124)  Other non-cash adjustments  212  217  220  225  199  422  424  Cash revenue from dispositions  —  —  (1,910)  —  —  —  —  Cash revenue attributable to noncontrolling interest (2)  (186)  (190)  (190)  (190)  (191)  (372)  (381)  Cash revenue $ 12,292 $ 12,758 $ 10,213 $ 9,706 $ 9,410 $ 24,690 $ 19,116  Debt security investment  (2,039)  (2,453)  (2,117)  (1,481)  (1,163)  (4,120)  (2,644)  Revenue attributable to dispositions  (2,169)  (2,169)  —  —  —  (4,338)  —  Revenue attributable to Non-Core Properties  (319)  (321)  (273)  (182)  (183)  (633)  (365)  Other normalizing revenue adjustments  —  —  —  (261)  (261)  —  (522)  Same-Store revenue $ 7,765 $ 7,815 $ 7,823 $ 7,782 $ 7,803 $ 15,599 $ 15,585  Total Portfolio GAAP revenue $ 504,581 $ 523,814 $ 542,740 $ 540,603 $ 542,503 $ 1,004,114 $ 1,083,106  Straight line rent  (748)  (682)  (672)  (735)  (821)  (1,880)  (1,556)  Other non-cash adjustments  (55)  (45)  (179)  (99)  (151)  (30)  (250)  Cash revenue from dispositions  —  —  (3,988)  (1,646)  (1,661)  —  (3,307)  Cash revenue attributable to noncontrolling interests (2)  (477)  (486)  (494)  (493)  (501)  (939)  (994)  Cash revenue (1) $ 503,301 $ 522,601 $ 537,407 $ 537,630 $ 539,369 $ 1,001,265 $ 1,076,999  Debt security investment  (2,039)  (2,453)  (2,117)  (1,481)  (1,163)  (4,120)  (2,644)  Revenue attributable to new acquisitions/dispositions/other (1)  (113,837)  (122,717)  (124,373)  (116,499)  (120,446)  (223,437)  (236,945)  Revenue attributable to development conversion  (415)  (411)  (491)  (638)  (753)  (685)  (1,391)  Revenue attributable to Non-Core Properties (1)  (8,571)  (8,579)  (8,390)  (8,517)  (2,271)  (16,971)  (10,788)  Other normalizing revenue adjustments (1)  —  (1,236)  (94)  (261)  (261)  174  (522)  Same-Store revenue (1)(2) $ 378,439 $ 387,205 $ 401,942 $ 410,234 $ 414,475 $ 756,226 $ 824,709  (in thousands) (1) Prior periods' information is presented to reflect the increase in ownership to 100% in the Company's ISHC segment effective September 2024. (2) All periods are based upon current quarter’s ownership percentage.
+30 • Adjusted EBITDA: EBITDA excluding the impact of gain or loss from unconsolidated entities, straight line rent and amortization of above/below market leases, non-cash  stock-based compensation expense, business acquisition expenses, gain or loss on sales of real estate investments, unrealized foreign currency gain or loss, change in fair  value of derivative financial instruments, impairments of real estate investments, impairments of intangible assets and goodwill, and non-recurring one-time items. • Affiliated: An OM (as defined on the next page) that, as of a specified date, has 25.0% or more of its square footage occupied by at least one healthcare system. • AL: Assisted living units. • Annualized Adjusted EBITDA: Current period (shown as quarterly) Adjusted EBITDA multiplied by 4. • Annualized Base Rent or ABR: Contractual base rent for the last month of the applicable period multiplied by 12. • Cash NOI: NOI excluding the impact of, without duplication, (1) non-cash items such as straight-line rent and the amortization of lease intangibles, (2) third-party facility rent  payments and (3) other items set forth in the Cash NOI reconciliation included herein. Both Cash NOI and Same-Store NOI include Pro-Rata ownership and other adjustments.  • EBITDA: A non-GAAP financial measure that is defined as earnings before interest, taxes, depreciation and amortization.  • EBITDAR: Earnings before interest, taxes, depreciation, amortization and facilities rent. We use unaudited, periodic financial information provided solely by tenants to  calculate EBITDAR and have not independently verified the information.  • EBITDAR Coverage: The ratio of EBITDAR to contractual rent for leases or interest and principal payments for loans. EBITDAR Coverage is a measure of a property’s ability to  generate sufficient cash flows for the operator/borrower to pay rent and meet other obligations. • EBITDARM: Earnings before interest, taxes, depreciation, amortization, facilities rent and management fees. We use unaudited, periodic financial information provided  solely by tenants to calculate EBITDARM and have not independently verified the information. • EBITDARM Coverage: The ratio of EBITDARM to contractual rent for leases or interest and principal payments for loans. EBITDARM Coverage is a measure of a property’s  ability to generate sufficient cash flows for the operator or borrower to pay rent and meet other obligations, assuming that management fees are not paid.  • GAAP revenue: Revenue recognized in accordance with Generally Accepted Accounting Principles (“GAAP”), which includes straight line rent and other non-cash  adjustments. • GLA: Gross leasable area. • Hospital: Hospital properties typically will include acute care, long-term acute care, specialty and rehabilitation hospitals and generally will be leased to single tenants or  operators under triple-net lease structures. • IL: Independent living units. • Integrated senior health campuses or ISHC: Integrated senior health campuses include a range of senior care, including independent living, assisted living, memory care,  skilled nursing services and certain ancillary businesses. Integrated senior health campuses are operated utilizing a RIDEA structure. • Maintenance Capex: AHR-invested capital expenditures, whether routine or non-routine (including second generation tenant incentives and leasing commissions), that are  not expected to generate incremental income for the Company. • MC: Memory-care units. • NAREIT FFO or FFO: Funds from operations attributable to controlling interest; a non-GAAP financial measure, consistent with the standards established by the White Paper  on FFO approved by the Board of Governors of NAREIT (the “White Paper”). The White Paper defines FFO as net income (loss) computed in accordance with GAAP, excluding  gains or losses from sales of certain real estate assets, gains or losses upon consolidation of a previously held equity interest, and impairment write-downs of certain real  estate assets and investments, plus depreciation and amortization related to real estate, after adjustments for unconsolidated partnerships and joint ventures. While  impairment charges are excluded from the calculation of FFO as described above, investors are cautioned that impairments are based on estimated future undiscounted  cash flows. Adjustments for unconsolidated partnerships and joint ventures are calculated to reflect FFO. • NAV: Net asset value. • Net Debt: Total long-term debt, excluding operating lease liabilities, less cash and cash equivalents and restricted cash related to debt.  Defined Terms
+31 • NOI: Net operating income; a non-GAAP financial measure that is defined as net income (loss), computed in accordance with GAAP, generated from properties before  general and administrative expenses, business acquisition expenses, depreciation and amortization, interest expense, gain or loss in fair value of derivative financial  instruments, gain or loss on dispositions, impairments of real estate investments, impairments of intangible assets and goodwill, income or loss from unconsolidated  entities, gain on re-measurement of previously held equity interest, foreign currency gain or loss, other income or expense and income tax benefit or expense. • NOI margin: Calculated by dividing NOI by revenue.  • Non-Core Properties: Assets that have been deemed not essential to generating future economic benefit or value to our day-to-day operations and/or are scheduled to be  sold. • Normalized FFO or NFFO: FFO further adjusted for the following items included in the determination of GAAP net income (loss): expensed acquisition fees and costs, which  we refer to as business acquisition expenses; amounts relating to changes in deferred rent and amortization of above and below-market leases (which are adjusted in order  to reflect such payments from a GAAP accrual basis); the non-cash impact of changes to our equity instruments; non-cash or non-recurring income or expense; the noncash  effect of income tax benefits or expenses; capitalized interest; impairments of intangible assets and goodwill; amortization of closing costs on debt investments; mark-to- market adjustments included in net income (loss); gains or losses included in net income (loss) from the extinguishment or sale of debt, hedges, foreign exchange,  derivatives or securities holdings where trading of such holdings is not a fundamental attribute of the business plan; and after adjustments for consolidated and  unconsolidated partnerships and joint ventures, with such adjustments calculated to reflect Normalized FFO on the same basis. • Occupancy: With respect to OM, the percentage of total rentable square feet leased and occupied, including month-to-month leases, as of the date reported. With respect  to all other property types, occupancy represents average quarterly operating occupancy based on the most recent quarter of available data. The Company uses unaudited,  periodic financial information provided solely by tenants to calculate occupancy and has not independently verified the information. • OM: Outpatient Medical buildings.  • OP unit: Units of limited partnership interest in the Operating Partnership, which are redeemable for cash or, at our election, shares of our common stock on a one-for-one  basis, subject to certain adjustments. • Operating Partnership: American Healthcare REIT Holdings, LP, a Delaware limited partnership, through which we conduct substantially all of our business and of which  Continental Merger Sub, LLC, a Delaware limited liability company and our wholly-owned subsidiary, is the sole general partner. • Pro-Rata: For the quarter ended June 30, 2025, we owned and/or operated eight other buildings through entities of which we owned between 90.0% and 98.0% of the  ownership interests. Because we have a controlling interest in these entities, these entities and the properties these entities own are consolidated in our financial  statements in accordance with GAAP. However, while such properties are presented in our financial statements on a consolidated basis, we are only entitled to our Pro-Rata  share of the net cash flows generated by such properties. As a result, we have presented certain property information herein based on our Pro-Rata ownership interest in  these entities and the properties these entities own, as of the applicable date, and not on a consolidated basis. In such instances, information is noted as being presented on  a “Pro-Rata share” basis.  • Quality Mix: Total number of Medicare, Managed Care, Medicare Advantage and private days or revenue divided by the total number of actual patient days or total revenue for  all payor types within Skilled Nursing and Senior Housing beds in the ISHC segment. • Retention: The ratio of total renewed square feet and month-to-month leases retained to the total square feet expiring, excluding the square feet for tenant leases  terminated and leases in assets expected to be sold for the trailing 12-months.  • RevPOR: Revenue per occupied room. RevPOR is calculated as total revenue generated by occupied rooms divided by the number of occupied rooms. • RIDEA: Used to describe properties within the portfolio that utilize the RIDEA structure as described in “RIDEA structure”. Defined Terms
+32 • RIDEA structure: A structure permitted by the REIT Investment Diversification and Empowerment Act of 2007, pursuant to which we lease certain healthcare real estate  properties to a wholly-owned taxable REIT subsidiary (TRS), which in turn contracts with an eligible independent contractor (EIK) to operate such properties for a fee. Under  this structure, the EIK receives management fees, and the TRS receives revenue from the operation of the healthcare real estate properties and retains, as profit, any  revenue remaining after payment of expenses (including intercompany rent paid to us and any taxes at the TRS level) necessary to operate the property. Through the RIDEA  structure, in addition to receiving rental revenue from the TRS, we retain any after-tax profit from the operation of the healthcare real estate properties and benefit from any  improved operational performance while bearing the risk of any decline in operating performance at the properties. • Same-Store or SS: Properties owned or consolidated the full year in both comparison years and that are not otherwise excluded. Properties are excluded from Same-Store if  they are: (1) sold, classified as held for sale or properties whose operations were classified as discontinued operations in accordance with GAAP; (2) impacted by materially  disruptive events, such as flood or fire for an extensive period of time; or (3) scheduled to undergo or currently undergoing major expansions/renovations or business model  transitions or have transitioned business models after the start of the prior comparison period. • Same-Store NOI or SS NOI: Cash NOI for our Same-Store properties. Same-Store NOI is used to evaluate the operating performance of our properties using a consistent  population which controls for changes in the composition of our portfolio. Both Cash NOI and Same-Store NOI include ownership and other adjustments. • Senior Housing-Leased: Senior housing facilities cater to different segments of the elderly population based upon their personal needs and include assisted living, memory  care and independent living. Residents of assisted living facilities typically require limited medical care and need assistance with eating, bathing, dressing and/or medication  management, and those services can be provided by staff at the facility. Resident programs offered at such facilities may include transportation, social activities and  exercise and fitness programs. Our Senior Housing-Leased properties are Triple-net leased. • SHOP: Senior housing operating properties. • SNFs: Skilled nursing facilities. • Square Feet or Sq. Ft.: Net rentable square feet calculated utilizing Building Owners and Managers Association measurement standards.  • Total Debt: The principal balances of the Company’s revolving credit facility, term loan and secured indebtedness as reported in the Company’s consolidated financial  statements. • Trilogy: Trilogy Investors, LLC; in which we indirectly owned a 100% interest in Trilogy as of June 30, 2025. • Triple-net leased: A lease where the tenant is responsible for making rent payments, maintaining the leased property, and paying property taxes and other expenses. Defined Terms
+

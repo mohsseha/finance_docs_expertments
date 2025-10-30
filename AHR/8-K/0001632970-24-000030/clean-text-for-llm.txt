@@ -1,0 +1,239 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20240312.htm ===
+================================================================================
+
+ahr-20240312
+FALSE
+0001632970
+0001632970
+2024-03-12
+2024-03-12
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+March 12, 2024
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+001-41951
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 5.02 Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+2023 Short-Term Incentive Program (Cash Bonuses)
+On March 12, 2024, the Compensation Committee, or the Committee, of our Board of Directors approved the 2023 short-term incentive program compensation, or cash bonuses, for our named executive officers, or NEOs. We previously reported our NEOs’ 2023 compensation in the 2023 Summary Compensation Table included in our prospectus, filed February 8, 2024, or the Prospectus, filed with the Securities and Exchange Commission under Rule 424(b)(4) of the Securities Act of 1933, as amended, or the Securities Act, relating to our registration statement on Form S-11, as amended (Registration No. 333-267464). As of the date of the Prospectus, the cash bonuses for fiscal year 2023 were not determined and, therefore, were omitted from the 2023 Summary Compensation Table in the Prospectus. In accordance with Item 5.02(f), below are the revised impacted columns from the 2023 Summary Compensation Table, which include the cash bonuses to the NEOs and revised total compensation figures for 2023.
+Name and Principal Position
+Bonus ($) (1)
+Non-Equity Incentive Plan
+Compensation ($) (1)
+Total ($)
+Danny Prosky
+Chief Executive Officer and President
+225,000
+724,500
+3,784,680
+Brian S. Peay
+Chief Financial Officer
+142,500
+458,850
+1,984,949
+Gabriel M. Willhite
+Chief Operating Officer
+127,500
+410,550
+1,865,457
+Stefan K.L. Oh
+Chief Investment Officer
+90,000
+289,800
+1,221,608
+Mark E. Foster
+Executive Vice President, General Counsel and Secretary
+70,200
+226,044
+1,048,519
+___________
+(1)
+Represents amount paid under the short-term incentive program for the fiscal year ended December 31, 2023, with the portion in the Bonus column reflecting the individual component of the 2023 short-term incentive program and the portion in the Non-Equity Incentive Compensation column representing the formulaic payout based on the achievement of pre-established performance goals under the 2023 short-term incentive program.
+Based on its assessment of our corporate performance and each NEO’s individual performance and respective weightings described above, the Committee approved cash bonuses for 2023 in the following amounts:
+2023 Cash Bonus
+Name
+Payout
+As a % of Target
+Danny Prosky
+$
+949,500
+126.6%
+Brian S. Peay
+$
+601,350
+126.6%
+Gabriel M. Willhite
+$
+538,050
+126.6%
+Stefan K.L. Oh
+$
+379,800
+126.6%
+Mark E. Foster
+$
+296,244
+126.6%
+In addition, the following table presents the amount of severance compensation payable to each of our NEOs as if the triggering termination event pursuant to our severance plan had occurred on December 31, 2023:
+Name
+Benefit
+Termination
+Without Cause or
+Resignation for
+Good Reason ($)
+Termination
+Without Cause or
+Resignation for
+Good Reason
+within 12 months
+following Change
+in Control ($)
+Death or
+Disability ($)
+Danny Prosky
+Severance Payment
+3,308,000
+4,135,000
+1,324,500
+Brian S. Peay
+Severance Payment
+1,571,300
+2,095,067
+838,850
+Gabriel M. Willhite
+Severance Payment
+1,310,400
+1,747,200
+750,550
+Stefan K.L. Oh
+Severance Payment
+1,082,400
+1,443,200
+579,800
+Mark E. Foster
+Severance Payment
+999,108
+1,332,144
+476,244
+CEO Pay Ratio
+In reliance on Instruction 6 to Item 402(u) of Regulation S-K, we omitted the pay ratio disclosure from the Prospectus as the cash bonuses for fiscal year 2023 were not determined as of the date of the Prospectus. In accordance with Item 5.02(f), below is the pay ratio disclosure required by Item 402(u) of Regulation S-K
+As required by Section 953(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act, and Item 402(u) of Regulation S-K, presented below is the ratio of annual total compensation of our Chief Executive Officer, or CEO, to the annual total compensation of our median employee (excluding our CEO). The ratio presented below is a reasonable estimate calculated in a manner consistent with Item 402(u) of Regulation S-K under the Securities Exchange Act of 1934, as amended, or the Exchange Act.
+To identify the “median employee” from our employee population, we determined the annual total compensation of each of our employees as of December 31, 2023 in accordance with the requirements of Item 402(c)(2)(x) of Regulation S-K. We annualized base wages of any permanent employees who were employed for less than the full year or on unpaid leave during 2023, and we did not otherwise annualize or make any cost-of-living or other adjustments to employee compensation. Our employee population, including all full- and part-time employees, as of December 31, 2023 consisted of approximately 108 individuals, all of whom were located in the United States.
+For 2023, our last completed fiscal year, annual total compensation as determined under Item 402 of Regulation S-K for our CEO was $3,784,680. The 2023 annual total compensation as determined under Item 402 of Regulation S-K for our median employee was $122,976. Based on this information, the ratio of our CEO's annual total compensation to our median employee's annual total compensation for fiscal year 2023 is 30.8 to 1. The SEC's rules for calculating the required pay ratio permit companies to use reasonable estimates and assumptions in their methodologies, and companies have different employee populations and compensation practices. As a result, pay ratios reported by other companies may not be comparable to the pay ratio reported above.
+Item 7.01 Regulation FD Disclosure.
+Comrit Tender Offer Response
+As previously reported in our Current Report on Form 8-K filed on January 11, 2024, our board of directors issued a response to an unsolicited mini-tender offer from an unaffiliated third party, Comrit Investments 1, Limited Partnership, or Comrit, for our shares of Class T and Class I common stock, or Comrit's January 2024 offer.
+On March 15, 2024, our board of directors issued a response to an amendment to Comrit's January 2024 offer wherein Comrit amended its purchase price to $5.23 per share and extended the expiration date of its offer to March 31, 2024. For several reasons discussed in the response letter, our board of directors has determined not to make any recommendation and to remain neutral as to whether stockholders should tender shares in Comrit's January 2024 offer, as amended. The response letter, addressed to our stockholders and attached to this Form 8-K as Exhibit 99.1, is available on our website in the Investor Relations – News section at www.AmericanHealthcareREIT.com and incorporated in its entirety into this Item 7.01. The response letter to stockholders will also be mailed to our stockholders upon their request.
+First Quarter 2024 Distribution
+On March 15, 2024, we issued a press release announcing our first quarter 2024 distribution, as further described in Item 8.01 below. A copy of the press release is attached hereto as Exhibit 99.2 and is incorporated by reference herein.
+The information furnished under this Item 7.01, including Exhibits 99.1 and 99.2, shall not be deemed to be “filed” for the purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act or the Exchange Act.
+Item 8.01 Other Events.
+On March 13, 2024, our board of directors authorized a distribution to holders of our common stock, Class T common stock and Class I common stock of record as of the close of business on March 28, 2024, for the quarter commencing on January 1, 2024 and ending on March 31, 2024. The quarterly distribution will be equal to $0.25 per share of our common stock, which is equal to an annualized distribution rate of $1.00 per share. The first quarter distribution will be paid in cash on or about April 19, 2024, only from legally available funds.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+99.1
+American Healthcare REIT, Inc. Response Letter Re. Amended Comrit Tender Offer dated March 15, 2024
+99.2
+American Healthcare REIT, Inc.
+Press
+R
+elease
+dated March 15, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+March 15, 2024
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 2: EX-99.1 - exhibit991comrittenderof.htm ===
+================================================================================
+
+THIS LETTER IS POSTED ON THE AHR WEBSITE AND FILED WITH THE SEC ON FORM 8-K ON MARCH 15, 2024* The Board MAKES NO RECOMMENDATION with respect to the Comrit tender offer, as amended March 15, 2024 Dear Stockholder:   I am writing to you on behalf of the board of directors (the “Board”) of American Healthcare REIT, Inc. (“AHR”) to  notify you about an amendment to the previously announced unsolicited third-party mini-tender offer (the “Comrit Offer”) being  made for your shares of AHR Class T and/or Class I common stock, as applicable, by Comrit Investments 1, Limited Partnership  (“Comrit”), in what we believe is an opportunistic attempt to purchase your shares. Comrit has amended the Comrit Offer to: (i)  extend the termination date of the Comrit Offer from March 6, 2024 to 11:59 p.m. Eastern Time on March 31, 2024; (ii) increase  the number of shares of AHR’s Class T and Class I common stock (the “Shares”) that Comrit is seeking to purchase in the  Comrit Offer from 228,136 shares to 573,613 shares; and (iii) reduce the per share offer price from $13.15 to $5.23 per share  (the “Comrit Offer Price”). THIS IS A SUBSTANTIAL REDUCTION OF 60.2% FROM THE ORIGINAL COMRIT OFFER  PRICE OF $13.15 PER SHARE, AND THE NEW COMRIT OFFER PRICE IS ALSO SUBSTANTIALLY BELOW THE  CLOSING PRICE OF $13.80 PER SHARE OF AHR COMMON STOCK ON THE NEW YORK STOCK EXCHANGE  (“NYSE”) AS OF MARCH 14, 2024. Stockholders who previously accepted the Comrit Offer and do not withdraw their  tender will receive the reduced offer price of $5.23 per share, rather than the $13.15 per share that was offered at the  time those stockholders accepted the Comrit Offer. This is not an offer from AHR.  AHR is required by applicable Securities and Exchange Commission (“SEC”) rules and regulations to inform you of its  position, if any, with respect to the Comrit Offer. In evaluating the Comrit Offer, as amended, the Board considered, among  other things, the following factors: (i) As you know, AHR’s common stock was listed and began trading on the NYSE on February 7, 2024. The Comrit Offer  Price of $5.23 per share is approximately 62.1% lower than the NYSE closing price of AHR’s common stock on March 14,  2024.  (ii) While AHR’S Class T and Class I common stock is not currently listed and tradeable on the NYSE—currently, only AHR’s  common stock is listed on the NYSE—AHR’s outstanding Class T and Class I common stock will automatically convert into  listed common stock on August 5, 2024. Accordingly, on August 5, 2024, you will have the opportunity to sell your  converted shares on the NYSE at the then current market price. Stockholders who tender their Shares to Comrit  pursuant to the Comrit Offer, as amended, will forgo the right to participate in any benefits due to the receipt of listed AHR  common stock in connection with the automatic conversion of their shares, including the ability to sell their converted shares  of AHR common stock on the NYSE. However, the liquidity opportunities with respect to the Class T and Class I common  stock are limited until such automatic conversion occurs. Furthermore, while the Class T and Class I common stock will  automatically convert into listed common stock on August 5, 2024, AHR can make no assurances that a public trading  market for the listed common stock will develop, will be maintained, or will be liquid at the time of such conversion or at  any time thereafter. In addition, AHR can make no assurances as to the liquidity of the stock or its trading price at the time of  conversion. In particular, AHR can make no assurance that the trading price of AHR common stock at the time of automatic  conversion will equal or exceed the Comrit Offer Price or that you will be able to sell your shares at a price in excess of the  Comrit Offer Price after automatic conversion. (iii) While the Board believes that the Comrit Offer, as amended, represents an opportunistic attempt by Comrit to purchase the  Shares and make a profit, the Board is aware that stockholders may need near-term liquidity prior to the conversion of the  Class T and Class I common stock into listed common stock on August 5, 2024, in light of the current financial markets and  lack of certainty regarding the future market price of AHR’s listed common stock.  (iv) It is the general position of the Board to not make a recommendation with respect to tender offers and for each stockholder to  evaluate such offers factoring their unique circumstances.
+After carefully evaluating the Comrit Offer, as amended, and consulting with AHR’s management and such  advisors as deemed appropriate by the Board, the Board REMAINS NEUTRAL and makes NO RECOMMENDATION  on whether any AHR stockholder should accept or decline the Comrit Offer, as amended, for their shares. While the  Board carefully evaluates any unsolicited tender offers by third parties in accordance with applicable SEC rules and tegulations,  in light of the fact that each stockholder must make their own independent decision whether to tender or refrain from tendering  their shares based on their individual circumstances, it is the general position of the Board to not make a recommendation with  respect to tender offers unless the terms and conditions of a tender offer clearly warrant a specific position by the Board.   Please note that stockholders who tender their shares will lose their right to receive any future distributions with a  record date after the sale of their shares to Comrit. AHR currently pays distributions at an annualized rate of $1.00 per  share. While there are no guarantees of future distributions and there can be no certainty regarding the long-term value of AHR’s  common stock because the value is dependent on a number of factors, stockholders who tender their shares pursuant to the  Comrit Offer, as amended, would give up their rights to any future distributions with a record date after the conclusion of the  Comrit Offer, as amended. As stated by Comrit, the Comrit Offer, as amended, is being made “for investment purposes and with the intention of  making a profit from the ownership of the Shares.” In establishing the Comrit Offer Price of $5.23 per Share, Comrit  acknowledges that it “is motivated to establish the lowest price which might be acceptable to [stockholders] consistent with  [Comrit’s] objectives.” Comrit did not retain any “independent person…to evaluate or render any opinion with respect to the  fairness of the [Comrit] Offer Price and no representation is made by [Comrit] or any affiliate of [Comrit] as to such fairness.”  Comrit determined the Comrit Offer Price pursuant to its own analysis and states that [it] “has not made an independent  appraisal of the Shares or [AHR’s] properties…and is not qualified to appraise real estate.” Hence, Comrit acknowledges that its  offer price was established based on Comrit’s own analysis and objectives without consideration of your financial objectives.  We urge you to consult your financial advisor and exercise caution with respect to this and other mini-tender offers.  The SEC has cautioned investors about these kinds of offers in an investor alert, as they are often made in an attempt to profit at  investors’ expense. The SEC noted that these offers “have been increasingly used to catch investors off guard,” and cautioned  that investors need to scrutinize these types of offers carefully. To read more about the risks of “mini-tender” offers, please  review the alert at www.sec.gov/investor/pubs/minitend.htm. SEC rules permit third parties, such as Comrit, to distribute unsolicited mini-tender offers to stockholders of public  companies. However, in order to maintain the confidentiality of our stockholders, AHR has only provided stockholder mailing  information needed to distribute the Comrit Offer materials to a third-party financial printer that is unaffiliated with Comrit.  Therefore, Comrit will not have access to any additional stockholder information unless the stockholder agrees to accept the  tender offer by Comrit. None of AHR’s directors or executive officers intends to tender any shares in the Comrit Offer, as  amended. The Board understands that you must make your own independent decision whether to tender or refrain from tendering  your shares. We strongly urge you to carefully consider all aspects of the Comrit Offer, as amended, in light of your own  circumstances, including (i) your investment objectives, (ii) your financial circumstances, including your tolerance for risk and  need for immediate liquidity that cannot be satisfied by other means, (iii) other financial opportunities available to you, (iv) your  own tax position and tax consequences, and (v) other factors you determine are relevant to your decision. You should carefully  review all of the Comrit Offer documents, as amended, sent to you by Comrit, as well as AHR’s publicly available annual,  quarterly and other reports filed with the SEC at www.sec.gov, and consult with your own financial, tax and other advisors in  evaluating the Comrit Offer, as amended, before deciding whether to tender your shares. Stockholders who previously accepted the Comrit Offer may withdraw their tender before the expiration of the  Comrit Offer, as amended, by sending to Central Trade and Transfer, LLC a written or facsimile transmission notice of  withdrawal. PLEASE CONSULT WITH YOUR FINANCIAL ADVISOR AND TAX ADVISOR ABOUT THE IMPACT OF A SALE  ON YOUR OWN PARTICULAR SITUATION. Should you have any questions or need further information about your options, please feel free to contact your financial  advisor or AHR Investor Services at 844-460-9414. Sincerely, Danny Prosky Chief Executive Officer, President and Director
+* You may request a printed copy of this letter by calling your financial advisor or American Healthcare REIT, Inc.  Investor Services at 844-460-9414.      Cautionary Note Regarding Forward-Looking Statements Certain statements contained in this letter other than historical facts may be considered forward-looking statements within the meaning of  Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These forward- looking statements are predictions and generally can be identified by use of statements that include phrases such as “believe,” “expect,”  “anticipate,” “estimate,” “intend,” “plan,” “foresee,” “looking ahead,” “is confident,” “should,” “will,” “predicted,” “likely” or other words or  phrases of similar import. Similarly, statements that describe or contain information related to matters such as AHR’s intent, belief or  expectation with respect to conversion of Class T and Class I shares of common stock; the NYSE trading market and price of AHR’s shares of  common stock; liquidity options and distribution rates and amounts are forward-looking statements. These forward-looking statements often  reflect a number of assumptions and involve known and unknown risks, uncertainties and other factors that could cause AHR’s actual results to  differ materially from those currently anticipated in these forward-looking statements. Certain factors that could cause actual results to differ  materially from these forward-looking statements are listed from time to time in AHR’s SEC reports, including, but not limited to, the risk  factors provided in AHR’s Annual Report on Form 10-K and Quarterly Reports on Form 10-Q.
+
+
+================================================================================
+=== DOCUMENT 3: EX-99.2 - exhibit992firstquarter2024.htm ===
+================================================================================
+
+EXHIBIT 99.2
+American Healthcare REIT Declares First Quarter 2024 Distribution
+IRVINE, Calif., Mar. 15, 2024 /PRNewswire/ -- American Healthcare REIT, Inc. (NYSE: AHR) announced today that its board of directors has declared a quarterly distribution of $0.25 per share for the quarter ending March 31, 2024. The distribution will be payable in cash on April 19, 2024 to all holders of record of its common stock, Class T common stock and Class I common stock as of the close of business on March 28, 2024.
+About American Healthcare REIT, Inc.
+American Healthcare REIT, Inc. is a self-managed real estate investment trust that acquires, owns and operates a diversified portfolio of clinical healthcare real estate properties, focusing primarily on outpatient medical buildings, senior housing, skilled nursing facilities and other healthcare-related facilities. Its properties are located in 36 states, the United Kingdom and the Isle of Man. For additional information, please visit
+www.AmericanHealthcareREIT.com
+.
+Investor Contact:
+Alan Peterson
+VP, Investor Relations & Finance
+(949) 270-9200
+investorrelations@ahcreit.com
+Media Contact:
+Damon Elder
+Spotlight Marketing Communications
+(949) 427-1377
+damon@spotlightmarcom.com
+SOURCE American Healthcare REIT, Inc.
+

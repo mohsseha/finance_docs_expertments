@@ -1,0 +1,186 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm2526908d1_8k.htm ===
+================================================================================
+
+false
+0001075415
+0001075415
+2025-09-26
+2025-09-26
+0001075415
+us-gaap:CommonStockMember
+2025-09-26
+2025-09-26
+0001075415
+DHC:SeniorNotesDue2042Member
+2025-09-26
+2025-09-26
+0001075415
+DHC:SeniorNotesDue2046Member
+2025-09-26
+2025-09-26
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM
+8-K
+CURRENT REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+September 26, 2025
+Diversified Healthcare Trust
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+,
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices) (Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+In this Current Report on
+Form 8-K, the terms “we,” “our,” “us” and “the Company” refer to Diversified Healthcare
+Trust.
+Item 8.01.
+Other Events.
+Senior
+Secured Notes Transaction
+On September
+26, 2025, we completed a private offering of $375,000,000 in aggregate principal amount of our 7.250% senior secured notes due 2030, or
+the Notes. The net proceeds from the offering were approximately $365.9 million, after deducting estimated discounts and commissions to
+the initial purchasers and other estimated fees and expenses. We used a portion of the net proceeds to fund the partial redemption of
+our senior secured notes due 2026, or the 2026 Notes, as further described below, and intend to use the remaining net proceeds to pay
+fees and expenses associated with such redemption and for general business purposes.
+After purchasing
+the Notes from us, the initial purchasers offered and sold the Notes only to persons reasonably believed to be qualified institutional
+buyers pursuant to Rule 144A under the Securities Act of 1933, as amended, or the Securities Act, and outside the United States to non-United
+States persons in compliance with Regulation S under the Securities Act. The Notes have not been registered under the Securities Act or
+under any state securities law and may not be offered or sold in the United States absent registration or an applicable exemption from,
+or in a transaction not subject to, the registration requirements of the Securities Act and applicable state securities laws.
+The Notes
+are fully and unconditionally guaranteed (i) on a joint, several and senior secured basis, by certain of our subsidiaries that own 36
+fee-owned real properties located in the United States, and (ii) on a joint, several and unsecured basis, by all of our subsidiaries that
+guarantee the 2026 Notes on an unsecured basis and all of our subsidiaries that currently guarantee our 4.375% senior notes due 2031,
+or such guarantors collectively, the Subsidiary Guarantors. The Notes and the guarantees provided by the Subsidiary Guarantors that own
+the 36 real properties are secured by a first-priority lien and security interest on 100% of the equity interests in each such Subsidiary
+Guarantor.
+The Notes
+and the guarantees thereof were issued under our indenture, dated as of September 26, 2025, or the Indenture, among us, the Subsidiary
+Guarantors and U.S. Bank Trust Company, National Association, as trustee and collateral agent.
+We may redeem
+some or all of the Notes at the redemption prices and on the terms specified in the Indenture. The Notes are subject to certain restrictive
+financial and operating covenants, including covenants that restrict our ability to incur debts in excess of calculated amounts, that
+require us to maintain certain financial ratios and that restrict certain activities of the Subsidiary Guarantors that own the 36 real
+properties.
+The foregoing
+description of the Notes is not complete and is subject to and qualified in its entirety by reference to the copy of the Indenture attached
+hereto as Exhibit 4.1, which is incorporated by reference herein.
+2026
+Notes Redemption
+In connection
+with the closing of the offering of the Notes, on September 26, 2025, we redeemed a portion of the outstanding 2026 Notes for a redemption
+price equal to the principal amount of approximately $307.0 million.
+Warning
+Concerning Forward-Looking Statements
+This Current
+Report on Form 8-K contains statements that constitute forward-looking statements within the meaning of the Private Securities Litigation
+Reform Act of 1995 and other securities laws. Also, whenever we use words such as “believe,” “expect,” “anticipate,”
+“intend,” “plan,” “estimate,” “will,” “may” and negatives or derivatives of
+these or similar expressions, we are making forward-looking statements. These forward-looking statements are based upon our present intent,
+beliefs or expectations, but forward-looking statements are not guaranteed to occur and may not occur. Actual results may differ materially
+from those contained in or implied by our forward-looking statements as a result of various factors. For example, the current intentions
+with respect to the use of remaining net proceeds from the offering of the Notes may not occur when or as expected or at all.
+The information
+contained in our filings with the Securities and Exchange Commission, or the SEC, including under the caption “Risk Factors”
+in our Annual Report on Form 10-K for the year ended December 31, 2024, identifies other important factors that could cause our actual
+results to differ materially from those stated in or implied by our forward-looking statements. Our filings with the SEC are available
+on the SEC’s website at www.sec.gov.
+You should
+not place undue reliance upon forward-looking statements.
+Except as
+required by law, we do not intend to update or change any forward-looking statements as a result of new information, future events or
+otherwise.
+Item 9.01.
+Financial
+Statements and Exhibits.
+(d)
+Exhibits.
+4.1
+Indenture, dated as of September 26, 2025, between the Company, certain subsidiaries of the
+Company named therein as guarantors and U.S. Bank Trust Company, National Association, relating to the Company’s 7.250% Senior Secured
+Notes due 2030, including form thereof.
+104
+Cover Page Interactive Data File. (Embedded within the Inline XBRL Document).
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/ Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Date:  September 29, 2025
+

@@ -1,0 +1,102 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20240126.htm ===
+================================================================================
+
+ahr-20240126
+FALSE
+0001632970
+12/31
+0001632970
+2024-01-26
+2024-01-26
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+January 26, 2024
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+000-55775
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 5.03 Amendments to Articles of Incorporation or Bylaws; Change in Fiscal Year.
+We previously reported in our Current Report on Form 8-K filed on September 20, 2022 that we filed a Registration Statement on Form S-11 (File No. 333-267464) with the U.S. Securities and Exchange Commission for a proposed offering of our shares of common stock in conjunction with a contemplated listing of our common stock on the New York Stock Exchange, or the Proposed Listing. In connection with the Proposed Listing, effective January 26, 2024, our board of directors reclassified and designated 700,000,000 authorized but unissued shares of Class I Common Stock, $0.01 par value per share, as authorized but unissued shares of common stock, $0.01 par value per share, or the Common Stock, without any designation as to class or series, by filing Articles Supplementary with the State Department of Assessments and Taxation of Maryland.
+The foregoing summary of the Articles Supplementary is qualified in its entirety by reference to the full text of the Articles Supplementary, a copy of which is filed as Exhibit 3.1 to this Current Report on Form 8-K, and incorporated herein by reference.
+Item 7.01 Regulation FD Disclosure.
+On January 30, 2024, we issued a press release announcing that we will be hosting a webcast for existing stockholders on February 12, 2024 at 4:00 pm eastern time. A copy of the press release is attached hereto as Exhibit 99.1 and is incorporated herein solely for purposes of this Item 7.01 disclosure.
+The information furnished under this Item 7.01 of this Current Report on Form 8-K, including Exhibit 99.1, shall not be deemed to be "filed" for the purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+3.1
+Articles Supplementary (Common Stock Reclassification) of American Healthcare REIT, Inc., dated January 26, 2024
+99.1
+Press release, dated January
+30
+, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+January 30, 2024
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 3: EX-99.1 - exhibit991pressrelease.htm ===
+================================================================================
+
+American Healthcare REIT to Host Webcast  For Existing Stockholders  IRVINE, Calif. (Jan. 30, 2024) – On January 29, 2024, American Healthcare REIT, Inc. (“AHR”) launched a  public offering of shares of its common stock (the “Offering”). Due to limitations imposed by the Securities  and Exchange Commission on our ability to communicate during the pendency of the Offering, AHR  intends to host a webcast after the completion of the Offering to address questions that pre-Offering  stockholders may have with respect to their investment and the Offering. The webcast is expected to take  place on Monday, February 12th at 4:00 pm Eastern Time. Chief Executive Officer and President, Danny  Prosky, and Chief Financial Officer, Brian Peay, will be hosting the webcast.   Participants may register for the webcast by clicking here or visiting  https://us02web.zoom.us/webinar/register/WN_T-ueb1o8TKeS1n0ioNDnSg.  ###  Contact: Alan Peterson  VP, Investor Relations & Finance  (949) 270-9200 investorrelations@ahcreit.com   EXHIBIT 99.1
+

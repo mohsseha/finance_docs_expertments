@@ -1,0 +1,148 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm259874d1_8k.htm ===
+================================================================================
+
+false
+0001075415
+0001075415
+2025-03-20
+2025-03-20
+0001075415
+us-gaap:CommonStockMember
+2025-03-20
+2025-03-20
+0001075415
+DHC:SeniorNotesDue2042Member
+2025-03-20
+2025-03-20
+0001075415
+DHC:SeniorNotesDue2046Member
+2025-03-20
+2025-03-20
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM
+8-K
+CURRENT REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+March 20, 2025
+Diversified Healthcare Trust
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+,
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices) (Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+In this Current Report on Form 8-K, the terms “we”,
+“us”, and “our” refer to Diversified Healthcare Trust.
+Item 5.02. Departure of Directors or Certain Officers; Election
+of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On March 20, 2025,
+pursuant
+to the recommendation of the Nominating and Governance Committee,
+our Board of Trustees, or
+the
+Board, elected Alan L. Felder as an Independent Trustee with a term to expire at our 2025 annual meeting of shareholders. In connection
+with Mr. Felder’s election,
+the Board increased the size of the Board from seven members to eight members. The Board appointed
+Mr. Felder to serve on the Audit Committee.
+Mr.
+Felder, age 53, previously worked at UBS Investment Bank, or UBS, from 2001 to 2024, where he most recently served as the Head of
+Real Estate, Lodging and Leisure, Americas. Mr. Felder previously held other roles at UBS, including Head of Private Financing
+Markets, Americas and a Managing Director in the Mergers and Acquisitions Group. Prior to joining UBS, Mr. Felder worked
+in investment banking at Donaldson, Lufkin & Jenrette, focusing on capital markets and mergers and acquisitions transactions. He
+graduated from the Wharton School of the University of Pennsylvania.
+The Board
+concluded that Mr. Felder is qualified to serve as an Independent Trustee in accordance with the requirements of The Nasdaq Stock
+Market LLC, the Securities and Exchange Commission and our governing documents. For his service as an Independent Trustee, Mr. Felder
+will be entitled to the compensation we generally provide to Independent Trustees. There is no arrangement or understanding between Mr. Felder
+and any other person pursuant to which Mr. Felder was selected as a Trustee. There are no transactions, relationships or agreements
+between Mr. Felder and us that would require disclosure pursuant to Item 404(a) of Regulation S-K promulgated under the Securities
+Exchange Act of 1934, as amended. Mr. Felder does not have a family relationship with any member of the Board or any of our executive
+officers.
+In connection
+with Mr. Felder’s election as an Independent Trustee, we will enter into an indemnification agreement with Mr. Felder,
+which agreement will be on substantially the same terms as the indemnification agreements we have entered with our other Trustees and
+executive officers. We have previously filed a form of indemnification agreement as
+Exhibit 10.1
+to our Quarterly Report on Form 10-Q
+for the quarter ended June 30, 2024, which form is incorporated herein by reference.
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/
+Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Dated: March 20, 2025
+

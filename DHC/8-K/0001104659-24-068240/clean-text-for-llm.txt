@@ -1,0 +1,211 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm2416068d1_8k.htm ===
+================================================================================
+
+false
+--12-31
+0001075415
+0001075415
+2024-05-31
+2024-05-31
+0001075415
+us-gaap:CommonStockMember
+2024-05-31
+2024-05-31
+0001075415
+DHC:SeniorNotesDue2042Member
+2024-05-31
+2024-05-31
+0001075415
+DHC:SeniorNotesDue2046Member
+2024-05-31
+2024-05-31
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 31, 2024
+Diversified Healthcare Trust
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices)
+(Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On
+Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+In this Current Report on Form 8-K, the
+terms “we”, “us”, “our” and “the Company” refer to Diversified Healthcare Trust.
+Item
+5.03.
+Amendments
+to Articles of Incorporation or Bylaws; Change in Fiscal Year
+On May 31, 2024, our Board of Trustees (the
+“Board”) approved and adopted our Fourth Amended and Restated Bylaws (the “Amended Bylaws”), to (1) eliminate
+provisions which, subject to certain exceptions, allowed for the resolution of disputes, claims or controversies brought by a shareholder
+against us or any Trustee, officer, manager, agent or employee of us on such shareholder’s own behalf, on behalf of us or on behalf
+of any series or class of shares or shareholders, including derivative and class actions, through binding and final arbitration in accordance
+with specified procedures, and (2) make certain clarifying, administrative and conforming changes.
+The foregoing description of our Amended Bylaws
+is not complete and is subject to and qualified in its entirety by reference to the Amended Bylaws, a copy of which is filed as Exhibit 3.5
+to this Current Report on Form 8-K and incorporated herein by reference. In addition, a marked copy of our Amended Bylaws indicating
+changes made to our bylaws as they existed immediately prior to the adoption of our Amended Bylaws is filed as Exhibit 3.6 to this
+Current Report on Form 8-K.
+Item
+5.07.
+Submission of Matters to
+a Vote of Security Holders.
+At the Company’s annual meeting of shareholders
+held on May 31, 2024 (the “2024 Annual Meeting”), the Company’s shareholders voted on the election of seven Trustees
+to the Board each for a one year term of office continuing until the Company’s 2025 annual meeting of shareholders and until her,
+his or their respective successor is duly elected and qualifies. The following persons were elected as Trustees and received the following
+votes:
+Nominee
+Votes For
+Withhold
+Broker
+Non-Votes
+Christopher J. Bilotto
+159,793,584
+32,422,061
+28,024,770
+John L. Harrington
+157,753,564
+34,462,081
+28,024,770
+Lisa Harris Jones
+148,427,736
+43,787,909
+28,024,770
+Phyllis M. Hollis
+160,025,263
+32,190,382
+28,024,770
+Dawn K. Neher
+160,315,218
+31,900,427
+28,024,770
+Adam D. Portnoy
+131,493,081
+60,722,564
+28,024,770
+Jeffrey P. Somers
+142,245,952
+49,969,693
+28,024,770
+The Company’s shareholders also voted on a non-binding advisory
+resolution on the compensation paid to the Company’s named executive officers as disclosed pursuant to Item 402 of Regulation S-K
+in the Company’s proxy statement relating to the 2024 Annual Meeting. This proposal received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+154,465,115
+37,498,438
+252,092
+28,024,770
+The Company’s shareholders also ratified the appointment of Deloitte &
+Touche LLP as the Company’s independent auditors to serve for the 2024 fiscal year. This proposal received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+187,203,902
+32,665,377
+371,136
+–
+The results reported above are final voting results.
+Item
+9.01.
+Financial Statements and
+Exhibits.
+Exhibit
+Number
+Description
+3.5
+Fourth Amended and Restated Bylaws of the Company, adopted May 31, 2024 (Filed herewith)
+3.6
+Fourth Amended and Restated Bylaws of the Company, adopted May 31, 2024 (marked copy) (Filed herewith)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/ Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Date: June 4, 2024
+

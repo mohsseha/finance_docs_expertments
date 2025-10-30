@@ -1,0 +1,95 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - ahr-20240111.htm ===
+================================================================================
+
+ahr-20240111
+FALSE
+0001632970
+0001632970
+2024-01-11
+2024-01-11
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+January 11, 2024
+American Healthcare REIT, Inc.
+(Exact name of registrant as specified in its charter)
+Maryland
+000-55775
+47-2887436
+(State or other jurisdiction
+of incorporation)
+(Commission
+File Number)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(
+949
+)
+270-9200
+Not Applicable
+(Former name or former address, if changed since last report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+None
+None
+None
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.    ☐
+Item 7.01 Regulation FD Disclosure.
+On January 11, 2024, our board of directors issued a response to an unsolicited mini-tender offer from an unaffiliated third party, Comrit Investments 1, Limited Partnership, to purchase up to an aggregate of 228,136 shares of our Class T and Class I common stock at a price of $13.15 per share. For several reasons discussed in the response letter, our board of directors has determined not to make any recommendation and to remain neutral as to whether stockholders should tender shares in the offer. The response letter, addressed to our stockholders and attached to this Form 8-K as Exhibit 99.1, is available on our website in the Investor Relations – Investor Communications section at www.AmericanHealthcareREIT.com and incorporated in its entirety into this Item 7.01. The response letter to stockholders will also be mailed to our stockholders upon their request.
+The information in this report, including Exhibit 99.1, is being furnished pursuant to Item 7.01 of Form 8-K and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, or otherwise subject to the liabilities of that section, nor shall such information be deemed incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended.
+Item 9.01 Financial Statements and Exhibits.
+(d) Exhibits.
+Exhibit No.
+Description
+99.1
+American Healthcare REIT, Inc. Response Letter Re. Comrit Tender Offer dated January 11, 2024
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+American Healthcare REIT, Inc.
+January 11, 2024
+By:
+/s/ Danny Prosky
+Name: Danny Prosky
+Title: Chief Executive Officer and President
+
+
+================================================================================
+=== DOCUMENT 2: EX-99.1 - exhibit991comrittorespon.htm ===
+================================================================================
+
+EXHIBIT 99.1                THIS LETTER IS POSTED ON THE AHR WEBSITE AND FILED WITH THE SEC ON FORM 8-K ON JANUARY 11, 2024*    The Board MAKES NO RECOMMENDATION with respect to the Comrit tender offer    January 11, 2024    Dear Stockholder:     I am writing to you on behalf of the board of directors (the “Board”) of American Healthcare REIT, Inc. (“AHR”) to  notify you about an unsolicited third-party mini-tender offer (the “Comrit Offer”) being made for your shares of AHR common  stock by Comrit Investments 1, Limited Partnership (“Comrit”), in what we believe is an opportunistic attempt to purchase  your shares. Comrit is offering to purchase up to an aggregate of 228,136 shares of AHR’s Class T and Class I common stock  (the “Shares”) at a low price of $13.15 per share (the “Comrit Offer Price”), WHICH IS EQUIVALENT TO $3.29 PER  SHARE BEFORE AHR’S ONE-FOR-FOUR REVERSE STOCK SPLIT IN NOVEMBER 2022. This is not an offer from  AHR.     AHR is required by applicable Securities and Exchange Commission (“SEC”) rules and regulations to inform you of  its position, if any, with respect to the Comrit Offer. In evaluating the Comrit Offer, the Board considered, among other things,  the following factors:    (i) The Comrit Offer price of $13.15 per share (which is equivalent to $3.29 per share before the one-for-four reverse stock  split) is approximately 58% lower than the Board’s most recent estimated net asset value (“NAV”) of Class T and Class I  common stock of $31.40 per share as of December 31, 2022. This NAV was determined by the Board with the assistance of  an independent third-party valuation firm.1     (ii) AHR filed a registration statement on Form S-11 with the SEC on September 16, 2022 (which was last amended on  January 2, 2024) relating to potential plans to issue shares of its common stock in an underwritten public offering, which  would be accompanied by a listing of those shares of common stock on the New York Stock Exchange. However, AHR  can make no assurances as to when, or if, AHR will commence such public offering or whether the contemplated public  offering will be successful or that any future trading or other liquidity event will allow you to sell your shares at a price in  excess of the Comrit Offer Price. In addition, it is currently contemplated that the Class T and Class I common stock  outstanding prior to the contemplated public offering will not automatically convert into shares of listed common stock  until six months after the listing of AHR’s common stock in connection with the contemplated public offering.      (iii) While the Board believes that the Comrit Offer represents an opportunistic attempt by Comrit to purchase the Shares and  make a profit, the Board is aware that the AHR share repurchase plan was suspended on November 14, 2022 and  stockholders may need near-term liquidity in light of the current financial markets and lack of certainty regarding the  timing of any potential AHR public offering or other liquidity event.  AHR stockholders seeking immediate liquidity may  have other options, including secondary auction trades, which Comrit points out may result in a higher sales price, with  Comrit noting that “for the period between September 19, 2023 and December 19, 2023, CTT Auctions reported secondary  market trading prices ranging from $14.36 to $15.25 for shares of” AHR common stock, which represent actual sales of  AHR common stock at prices that are 9%-16% higher than the Comrit Offer Price.      After carefully evaluating the Comrit Offer and consulting with AHR’s management and such advisors as  deemed appropriate by the Board, the Board REMAINS NEUTRAL and makes NO RECOMMENDATION on  whether any AHR stockholder should accept or decline the Comrit Offer for their shares.     Please note that stockholders who tender their shares will lose their right to receive any future distributions that are  paid after the conclusion of the Comrit Offer. AHR currently pays distributions at an annualized rate of $1.00 per share. While  there are no guarantees of future distributions or a liquidity event and there can be no certainty regarding the long-term value of  AHR’s common stock because the value is dependent on a number of factors, stockholders who tender their shares pursuant to  the Comrit Offer would give up their rights to any future distributions after the conclusion of the Comrit Offer as well as their  rights to receive any proceeds from any AHR liquidity event.
+As stated by Comrit, the Comrit Offer is being made “for investment purposes and with the intention of making a  profit from the ownership of the Shares.” Comrit determined the Comrit Offer Price pursuant to its own analysis and states that  [it] “has not made an independent appraisal of the Shares or [AHR’s] properties…and is not qualified to appraise real estate.”  Hence, Comrit acknowledges that its offer price was established based on Comrit’s own analysis and objectives without  consideration of your financial objectives.     We urge you to consult your financial advisor and exercise caution with respect to this and other mini-tender offers.  The SEC has cautioned investors about these kinds of offers in an investor alert, as they are often made in an attempt to profit  at investors’ expense. The SEC noted that these offers “have been increasingly used to catch investors off guard,” and  cautioned that investors need to scrutinize these types of offers carefully. To read more about the risks of “mini-tender” offers,  please review the alert at www.sec.gov/investor/pubs/minitend.htm.    SEC rules permit third parties, such as Comrit, to distribute unsolicited mini-tender offers to stockholders of public  companies. However, in order to maintain the confidentiality of our stockholders, AHR has only provided stockholder mailing  information needed to distribute the Comrit Offer materials to a third-party financial printer that is unaffiliated with Comrit.  Therefore, Comrit will not have access to any additional stockholder information unless the stockholder agrees to accept the  tender offer by Comrit. None of AHR’s directors or executive officers intends to tender any shares in the Comrit Offer.    The Board understands that you must make your own independent decision whether to tender or refrain from  tendering your shares. We strongly urge you to carefully consider all aspects of the Comrit Offer in light of your own  circumstances, including (i) your investment objectives, (ii) your financial circumstances, including your tolerance for risk and  need for immediate liquidity that cannot be satisfied by other means, (iii) other financial opportunities available to you, (iv)  your own tax position and tax consequences, and (v) other factors you determine are relevant to your decision. You should  carefully review all of the Comrit Offer documents sent to you by Comrit, as well as AHR’s publicly available annual,  quarterly and other reports filed with the SEC at www.sec.gov, and consult with your own financial, tax and other advisors in  evaluating the Comrit Offer before deciding whether to tender your shares.    PLEASE CONSULT WITH YOUR FINANCIAL ADVISOR AND TAX ADVISOR ABOUT THE IMPACT OF A  SALE ON YOUR OWN PARTICULAR SITUATION.    Should you have any questions or need further information about your options, please feel free to contact your  financial advisor or AHR Investor Services at 844-460-9414.    Sincerely,    Danny Prosky  Chief Executive Officer, President and Director    * You may request a printed copy of this letter by calling your financial advisor or American Healthcare REIT, Inc.  Investor Services at 844-460-9414.         1     For more information on the most recent estimated NAV, including the assumptions, estimates and judgments used to determine the  estimated NAV, see AHR’s Current Report on Form 8-K filed with the SEC on March 17, 2023.    Cautionary Note Regarding Forward-Looking Statements    Certain statements contained in this letter other than historical facts may be considered forward-looking statements within the meaning  of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended. These  forward-looking statements are predictions and generally can be identified by use of statements that include phrases such as “believe,”  “expect,” “anticipate,” “estimate,” “intend,” “plan,” “foresee,” “looking ahead,” “is confident,” “should,” “will,” “predicted,” “likely” or  other words or phrases of similar import. Similarly, statements that describe or contain information related to matters such as AHR’s intent,  belief or expectation with respect to its financial performance, investment strategy and portfolio, cash flows, growth prospects, valuation  estimates, potential listing of shares and public offering or other liquidity options and distribution rates and amounts are forward-looking  statements. These forward-looking statements often reflect a number of assumptions and involve known and unknown risks, uncertainties and  other factors that could cause AHR’s actual results to differ materially from those currently anticipated in these forward-looking statements.  Certain factors that could cause actual results to differ materially from these forward-looking statements are listed from time to time in  AHR’s SEC reports, including, but not limited to, the risk factors provided in AHR’s Annual Report on Form 10-K and Quarterly Reports on  Form 10-Q.
+

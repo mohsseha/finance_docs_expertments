@@ -1,0 +1,219 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm2516273d1_8k.htm ===
+================================================================================
+
+false
+0001075415
+0001075415
+2025-05-29
+2025-05-29
+0001075415
+us-gaap:CommonStockMember
+2025-05-29
+2025-05-29
+0001075415
+DHC:SeniorNotesDue2042Member
+2025-05-29
+2025-05-29
+0001075415
+DHC:SeniorNotesDue2046Member
+2025-05-29
+2025-05-29
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant
+to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+May 29, 2025
+Diversified Healthcare Trust
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices)
+(Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On
+Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+In this Current Report on Form 8-K, the term “the Company” refers to Diversified Healthcare Trust.
+Item 5.02.
+Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+As described in Item 5.07 below, at the Company’s
+annual meeting of shareholders held on May 29, 2025 (the “Annual Meeting”), the Company’s shareholders approved the
+Diversified Healthcare Trust Second Amended and Restated 2012 Equity Compensation Plan (the “Equity Compensation Plan”), which
+amended and restated the Company’s existing Amended and Restated 2012 Equity Compensation Plan to increase by 3,500,000 the total
+number of common shares of beneficial interest, $.01 par value per share, available for awards and to extend the term of the plan until May 29,
+2035, the tenth anniversary of the Annual Meeting. The Company's Trustees and officers, employees of The RMR Group LLC, consultants, advisors and
+other persons or entities providing management, administrative or other services to us or to our subsidiaries are eligible to receive
+awards under the Equity Compensation Plan.
+A copy of the Equity Compensation Plan that was
+approved by the Company’s shareholders was included as Annex A to the Company’s proxy statement for the Annual Meeting, which
+proxy statement was filed with the Securities and Exchange Commission (the “SEC”) on March 20, 2025 (the “2025 Proxy
+Statement”), and is available at the SEC’s website at www.sec.gov. The terms and conditions of the Equity Compensation Plan
+are described in detail in the 2025 Proxy Statement. The foregoing description of the Equity Compensation Plan is qualified in its entirety
+by the terms of the Equity Compensation Plan. A copy of the Equity Compensation Plan is filed as Exhibit 10.1 hereto and is incorporated
+by reference herein.
+Item 5.07.
+Submission of Matters to a Vote of Security Holders.
+At
+the Annual Meeting, the Company’s shareholders voted on the election of seven Trustees
+to the Company’s Board of Trustees
+each for a one year term of office continuing until the Company’s 2026 annual meeting of shareholders and until her, his or their
+respective successor is duly elected and qualifies. The following persons were elected as Trustees and received the following votes:
+Nominee
+Votes For
+Withhold
+Broker
+Non-Votes
+Christopher J. Bilotto
+166,303,992
+4,876,315
+30,246,011
+Alan Felder
+166,835,261
+4,345,046
+30,246,011
+Lisa Harris Jones
+144,391,470
+26,788,837
+30,246,011
+Phyllis M. Hollis
+165,010,370
+6,169,937
+30,246,011
+Dawn K. Neher
+165,297,938
+5,882,369
+30,246,011
+Adam Portnoy
+134,285,987
+36,894,320
+30,246,011
+Jeffrey P. Somers
+131,452,805
+39,727,502
+30,246,011
+The Company’s
+shareholders also voted on a non-binding advisory resolution on the compensation paid to the Company’s named executive officers
+as disclosed pursuant to Item 402 of Regulation S-K in the 2025 Proxy Statement
+. This proposal received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+162,374,717
+8,618,238
+187,352
+30,246,011
+As described above in Item 5.02, the Company’s shareholders also
+voted on the approval of the Equity Compensation Plan. This proposal received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+164,766,615
+6,237,228
+176,464
+30,246,011
+The Company’s
+shareholders also ratified the appointment of
+Deloitte & Touche LLP as the Company’s independent auditors to serve for
+the 2025 fiscal year. This proposal received the following votes:
+For
+Against
+Abstain
+Broker Non-Votes
+199,066,139
+2,225,458
+134,721
+N/A
+The results reported above are final voting results.
+Item 9.01.
+Financial Statements and Exhibits.
+Exhibit
+Number
+Description
+10.1
+Diversified Healthcare Trust Second Amended and Restated 2012 Equity Compensation Plan (Filed herewith)
+104
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+SIGNATURE
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/
+Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Date: June 2, 2025
+

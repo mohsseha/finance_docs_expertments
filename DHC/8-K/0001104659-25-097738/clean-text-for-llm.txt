@@ -1,0 +1,1492 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm2528229d1_8k.htm ===
+================================================================================
+
+false
+0001075415
+0001075415
+2025-10-08
+2025-10-08
+0001075415
+us-gaap:CommonStockMember
+2025-10-08
+2025-10-08
+0001075415
+DHC:SeniorNotesDue2042Member
+2025-10-08
+2025-10-08
+0001075415
+DHC:SeniorNotesDue2046Member
+2025-10-08
+2025-10-08
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC 20549
+FORM
+8-K
+CURRENT REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of report (Date of earliest event reported):
+October 8, 2025
+Diversified Healthcare Trust
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+,
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices) (Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 7.01.
+Regulation FD Disclosure.
+On October 8, 2025, Diversified Healthcare Trust
+posted to its website an investor presentation, a copy of which is attached hereto as Exhibit 99.1.
+Item 9.01.
+Financial Statements and Exhibits.
+(d)
+Exhibits.
+99.1
+Investor Presentation dated October 8, 2025. (Furnished herewith.)
+104
+Cover Page Interactive Data File. (Embedded within the Inline XBRL document.)
+SIGNATURES
+Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/ Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Date:  October 8, 2025
+
+
+================================================================================
+=== DOCUMENT 2: EX-99.1 - tm2528229d1_ex99-1.htm ===
+================================================================================
+
+Exhibit 99.1
+1
+1
+Investor
+Presentation
+Overture at Plano
+500 Coit Road
+Plano, TX
+Updated October 2025
+2
+2
+This presentation contains forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995 and other securities laws that are subject to risks and uncertainties. These
+statements may include words such as “believe”, “expect”, “anticipate”, “intend”, “plan”, “estimate”, “will”, “may” and negatives or derivatives of these or similar expressions. These forward-looking
+statements include, among others, statements about: DHC’s 2025 guidance, including with respect to potential dispositions, capital expenditures, targeted net operating income (“NOI”) increase and
+occupancy growth; DHC’s senior housing operating portfolio (“SHOP”) operator strategic initiatives, including operator transitions, occupancy and margin growths, targeted sales and marketing
+expenditures, expansion of care options, implementation of standard operating procedures and revenue management and expense control; capital recycling plans, including expected timing of
+dispositions and amount of use of proceeds from dispositions; the value and quality of DHC’s SHOP properties; DHC’s refinancing strategy; the expected net proceeds and benefits to DHC from the
+strategic transaction with AlerisLife Inc.; the performance of its SHOP, Medical Office and Life Science Portfolio and Triple Net Leased (“NNN”) Senior Living and Wellness Centers segments; demand for
+medical office and life science properties and senior living communities; and expected favorable senior living industry trends and strong medical office market and life science sector fundamentals.
+Forward-looking statements reflect DHC’s current expectations, are based on judgments and assumptions, are inherently uncertain and are subject to risks, uncertainties and other factors, which could
+cause DHC’s actual results, performance or achievements to differ materially from expected future results, performance or achievements expressed or implied in those forward-looking statements. Some
+of the risks, uncertainties and other factors that may cause DHC’s actual results, performance or achievements to differ materially from those expressed or implied by forward-looking statements include,
+but are not limited to, the following: the impact of unfavorable market and commercial real estate industry conditions due to possible reduced demand for healthcare related space and senior living
+communities, uncertainties surrounding interest rates, wage and commodity price inflation, supply chain disruptions, volatility in the public debt and equity markets, effects of or changes to tariffs or
+trading policies, pandemics, geopolitical instability and tensions, economic uncertainties, labor market conditions or changes in real estate utilization, among other things, on DHC and its managers and
+other operators and tenants; DHC’s senior living operators’ abilities to successfully and profitably operate the communities they manage for DHC; the continuing impact of changing market practices on
+DHC and its managers and other operators and tenants, such as delayed recovery of the senior living industry, reduced demand for leased medical office, life science and other space of DHC and
+residencies at senior living communities and increased operating costs; the financial strength of DHC’s managers and other operators and tenants; whether the aging U.S. population and increasing life
+spans of seniors will increase the demand for senior living communities and other medical and healthcare related properties and healthcare services; whether DHC’s tenants will renew or extend their
+leases or whether DHC will obtain replacement tenants on terms as favorable to DHC as its prior leases; the likelihood that DHC’s tenants and residents will pay rent or be negatively impacted by
+continuing unfavorable market and commercial real estate industry conditions; DHC’s managers’ abilities to increase or maintain rates charged to residents of DHC’s senior living communities and
+manage operating costs for those communities; DHC’s ability to increase or maintain occupancy at its properties on terms desirable to DHC; DHC’s ability to increase rents when its leases expire or
+renew; costs DHC incurs and concessions it grants to lease its properties; risk and uncertainties regarding the costs and timing of development, redevelopment and repositioning activities, including as a
+result of inflation, cost overruns, supply chain challenges, labor shortages, construction delays or inability to obtain necessary permits or volatility in the commercial real estate markets; DHC’s ability to
+manage its capital expenditures and other operating costs effectively and to maintain and enhance its properties and their appeal to tenants and residents; DHC’s ability to effectively raise and balance
+its use of debt and equity capital; DHC’s ability to purchase cost effective interest rate caps; DHC’s ability to comply with the financial covenants under its debt agreements; DHC’s ability to make
+required payments on its debt; DHC’s ability to maintain sufficient liquidity, including the availability of borrowings under its revolving credit facility, and otherwise manage leverage; DHC’s credit ratings;
+DHC’s ability to sell properties at prices or returns it targets, and the timing of such sales; DHC’s ability to sell additional equity interests in, or contribute additional properties to, its existing joint ventures,
+or enter into additional real estate joint ventures or to attract co-venturers and benefit from DHC’s existing joint ventures or any real estate joint ventures it may enter into; DHC’s ability to acquire,
+develop, redevelop or reposition properties that realize its targeted returns; non-performance by counterparties to DHC’s interest rate cap; DHC’s ability to pay distributions to its shareholders and to
+maintain or increase the amount of such distributions; the ability of The RMR Group LLC (“RMR”) to successfully manage DHC; competition in the real estate industry, particularly in those markets in
+which DHC’s properties are located; government regulations affecting Medicare and Medicaid reimbursement rates and operational requirements; compliance with, and changes to, federal, state and
+local laws and regulations, accounting rules, tax laws and similar matters; exposure to litigation and regulatory and government proceedings due to the nature of the senior living and other health and
+wellness related service businesses; actual and potential conflicts of interest with DHC’s related parties, including DHC’s Managing Trustees, RMR, ABP Trust, AlerisLife Inc. and others affiliated with them;
+limitations imposed by and DHC’s ability to satisfy complex rules to maintain DHC’s qualification for taxation as a real estate investment trust (“REIT”) for U.S. federal income tax purposes; acts of
+terrorism, outbreaks of pandemics or other public health safety events or conditions, war or other hostilities, global climate change or other manmade or natural disasters beyond DHC’s control; and
+other matters.
+These risks, uncertainties and other factors are not exhaustive and should be read in conjunction with other cautionary statements that are included in DHC’s periodic filings. The information contained in
+DHC’s filings with the Securities and Exchange Commission (“SEC”), including under the caption “Risk Factors” in its periodic reports, or incorporated therein, identifies important factors that could cause
+differences from the forward-looking statements in this presentation. DHC’s filings with the SEC are available on the SEC’s website at www.sec.gov. You should not place undue reliance upon DHC’s
+forward-looking statements. Except as required by law, DHC does not intend to update or change any forward-looking statements as a result of new information, future events or otherwise.
+Warning Concerning Forward Looking Statements
+3
+3
+Table of Contents
+Page
+COMPANY HIGHLIGHTS AND OUTLOOK 4
+SHOP INITIATIVES 7
+CAPITAL RECYCLING 10
+CAPITAL AND LIQUIDITY OUTLOOK 11
+SHOP OVERVIEW 13
+MEDICAL OFFICE & LIFE SCIENCE PORTFOLIO OVERVIEW 23
+TRIPLE NET LEASED SENIOR LIVING & WELLNESS CENTERS
+OVERVIEW 28
+APPENDIX 30
+4
+4
+Company Highlights
+The Forum at Lincoln Heights
+311 West Nottingham Place
+San Antonio, TX
+5
+5
+DHC Today - National Healthcare REIT
+341
+Healthcare Related
+Properties
+7.4M sf
+Medical Office &
+Life Science Space
+More than
+26,000
+Senior Living Units
+$6.8B
+Investment Portfolio
+9 Triple Net Senior
+Living Communities and
+10 Wellness Centers
+DHC’s NOI growth is supported by a favorable senior housing industry supply/demand backdrop.
+Long-term, positive healthcare sector tailwinds providing a favorable outlook for
+improved industry fundamentals.
+An institutional quality portfolio diversified across the healthcare spectrum
+supporting long-term stable growth.
+Diversified tenant base with over 400 tenants in attractive medical office and life
+science markets.
+An aging U.S. population coupled with constrained supply provides an opportunity
+to capitalize on demographic trends.
+Attractive portfolio with a strong lease coverage profile of 2.43x, embedded
+NOI growth and a weighted average lease term by annualized rental income of 10.2
+years.
+6
+6
+Second Quarter Results and 2025 Guidance
++180 bps
+SHOP margin
+improvement (1)
+80.6%
+SHOP occupancy
+89.9%
+Medical Office
+and Life Science
+same store
+occupancy
+Second Quarter 2025 Financial Results (1)
+(1) Comparisons reflect change from 2Q24.
+(2) Guidance as of August 5, 2025.
+(3) Includes unencumbered and encumbered asset sales.
+2025 Guidance (2)
+LOW HIGH
+SHOP NOI $132M $142M
+MOB/LS NOI $104M $112M
+NNN NOI $29M $31M
+TOTAL NOI $265M $285M
+SHOP CapEx $115M $125M
+TOTAL CapEx $140M $160M
+2025 Guidance Commentary
+• Year end SHOP Occupancy grows to 82% - 83%.
+• Increased SHOP NOI outlook by $10 million at
+the midpoint and decreased total CapEx by $10
+million.
+• Estimated disposition proceeds of
+$625 million to $635 million. (3)
+o $369 million completed YTD as of
+October 3, 2025.
+o $264 million under agreements or letters of
+intent.
+• Total revenues of $382.7 million.
+• Net loss of $91.6 million, or $0.38 per share.
+• Normalized FFO of $18.6 million, or $0.08 per
+share.
+• Same property Cash Basis NOI of $71.2
+million, an increase of $7.2 million, or 11.2%.
+• SHOP same property NOI increased 18.5%
+year over year, reflecting an increase of 5.9%
+in SHOP same property revenue attributable
+to a 100 bps increase in occupancy and a
+5.2% increase in average monthly rate.
+• Executed approximately 106,000 square feet
+of leasing activity within the Medical Office
+and Life Science Portfolio at weighted
+average rents that were 11.5% higher than
+prior rents for the same space.
+7
+7
+Strategic Initiatives Driving Outsized Growth of SHOP Portfolio
+2Q24 NOI 2Q25 Pro Forma
+Asset Sales NOI
+1,200 bps
+year over year increase
+in pro forma SHOP
+portfolio NOI
+contribution
+Operational Improvement
+• Personalized care plans tailored to
+individual resident needs.
+• Streamlining workflows with
+automation to improve performance
+and reduce administrative burden.
+• Enhanced systems for lead tracking,
+personalized communication and
+tour to move-in conversion
+optimization.
+Capital Recycling
+• Achieve value maximization of non-core assets.
+• Dispose of smaller unprofitable
+communities.
+• Reduce exposure to capital intensive
+communities and exit low growth
+markets.
+• Investment in strategic ROI capital
+opportunities to drive NOI growth.
+SHOP
+43%
+Medical
+Office
+30%
+Life Science
+15%
+Wellness
+4%
+NNN
+8%
+SHOP
+55%
+Medical
+Office
+24%
+Life Science
+11%
+Wellness
+5%
+NNN
+5%
+$67.3M
+2Q24 NOI
+$68.3M
+2Q25 Pro
+Forma NOI
+Strategic Transaction with AlerisLife to Sell the
+Management Agreements for 116 SHOP
+Communities and Transition Management to New
+Operators. (1)
+• Operating synergies through efficiencies from a
+clustered property and regional operating
+model.
+• Alignment with operators providing expertise
+and a proven track record in executing
+turnarounds in local markets.
+Operator Transitions
+(1) Additional information regarding the AlerisLife transaction and management transition can be found on pages 14 - 17.
+8
+8
+Targeted SHOP Occupancy & Margin
+DHC is conducting top-to-bottom portfolio analyses to optimize occupancy growth and
+margin expansion.
+(1) Reflects occupancy for the three months ended December 31, 2019.
+Margin Growth Initiatives
+• Implemented standard operating procedures to ensure quality in
+operations and to boost tours and conversions within the
+community.
+• Performance and occupancy enhancement through regular
+tracking of key metrics and targeted incentive programs.
+• Revenue management with strategic mark-to-market rate
+adjustments and advancing care services in higher acuity
+communities.
+• Expense control focused on salaries and wages and contract labor.
+Occupancy Growth Strategy
+• Supported by historically low senior living inventory growth
+coupled with positive absorption and occupancy growth trends.
+• Lower impact of renovation disruption compared to 2024.
+• Targeted sales and marketing expenditures and tailoring tours to
+meet the needs of individual residents.
+• Building relationships with local and regional referral partners.
+• Expanding level of care options available to residents.
+Projected Occupancy Growth
+83.3%
+80.0%
+82.5%
+0.6% 80.6%
+1.9%
+70%
+75%
+80%
+85%
+2019 SHOP
+Occupancy
+4Q24 SHOP
+Occupancy
+Dispositions
+Uplift
+Performance
+Improvement
+Midpoint
+Guidance
+Occupancy
+2Q25 SHOP
+Occupancy (1)
+9
+9
+(4.2%)
+3.8%
+7.0%
+6.2%
+5.4%
+4.0%
+3.3%
+0.7%
+4.1%
+3.3%
+72.5%
+76.3%
+79.3% 80.0% 80.6%
+50%
+55%
+60%
+65%
+70%
+75%
+80%
+85%
+-5%
+0%
+5%
+10%
+15%
+2021 2022 2023 2024 2Q25
+Occupancy
+RevPOR / ExpPOR Growth
+RevPOR Y/Y ∆% ExpPOR Y/Y ∆% Occupancy %
+SHOP Margin Expansion is Expected to Continue
+DHC is focused on driving revenue growth coupled with expense management.
+SHOP RevPOR vs ExpPOR and Occupancy Growth Trends
+l
+(1) Occupancy is for 4Q for each respective year in addition to 2Q25.
+(1)
+1010
+(1) Occupancy is presented as of June 30, 2025 for the Medical Office and Life Science Portfolio and for the three months ended June 30, 2025 for the SHOP segment
+properties. NOI is presented for the three months ended June 30, 2025, for all properties.
+Capital Recycling Update
+➢ Sales of non-core properties totaled $369 million YTD further improves the portfolio, boosting NOI and overall
+performance and driving margin expansion.
+➢ Sold two MOBs and four SHOP properties since DHC’s 2Q25 earnings release on August 4, 2025 for aggregate sales
+prices of $6.1 million and $17.0 million, respectively.
+➢ DHC is under agreements or letters of intent to sell 47 properties for expected gross proceeds of $264 million.
+MOB / Life Science SHOP Total
+Under Agreement or Letter of Intent
+Number of Properties / Units 21 26 / 1,720 47
+Estimated Gross Sales Price $165.8M $98.1M $263.9M
+Price Per SF or Unit $120.74/SF $57,012 / Unit -
+Occupancy (1) 69.0% 81.4% -
+NOI 1 $3.0M $(0.6)M $2.4M
+1111
+2025 YTD Capital Raises
+Throughout 2025, DHC has consistently proven its ability to deliver on key strategic priorities, such as executing on 11
+asset dispositions and new financings with an emphasis on reducing the company’s leverage and cost of capital.
+17%
+43%
+40%
+Credit Facility Senior Notes Mortgage Financings
+8%
+38% 54%
+SHOP MOB/LS NNN
+YTD Asset Sales (1) YTD Capital Raises (1)
+$369M
+Dispositions
+$868M (2)
+Debt
+(1) As of October 3, 2025.
+(2) No amount drawn on the credit facility as of October 3, 2025.
+➢ Over $1.2 billion raised from diversified funding sources highlighting DHC’s ability to tap into multiple markets.
+➢ Recycling capital enables deleveraging and ongoing investment in portfolio upgrades and growth initiatives.
+➢ Recent financings reflect SHOP valuations of approximately $185,000 per unit, driven by operational
+improvements and favorable market dynamics.
+1212
+$1.5
+$336.3
+$2.3
+$640.7
+$1.9
+$435.2
+$1,362.9
+2025 2026 2027 2028 2029 2030 2031 & After
+Unsecured Fixed Rate Debt Secured Fixed Rate Debt Secured Floating Rate Debt
+Balance Sheet Outlook
+Pro Forma Debt Maturity Schedule
+as of October 3, 2025
+(dollars in millions)
+Note: All information as of June 30, 2025, unless otherwise noted.
+(1) Includes $1.9 million of other debt.
+(2) No amount drawn on the credit facility as of October 3, 2025.
+Improved leverage from
+11.2x in 4Q24 to 8.7x in 2Q25
+Approximately $4 billion of
+unencumbered assets remaining
+Lower stabilized CapEx spend in
+comparison to FY2024
+In 3Q25, Moody’s and S&P
+Global upgraded DHC to Caa1
+and B-, respectively
+DHC is initially targeting leverage of 6.5x to 7.5x to further enhance its cost of capital
+and improve its outlook with the rating agencies.
+Sources:
+Asset sale proceeds subsequent to quarter end $ 31.9M
+Expected asset sale proceeds 263.9M
+Secured revolving credit facility (2) 150.0M
+Cash on hand pro forma for Vertex distribution and net
+proceeds from secured bond issuance 228.6M
+Total 674.4M
+2026 Refinancing Strategy
+Uses:
+2026 Senior Secured Notes Repayment $ 334.4M
+Excess Liquidity 340.0M
+Total 674.4M
+(1)
+1313
+SHOP Segment
+The Montebello on Academy
+10500 Academy Road NE
+Albuquerque, NM
+1414
+AlerisLife is selling its DHC Management Agreements for 116(1) SHOP Communities and
+Transitioning Management to New Operators
+AlerisLife Strategic Transaction Impacting DHC Communities
+Transitioning
+Management
+agreements for
+113
+DHC owned
+communities
++180 bps
+SHOP margin
+improvement1
+80.6%
+SHOP occupancy
+89.9%
+Medical Office
+and Life Science
+same store
+occupancy
+7
+Highly Qualified
+Operators
+$25M - $40M
+Estimated net
+proceeds to DHC
+Transitioning
+Management
+agreements for
+116
+DHC owned
+communities
+➢ AlerisLife is selling all of its assets and winding down its business with the sale of the
+management agreements for 116 DHC communities and the sale of the 17 AlerisLife
+owned communities.
+➢ Contracts for the 116 DHC communities were awarded to seven highly qualified
+operators, each making strategic investments to purchase the management
+agreements.
+➢ Local and regional sales, marketing and management efforts allow for greater
+oversight to drive performance along with concentration of operations in key
+geographic markets with a high performing track record.
+➢ The management transitions began in mid September 2025 and are expected to be
+completed by year end.
+1.93x – 2.90x
+DHC’s return on
+investment in
+AlerisLife (2)
+The Remington Club
+16925 Hierba Drive
+San Diego, CA
+Five Star Premier Residences of Pompano
+1371 South Ocean Boulevard
+Pompano Beach, FL
+(1) Includes one transition community as part of a long-term NNN lease.
+(2) DHC’s return on investment is calculated based on its $15.5M investment to reacquire a 34% ownership stake in AlerisLife in 1Q24, $17.0M 1Q25 dividend payment, $3.4M 2Q25 dividend payment
+and $25.0M - $40.0M in estimated proceeds from this transaction.
+1515
+Five Star Senior
+Living, 17,287
+Other, 1,821
+Stellar Senior
+Living, 1,133
+Oaks - Caravita
+Senior Care,
+1,415
+Phoenix Senior
+Living, 1,457
+Charter Senior
+Living, 1,759
+(1) Occupancy upside is the gap between the pro forma 2Q25 occupancy and the applicable NIC benchmark data calculated using Core-Based Statistical Areas, or CBSAs, where
+the 116 communities are located and additional market data for non-CBSA properties, weighted by units.
+(2) Sale of AlerisLife management agreements excludes two communities being sold.
+Sinceri Senior
+Living, 7,299
+Other,
+2,925
+Oaks - Caravita
+Senior Care,
+1,415
+Charter
+Senior
+Living,
+1,759
+Phoenix Senior
+Living, 1,823
+Tutera,
+2,051
+Stellar Senior Living,
+2,165
+Discovery
+Senior Living,
+5,338
+ALR Transition Communities Occupancy Upside Potential
+ALR Transition Communities Occupancy Upside (1)
+78.0%
+83.5%
+89.0%
+80.3%
+84.4%
+93.0%
+76.4%
+89.1% 89.1%
+91.6% 91.0% 90.1%
+93.0%
+88.9%
+Sinceri Discovery WellQuest Stellar Tutera Phoenix Ciel
+2Q25 SHOP Units by Operator Post Transition SHOP Units by Operator (2)
+Portfolio Transition Overview (2)
+Communities 116 communities
+Units 17,190 units
+Acuity Mix (units) 9,484 IL, 6,181 AL, 1,525 MC
+Occupancy 81.4%
+Q2 2025 NOI $29.5M
+Transition Date 3Q25 – 1Q26
+Pro Forma 2Q25 Occupancy NIC Benchmark
+1616
+DHC Portfolio Operator Footprint
+Discovery
+Sinceri
+Charter
+Phoenix
+Oaks-Caravita
+Tutera
+Stellar
+Northstar
+Navion
+WellQuest
+Other
+DHC’s SHOP segment is broadly diversified both geographically and by operator.
+Management is focused on clustering communities to drive operational synergies.
+SHOP Segment Geographic Diversification by Operator/Unit Count
+Note: Bubble sizes reflect DHC’s unit count in identified market.
+1717
+(dollars in thousands)
+Pro Forma SHOP Units & NOI by Operator
+(1) Includes 26 communities under agreements or letters of intent with NOI of ($0.6) million for the three months ended June 30, 2025.
+(2) Sale of AlerisLife management agreements excludes two communities being sold, included with All Other.
+Unit Count as of June 30, 2025 2Q25 NOI
+Manager Location
+Number of
+Properties
+Assisted
+Living
+Independent
+Living and
+Active Adult
+Memory
+Care
+Skilled
+Nursing Total Total NOI (1)
+% of Total
+2Q25 NOI
+Discovery Senior Living GA/MD/MO/NC/PA/SC/TX 44 2,475 2,115 748 — 5,338 $ 10,040 27.4%
+Sinceri Senior Living Various (11 States) 38 2,591 4,300 408 — 7,299 9,324 25.5%
+WellQuest Living CA/NV 5 279 496 21 — 796 3,484 9.5%
+Stellar Senior Living AZ/CO/NM/TX/WY 16 350 762 131 922 2,165 3,087 8.4%
+Phoenix Senior Living AL/AR/KY/MO/NC/SC 26 1,038 337 284 164 1,823 2,839 7.8%
+Tutera Senior Living IL/IN/KS/TN 19 306 1,603 142 — 2,051 2,178 5.9%
+Charter Senior Living FL/MD/TN/VA/IL/WI 30 1,338 — 421 — 1,759 2,080 5.7%
+Northstar Senior Living AZ/CA 7 121 — 297 — 418 1,091 3.0%
+Ciel Senior Living NY 1 75 195 38 — 308 938 2.6%
+Oaks Senior Living GA 3 159 — 105 — 264 750 2.0%
+All Other (2) Various (7 States) 40 1,529 500 384 238 2,651 804 2.2%
+Total 229 10,261 10,308 2,979 1,324 24,872 $ 36,615 100.0%
+% of Total 41.3% 41.4% 12.0% 5.3% 100%
+1818
+SHOP Overview
+230 SHOP communities spanned across 31
+states.
+Portfolio largely located in areas
+where the growth rate of 75+
+population is higher than NIC
+designated metro population growth
+rate.
+Good mix of properties strategically
+located in areas where home values
+are outpacing the national median
+home value.
+Majority of the portfolio is in locations above
+the national median income.
+2Q25 SHOP Absorption
+Primary and Secondary NIC (1) 3.5%
+DHC Top 10(1) 3.3%
+DHC Primary/Secondary 3.3%
+• Higher absorption levels, signaling strong
+supply/demand fundamentals, supporting SHOP
+occupancy and rate outlook.
+• SHOP is well positioned in favorable markets
+with demographics growth, strong absorption,
+and affordability.
+• SHOP RevPOR increased 5.4% Y/Y (2), outpacing
+respective NIC markets (+4.2% Y/Y).
+SHOP Assets Strategically Positioned in Key Primary and Secondary Markets
+(1) NIC and SHOP data as of June 30, 2025.
+(2) RevPOR growth excludes SNFs, consistent with
+presentation of NIC data.
+Qualified Population by Net Worth
+Bubble sizes reflect DHC’s unit count in identified market.
+Bubble color reflects households within the submarkets where our communities are located, with an age of 75+ and a
+median net worth of $364,515.
+- $364,515 +
+1919
+Expect Favorable Industry Trends to Support Operational Momentum
+• Senior living demographic of 80+ population is projected to grow at a 4.0% CAGR over the next 15 years while
+inventory growth is expected to remain depressed at 1.0%. (1)(2)
+• Rent growth remains elevated with top primary / secondary markets increasing up to 10% annually.
+• Inventory growth has been decreasing since 2018.
+Age 80+ Population Growth(1) Inventory Growth(3)
+-
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+Millions
+10
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+Senior Housing Independent Living Assisted Living
+Long term senior population growth is significantly outpacing inventory growth
+supporting higher occupancy levels and rent growth.
+(1) Source: Population estimates from the Organization for Economic Co-Operation and Development (OECD) as of March 2024.
+(2) Source: National Investment Center for Seniors Housing & Care (NIC) as of 2024.
+(3) Source: NIC Map © Data Service in primary and secondary markets as of 2Q25. For more information on the NIC MAP © Data Service, please visit www.nic.org/NIC-map.
+2020
+$654,000 renovation completed in December 2023.
+Property Overview and Renovation Scope
+• Barrington Terrace at Boynton Beach is a 109-unit assisted
+living and memory care community offering a range of
+studio and one-bedroom accommodations and a robust
+suite of amenities.
+• The renovation included new flooring and paint,
+contemporary furniture, and curated artwork designed to
+foster resident engagement and highlight the distinctive
+charm of Boynton Beach.
+Project Impact on Performance Metrics
+• RevPOR (1) grew 29.5% to $5,346.
+• Occupancy (2) grew 5.0% percentage points to 98.8%.
+• Total Project ROI (3) of 128.6%.
+(1) RevPOR % change is based on a comparison of RevPOR the twelve months prior to renovation and the twelve months ended August 25, 2025.
+(2) Occupancy % change is based on a comparison of occupancy the twelve months prior to renovation and the twelve months ended August 25, 2025.
+(3) ROI is based on the change in NOI from the twelve months prior to renovation to the twelve months ended June 30, 2025, divided by total project cost.
+SHOP Renovation Case Study:
+Barrington Terrace, Boynton Beach, FL
+2121
+SHOP Completed Capital Projects
+• Units: 86
+• Occupancy (1): 91.9%
+• Project Cost: $930,000
+• RevPOR % Increase (2): 35.2%
+• ROI (3): 54.7%
+• Interior refresh of common and program
+areas, intended to modernize the living
+spaces and reinforce Morningside’s
+commitment to providing a warm,
+family-oriented environment.
+• Units: 83
+• Occupancy (1): 94.7%
+• Project Cost: $830,000
+• RevPOR % Increase (2): 25.2%
+• ROI (3): 13.0%
+• Full renovation of the community’s
+shared spaces with new finishes,
+updated furnishings and artwork, all
+selected to create a more welcoming
+and functional environment that
+encourages resident engagement.
+• Units: 90
+• Occupancy (1): 91.2%
+• Project Cost: $900,000
+• RevPOR % Increase (2): 16.3%
+• ROI (3): 155.2%
+• Updates to flooring, furnishings and
+décor designed to complement
+Morningside’s vibrant lifestyle,
+supporting everything from lively art
+classes to quiet conversations in the
+Magnolia Room.
+Morningside of Concord
+Concord, NC
+Park Place of West Knoxville
+Knoxville, TN
+Morningside of Raleigh
+Raleigh, NC
+(1) Occupancy as of June 30, 2025.
+(2) RevPOR % change is based on a comparison of RevPOR the twelve months prior to renovation and the twelve months ended August 25, 2025.
+(3) ROI is based on the change in NOI from the twelve months prior to renovation to the twelve months ended June 30, 2025, divided by total project cost.
+2222
+Operator Transitions To Enhance NOI Growth
+Transitioned Communities
+Transition Date April/May 2024
+Stabilization 24 - 30 Months
+Communities / Units 13 / 783
+Current Occupancy / NOI (1) 65% / ($0.3)M
+Expected Stabilized Occupancy
+Expected Stabilized NOI
+85% - 88%
+$4M - $5M
+Acuity Mix (units) 691 AL, 92 MC
+Current Rate Upside Potential (2) 12.0%
+Affordability in Years (3) 4.1 Years
+(1) Amounts shown reflect occupancy for the three months ended June 30, 2025, and 2Q25 NOI annualized.
+(2) Upside potential between the current achieved rents at the community and the average NIC competitor rents for senior housing within each CBSA, if available.
+(3) Calculated as the average home value owned by seniors (age 65+) within a 3-mile radius of the property, divided by the current property’s achieved rent.
+Transitioned Communities Growth Trends
+2.5% 2.0%
+6.6%
+0.9%
+5.2%
+-4.2%
+0.8%
+-3.3%
+60.2%
+62.0% 62.4%
+65.1%
+50%
+52%
+54%
+56%
+58%
+60%
+62%
+64%
+66%
+-7%
+-2%
+3%
+8%
+13%
+18%
+3Q24 4Q24 1Q25 2Q25
+Occupancy
+RevPOR / ExpPOR Growth
+RevPOR ExpPOR Occupancy %
+In April and May 2024, DHC transitioned 13 communities with 783 units
+to an existing operator, expanding on operating synergies through
+efficiencies with clustering of existing communities.
+The new operator has a proven track record with DHC managing 17
+legacy communities with 976 units prior to the transition, resulting in
+occupancy improvements of 780 bps and RevPOR growth of 37% since
+assuming operations in 2021.
+Performance initiatives include:
+➢ Integration of sales efforts with centralized customer relationship
+management, personalized care plans and enhanced referral
+outreach.
+➢ Leveraged operating costs efficiencies with streamlined scheduling
+practices, resulting in labor reduction as a percent of revenue.
+➢ Deployed $5M+ in renovations across key communities to refresh
+unit interiors, common areas and life safety systems.
+Godfrey, IL
+2323
+Medical Office & Life Science Segment
+4 Maguire Road
+Lexington, MA
+2424
+Medical
+Outpatient
+54%
+Life
+Science
+23%
+Other
+23%
+Milwaukee 22%
+Honolulu 8%
+Minneapolis-St.
+Paul 8%
+San Antonio 5%
+Atlanta 5% Albuquerque 5% Boston 5%
+VA Beach-Hampton Road
+4%
+Orlando 3%
+Houston 3%
+Phoenix 3%
+Syracuse 3%
+Long Island 3%
+Pittsburgh 3%
+Other 20%
+Outpatient Service
+51%
+Biotechnology &
+Pharmaceuticals
+27%
+Medical
+Related
+Businesses
+7%
+Other
+15%
+High quality Medical Office and Life Science Portfolio.
+• Over 400 individual tenants including industry-leading
+institutions.
+• Diverse tenant mix across credit-rated healthcare systems,
+medical and dental offices, pharmaceutical and biotech
+research, health insurance and other related industries.
+• Top national health system affiliations including Aurora
+Healthcare, Hawaii Pacific Health and NYU Langone.
+• 3.8% quarter-over-quarter and 1.8% year-over-year medical
+outpatient same property cash NOI growth. (1)
+• 74% of life science properties located in primary
+pharmaceutical and medical research markets.
+Geographically Diversified Medical
+Office Portfolio (3)
+Medical Office & Life Science Portfolio Overview
+NOI Breakdown (3) Life Science Concentrated
+in Leading Markets (3)
+(1) For the quarter ended June 30, 2025. Quarter-over-quarter represents sequential change.
+(2) By annualized rental income as of June 30, 2025.
+(3) By NOI for the quarter ended June 30, 2025.
+Tenant Industry (2)
+San
+Francisco
+Bay Area
+33%
+Boston
+32%
+San
+Diego/Los
+Angeles 9%
+Other 26%
+2525
+Pro Forma Medical Office & Life Science Portfolio Summary
+MOB & LS by Property Type – Current MOB & LS by Property Type – Post Dispositions
+8.3%
+12.8% 23.0%
+32.8%
+23.1%
+MOB Unaffiliated MOB On-Campus
+Life Science MOB Off-Campus Affiliated
+Other
+Pro Forma for Dispositions (1)
+Number of
+Properties Square Feet 2Q25
+Revenues(2)
+2Q25
+NOI (2)
+Medical Office 53 3,920,687 $27,910 $16,195
+Life Science 14 1,637,402 $12,345 $7,678
+Total 67 5,558,089 $40,255 $23,873
+Portfolio Summary as of June 30, 2025
+Number of
+Properties Square Feet 2Q25
+Revenues (2)
+2Q25
+NOI (2)
+Medical Office 74 5,345,169 $34,376 $18,157
+Life Science 18 2,054,854 $13,680 $8,330
+Total 92 7,400,023 $48,056 $26,487
+5.8%
+14.7%
+23.3%
+32.2%
+24.0%
+MOB Unaffiliated MOB On-Campus
+Life Science MOB Off-Campus Affiliated
+Other
+DHC’s pro forma dispositions of 21 MOB / Life Science Assets under agreements or
+letters of intent for $155M to $165M would result in only a $3.0M reduction in NOI.
+(1) Includes four properties sold subsequent to June 30, 2025 and 21 properties under agreements or letters of intent.
+(2) Dollar amounts in thousands
+2626
+Medical Office Market Tailwinds
+Medical office fundamentals support sector
+growth opportunity
+• Growing demand for healthcare services and
+increased spending, driven by an aging population
+and advancements in care provided.
+• Ongoing migration towards outpatient care is
+expected to drive demand for outpatient facilities.
+• Utilization data shows outpatient visits per 1,000
+grew 31% from 2000 to 2023, whereas hospital
+inpatient admissions per 1,000 declined 19%. The
+shift towards outpatient is linked to multiple factors:
+• Consumer preference for greater convenience.
+• Lower costs for providers and insurers.
+• Advances in clinical science, medical protocols
+and technology are enabling more procedures
+to be performed at outpatient facilities, instead
+of acute care hospitals.
+• Limited or inefficient space in existing hospitals.
+• Construction cost increases over the last 5 years
+have limited new supply despite strong ongoing
+demand from health systems.
+(1) Data per 1,000 people (population).
+Sources: Statista, CMS and Grandview Research, KFF ‘Key Facts About Hospitals’ published February 2025.
+DHC’s diversified Medical Office Portfolio of predominantly outpatient facilities is well positioned to
+capitalize on growth opportunities in the sector and deliver value to investors.
+60
+70
+80
+90
+100
+110
+120
+130
+140
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Indexed to 100
+Outpatient vs. Inpatient Utilization (1)
+Outpatient visits per 1,000 Inpatient days per 1,000
+Inpatient Admissions per 1,000 31%
+-18%
+-19%
+$.8B
+$1.1B
+$1.5B
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030 2031 2032
+Growing U.S. Physician & Clinical Expenditures
+($ in billions)
+2727
+-4M SF
+0M SF
+4M SF
+8M SF
+12M SF
+16M SF
+2Q20
+4Q20
+2Q21
+4Q21
+2Q22
+4Q22
+2Q23
+4Q23
+2Q24
+4Q24
+2Q25
+Net Occupancy Gain New Available SF
+$0 B
+$2 B
+$4 B
+$6 B
+$8 B
+$10 B
+$12 B
+$14 B
+2Q21
+4Q21
+2Q22
+4Q22
+2Q23
+4Q23
+2Q24
+4Q24
+2Q25
+5
+4
+7
+17
+2022 2023 2024 YTD
+2025
+Life Science Sector Maintaining Fundamentals
+• Fundamental long-term growth drivers remain intact
+despite uncertainty relating to tariffs and NIH funding.
+• A rising chronic disease prevalence, as well as the aging
+population, are driving demand for pharmaceuticals.
+• R&D spending, new drug applications and drug
+approvals are at or near all-time highs.
+• New investment has remained generally steady since
+2022, but below peak levels from 2021.
+• Pharmaceutical companies have responded to tariff
+headwinds with major recent commitments.
+• End of the new construction pipeline, though
+turnaround in absorption has not yet taken hold.
+$461.6B
+$715.5B
+2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Conventional Drugs Biologics & Biosmilars
+Growing U.S. Drug Demand
+($ in billions)
+Sources: Statista, CMS, Grandview Research and JLL.
+Absorption consistent with
+decelerating new supply
+US VC investment steady quarter over
+quarter
+Count of Major US Biomanufacturing
+Announced Investments
+2828
+Triple Net Leased Wellness Centers &
+Senior Living Segment
+The Stratford
+2460 Glebe Street, Carmel, IN
+2929
+Triple Net Leased Wellness Centers & Senior Living Portfolio Overview
+Stable performance outlook with embedded growth
+through a mix of contracted rental increases and
+percentage rent.
+1,180
+Units
+100%
+Occupancy
+5.2 year
+WALT
+1.88x
+Rent Coverage
+812,246
+SF
+100%
+Occupancy
+14.7 year
+WALT
+2.93x
+Rent Coverage
+- -
+15.9%
+- 1.9%
+82.2%
+2025 2026 2027 2028 2029 2030 and
+Thereafter
+NNN Lease Expiration Schedule
+NNN Senior Living NNN Wellness Centers
+LifeTime Fitness
+971 State Hwy 121, Allen, TX
+The Stratford
+2460 Glebe Street, Carmel, IN
+3030
+Appendix
+3131 (1) Certifications as of December 31, 2024.
+Our business strategy for our Medical Office and Life Science
+Portfolio incorporates a focus on sustainable approaches to
+operating these properties in a manner that benefits our
+shareholders, tenants and the communities in which we are
+located. We seek to operate those properties in ways that improve
+the economic performance of their operations, while
+simultaneously ensuring tenant comfort and safety and managing
+energy and water consumption, as well as greenhouse gas
+emissions.
+Our strategy for our SHOP segment is to work with our operators to
+prioritize the safety and well-being of our residents, while also
+seeking to maximize the operating efficiencies of our senior living
+communities.
+Impact Through Action Green Building Certifications (1)
+Dedicated Leadership
+3131
+25 PROPERTIES
+2.4 MILLION SF
+GREEN LEASE
+LEADERS — GOLD
+PARTNER
+34 PROPERTIES
+3.7 MILLION SF
+16 PROPERTIES
+1.4 MILLION SF
+DHC’s Board of Trustees
+DHC’s Board of Trustees demonstrates a strong
+dedication to environmental and sustainable initiatives
+and embodies a rich diversity in professional experience
+and national background, leveraging a wide rage of
+expertise and perspective.
+Learn more about the Sustainability programs of our
+manager, The RMR Group, through its most recently
+published Sustainability Report.
+Female
+Lead Independent
+71% Independent
+29%
+Underrepresented
+Communities
+43% Women
+DHC’s Commitment to Sustainability and Good Governance
+3232
+Private Clients
+DHC is managed by The RMR Group LLC, an alternative asset manager
+Approximately
+$40 Billion
+in AUM
+RMR Platform
+More than
+$5 Billion
+in Annual Revenues
+Over
+18,000
+Employees
+Approximately
+1,900
+Properties
+National Multi-Sector
+Investment Platform
+Industrial
+Residential
+Senior Living
+Medical Office
+Life Science
+Hotels
+Retail
+Office
+RMR Clients
+Perpetual Capital
+Private Real
+Estate Funds
+Private Capital
+32
+3333
+National Vertically Integrated Real Estate Operating Platform is a
+Differentiator and Competitive Advantage
+RMR Shared Services
+Accounting
+Marketing
+Human
+Resources
+Investor
+Relations
+Property
+Management
+Development Finance
+Legal
+Information
+Technology
+Project
+Management
+Tax
+Portfolio
+Management
+Transactions
+Asset
+Management
+3333
+3434
+Management aligned with shareholder interests
+RMR base management fee tied to DHC share price performance
+• Consists of an annual fee based on 50 bps of the lower of: (1) DHC’s
+historical cost of real estate, or (2) DHC’s total market capitalization.
+• There is no incentive for RMR to complete any transaction that could
+reduce DHC’s share price.
+RMR incentive fees are contingent on total shareholder return
+outperformance
+• Equal to 12% of value generated by DHC in excess of the benchmark
+index total returns (MSCI U.S. REIT/Health Care REIT Index) per share
+over a three-year period, subject to a cap (1.5% of equity market cap).
+• Outperformance must be positive: it can’t be the best of the worst.
+• Shareholders keep 100% of benchmark returns and at least 88% of
+returns in excess of the benchmark.
+Other fees
+• Property management fee: consists of an annual fee based on 3.0% of
+rents collected at DHC’s medical office, life science and active adult
+properties.
+• Construction supervision fee based on project costs.
+Alignment of Interests
+If DHC’s total market cap exceeds historical cost of
+real estate, base fee is paid on assets.
+If DHC’s total market cap is less than historical cost
+of real estate, base fee fluctuates with share price.
+Incentive fee structure keeps RMR focused on
+increasing total shareholder return.
+Members of RMR senior management are holders of
+DHC shares, some subject to long term lock up
+agreements.
+DHC shareholders have visibility into publicly traded
+RMR.
+DHC benefits from RMR’s national footprint and
+economies of scale of a $40 billionplatform.
+3535
+(dollars in thousands)
+Calculation and Reconciliation of NOI and Cash Basis NOI
+For the Three Months Ended
+6/30/2025 3/31/2025 12/31/2024 9/30/2024 6/30/2024
+Calculation of NOI and Cash Basis NOI:
+Revenues:
+Rental income $ 55,167 $ 58,558 $ 63,883 $ 61,635 $ 62,870
+Resident fees and services 327,545 328,306 315,736 312,005 308,522
+Total revenues 382,712 386,864 379,619 373,640 371,392
+Property operating expenses (312,580) (314,326) (315,176) (309,697) (304,065)
+NOI 70,132 72,538 64,443 63,943 67,327
+Non-cash straight line rent adjustments included in rental income 146 (455) 160 (658) (656)
+Lease value amortization included in rental income 28 26 22 27 29
+Lease termination fees included in rental income — (600) — — —
+Non-cash amortization included in property operating expenses (199) (199) (201) (199) (199)
+Cash Basis NOI $ 70,107 $ 71,310 $ 64,424 $ 63,113 $ 66,501
+Reconciliation of Net Loss to NOI and Cash Basis NOI:
+Net loss $ (91,639) $ (8,986) $ (87,446) $ (98,689) $ (97,861)
+Equity in net (earnings) losses of investees (3,082) (1,487) (11,479) (527) 12,307
+Income tax expense (benefit) 843 49 (38) 148 170
+Loss on modification or early extinguishment of debt 126 29,071 115 — 209
+Interest expense 50,926 57,831 59,518 59,443 58,702
+Interest and other income (2,982) (2,099) (1,735) (2,575) (2,403)
+Gain on insurance recoveries — (7,522) — — —
+(Gain) loss on sale of properties 7,429 (110,140) (38) (111) 13,213
+Impairment of assets 30,993 38,472 29,016 23,031 6,545
+Acquisition and certain other transaction related costs 75 24 267 331 1,826
+General and administrative 11,177 9,000 (1,245) 13,933 6,262
+Depreciation and amortization 66,266 68,325 77,508 68,959 68,357
+NOI 70,132 72,538 64,443 63,943 67,327
+Non-cash straight line rent adjustments included in rental income 146 (455) 160 (658) (656)
+Lease value amortization included in rental income 28 26 22 27 29
+Lease termination fees included in rental income — (600) — — —
+Non-cash amortization included in property operating expenses (199) (199) (201) (199) (199)
+Cash Basis NOI $ 70,107 $ 71,310 $ 64,424 $ 63,113 $ 66,501
+3636
+(dollars in thousands)
+Calculation and Reconciliation of NOI, Cash Basis NOI, Same Property
+NOI and Same Property Cash Basis NOI by Segment
+3737
+(dollars in thousands)
+(1) DHC did not recognize an incentive management fee for the year ended December 31, 2024.
+Calculation and Reconciliation of FFO, Normalized FFO and CAD
+For the Three Months Ended
+6/30/2025 3/31/2025 12/31/2024 9/30/2024 6/30/2024
+Net loss $ (91,639) $ (8,986) $ (87,446) $ (98,689) $ (97,861)
+Depreciation and amortization 66,266 68,325 77,508 68,959 68,357
+Loss (gain) on sale of properties 7,429 (110,140) (38) (111) 13,213
+Impairment of assets 30,993 38,472 29,016 23,031 6,545
+Equity in net (earnings) losses of investees (3,082) (1,487) (11,479) (527) 12,307
+Share of FFO from unconsolidated joint ventures 2,715 2,737 2,672 2,273 2,047
+Adjustments to reflect DHC's share of FFO attributable to an
+equity method investment 895 1,073 1,572 1,698 9,955
+FFO 13,577 (10,006) 11,805 (3,366) 14,563
+Incentive management fees (1) 4,148 2,407 (6,934) 6,934 (849)
+Acquisition and certain other transaction related costs 75 24 267 331 1,826
+Gain on insurance recoveries — (7,522) — — —
+Loss on modification or early extinguishment of debt 126 29,071 115 — 209
+Adjustments to reflect DHC's share of Normalized FFO
+attributable to an equity method investment 646 331 37 127 (8,919)
+Normalized FFO $ 18,572 $ 14,305 $ 5,290 $ 4,026 $ 6,830
+3838
+(amounts in thousands, except per share data)
+Calculation and Reconciliation of FFO, Normalized FFO and CAD
+(continued)
+For the Three Months Ended
+6/30/2025 3/31/2025 12/31/2024 9/30/2024 6/30/2024
+Normalized FFO $ 18,572 $ 14,305 $ 5,290 $ 4,026 $ 6,830
+General and administrative expense paid in common shares 1,062 592 324 925 940
+Net amortization of debt discounts, premiums and issuance costs 19,886 26,087 26,795 26,188 25,591
+Non-cash amortization included in expenses (942) (943) (944) (943) (942)
+Non-cash straight line rent adjustments included in rental income 146 (455) 160 (658) (656)
+Lease value amortization included in rental income 28 26 22 27 29
+Recurring capital expenditures (29,329) (26,486) (44,241) (38,274) (34,475)
+Share of FFO from unconsolidated joint ventures (2,715) (2,737) (2,672) (2,273) (2,047)
+Adjustments to reflect DHC's share of FFO and Normalized FFO
+attributable to an equity method investment (1,541) (1,404) (1,609) (1,825) (1,036)
+Unconsolidated joint venture distributions — — — — —
+Equity method investment distribution — 17,000 — — —
+CAD $ 5,167 $ 25,985 $ (16,875) $ (12,807) $ (5,766)
+Weighted average common shares outstanding (basic and diluted) 240,132 239,957 239,949 239,667 239,326
+Per common share data (basic and diluted):
+Net loss $ (0.38) $ (0.04) $ (0.36) $ (0.41) $ (0.41)
+FFO $ 0.06 $ (0.04) $ 0.05 $ (0.01) $ 0.06
+Normalized FFO $ 0.08 $ 0.06 $ 0.02 $ 0.02 $ 0.03
+CAD $ 0.02 $ 0.11 $ (0.07) $ (0.05) $ (0.02)
+3939
+NOI, Cash Basis NOI, Same Property NOI and Same Property Cash Basis NOI
+The calculations of NOI, Cash Basis NOI, same property NOI and same property cash basis NOI exclude certain components of net income (loss) in order to provide results that are more closely related to
+our property level results of operations. We calculate NOI, Cash Basis NOI, same property NOI and same property cash basis NOI as shown in this appendix. We define NOI as income from our real estate
+less our property operating expenses. NOI excludes depreciation and amortization. We define Cash Basis NOI as NOI excluding non-cash straight line rent adjustments, lease value amortization, lease
+termination fees, if any, and non-cash amortization included in property operating expenses. We calculate same property NOI and same property cash basis NOI in the same manner that we calculate the
+corresponding NOI and cash basis NOI amounts, except that we only include same properties in calculating same property NOI and same property cash basis NOI. We use NOI, Cash Basis NOI, same
+property NOI and same property cash basis NOI to evaluate individual and company-wide property level performance. Other real estate companies and REITs may calculate NOI, Cash Basis NOI, same
+property NOI and same property cash basis NOI differently than we do.
+FFO and Normalized FFO
+We calculate FFO and Normalized FFO as shown in this appendix. FFO is calculated on the basis defined by the National Association of Real Estate Investment Trusts, which is net income (loss), calculated
+in accordance with GAAP, excluding any gain or loss on sale of properties, equity in net earnings or losses of investees, loss on impairment of real estate assets, gains or losses on equity securities, net, if
+any, and including adjustments to reflect our proportionate share of FFO of our equity method investees, plus real estate depreciation and amortization of consolidated properties, as well as certain other
+adjustments currently not applicable to us. In calculating Normalized FFO, we adjust for the items shown in this appendix, including similar adjustments for our unconsolidated joint ventures, if any, and
+include business management incentive fees, if any, only in the fourth quarter versus the quarter when they are recognized as an expense in accordance with GAAP due to their quarterly volatility not
+necessarily being indicative of our core operating performance and the uncertainty as to whether any such business management incentive fees will be payable when all contingencies for determining
+such fees are known at the end of the calendar year. FFO and Normalized FFO are among the factors considered by our Board of Trustees when determining the amount of distributions to our
+shareholders. Other factors include, but are not limited to, requirements to maintain our qualification for taxation as a REIT, limitations in the agreements governing our debt, the availability to us of debt
+and equity capital, our expectation of our future capital requirements and operating performance and our expected needs for and availability of cash to pay our obligations. Other real estate companies
+and REITs may calculate FFO and Normalized FFO differently than we do.
+Non-GAAP Financial Measures
+We present certain "non-GAAP financial measures" within the meaning of applicable rules of the Securities and Exchange Commission, including net operating income, or NOI, Cash Basis NOI, same
+property NOI, same property Cash Basis NOI, funds from operations, or FFO, and normalized funds from operations, or Normalized FFO, and cash available for distribution, or CAD. These measures do
+not represent cash generated by operating activities in accordance with GAAP and should not be considered alternatives to net income (loss) as indicators of our operating performance or as measures of
+our liquidity. These measures should be considered in conjunction with net income (loss) as presented in our consolidated statements of income (loss). We consider these non-GAAP measures to be
+appropriate supplemental measures of operating performance for a REIT, along with net income (loss). We believe these measures provide useful information to investors because by excluding the effects
+of certain historical amounts, such as depreciation and amortization, they may facilitate a comparison of our operating performance between periods and with other REITs and, in the case of NOI, Cash
+Basis NOI, same property NOI and same property Cash Basis NOI, reflecting only those income and expense items that are generated and incurred at the property level may help both investors and
+management to understand the operations of our properties.
+DEFINITIONS OF CERTAIN NON-GAAP FINANCIAL MEASURES
+Cash Available for Distribution
+We calculate CAD as shown on page 38. We define CAD as Normalized FFO minus our proportionate share of Normalized FFO from unconsolidated joint venture properties and our equity method
+investment, plus operating cash flow distributions received from our unconsolidated joint ventures and equity method investment, if any, recurring real estate related capital expenditures, adjustments for
+other non-cash and nonrecurring items, certain amounts excluded from Normalized FFO but settled in cash, as well as certain other adjustments currently not applicable to us. CAD is among the factors
+considered by our Board of Trustees when determining the amount of distributions to our shareholders. Other real estate companies and REITs may calculate CAD differently than we do.
+4040
+Certain Definitions:
+AL: Assisted Living senior living communities.
+Annualized rental income: Annualized rental income is based on rents pursuant to existing leases as of June 30, 2025. Annualized rental income includes
+estimated percentage rents, straight line rent adjustments and estimated recurring expense reimbursements for certain net and modified gross leases, and
+excludes lease value amortization. Amounts of annualized rental income for DHC's medical office and life science properties also exclude leases that expired on
+June 30, 2025 and 100% of rents pursuant to existing leases as of June 30, 2025 from the medical office and life science properties owned by unconsolidated
+joint ventures in which DHC owns an equity interest.
+Average monthly rate: Reflects the average monthly residents fees and services per occupied unit for the period presented. The average monthly rate is
+calculated based on the actual number of days during the period.
+ExpPOR: The average expenses generated per occupied room per month at Seniors Housing Operating properties.
+GAAP: GAAP is U.S. generally accepted accounting principles.
+Gross sales price: Gross sales price excludes closing costs.
+Health System Affiliations: Medical outpatient properties are considered affiliated with a health system if one or more of the following conditions are met: i) the
+property is defined as On-Campus, ii) a majority of the property is leased by a health system entity, iii) the property includes an ambulatory surgery center with a
+hospital partnership interest, or iv) at least 50% of the property’s annualized rental income in aggregate is from a) leases with hospital systems or direct
+subsidiaries of a hospital systems, b) leases with tenants that self-report affiliations with hospital systems, c) leases with tenants that are members of network of
+providers with at least ten locations, d) leases with tenants where a majority of care providers served by the leased premises are listed as providers by a hospital
+system, e) leases with physician groups that are either employed, directly or indirectly by a health system, or have a significant clinical and financial affiliation with
+a health system.
+IL: Independent Living senior living communities.
+Incentive management fees: Incentive management fees are estimated and accrued during the applicable measurement period. Actual incentive management
+fees will be calculated based on common share total return, as defined in DHC's business management agreement, for the three year period ending December
+31 of the applicable calendar year, are included in general and administrative expense in DHC's condensed consolidated statements of income (loss) and will be
+payable to RMR in January of the following calendar year.
+Interest rate: Interest rate includes the effect of mark to market accounting for certain assumed mortgages and premiums and discounts on certain mortgages
+and secured and unsecured notes; excludes effects of debt issuance costs and the unused fee on DHC's secured revolving credit facility. Interest rate reflects the
+impact of interest rate caps, as applicable.
+CERTAIN DEFINITIONS
+4141
+LS: Life Science building.
+MC: Memory Care senior living communities.
+Medical Office and Life Science Portfolio: Medical Office and Life Science Portfolio consists of medical office properties leased to medical providers and other
+medical related businesses, as well as life science properties leased to biotech laboratories and other similar tenants. DHC's medical office and life science
+property leases include some triple net leases where, in addition to paying fixed rents, the tenants assume the obligation to operate and maintain the properties
+at their expense, and some net and modified gross leases where DHC is responsible for the operation and maintenance of the properties and DHC charges
+tenants for some or all of the property operating costs. A small percentage of DHC's medical office and life science property leases are full-service leases where
+DHC receives fixed rent from its tenants and no reimbursement for its property operating costs.
+MOB: Medical Office building.
+NNN: Triple net leased.
+Occupancy: Occupancy for DHC's SHOP segment is presented for the duration of the period shown; occupancy for DHC's Medical Office and Life Science
+Portfolio is presented as of the end of the period shown. Medical office and life science occupancy data includes (i) out of service assets undergoing
+redevelopment, (ii) space which is leased but is not occupied or is being offered for sublease by tenants and (iii) space being fitted out for occupancy.
+On-Campus: A medical outpatient property that is physically located within the boundaries of a hospital campus or the land parcel is adjacent to or directly
+across from a hospital campus.
+Rent coverage: Rent coverage is calculated using the annualized operating cash flows from DHC's triple net lease tenants' operations of DHC's properties,
+before subordinated charges, if any, divided by annualized rental income. DHC has not independently verified tenant operating data.
+RevPOR: The average revenues generated per occupied room per month at Seniors Housing Operating properties.
+Same Property: As of and for the three months ended June 30, 2025, same property consists of properties owned, in service, reported in the same segment and
+operated by the same operator continuously since April 1, 2024; excludes properties classified as held for sale, closed or out of service, if any, and medical office
+and life science properties owned by unconsolidated joint ventures in which DHC owns an equity interest. As of and for the six months ended June 30, 2025,
+same property consists of properties owned, in service, reported in the same segment and operated by the same operator continuously since January 1, 2024;
+excludes properties classified as held for sale, closed or out of service, if any, and medical office and life science properties owned by unconsolidated joint
+ventures in which DHC owns an equity interest.
+Secondary markets: Secondary markets are made up of 68 large CBSAs in the United States that are not included in the primary markets. Data for secondary
+markets is often presented aggregated.
+CERTAIN DEFINITIONS (Continued)
+4242
+SHOP: SHOP, or Senior Housing Operating Portfolio, consists of senior living communities managed by third party senior living managers that provide short
+term and long term residential living and in some cases care and other services for residents where DHC pays fees to the managers to operate the communities.
+Properties in this segment include independent living communities, assisted living communities, active adult rental communities and SNFs.
+SNF: SNF is a skilled nursing facility.
+Square feet: Square feet measurements are subject to modest changes when space is periodically remeasured or reconfigured for new tenants. Square feet for
+prior periods exclude space remeasurements made subsequent to those periods. Excludes data from medical office and life science properties owned by
+unconsolidated joint ventures in which DHC owns an equity interest.
+Stabilization: The stabilized occupancy and stabilized NOI are for the specific communities as underwritten in the 3rd year of the transition.
+Triple net leased senior living communities: Triple net leased senior living communities include independent and assisted living communities and SNFs.
+Unit count: Unit count is by the type of living units at DHC's senior living communities within its SHOP segment.
+WALT: Weighted average lease term by annualized rental income.
+CERTAIN DEFINITIONS (Continued)
+

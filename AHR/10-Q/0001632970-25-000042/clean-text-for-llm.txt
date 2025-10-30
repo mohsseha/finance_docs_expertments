@@ -1,0 +1,5301 @@
+
+================================================================================
+=== DOCUMENT 1: 10-Q - ahr-20250331.htm ===
+================================================================================
+
+ahr-20250331
+false
+2025
+Q1
+0001632970
+12/31
+P5D
+0
+P1Y
+xbrli:shares
+iso4217:USD
+iso4217:USD
+xbrli:shares
+xbrli:pure
+ahr:segment
+ahr:campus
+utr:sqft
+ahr:parcel
+ahr:facility
+ahr:Property
+ahr:MortgageLoan
+ahr:Extension
+ahr:State
+ahr:tenant
+0001632970
+2025-01-01
+2025-03-31
+0001632970
+2025-05-05
+0001632970
+2025-03-31
+0001632970
+2024-12-31
+0001632970
+ahr:BelowMarketLeaseMember
+2024-12-31
+0001632970
+us-gaap:CommonStockMember
+2024-12-31
+0001632970
+us-gaap:CommonStockMember
+2025-03-31
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:LineOfCreditMember
+2025-03-31
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:LineOfCreditMember
+2024-12-31
+0001632970
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2024-12-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+2024-12-31
+0001632970
+us-gaap:RetainedEarningsMember
+2024-12-31
+0001632970
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-12-31
+0001632970
+us-gaap:ParentMember
+2024-12-31
+0001632970
+us-gaap:NoncontrollingInterestMember
+2024-12-31
+0001632970
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:ParentMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:CommonStockMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:NoncontrollingInterestMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:RetainedEarningsMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2025-03-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+2025-03-31
+0001632970
+us-gaap:RetainedEarningsMember
+2025-03-31
+0001632970
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2025-03-31
+0001632970
+us-gaap:ParentMember
+2025-03-31
+0001632970
+us-gaap:NoncontrollingInterestMember
+2025-03-31
+0001632970
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2023-12-31
+0001632970
+us-gaap:CommonStockMember
+ahr:CommonClassTMember
+2023-12-31
+0001632970
+us-gaap:CommonStockMember
+ahr:CommonClassIMember
+2023-12-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+2023-12-31
+0001632970
+us-gaap:RetainedEarningsMember
+2023-12-31
+0001632970
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2023-12-31
+0001632970
+us-gaap:ParentMember
+2023-12-31
+0001632970
+us-gaap:NoncontrollingInterestMember
+2023-12-31
+0001632970
+2023-12-31
+0001632970
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:ParentMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:NoncontrollingInterestMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+ahr:CommonClassTMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:RetainedEarningsMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:CommonStockMember
+us-gaap:CommonStockMember
+2024-03-31
+0001632970
+us-gaap:CommonStockMember
+ahr:CommonClassTMember
+2024-03-31
+0001632970
+us-gaap:CommonStockMember
+ahr:CommonClassIMember
+2024-03-31
+0001632970
+us-gaap:AdditionalPaidInCapitalMember
+2024-03-31
+0001632970
+us-gaap:RetainedEarningsMember
+2024-03-31
+0001632970
+us-gaap:AccumulatedOtherComprehensiveIncomeMember
+2024-03-31
+0001632970
+us-gaap:ParentMember
+2024-03-31
+0001632970
+us-gaap:NoncontrollingInterestMember
+2024-03-31
+0001632970
+2024-03-31
+0001632970
+ahr:GeneralPartnershipMember
+2025-03-31
+2025-03-31
+0001632970
+ahr:GeneralPartnershipMember
+2024-12-31
+2024-12-31
+0001632970
+ahr:NewCoSellersMember
+2025-03-31
+2025-03-31
+0001632970
+ahr:NewCoSellersMember
+2024-12-31
+2024-12-31
+0001632970
+2013-01-11
+2025-03-31
+0001632970
+us-gaap:TransferredOverTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:TransferredOverTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:TransferredOverTimeMember
+ahr:ResidentFeesandServicesMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:TransferredOverTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:TransferredOverTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:TransferredOverTimeMember
+ahr:ResidentFeesandServicesMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:TransferredAtPointInTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:TransferredAtPointInTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:TransferredAtPointInTimeMember
+ahr:ResidentFeesandServicesMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:TransferredAtPointInTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:TransferredAtPointInTimeMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:TransferredAtPointInTimeMember
+ahr:ResidentFeesandServicesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+2024-12-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+2024-12-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+2024-12-31
+0001632970
+ahr:ResidentFeesandServicesMember
+2024-12-31
+0001632970
+ahr:PrivateandOtherPayorsMember
+ahr:ResidentFeesandServicesMember
+2025-03-31
+0001632970
+ahr:MedicareMember
+ahr:ResidentFeesandServicesMember
+2025-03-31
+0001632970
+ahr:MedicaidMember
+ahr:ResidentFeesandServicesMember
+2025-03-31
+0001632970
+ahr:ResidentFeesandServicesMember
+2025-03-31
+0001632970
+ahr:BuildingImprovementsAndConstructionInProcessMember
+2025-03-31
+0001632970
+ahr:BuildingImprovementsAndConstructionInProcessMember
+2024-12-31
+0001632970
+us-gaap:LandAndLandImprovementsMember
+2025-03-31
+0001632970
+us-gaap:LandAndLandImprovementsMember
+2024-12-31
+0001632970
+us-gaap:FurnitureAndFixturesMember
+2025-03-31
+0001632970
+us-gaap:FurnitureAndFixturesMember
+2024-12-31
+0001632970
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:OutpatientMedicalMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:A2025AcquisitionsMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:EvansvilleINMember
+ahr:A2025AcquisitionsMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:A2025AcquisitionsMember
+2025-03-31
+0001632970
+ahr:LansingMIMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:SHOPMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:IntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:GreenvilleOHMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:SHOPAndIntegratedSeniorHealthCampusesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:SeniorHousingFacilityMember
+2024-02-01
+0001632970
+ahr:A2024AcquisitionsMember
+2024-03-31
+0001632970
+ahr:InvestmentsNetMember
+2015-10-15
+0001632970
+ahr:SeniorHousingFacilityMember
+2024-09-03
+0001632970
+2025-03-31
+2025-03-31
+0001632970
+2024-12-31
+2024-12-31
+0001632970
+us-gaap:LeasesAcquiredInPlaceMember
+2025-03-31
+0001632970
+us-gaap:LeasesAcquiredInPlaceMember
+2024-12-31
+0001632970
+us-gaap:AboveMarketLeasesMember
+2025-03-31
+0001632970
+us-gaap:AboveMarketLeasesMember
+2024-12-31
+0001632970
+ahr:CertificatesOfNeedMember
+2025-03-31
+0001632970
+ahr:CertificatesOfNeedMember
+2024-12-31
+0001632970
+us-gaap:TradeNamesMember
+2025-03-31
+0001632970
+us-gaap:TradeNamesMember
+2024-12-31
+0001632970
+ahr:BelowMarketLeaseMember
+2025-03-31
+0001632970
+us-gaap:AboveMarketLeasesMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:AboveMarketLeasesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:BelowMarketLeaseMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:BelowMarketLeaseMember
+2024-01-01
+2024-03-31
+0001632970
+2025-03-01
+2025-03-31
+0001632970
+2024-02-01
+2024-02-29
+0001632970
+ahr:FixedRateDebtMember
+2025-03-31
+0001632970
+ahr:FixedRateDebtMember
+2024-12-31
+0001632970
+ahr:MortgageLoansPayableNetMember
+2025-03-31
+0001632970
+ahr:MortgageLoansPayableNetMember
+2024-12-31
+0001632970
+srt:MinimumMember
+2025-03-31
+0001632970
+srt:MinimumMember
+2024-12-31
+0001632970
+srt:MaximumMember
+2024-12-31
+0001632970
+srt:MaximumMember
+2025-03-31
+0001632970
+us-gaap:SecuredDebtMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:SecuredDebtMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:LineOfCreditMember
+2024-02-14
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredRevolvingCreditFacilityMember
+2024-02-14
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredTermLoanFacilityMember
+2024-02-14
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:StandbyLettersOfCreditMember
+2025-03-31
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:StandbyLettersOfCreditMember
+2024-12-31
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredRevolvingCreditFacilityMember
+2024-02-14
+2024-02-14
+0001632970
+ahr:A2024CreditAgreementMember
+2024-02-14
+2024-02-14
+0001632970
+ahr:CommitmentUtilizationScenario1Member
+srt:MinimumMember
+2024-02-14
+0001632970
+ahr:CommitmentUtilizationScenario1Member
+srt:MaximumMember
+2024-02-14
+0001632970
+ahr:CommitmentUtilizationScenario2Member
+srt:MinimumMember
+2024-02-14
+0001632970
+ahr:CommitmentUtilizationScenario2Member
+srt:MaximumMember
+2024-02-14
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredTermLoanFacilityMember
+2025-03-31
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredTermLoanFacilityMember
+2024-12-31
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:RevolvingCreditFacilityMember
+2024-12-31
+0001632970
+ahr:A2024CreditAgreementMember
+us-gaap:RevolvingCreditFacilityMember
+2025-03-31
+0001632970
+ahr:A2019TrilogyCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2022-12-20
+0001632970
+ahr:A2019TrilogyCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+ahr:RealEstateAssetsandAncillaryBusinessCashFlowMember
+2022-12-20
+0001632970
+ahr:A2019TrilogyCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+ahr:EligibleAccountsReceivableMember
+2022-12-20
+0001632970
+ahr:A2019TrilogyCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-12-31
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredTermLoanFacilityMember
+2024-02-14
+2024-02-14
+0001632970
+ahr:Swap374InterestRateMember
+us-gaap:NondesignatedMember
+2025-03-31
+0001632970
+ahr:Swap374InterestRateMember
+us-gaap:NondesignatedMember
+2024-12-31
+0001632970
+ahr:Swap441InterestRateMember
+us-gaap:NondesignatedMember
+2025-03-31
+0001632970
+ahr:Swap441InterestRateMember
+us-gaap:NondesignatedMember
+2024-12-31
+0001632970
+ahr:Swap3.51InterestRateMember
+us-gaap:NondesignatedMember
+2025-03-31
+0001632970
+ahr:Swap3.51InterestRateMember
+us-gaap:NondesignatedMember
+2024-12-31
+0001632970
+ahr:Swap3.52InterestRateMember
+us-gaap:NondesignatedMember
+2025-03-31
+0001632970
+ahr:Swap3.52InterestRateMember
+us-gaap:NondesignatedMember
+2024-12-31
+0001632970
+us-gaap:NondesignatedMember
+2025-03-31
+0001632970
+us-gaap:NondesignatedMember
+2024-12-31
+0001632970
+ahr:MeridanMember
+2025-03-31
+2025-03-31
+0001632970
+ahr:MeridanMember
+2024-12-31
+2024-12-31
+0001632970
+ahr:CommonClassTMember
+2025-03-31
+0001632970
+ahr:CommonClassIMember
+2025-03-31
+0001632970
+us-gaap:CommonStockMember
+2024-02-09
+0001632970
+us-gaap:CommonStockMember
+2024-02-09
+2024-02-09
+0001632970
+2024-02-09
+2024-02-09
+0001632970
+2024-08-05
+0001632970
+us-gaap:CommonStockMember
+2024-09-20
+0001632970
+us-gaap:CommonStockMember
+2024-09-20
+2024-09-20
+0001632970
+2024-09-20
+2024-09-20
+0001632970
+ahr:TrilogyREITHoldingsLLCMember
+ahr:NHIMember
+2023-11-03
+0001632970
+ahr:A2019TrilogyCreditFacilityMember
+us-gaap:RevolvingCreditFacilityMember
+2024-09-20
+2024-09-20
+0001632970
+ahr:A2024CreditAgreementMember
+ahr:SeniorUnsecuredRevolvingCreditFacilityMember
+2024-09-20
+2024-09-20
+0001632970
+ahr:ATMOfferingMember
+2024-11-18
+2024-11-18
+0001632970
+ahr:ATMOfferingMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:ATMOfferingMember
+2025-03-31
+0001632970
+ahr:ATMOfferingMember
+2025-03-31
+2025-03-31
+0001632970
+ahr:TrilogyREITHoldingsLLCMember
+2024-09-19
+0001632970
+ahr:NorthStarHealthcareIncomeInc.Member
+ahr:TrilogyREITHoldingsLLCMember
+2024-12-31
+0001632970
+ahr:NorthStarHealthcareIncomeInc.Member
+ahr:TrilogyREITHoldingsLLCMember
+2024-09-20
+0001632970
+ahr:TrilogyREITHoldingsLLCMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:TrilogyREITHoldingsLLCMember
+2024-09-20
+2024-09-20
+0001632970
+ahr:TrilogyREITHoldingsLLCMember
+2024-09-20
+0001632970
+ahr:TrilogyInvestorsLLCMember
+2024-09-20
+0001632970
+ahr:LakeviewINMedicalPlazaMember
+2025-03-31
+0001632970
+ahr:LakeviewINMedicalPlazaMember
+2024-02-06
+0001632970
+ahr:LakeviewINMedicalPlazaMember
+2024-02-06
+2024-02-06
+0001632970
+ahr:LakeviewINMedicalPlazaMember
+ahr:LakeviewINMedicalPlazaMember
+2024-01-01
+2024-02-05
+0001632970
+ahr:TwoThousandFifteenIncentivePlanMember
+us-gaap:CommonStockMember
+2023-06-15
+0001632970
+us-gaap:RestrictedStockMember
+ahr:TwoThousandFifteenIncentivePlanMember
+2014-02-26
+2025-03-31
+0001632970
+ahr:TwoThousandFifteenIncentivePlanMember
+us-gaap:RestrictedStockMember
+srt:MinimumMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:TwoThousandFifteenIncentivePlanMember
+us-gaap:RestrictedStockMember
+srt:MaximumMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:PerformanceBasedUnitMember
+ahr:TwoThousandFifteenIncentivePlanMember
+2014-02-26
+2025-03-31
+0001632970
+ahr:TimeBasedUnitMember
+ahr:TwoThousandFifteenIncentivePlanMember
+2014-02-26
+2025-03-31
+0001632970
+ahr:TwoThousandFifteenIncentivePlanMember
+us-gaap:RestrictedStockUnitsRSUMember
+srt:MaximumMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:RestrictedStockMember
+2024-12-31
+0001632970
+us-gaap:RestrictedStockUnitsRSUMember
+2024-12-31
+0001632970
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:RestrictedStockMember
+2025-03-31
+0001632970
+us-gaap:RestrictedStockUnitsRSUMember
+2025-03-31
+0001632970
+us-gaap:RestrictedStockMember
+ahr:TwoThousandFifteenIncentivePlanMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:RestrictedStockMember
+ahr:TwoThousandFifteenIncentivePlanMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:EmployeeStockMember
+ahr:A2024StockPurchasePlanMember
+2024-11-01
+2024-11-30
+0001632970
+us-gaap:EmployeeStockMember
+ahr:A2024StockPurchasePlanMember
+2024-11-30
+0001632970
+us-gaap:EmployeeStockMember
+ahr:A2024StockPurchasePlanMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001632970
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001632970
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001632970
+us-gaap:FairValueMeasurementsRecurringMember
+2025-03-31
+0001632970
+us-gaap:FairValueInputsLevel1Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001632970
+us-gaap:FairValueInputsLevel2Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001632970
+us-gaap:FairValueInputsLevel3Member
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001632970
+us-gaap:FairValueMeasurementsRecurringMember
+2024-12-31
+0001632970
+ahr:TripleNetLeasedPropertiesMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:IntegratedSeniorHealthCampusesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:SHOPMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:OutpatientMedicalMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:TripleNetLeasedPropertiesMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:IntegratedSeniorHealthCampusesMember
+2025-03-31
+0001632970
+ahr:IntegratedSeniorHealthCampusesMember
+2024-12-31
+0001632970
+ahr:OutpatientMedicalMember
+2025-03-31
+0001632970
+ahr:OutpatientMedicalMember
+2024-12-31
+0001632970
+ahr:SHOPMember
+2025-03-31
+0001632970
+ahr:SHOPMember
+2024-12-31
+0001632970
+ahr:TripleNetLeasedPropertiesMember
+2025-03-31
+0001632970
+ahr:TripleNetLeasedPropertiesMember
+2024-12-31
+0001632970
+us-gaap:AllOtherSegmentsMember
+2025-03-31
+0001632970
+us-gaap:AllOtherSegmentsMember
+2024-12-31
+0001632970
+country:US
+2025-01-01
+2025-03-31
+0001632970
+country:US
+2024-01-01
+2024-03-31
+0001632970
+ahr:InternationalMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:InternationalMember
+2024-01-01
+2024-03-31
+0001632970
+country:US
+2025-03-31
+0001632970
+country:US
+2024-12-31
+0001632970
+ahr:InternationalMember
+2025-03-31
+0001632970
+ahr:InternationalMember
+2024-12-31
+0001632970
+stpr:IN
+2025-03-31
+0001632970
+stpr:OH
+2025-03-31
+0001632970
+stpr:MI
+2025-03-31
+0001632970
+ahr:TimeBasedUnitMember
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:TimeBasedUnitMember
+us-gaap:RestrictedStockUnitsRSUMember
+2024-01-01
+2024-03-31
+0001632970
+us-gaap:RestrictedStockMember
+2025-01-01
+2025-03-31
+0001632970
+us-gaap:RestrictedStockMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:RedeemableLimitedPartnershipUnitsMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:RedeemableLimitedPartnershipUnitsMember
+2024-01-01
+2024-03-31
+0001632970
+ahr:PerformanceBasedUnitMember
+us-gaap:RestrictedStockUnitsRSUMember
+2025-01-01
+2025-03-31
+0001632970
+ahr:PerformanceBasedUnitMember
+us-gaap:RestrictedStockUnitsRSUMember
+2024-01-01
+2024-03-31
+Table of Contents
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+10-Q
+(Mark One)
+☒
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended
+March 31, 2025
+or
+☐
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from                    to
+Commission File Number:
+001-41951
+AMERICAN HEALTHCARE REIT, INC.
+(Exact name of registrant as specified in its charter)
+Maryland
+47-2887436
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+18191 Von Karman Avenue
+,
+Suite 300
+Irvine
+,
+California
+92612
+(Address of principal executive offices)
+(Zip Code)
+(
+949
+)
+270-9200
+(Registrant’s telephone number, including area code)
+Not Applicable
+(Former name, former address and former fiscal year, if changed since last report)
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which registered
+Common Stock, $0.01 par value per share
+AHR
+New York Stock Exchange
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Sections 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.     ☒
+Yes
+☐  No
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    ☒
+Yes
+☐  No
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer, a smaller reporting company, or an emerging growth company. See the definitions of “large accelerated filer,” “accelerated filer,” “smaller reporting company,” and “emerging growth company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+x
+Accelerated filer
+☐
+Non-accelerated filer
+☐
+Smaller reporting company
+☐
+Emerging growth company
+☐
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act). ☐  Yes
+☒
+No
+As of May 5, 2025, American Healthcare REIT, Inc. had
+159,496,793
+shares of Common Stock outstanding.
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+(A Maryland Corporation)
+TABLE OF CONTENTS
+Page
+PART I — FINANCIAL INFORMATION
+Item 1. Financial Statements (Unaudited)
+3
+Condensed Consolidated Balance Sheets as of
+March 31
+, 202
+5
+and December 31, 20
+24
+3
+Condensed Consolidated Statements of Operations and Comprehensive
+Loss
+for the Three
+Months Ended
+March 31
+, 202
+5
+and 202
+4
+5
+Condensed Consolidated Statements of Equity for the Three
+Months Ended
+March 31
+, 202
+5
+and 202
+4
+6
+Condensed Consolidated Statements of Cash Flows for the
+Three
+Months Ended
+March 31
+, 202
+5
+and 202
+4
+8
+Notes to Condensed Consolidated Financial Statements
+10
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations
+34
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+45
+Item 4. Controls and Procedures
+47
+PART II — OTHER INFORMATION
+Item 1. Legal Proceedings
+48
+Item 1A. Risk Factors
+48
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds
+49
+Item 3. Defaults Upon Senior Securities
+49
+Item 4. Mine Safety Disclosures
+49
+Item 5. Other Information
+49
+Item 6. Exhibits
+50
+Signatures
+51
+2
+Table of Contents
+PART I — FINANCIAL INFORMATION
+Item 1. Financial Statements.
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS
+As of March 31, 2025 and December 31, 2024
+(In thousands, except share and per share amounts) (Unaudited)
+March 31,
+2025
+December 31,
+2024
+ASSETS
+Real estate investments, net
+$
+3,337,008
+$
+3,366,648
+Debt security investment, net
+91,698
+91,264
+Cash and cash equivalents
+86,064
+76,702
+Restricted cash
+41,389
+46,599
+Accounts and other receivables, net
+222,657
+211,104
+Identified intangible assets, net
+156,426
+161,473
+Goodwill
+234,942
+234,942
+Operating lease right-of-use assets, net
+153,349
+163,987
+Other assets, net
+140,518
+135,338
+Total assets
+$
+4,464,051
+$
+4,488,057
+LIABILITIES, REDEEMABLE NONCONTROLLING INTERESTS AND EQUITY
+Liabilities:
+Mortgage loans payable, net(1)
+$
+1,000,489
+$
+982,071
+Lines of credit and term loan, net(1)
+642,567
+688,534
+Accounts payable and accrued liabilities(1)
+272,274
+258,324
+Identified intangible liabilities, net
+2,810
+3,001
+Financing obligations(1)
+34,599
+34,870
+Operating lease liabilities(1)
+153,585
+165,239
+Security deposits, prepaid rent and other liabilities(1)
+53,019
+51,856
+Total liabilities
+2,159,343
+2,183,895
+Commitments and contingencies (Note 10)
+Redeemable noncontrolling interests (Note 11)
+220
+220
+Equity:
+Stockholders’ equity:
+Preferred stock, $
+0.01
+par value per share;
+200,000,000
+shares authorized;
+no
+ne issued and outstanding
+—
+—
+Common Stock, $
+0.01
+par value per share;
+700,000,000
+shares authorized;
+159,065,005
+and
+157,446,697
+shares issued and outstanding as of March 31, 2025 and December 31, 2024, respectively
+1,583
+1,564
+Additional paid-in capital
+3,768,030
+3,720,268
+Accumulated deficit
+(
+1,504,861
+)
+(
+1,458,089
+)
+Accumulated other comprehensive loss
+(
+2,336
+)
+(
+2,512
+)
+Total stockholders’ equity
+2,262,416
+2,261,231
+Noncontrolling interests (Note 12)
+42,072
+42,711
+Total equity
+2,304,488
+2,303,942
+Total liabilities, redeemable noncontrolling interests and equity
+$
+4,464,051
+$
+4,488,057
+3
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS — (Continued)
+As of March 31, 2025 and December 31, 2024
+(In thousands) (Unaudited)
+___________
+(1)
+Such liabilities of American Healthcare REIT, Inc. represented liabilities of American Healthcare REIT Holdings, LP or its consolidated subsidiaries as of March 31, 2025 and December 31, 2024. American Healthcare REIT Holdings, LP is a variable interest entity, or VIE, and a consolidated subsidiary of American Healthcare REIT, Inc. The creditors of American Healthcare REIT Holdings, LP or its consolidated subsidiaries do not have recourse against American Healthcare REIT, Inc., except for the 2024 Credit Facility, as defined in Note 8, held by American Healthcare REIT Holdings, LP in the amount of $
+643,000
+and $
+689,000
+as of March 31, 2025 and December 31, 2024, respectively, which was guaranteed by American Healthcare REIT, Inc.
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+4
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE LOSS
+For the Three Months Ended March 31, 2025 and 2024
+(In thousands, except share and per share amounts) (Unaudited)
+Three Months Ended March 31,
+2025
+2024
+Revenues:
+Resident fees and services
+$
+497,176
+$
+452,118
+Real estate revenue
+43,427
+47,415
+Total revenues
+540,603
+499,533
+Expenses:
+Property operating expenses
+432,423
+403,629
+Rental expenses
+13,643
+13,727
+General and administrative
+13,155
+11,828
+Business acquisition expenses
+1,837
+2,782
+Depreciation and amortization
+41,114
+42,767
+Total expenses
+502,172
+474,733
+Other income (expense):
+Interest expense:
+Interest expense
+(
+22,945
+)
+(
+36,438
+)
+(Loss) gain in fair value of derivative financial instruments
+(
+750
+)
+6,417
+(Loss) gain on dispositions of real estate investments, net
+(
+359
+)
+2,263
+Impairment of real estate investment
+(
+21,706
+)
+—
+Loss from unconsolidated entities
+(
+1,848
+)
+(
+1,205
+)
+Foreign currency gain (loss)
+1,416
+(
+426
+)
+Other income, net
+1,525
+1,863
+Total net other expense
+(
+44,667
+)
+(
+27,526
+)
+Loss before income taxes
+(
+6,236
+)
+(
+2,726
+)
+Income tax expense
+(
+604
+)
+(
+278
+)
+Net loss
+(
+6,840
+)
+(
+3,004
+)
+Net loss (income) attributable to noncontrolling interests
+36
+(
+888
+)
+Net loss attributable to controlling interest
+$
+(
+6,804
+)
+$
+(
+3,892
+)
+Net loss per share of Common Stock, Class T common stock and Class I common stock attributable to controlling interest:
+Basic
+$
+(
+0.04
+)
+$
+(
+0.04
+)
+Diluted
+$
+(
+0.04
+)
+$
+(
+0.04
+)
+Weighted average number of shares of Common Stock, Class T common stock and Class I common stock outstanding:
+Basic
+156,922,819
+104,295,142
+Diluted
+156,922,819
+104,295,142
+Net loss
+$
+(
+6,840
+)
+$
+(
+3,004
+)
+Other comprehensive income (loss):
+Foreign currency translation adjustments
+176
+(
+43
+)
+Total other comprehensive income (loss)
+176
+(
+43
+)
+Comprehensive loss
+(
+6,664
+)
+(
+3,047
+)
+Comprehensive loss (income) attributable to noncontrolling interests
+36
+(
+888
+)
+Comprehensive loss attributable to controlling interest
+$
+(
+6,628
+)
+$
+(
+3,935
+)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+5
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF EQUITY
+For the Three Months Ended March 31, 2025 and 2024
+(In thousands, except share and per share amounts) (Unaudited)
+Three Months Ended March 31, 2025
+Stockholders’ Equity
+Common Stock
+Number
+of
+Shares
+Amount
+Additional
+Paid-In
+Capital
+Accumulated
+Deficit
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Stockholders’
+Equity
+Noncontrolling
+Interests
+Total Equity
+BALANCE —              December 31, 2024
+157,446,697
+$
+1,564
+$
+3,720,268
+$
+(
+1,458,089
+)
+$
+(
+2,512
+)
+$
+2,261,231
+$
+42,711
+$
+2,303,942
+Issuance of common stock in an offering
+1,577,113
+16
+47,650
+—
+—
+47,666
+—
+47,666
+Offering costs — common stock
+—
+—
+(
+542
+)
+—
+—
+(
+542
+)
+—
+(
+542
+)
+Vested restricted common stock and stock units(1)
+41,195
+3
+(
+1,892
+)
+—
+—
+(
+1,889
+)
+—
+(
+1,889
+)
+Amortization of nonvested restricted common stock and stock units
+—
+—
+2,551
+—
+—
+2,551
+—
+2,551
+Distributions to noncontrolling interests
+—
+—
+—
+—
+—
+—
+(
+608
+)
+(
+608
+)
+Adjustment to value of redeemable noncontrolling interests
+—
+—
+(
+5
+)
+—
+—
+(
+5
+)
+—
+(
+5
+)
+Distributions declared ($
+0.25
+per share)
+—
+—
+—
+(
+39,968
+)
+—
+(
+39,968
+)
+—
+(
+39,968
+)
+Net loss
+—
+—
+—
+(
+6,804
+)
+—
+(
+6,804
+)
+(
+31
+)
+(
+6,835
+)
+(2)
+Other comprehensive income
+—
+—
+—
+—
+176
+176
+—
+176
+BALANCE —                        March 31, 2025
+159,065,005
+$
+1,583
+$
+3,768,030
+$
+(
+1,504,861
+)
+$
+(
+2,336
+)
+$
+2,262,416
+$
+42,072
+$
+2,304,488
+6
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF EQUITY — (Continued)
+For the Three Months Ended March 31, 2025 and 2024
+(In thousands, except share and per share amounts) (Unaudited)
+Three Months Ended March 31, 2024
+Stockholders’ Equity
+Common Stock
+Class T
+Common Stock
+Class I
+Common Stock
+Number
+of
+Shares
+Amount
+Number
+of
+Shares
+Amount
+Number
+of
+Shares
+Amount
+Additional
+Paid-In
+Capital
+Accumulated
+Deficit
+Accumulated
+Other
+Comprehensive
+Loss
+Total
+Stockholders’
+Equity
+Noncontrolling
+Interests
+Total Equity
+BALANCE — December 31, 2023
+—
+$
+—
+19,552,856
+$
+194
+46,673,320
+$
+467
+$
+2,548,307
+$
+(
+1,276,222
+)
+$
+(
+2,425
+)
+$
+1,270,321
+$
+155,014
+$
+1,425,335
+Issuance of common stock in an offering
+64,400,000
+644
+—
+—
+—
+—
+772,156
+—
+—
+772,800
+—
+772,800
+Offering costs —       common stock
+—
+—
+—
+—
+—
+—
+(
+53,542
+)
+—
+—
+(
+53,542
+)
+—
+(
+53,542
+)
+Issuance of nonvested restricted common stock
+972,222
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+Amortization of nonvested restricted common stock and stock units
+—
+—
+—
+—
+—
+—
+1,914
+—
+—
+1,914
+—
+1,914
+Stock based compensation
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+21
+21
+Repurchase of common stock
+—
+—
+(
+431
+)
+—
+—
+—
+(
+14
+)
+—
+—
+(
+14
+)
+—
+(
+14
+)
+Purchase of noncontrolling interest
+—
+—
+—
+—
+—
+—
+(
+478
+)
+—
+—
+(
+478
+)
+37
+(
+441
+)
+Distributions to noncontrolling interests
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+(
+992
+)
+(
+992
+)
+Reclassification of noncontrolling interests from mezzanine equity, net
+—
+—
+—
+—
+—
+—
+—
+—
+—
+—
+15,282
+15,282
+Adjustment to value of redeemable noncontrolling interests
+—
+—
+—
+—
+—
+—
+6,909
+—
+—
+6,909
+(
+8
+)
+6,901
+Distributions declared ($
+0.25
+per share)
+—
+—
+—
+—
+—
+—
+—
+(
+33,076
+)
+—
+(
+33,076
+)
+—
+(
+33,076
+)
+Net (loss) income
+—
+—
+—
+—
+—
+—
+—
+(
+3,892
+)
+—
+(
+3,892
+)
+909
+(
+2,983
+)
+(2)
+Other comprehensive loss
+—
+—
+—
+—
+—
+—
+—
+—
+(
+43
+)
+(
+43
+)
+—
+(
+43
+)
+BALANCE —  March 31, 2024
+65,372,222
+$
+644
+19,552,425
+$
+194
+46,673,320
+$
+467
+$
+3,275,252
+$
+(
+1,313,190
+)
+$
+(
+2,468
+)
+$
+1,960,899
+$
+170,263
+$
+2,131,162
+___________
+(1)
+The amounts are shown net of common stock withheld to satisfy employee minimum tax withholding requirements in connection with the vesting of restricted common stock and stock units. See Note 12, Equity — Equity Compensation Plans, for further discussion.
+(2)
+For the three months ended March 31, 2025 and 2024, amounts exclude $
+5
+and $
+21
+, respectively, of net loss attributable to redeemable noncontrolling interests. See Note 11, Redeemable Noncontrolling Interests, for further discussion.
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+7
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+For the Three Months Ended March 31, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended March 31,
+2025
+2024
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net loss
+$
+(
+6,840
+)
+$
+(
+3,004
+)
+Adjustments to reconcile net loss to net cash provided by (used in) operating activities:
+Depreciation and amortization
+41,114
+42,767
+Other amortization
+9,816
+11,799
+Deferred rent
+(
+735
+)
+(
+1,132
+)
+Stock based compensation
+2,551
+1,935
+Loss (gain) on dispositions of real estate investments, net
+359
+(
+2,263
+)
+Impairment of real estate investment
+21,706
+—
+Loss from unconsolidated entities
+1,848
+1,205
+Foreign currency (gain) loss
+(
+1,472
+)
+434
+Loss on extinguishments of debt
+482
+1,280
+Change in fair value of derivative financial instruments
+750
+(
+6,417
+)
+Changes in operating assets and liabilities:
+Accounts and other receivables
+(
+10,037
+)
+(
+32,116
+)
+Other assets
+(
+5,477
+)
+(
+9,736
+)
+Accounts payable and accrued liabilities
+12,998
+(
+1,866
+)
+Operating lease liabilities
+(
+7,887
+)
+(
+8,893
+)
+Security deposits, prepaid rent and other liabilities
+1,440
+53
+Net cash provided by (used in) operating activities
+60,616
+(
+5,954
+)
+CASH FLOWS FROM INVESTING ACTIVITIES
+Developments and capital expenditures
+(
+21,181
+)
+(
+19,886
+)
+Acquisitions of real estate investments
+(
+16,442
+)
+(
+352
+)
+Proceeds from dispositions of real estate investments
+9,575
+14,522
+Investments in unconsolidated entities
+(
+2
+)
+—
+Issuances of real estate notes receivable
+(
+4,405
+)
+(
+7,753
+)
+Principal repayments on real estate notes receivable
+2,975
+8,383
+Real estate and other deposits
+(
+3,296
+)
+(
+137
+)
+Net cash used in investing activities
+(
+32,776
+)
+(
+5,223
+)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Borrowings under mortgage loans payable
+30,000
+15,535
+Payments on mortgage loans payable
+(
+11,484
+)
+(
+181,190
+)
+Borrowings under the lines of credit and term loan
+34,000
+147,600
+Payments on the lines of credit and term loan
+(
+80,032
+)
+(
+612,323
+)
+Payments on financing and other obligations
+(
+690
+)
+(
+782
+)
+Deferred financing costs
+(
+259
+)
+(
+5,838
+)
+Debt extinguishment costs
+(
+26
+)
+—
+Proceeds from issuance of common stock in offerings
+47,666
+772,800
+Payment of offering costs
+(
+591
+)
+(
+47,534
+)
+Distributions paid
+(
+39,548
+)
+(
+16,596
+)
+Repurchase of common stock
+—
+(
+14
+)
+Payments to taxing authorities in connection with common stock directly withheld from employees
+(
+1,889
+)
+—
+Purchase of noncontrolling interest
+—
+(
+441
+)
+Distributions to noncontrolling interests
+(
+604
+)
+(
+991
+)
+8
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS — (Continued)
+For the Three Months Ended March 31, 2025 and 2024
+(In thousands) (Unaudited)
+Three Months Ended March 31,
+2025
+2024
+Redemption of noncontrolling interest
+$
+—
+$
+(
+25,312
+)
+Security deposits
+(
+319
+)
+48
+Net cash (used in) provided by financing activities
+(
+23,776
+)
+44,962
+NET CHANGE IN CASH, CASH EQUIVALENTS AND RESTRICTED CASH
+$
+4,064
+$
+33,785
+EFFECT OF FOREIGN CURRENCY TRANSLATION ON CASH, CASH EQUIVALENTS AND RESTRICTED CASH
+88
+(
+36
+)
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH — Beginning of period
+123,301
+90,782
+CASH, CASH EQUIVALENTS AND RESTRICTED CASH — End of period
+$
+127,453
+$
+124,531
+RECONCILIATION OF CASH, CASH EQUIVALENTS AND RESTRICTED CASH
+Beginning of period:
+Cash and cash equivalents
+$
+76,702
+$
+43,445
+Restricted cash
+46,599
+47,337
+Cash, cash equivalents and restricted cash
+$
+123,301
+$
+90,782
+End of period:
+Cash and cash equivalents
+$
+86,064
+$
+77,026
+Restricted cash
+41,389
+47,505
+Cash, cash equivalents and restricted cash
+$
+127,453
+$
+124,531
+SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION
+Cash paid for:
+Interest
+$
+20,715
+$
+35,617
+Income taxes
+$
+231
+$
+157
+SUPPLEMENTAL DISCLOSURE OF NONCASH INVESTING AND FINANCING ACTIVITIES
+Accrued developments and capital expenditures
+$
+22,447
+$
+24,127
+Capital expenditures from financing and other obligations
+$
+—
+$
+353
+Tenant improvement overage
+$
+—
+$
+1,553
+Acquisition of real estate investments with assumed mortgage loans payable, net of debt discount
+$
+—
+$
+91,472
+Reclassification of noncontrolling interests from mezzanine equity, net
+$
+—
+$
+15,282
+Distributions declared but not paid
+$
+40,795
+$
+34,069
+Accrued offering costs
+$
+94
+$
+2,446
+The following represents the net increase (decrease) in certain assets and liabilities in connection with our acquisitions and dispositions of investments:
+Accounts and other receivables
+$
+15
+$
+343
+Other assets, net
+$
+(
+248
+)
+$
+(
+3,749
+)
+Accounts payable and accrued liabilities
+$
+—
+$
+(
+12
+)
+Security deposits
+$
+—
+$
+(
+236
+)
+The accompanying notes are an integral part of these condensed consolidated financial statements.
+9
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited)
+For the Three Months Ended March 31, 2025 and 2024
+The use of the words “we,” “us” or “our” refers to American Healthcare REIT, Inc. and its subsidiaries, including American Healthcare REIT Holdings, LP, except where otherwise noted.
+1. Organization and Description of Business
+Overview and Background
+American Healthcare REIT, Inc., a Maryland corporation, is a self-managed real estate investment trust, or REIT, that acquires, owns and operates a diversified portfolio of clinical healthcare real estate properties, focusing primarily on senior housing, skilled nursing facilities, or SNFs, outpatient medical, or OM, buildings and other healthcare-related facilities. We have built a fully-integrated management platform that operates clinical healthcare properties throughout the United States, and in the United Kingdom and the Isle of Man. We own and operate our integrated senior health campuses and senior housing operating properties, or SHOP, utilizing the structure permitted by the REIT Investment Diversification and Empowerment Act of 2007, which is commonly referred to as a “RIDEA” structure. We have also originated and acquired secured loans and may acquire other real estate-related investments in the future on an infrequent and opportunistic basis. We generally seek investments that produce current income; however, we have selectively developed, and may continue to selectively develop, healthcare real estate properties. We have elected to be taxed as a REIT for U.S. federal income tax purposes. We believe that we have been organized and operated, and we intend to continue to operate, in conformity with the requirements for qualification and taxation as a REIT under the Internal Revenue Code of 1986, or the Code.
+Operating Partnership
+We conduct substantially all of our operations through American Healthcare REIT Holdings, LP, or our operating partnership, and we are the sole general partner of our operating partnership. As of March 31, 2025 and December 31, 2024
+,
+we owned
+98.8
+% and
+98.7
+%, respectively, of the operating partnership units, or OP units, in our operating partnership, and the remaining
+1.2
+% and
+1.3
+% of the OP units, respectively, were owned by the following limited partners: (i) AHI Group Holdings, LLC, which is owned and controlled by Jeffrey T. Hanson, the non-executive Chairman of our board of directors, or our board, Danny Prosky, our Chief Executive Officer, President and director, and Mathieu B. Streiff, one of our non-executive directors; and (ii) a wholly owned subsidiary of Griffin Capital Company, LLC. See Note 11, Redeemable Noncontrolling Interests, and Note 12, Equity — Noncontrolling Interests in Total Equity, for a further discussion of the ownership in our operating partnership.
+Our Real Estate Investments Portfolio
+We currently operate through
+four
+reportable business segments: integrated senior health campuses, OM, SHOP and triple-net leased properties. As of March 31, 2025, we owned and/or operated
+312
+buildings and integrated senior health campuses representing approximately
+19,031,000
+square feet of gross leasable area, or GLA, for an aggregate contract purchase price of $
+4,523,782,000
+. In addition, as of March 31, 2025, we also owned a real estate-related debt investment purchased for $
+60,429,000
+.
+2. Summary of Significant Accounting Policies
+The summary of significant accounting policies presented below is designed to assist in understanding our accompanying condensed consolidated financial statements. Such condensed consolidated financial statements and the accompanying notes thereto are the representations of our management, who are responsible for their integrity and objectivity. These accounting policies conform to accounting principles generally accepted in the United States of America, or GAAP, in all material respects, and have been consistently applied in preparing our accompanying condensed consolidated financial statements.
+Basis of Presentation
+Our accompanying condensed consolidated financial statements include our accounts and those of our operating partnership, the wholly-owned subsidiaries of our operating partnership and all non-wholly owned subsidiaries in which we have control, as well as any VIEs in which we are the primary beneficiary. The portion of equity in any subsidiary that is not wholly owned by us is presented in our accompanying condensed consolidated financial statements as a noncontrolling interest. We evaluate our ability to control an entity, and whether the entity is a VIE and we are the primary beneficiary, by considering substantive terms of the arrangement and identifying which enterprise has the power to direct the activities of the entity that most significantly impacts the entity’s economic performance.
+10
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+We operate and intend to continue to operate in an umbrella partnership REIT structure in which our operating partnership, wholly-owned subsidiaries of our operating partnership and all non-wholly owned subsidiaries of which we have control will own substantially all of the interests in properties acquired on our behalf. We are the sole general partner of our operating partnership and as of March 31, 2025 and December 31, 2024, we owned a
+98.8
+% and
+98.7
+%, respectively, general partnership interest therein, and the remaining
+1.2
+% and
+1.3
+%, respectively, partnership interest was owned by the limited partners.
+The accounts of our operating partnership are consolidated in our accompanying condensed consolidated financial statements because we are the sole general partner of our operating partnership and have unilateral control over its management and major operating decisions (even if additional limited partners are admitted to our operating partnership). All intercompany accounts and transactions are eliminated in consolidation.
+Interim Unaudited Financial Data
+Our accompanying condensed consolidated financial statements have been prepared by us in accordance with GAAP in conjunction with the rules and regulations of the U.S. Securities and Exchange Commission, or SEC. Certain information and footnote disclosures required for annual financial statements have been condensed or excluded pursuant to the SEC’s rules and regulations. Accordingly, our accompanying condensed consolidated financial statements do not include all of the information and footnotes required by GAAP for complete financial statements. Our accompanying condensed consolidated financial statements reflect all adjustments which are, in our view, of a normal recurring nature and necessary for a fair presentation of our financial position, results of operations and cash flows for the interim period. Interim results of operations are not necessarily indicative of the results to be expected for the full year; such full-year results may be less favorable.
+In preparing our accompanying condensed consolidated financial statements, management has evaluated subsequent events through the financial statement issuance date. We believe that although the disclosures contained herein are adequate to prevent the information presented from being misleading, our accompanying condensed consolidated financial statements should be read in conjunction with our audited consolidated financial statements and the notes thereto included in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025.
+Use of Estimates
+The preparation of our accompanying condensed consolidated financial statements in conformity with GAAP requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities, as well as the disclosure of contingent assets and liabilities, at the date of our condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Significant items subject to such estimates and assumptions include, but are not limited to, the initial and recurring valuation of certain assets acquired and liabilities assumed through property acquisitions including through business combinations, goodwill and its impairment, revenues, allowance for credit losses, impairment of long-lived and intangible assets and contingencies. These estimates are made and evaluated on an on-going basis using information that is currently available, as well as various other assumptions believed to be reasonable under the circumstances. Actual results could differ from those estimates, perhaps in material adverse ways, and those estimates could be different under different assumptions or conditions.
+Revenue Recognition
+—
+Resident Fees and Services Revenue
+Disaggregation of Resident Fees and Services Revenue
+The following tables disaggregate our resident fees and services revenue by line of business, according to whether such revenue is recognized at a point in time or over time, for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Integrated
+Senior Health
+Campuses
+SHOP(1)
+Total
+Integrated
+Senior Health
+Campuses
+SHOP(1)
+Total
+Over time
+$
+353,127
+$
+71,768
+$
+424,895
+$
+324,517
+$
+57,620
+$
+382,137
+Point in time
+70,237
+2,044
+72,281
+68,605
+1,376
+69,981
+Total resident fees and services
+$
+423,364
+$
+73,812
+$
+497,176
+$
+393,122
+$
+58,996
+$
+452,118
+11
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+The following tables disaggregate our resident fees and services revenue by payor class, for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Integrated
+Senior Health
+Campuses
+SHOP(1)
+Total
+Integrated
+Senior Health
+Campuses
+SHOP(1)
+Total
+Medicare
+$
+167,302
+$
+1,672
+$
+168,974
+$
+120,349
+$
+1,243
+$
+121,592
+Private and other payors
+161,962
+61,783
+223,745
+184,322
+51,176
+235,498
+Medicaid
+94,100
+10,357
+104,457
+88,451
+6,577
+95,028
+Total resident fees and services
+$
+423,364
+$
+73,812
+$
+497,176
+$
+393,122
+$
+58,996
+$
+452,118
+___________
+(1)
+Includes fees for basic housing, as well as fees for assisted living or skilled nursing care. We record revenue when services are rendered at amounts billable to individual residents. Residency agreements are generally for a term of 30 days, with resident fees billed monthly in advance. For residents under reimbursement arrangements with third-party payors, including Medicaid, Medicare, and private insurers, revenue is recorded based on contractually agreed-upon amounts or rates on a daily, per resident basis or as services are performed.
+Accounts Receivable, Net
+—
+Resident Fees and Services Revenue
+The beginning and ending balances of accounts receivable, net
+—
+resident fees and services are as follows (in thousands):
+Private
+and
+Other Payors
+Medicare
+Medicaid
+Total
+Beginning balance
+—
+January 1, 2025
+$
+69,198
+$
+57,807
+$
+39,966
+$
+166,971
+Ending balance
+—
+March 31, 2025
+68,392
+62,550
+46,583
+177,525
+(Decrease)/Increase
+$
+(
+806
+)
+$
+4,743
+$
+6,617
+$
+10,554
+Deferred Revenue
+—
+Resident Fees and Services Revenue
+Deferred revenue is included in security deposits, prepaid rent and other liabilities in our accompanying condensed consolidated balance sheets. The beginning and ending balances of deferred revenue
+—
+resident fees and services, almost all of which relates to private and other payors, are as follows (in thousands):
+Total
+Beginning balance
+—
+January 1, 2025
+$
+24,727
+Ending balance
+—
+March 31, 2025
+26,013
+Increase
+$
+1,286
+Resident and Tenant Receivables and Allowances
+Resident receivables, which are related to resident fees and services revenue, are carried net of an allowance for credit losses. An allowance is maintained for estimated losses resulting from the inability of residents and payors to meet the contractual obligations under their lease or service agreements. Substantially all of such allowances are recorded as direct reductions of resident fees and services revenue as contractual adjustments provided to third-party payors or implicit price concessions in our accompanying condensed consolidated statements of operations and comprehensive loss. Our determination of the adequacy of these allowances is based primarily upon evaluations of historical loss experience, the residents’ financial condition, security deposits, cash collection patterns by payor and by state, current economic conditions, future expectations in estimating credit losses and other relevant factors. Tenant receivables, which are related to real estate revenue, and unbilled deferred rent receivables are reduced for amounts where collectability is not probable, which are recognized as direct reductions of real estate revenue in our accompanying condensed consolidated statements of operations and comprehensive loss.
+12
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+The following is a summary of our adjustments to allowances for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Beginning balance
+$
+22,582
+$
+17,037
+Additional allowances
+9,573
+6,603
+Write-offs
+(
+2,834
+)
+(
+3,258
+)
+Recoveries collected or adjustments
+(
+2,054
+)
+(
+1,856
+)
+Ending balance
+$
+27,267
+$
+18,526
+Accounts Payable and Accrued Liabilities
+As of March 31, 2025 and December 31, 2024, accounts payable and accrued liabilities primarily include reimbursement of payroll-related costs to the managers of our SHOP and integrated senior health campuses of $
+56,364,000
+and $
+45,438,000
+, respectively, insurance reserves of $
+49,182,000
+and $
+47,578,000
+, respectively, accrued distributions of $
+40,795,000
+and $
+40,375,000
+, respectively, accrued property taxes of $
+24,371,000
+and $
+23,540,000
+, respectively, and accrued developments and capital expenditures of $
+22,447,000
+and $
+22,644,000
+, respectively.
+Recently Issued Accounting Pronouncements
+In December 2023, the Financial Accounting Standard Board, or FASB, issued Accounting Standard Update, or ASU, 2023-09,
+Income Taxes (Topic 740): Improvements to Income Tax Disclosures,
+or ASU 2023-09, which includes amendments that further enhance income tax disclosures, primarily through standardization and disaggregation of rate reconciliation categories and income taxes paid by jurisdiction. ASU 2023-09 is effective for annual periods beginning after December 15, 2024. Early adoption is permitted and should be applied prospectively; however, retrospective application is permitted. We expect to include additional tax disclosures in the notes to our annual financial statements upon our adoption of ASU 2023-09 beginning with our 2025 Annual Report on Form 10-K, and no other changes to our existing disclosures or consolidated financial statements are expected to result from the adoption of such standard.
+In November 2024, the FASB issued ASU 2024-03,
+Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures (Subtopic 220-40): Disaggregation of Income Statement Expenses,
+or ASU 2024-03. Further, in January 2025, the FASB issued ASU 2025-01,
+Income Statement — Reporting Comprehensive Income — Expense Disaggregation Disclosures (Subtopic 220-40): Clarifying the Effective Date
+, or ASU 2025-01. ASU 2024-03 requires new financial statement disclosure to be provided in the notes to the financial statements in a tabular presentation related to the disaggregation of certain expense captions presented on the face of the income statement within continuing operations that include expense categories such as: (i) purchases of inventory; (ii) employee compensation; (iii) depreciation; and (iv) intangible asset amortization. ASU 2024-03 and ASU 2025-01 are effective for annual reporting periods beginning after December 15, 2026, and interim periods within annual reporting periods beginning after December 15, 2027. Early adoption is permitted and may be applied retrospectively or prospectively. We are currently evaluating this guidance to determine the impact on our consolidated financial statement disclosures beginning with our 2027 Annual Report on Form 10-K.
+3. Real Estate Investments, Net
+Our real estate investments, net consisted of the following as of March 31, 2025 and December 31, 2024 (in thousands):
+March 31,
+2025
+December 31,
+2024
+Building, improvements and construction in process
+$
+3,615,941
+$
+3,619,555
+Land and improvements
+350,930
+353,317
+Furniture, fixtures and equipment
+269,169
+262,742
+4,236,040
+4,235,614
+Less: accumulated depreciation
+(
+899,032
+)
+(
+868,966
+)
+Total
+$
+3,337,008
+$
+3,366,648
+Depreciation expense for the three months ended March 31, 2025 and 2024 was $
+36,577,000
+and $
+37,135,000
+, respectively.
+13
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+The following is a summary of our capital expenditures by reportable segment for the period presented below (in thousands):
+Three Months Ended
+March 31, 2025
+Integrated senior health campuses
+$
+15,210
+SHOP
+2,935
+OM
+2,695
+Total
+$
+20,840
+Included in the capital expenditure amounts above are costs for the development and expansion of our integrated senior health campuses. For the three months ended March 31, 2025, we did not place in service any developments or expansions.
+Acquisitions of Real Estate Investments
+For the three months ended March 31, 2025, we acquired
+nine
+land parcels in Indiana for an aggregate contract purchase price of $
+250,000
+, plus closing costs, for the future development of integrated senior health campuses. For the three months ended March 31, 2025, using cash and debt financing, we also acquired
+one
+previously leased real estate investment located in Indiana.
+The following is a summary of such acquisition, which is included in our integrated senior health campuses segment (in thousands):
+Location
+Date
+Acquired
+Contract
+Purchase
+Price
+Line of
+Credit
+Evansville, IN
+02/26/25
+$
+16,087
+$
+8,000
+We accounted for such acquisitions of land and real estate investment completed during the three months ended March 31, 2025 as asset acquisitions.
+The following table summarizes the purchase price of such assets acquired at the time of acquisition based on their relative fair values and adjusted for $
+6,374,000
+operating lease right-of-use assets and $
+7,445,000
+operating lease liabilities (in thousands):
+2025
+Acquisitions
+Building and improvements
+$
+13,697
+Land
+2,534
+Total assets acquired
+$
+16,231
+Dispositions of Real Estate Investments
+For the three months ended March 31, 2025, we disposed of
+one
+SHOP and
+one
+integrated senior health campus. We recognized a total aggregate loss on such dispositions of $
+343,000
+.
+The following is a summary of such dispositions (dollars in thousands):
+Location
+Number of
+Buildings
+Type
+Date
+Disposed
+Contract
+Sales Price
+Lansing, MI
+1
+SHOP
+02/11/25
+$
+3,250
+Greenville, OH
+1
+Integrated Senior Health Campus
+03/01/25
+6,700
+Total
+2
+$
+9,950
+14
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Impairment of Real Estate Investment
+As we continue to evaluate our properties based on their historical operating performance and our expected holding period, for the three months ended March 31, 2025, we recognized an impairment charge of $
+21,706,000
+for
+one
+OM building. The fair value of such OM was determined by the sales price from an executed purchase and sale agreement with a third-party buyer, which was considered a Level 2 measurement within the fair value hierarchy. For three months ended March 31, 2024, we did
+not
+recognize any impairment of real estate investments.
+Business Combination
+On February 1, 2024, we acquired a portfolio of
+14
+senior housing properties in Oregon from an unaffiliated third party, which properties are included in our SHOP segment. These properties are part of the underlying collateral pool of real estate assets securing our debt security investment, as defined and described in Note 4. We acquired such properties by assuming the outstanding principal balance of each related mortgage loan payable from one of the borrowers since such borrower was in default. The aggregated principal balance of such assumed mortgage loans payable was $
+94,461,000
+at the time of acquisition. No cash consideration was exchanged as part of the transaction; however, we incurred transaction costs of $
+2,636,000
+related to the acquisition of such properties. See Note 4, Debt Security Investment, Net, for a further discussion. Based on quantitative and qualitative considerations, such business combination was not material to us and therefore, pro forma financial information was not provided.
+We did not complete any real estate acquisitions accounted for as business combinations for the three months ended March 31, 2025.
+The table below summarizes the acquisition date fair values of the assets acquired and liabilities assumed of our business combination during the three months ended March 31, 2024 (in thousands):
+2024
+Acquisition
+Building and improvements
+$
+64,350
+Land
+14,210
+In-place leases
+12,912
+Accounts receivable
+343
+Other assets
+9
+Total assets acquired
+91,824
+Mortgage loans payable (including debt discount of $
+2,989
+)
+(
+91,472
+)
+Accounts payable and accrued liabilities
+(
+352
+)
+Total liabilities assumed
+(
+91,824
+)
+Net assets acquired
+$
+—
+4. Debt Security Investment, Net
+Our investment in a commercial mortgage-backed debt security, or debt security, bears an interest rate on the stated principal amount thereof equal to
+4.24
+% per annum, the terms of which security provide for monthly interest-only payments.  The debt security was issued by an unaffiliated mortgage trust and represented an approximate
+10.0
+% beneficial ownership interest in such mortgage trust. The debt security is subordinate to all other interests in the mortgage trust and is not guaranteed by a government-sponsored entity. The debt security was originally due to mature on August 25, 2025 at an aggregate stated amount of $
+93,433,000
+.
+On each of February 1, 2024 and September 3, 2024, we acquired a portfolio of
+14
+senior housing properties in Oregon and
+five
+senior housing properties in Washington, respectively, from unaffiliated third parties, which are included in the underlying collateral pool of real estate assets securing our debt security investment. We acquired such properties by assuming the outstanding principal balance of each related mortgage loan payable from one of the borrowers since such borrower was in default.  Further, we extended the maturity dates of the related mortgage loans payable from August 25, 2025 to January 1, 2028, thereby extending the maturity date of our debt security investment.
+15
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+As of March 31, 2025 and December 31, 2024, the carrying amount of the debt security investment was $
+91,698,000
+and $
+91,264,000
+, respectively, net of unamortized closing costs of $
+128,000
+and $
+165,000
+, respectively. Accretion on the debt security for the three months ended March 31, 2025 and 2024 was $
+471,000
+and $
+1,125,000
+, respectively, which is recorded as an increase to real estate revenue in our accompanying condensed consolidated statements of operations and comprehensive loss. Amortization expense of closing costs for the three months ended March 31, 2025 and 2024 was $
+37,000
+and $
+76,000
+, respectively, which is recorded as a decrease to real estate revenue in our accompanying condensed consolidated statements of operations and comprehensive loss. We evaluated credit quality indicators such as the agency ratings and the underlying collateral of such investment in order to determine expected future credit loss. We did not record a credit loss for either the three months ended March 31, 2025 or 2024.
+5. Identified Intangible Assets and Liabilities
+Identified intangible assets, net and identified intangible liabilities, net consisted of the following as of March 31, 2025 and December 31, 2024 (dollars in thousands):
+March 31,
+2025
+December 31,
+2024
+Amortized intangible assets:
+In-place leases, net of accumulated amortization of $
+35,636
+and $
+41,764
+as of March 31, 2025 and December 31, 2024, respectively (with a weighted average remaining life of
+6.3
+years and
+5.9
+years as of March 31, 2025 and December 31, 2024, respectively)
+$
+25,063
+$
+28,906
+Above-market leases, net of accumulated amortization of $
+8,630
+and $
+8,309
+as of March 31, 2025 and December 31, 2024, respectively (with a weighted average remaining life of
+6.8
+years and
+6.9
+years as of March 31, 2025 and December 31, 2024, respectively)
+12,096
+12,700
+Unamortized intangible assets:
+Certificates of need
+99,000
+99,600
+Trade names
+20,267
+20,267
+Total identified intangible assets, net
+$
+156,426
+$
+161,473
+Amortized intangible liabilities:
+Below-market leases, net of accumulated amortization of $
+2,585
+and $
+2,442
+as of March 31, 2025 and December 31, 2024, respectively (with a weighted average remaining life of
+4.8
+years and
+5.0
+years as of March 31, 2025 and December 31, 2024, respectively)
+$
+2,810
+$
+3,001
+Total identified intangible liabilities, net
+$
+2,810
+$
+3,001
+Amortization expense on identified intangible assets for the three months ended March 31, 2025 and 2024 was $
+4,427,000
+and $
+5,713,000
+, respectively, which included $
+604,000
+and $
+716,000
+, respectively, of amortization recorded as a decrease to real estate revenue for above-market leases in our accompanying condensed consolidated statements of operations and comprehensive loss.
+Amortization expense on below-market leases for the three months ended March 31, 2025 and 2024 was $
+191,000
+and $
+290,000
+, respectively, which is recorded as an increase to real estate revenue in our accompanying condensed consolidated statements of operations and comprehensive loss.
+16
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+The aggregate weighted average remaining life of the identified intangible assets was
+6.5
+years and
+6.2
+years as of March 31, 2025 and December 31, 2024, respectively. The aggregate weighted average remaining life of the identified intangible liabilities was
+4.8
+years and
+5.0
+years as of March 31, 2025 and December 31, 2024, respectively.
+As of March 31, 2025, estimated amortization expense on the identified intangible assets and liabilities for the remaining nine months ending December 31, 2025 and for each of the next four years ending December 31, and thereafter was as follows (in thousands):
+Amortization Expense
+Year
+Intangible
+Assets
+Intangible
+Liabilities
+2025
+$
+7,971
+$
+(
+535
+)
+2026
+6,256
+(
+609
+)
+2027
+5,739
+(
+594
+)
+2028
+4,687
+(
+478
+)
+2029
+3,925
+(
+338
+)
+Thereafter
+8,581
+(
+256
+)
+Total
+$
+37,159
+$
+(
+2,810
+)
+6. Other Assets
+Other assets, net consisted of the following as of March 31, 2025 and December 31, 2024 (dollars in thousands):
+March 31,
+2025
+December 31,
+2024
+Deferred rent receivables
+$
+48,404
+$
+47,520
+Prepaid expenses, deposits, other assets and deferred tax assets, net
+37,510
+29,859
+Inventory — finished goods
+19,365
+19,477
+Lease commissions, net of accumulated amortization of $
+8,734
+and $
+8,270
+as of March 31, 2025 and December 31, 2024, respectively
+17,853
+17,680
+Investments in unconsolidated entities
+12,078
+13,924
+Deferred financing costs, net of accumulated amortization of $
+1,119
+and $
+9,224
+as of March 31, 2025 and December 31, 2024, respectively
+2,719
+3,760
+Lease inducement, net of accumulated amortization of $
+2,982
+and $
+2,895
+as of March 31, 2025 and December 31, 2024, respectively (with a weighted average remaining life of
+5.8
+years and
+5.9
+years as of March 31, 2025 and December 31, 2024, respectively)
+2,018
+2,105
+Derivative financial instruments
+571
+1,013
+Total
+$
+140,518
+$
+135,338
+Deferred financing costs included in other assets were related to the Trilogy Credit Facility, as defined in Note 8, as well as the senior unsecured revolving credit facility portions of the 2024 Credit Facility, as defined in Note 8, and our previous credit facility. In March 2025, in connection with the termination of the Trilogy Credit Facility, we incurred a loss on extinguishment of $
+508,000
+primarily consisting of the write-off of unamortized deferred financing costs associated with the Trilogy Credit Facility. In February 2024, in connection with the replacement of our previous credit facility with the 2024 Credit Facility, we incurred an aggregate loss on extinguishment of $
+565,000
+due to the partial write-off of unamortized deferred financing costs related to the senior unsecured revolving credit facility portion of our previous credit facility. Loss on extinguishment of debt is recorded as an increase to interest expense in our accompanying condensed consolidated statements of operations and comprehensive loss. See Note 8, Lines of Credit and Term Loan, for further discussion of our lines of credit. Amortization expense on lease inducement for both the three months ended March 31, 2025 and 2024 was $
+87,000
+, which is recorded as a decrease to real estate revenue in our accompanying condensed consolidated statements of operations and comprehensive loss.
+17
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+7. Mortgage Loans Payable, Net
+Mortgage loans payable, net consisted of the following as of March 31, 2025 and December 31, 2024 (dollars in thousands):
+March 31,
+2025
+December 31,
+2024
+Fixed-rate debt (
+89
+loans as of both March 31, 2025 and December 31, 2024, respectively)
+$
+1,023,241
+$
+1,004,724
+Less: deferred financing costs, net
+(
+10,623
+)
+(
+10,007
+)
+Add: premium
+87
+103
+Less: discount
+(
+12,216
+)
+(
+12,749
+)
+Mortgage loans payable, net
+$
+1,000,489
+$
+982,071
+Based on interest rates in effect as of both March 31, 2025 and December 31, 2024, effective interest rates on mortgage loans payable ranged from
+2.21
+% to
+5.99
+% per annum, with a weighted average effective interest rate of
+3.72
+% and
+3.67
+%, respectively. We are required by the terms of certain loan documents to meet certain reporting requirements and covenants, such as net worth ratios, fixed charge coverage ratios and leverage ratios.
+The following table reflects the changes in the carrying amount of mortgage loans payable, net for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Beginning balance
+$
+982,071
+$
+1,302,396
+Additions:
+Borrowings under mortgage loans payable
+30,000
+15,535
+Assumption of mortgage loans payable due to acquisition of real estate investments, net
+—
+91,472
+Amortization of deferred financing costs
+400
+780
+Amortization of discount/premium on mortgage loans payable, net
+517
+1,374
+Deductions:
+Scheduled principal payments on mortgage loans payable
+(
+4,880
+)
+(
+5,045
+)
+Early payoff of mortgage loans payable
+—
+(
+176,145
+)
+Payoff of a mortgage loan payable due to disposition of real estate investment
+(
+6,604
+)
+—
+Deferred financing costs
+(
+1,015
+)
+(
+1,932
+)
+Ending balance
+$
+1,000,489
+$
+1,228,435
+Amortization of deferred financing costs and amortization of discount/premium on mortgage loans payable is included in interest expense in our accompanying condensed consolidated statements of operations and comprehensive loss. For the three months ended March 31, 2025, we did
+not
+incur any loss on the extinguishment of mortgage loans payable. For the three months ended March 31, 2024, we incurred an aggregate loss on the early extinguishment of a mortgage loan payable of $
+715,000
+, which is recorded as an increase to interest expense in our accompanying condensed consolidated statements of operations and comprehensive loss. Such aggregate loss was primarily related to the early payoff of mortgage loans payable in February 2024.
+18
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+As of March 31, 2025, the principal payments due on our mortgage loans payable for the remaining nine months ending December 31, 2025 and for each of the next four years ending December 31, and thereafter were as follows (in thousands):
+Year
+Amount
+2025
+$
+28,173
+2026
+160,412
+2027
+56,937
+2028
+140,297
+2029
+17,305
+Thereafter
+620,117
+Total
+$
+1,023,241
+8. Lines of Credit and Term Loan
+2024 Credit Facility
+We, through our operating partnership, as borrower, and certain of our subsidiaries, or the subsidiary guarantors, collectively, with us, as guarantors, are party to an amended loan agreement, or the 2024 Credit Agreement, with Bank of America, N.A., or Bank of America, KeyBank National Association, or KeyBank, Citizens Bank, National Association and a syndicate of other banks, as lenders, for a credit facility with an aggregate maximum principal amount up to $
+1,150,000,000
+, or the 2024 Credit Facility. The 2024 Credit Facility consists of a senior unsecured revolving credit facility in the initial aggregate amount of $
+600,000,000
+and a senior unsecured term loan facility in the initial aggregate amount of $
+550,000,000
+. The proceeds of loans made under the 2024 Credit Facility may be used for general corporate purposes including for working capital, capital expenditures, refinancing existing indebtedness and other corporate purposes not inconsistent with obligations under the 2024 Credit Agreement. We may also obtain up to $
+25,000,000
+in the form of standby letters of credit pursuant to the 2024 Credit Facility. Unless defined herein, all capitalized terms under this “2024 Credit Facility” subsection are defined in the 2024 Credit Agreement.
+Under the terms of the 2024 Credit Agreement, the Revolving Loans mature on February 14, 2028, and may be extended for
+one
+12
+-month period, subject to the satisfaction of certain conditions, including payment of an extension fee. The Term Loan matures on January 19, 2027, and may
+not
+be extended. The maximum principal amount of the 2024 Credit Facility may be increased by an aggregate incremental amount of $
+600,000,000
+, subject to: (i) the terms of the 2024 Credit Agreement and (ii) at least
+five
+business days’ prior written notice to Bank of America.
+At our option, the 2024 Credit Facility bears interest at varying rates based upon (i) Daily SOFR, plus the Applicable Rate for Daily SOFR Rate Loans or (ii) Term SOFR, plus the Applicable Rate for Term SOFR Rate Loans. If, under the terms of the 2024 Credit Agreement, there is an inability to determine the Daily SOFR or the Term SOFR, then the 2024 Credit Facility will bear interest at a rate per annum equal to the Base Rate plus the Applicable Rate for Base Rate Loans. The loans may be repaid in whole or in part without prepayment premium or penalty, subject to certain conditions.
+We are required to pay a fee on the unused portion of the lenders’ commitments under the 2024 Credit Agreement computed at (a)
+0.25
+% per annum if the actual daily Commitment Utilization Percentage for such quarter is less than or equal to
+50
+% and (b)
+0.20
+% per annum if the actual daily Commitment Utilization Percentage for such quarter is greater than
+50
+%, which fee shall be computed on the actual daily amount of the Available Commitments during the period for which payment is made and payable in arrears on a quarterly basis.
+The 2024 Credit Agreement requires us to add additional subsidiaries as guarantors in the event the value of the assets owned by the subsidiary guarantors falls below a certain threshold as set forth in the 2024 Credit Agreement. In the event of default, Bank of America has the right to terminate the commitment of each Lender to make Loans and any obligation of the L/C Issuer to make L/C Credit Extensions under the 2024 Credit Agreement and to accelerate the payment on any unpaid principal amount of all outstanding loans and all interest accrued and unpaid thereon.
+19
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+As of both March 31, 2025 and December 31, 2024, our aggregate borrowing capacity under the 2024 Credit Facility was $
+1,150,000,000
+, excluding the $
+25,000,000
+standby letters of credit described above. As of March 31, 2025 and December 31, 2024, borrowings outstanding under the 2024 Credit Facility totaled $
+643,000,000
+($
+642,567,000
+, net of deferred financing costs related to the senior unsecured term loan facility portion of the 2024 Credit Facility), and $
+689,000,000
+($
+688,502,000
+, net of deferred financing costs related to the senior unsecured term loan facility portion of the 2024 Credit Facility), respectively, and the weighted average interest rate on such borrowings outstanding was
+5.67
+% per annum.
+Trilogy Credit Facility
+We, through Trilogy RER, LLC, were party to an amended loan agreement, or the Trilogy Credit Agreement, by and among certain subsidiaries of Trilogy OpCo, LLC, Trilogy RER, LLC, and Trilogy Pro Services, LLC; KeyBank; CIT Bank, N.A.; Regions Bank; KeyBanc Capital Markets, Inc.; Regions Capital Markets; Bank of America; The Huntington National Bank; and a syndicate of other banks, as lenders named therein, with respect to a senior secured revolving credit facility that had an aggregate maximum principal amount of $
+400,000,000
+, consisting of: (i) a $
+365,000,000
+secured revolver supported by real estate assets and ancillary business cash flow and (ii) a $
+35,000,000
+accounts receivable revolving credit facility supported by eligible accounts receivable, or the Trilogy Credit Facility.
+As of December 31, 2024, our aggregate borrowing capacity under the Trilogy Credit Facility was $
+400,000,000
+and borrowings outstanding totaled $
+32,000
+with a weighted average interest rate of
+7.30
+% per annum. The Trilogy Credit Facility was originally due to mature on June 5, 2025. On March 3, 2025, we repaid all borrowings and terminated the Trilogy Credit Facility, and therefore as of March 31, 2025, we do not have any obligations under the Trilogy Credit Agreement.
+9. Derivative Financial Instruments
+We use derivative financial instruments to manage interest rate risk associated with variable-rate debt. We recorded such derivative financial instruments in our accompanying condensed consolidated balance sheets as either an asset or a liability, as applicable, measured at fair value.
+The following table lists the derivative financial instruments held by us as of March 31, 2025 and December 31, 2024, which were included in other assets and other liabilities in our accompanying condensed consolidated balance sheets (dollars in thousands):
+Fair Value
+Instrument
+Notional   Amount
+Index
+Interest Rate
+Effective Date
+Maturity Date
+March 31, 2025
+December 31, 2024
+Swap
+$
+275,000
+Daily SOFR
+3.74
+%
+02/01/23
+01/19/26
+$
+571
+$
+1,013
+Swap
+$
+275,000
+Daily SOFR
+4.41
+%
+08/08/23
+01/19/26
+(
+908
+)
+(
+909
+)
+Swap
+$
+350,000
+Daily SOFR
+3.51
+%
+01/20/26
+01/19/27
+(
+191
+)
+—
+Swap
+$
+200,000
+Daily SOFR
+3.52
+%
+01/20/26
+01/19/27
+(
+118
+)
+—
+$
+(
+646
+)
+$
+104
+As of both March 31, 2025 and December 31, 2024, none of our derivative financial instruments were designated as hedges. Derivative financial instruments not designated as hedges are not speculative and are used to manage our exposure to interest rate movements, but do not meet the strict hedge accounting requirements. For the three months ended March 31, 2025 and 2024, we recorded a net (loss) gain in the fair value of derivative financial instruments of $(
+750,000
+) and $
+6,417,000
+, respectively, as an (increase) decrease to total interest expense in our accompanying condensed consolidated statements of operations and comprehensive loss related to the change in the fair value of our derivative financial instruments.
+See Note 13, Fair Value Measurements, for a further discussion of the fair value of our derivative financial instruments.
+10. Commitments and Contingencies
+Litigation
+We are not presently subject to any material litigation nor, to our knowledge, is any material litigation threatened against us, which, if determined unfavorably to us, would have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+20
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Environmental Matters
+We follow a policy of monitoring our properties for the presence of hazardous or toxic substances. While there can be no assurance that a material environmental liability does not exist at our properties, we are not currently aware of any environmental liability with respect to our properties that would have a material adverse effect on our consolidated financial position, results of operations or cash flows. Further, we are not aware of any material environmental liability or any unasserted claim or assessment with respect to an environmental liability that we believe would require additional disclosure or the recording of a loss contingency.
+Other
+Our other commitments and contingencies include the usual obligations of real estate owners and operators in the normal course of business, which include calls/puts to sell/acquire properties. In our view, these matters are not expected to have a material adverse effect on our consolidated financial position, results of operations or cash flows.
+11. Redeemable Noncontrolling Interests
+As of March 31, 2025 and December 31, 2024, we, through our direct and indirect subsidiaries, owned a
+98.8
+% and
+98.7
+%, respectively, general partnership interest in our operating partnership, and the remaining
+1.2
+% and
+1.3
+%, respectively, limited partnership interest in our operating partnership was owned by limited partners. Some of the limited partnership units outstanding had redemption features outside of our control and were accounted for as redeemable noncontrolling interests presented outside of permanent equity prior to February 9, 2024. As a result of the closing of the February 2024 Offering, as defined and described in Note 12, and listing of our Common Stock, as defined and described in Note 12, on the New York Stock Exchange, or NYSE, such redemption features are no longer outside of our control, and we reclassified the carrying amount of such interests as of such date to noncontrolling interests in total equity in our accompanying condensed consolidated balance sheet. See Note 12, Equity, for a further discussion.
+As of March 31, 2025 and December 31, 2024, we own, through our operating partnership, approximately
+98.0
+% of the joint ventures with an affiliate of Meridian Senior Living, LLC, or Meridian, that own Pinnacle Beaumont ALF and Pinnacle Warrenton ALF. The noncontrolling interests held by Meridian have redemption features outside of our control and are accounted for as redeemable noncontrolling interests in our accompanying condensed consolidated balance sheets.
+We record the carrying amount of redeemable noncontrolling interests at the greater of: (i) the initial carrying amount, increased or decreased for the noncontrolling interests’ share of net income or loss and distributions or (ii) the redemption value.
+The changes in the carrying amount of redeemable noncontrolling interests consisted of the following for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Beginning balance
+$
+220
+$
+33,843
+Reclassification from equity
+—
+21
+Reclassification to equity
+—
+(
+15,303
+)
+Distributions
+—
+(
+3
+)
+Adjustment to redemption value
+5
+(
+6,901
+)
+Net loss attributable to redeemable noncontrolling interests
+(
+5
+)
+(
+21
+)
+Ending balance
+$
+220
+$
+11,636
+21
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+12. Equity
+Preferred Stock
+Pursuant to our charter, we are authorized to issue
+200,000,000
+shares of our preferred stock, $
+0.01
+par value per share. As of both March 31, 2025 and December 31, 2024,
+no
+shares of preferred stock were issued and outstanding.
+Common Stock
+Pursuant to our charter, as amended, we are authorized to issue
+1,000,000,000
+shares of our common stock, $
+0.01
+par value per share, whereby
+200,000,000
+shares are classified as Class T common stock,
+100,000,000
+shares are classified as Class I common stock and
+700,000,000
+shares are classified as Common Stock without any designation as to class or series.
+On February 9, 2024, we closed our underwritten public offering, or the February 2024 Offering, and issued
+64,400,000
+shares of Common Stock for a total of $
+772,800,000
+in gross offering proceeds. In conjunction with the February 2024 Offering, such shares of Common Stock were listed on the NYSE, under the trading symbol “AHR” and began trading on February 7, 2024. We received $
+724,625,000
+in net offering proceeds, after deducting the underwriting discount, which was primarily used to repay $
+176,145,000
+of mortgage loans payable and $
+545,010,000
+on our lines of credit in February 2024.
+Following the closing of the February 2024 Offering and until August 5, 2024, we presented our Common Stock, Class T common stock and Class I common stock, as separate classes of common stock within our condensed consolidated balance sheets and condensed consolidated statements of equity. Any references to Common Stock in this Quarterly Report on Form 10-Q refer to our NYSE-listed shares of common stock, whereas Class T common stock and Class I common stock refer to our historical non-listed shares of common stock. This applies to all historical periods presented herein. On August 5, 2024, 180 days after the listing of our Common Stock shares on the NYSE, each share of our Class T common stock and Class I common stock automatically, and without any stockholder action, converted into
+one
+share of our listed Common Stock.
+On September 20, 2024, we closed our follow-on underwritten public offering, or the September 2024 Offering, and issued
+20,010,000
+shares of Common Stock for a total of $
+471,236,000
+in gross offering proceeds. We received $
+451,207,000
+in net offering proceeds, after deducting the underwriting discount, which was used to: (i) exercise our option to purchase our joint venture partner’s
+24.0
+% minority membership interest in Trilogy REIT Holdings LLC, or Trilogy REIT Holdings; (ii) repay $
+116,000,000
+of borrowings outstanding under the Trilogy Credit Facility; and (iii) repay $
+78,000,000
+of borrowings outstanding under the 2024 Credit Facility. See “Noncontrolling Interests in Total Equity – Membership Interest in Trilogy REIT Holdings” section below for a further discussion of the purchase of such joint venture interest.
+On November 18, 2024, we entered into a sales agreement and established an at-the-market equity offering program, or ATM Offering, pursuant to which we may offer and sell shares of Common Stock, having an aggregate gross sales price of up to $
+500,000,000
+. Shares sold through the ATM Offering may be offered and sold in amounts to be determined by us from time to time, and are sold in negotiated transactions at market prices prevailing at the time of sale in accordance with Rule 415 under the Securities Act of 1933, as amended.
+During the three months ended March 31, 2025, we issued an aggregate of
+1,577,113
+shares of Common Stock under the ATM Offering for gross proceeds of $
+47,666,000
+at an average gross price of $
+30.22
+per share. As of March 31, 2025, the remaining amount available under the ATM Offering for future sales of Common Stock was $
+332,114,000
+.
+Noncontrolling Interests in Total Equity
+Membership Interest in Trilogy REIT Holdings
+Prior to September 20, 2024, we were the indirect owner of a
+76.0
+% interest in Trilogy REIT Holdings pursuant to an amended joint venture agreement with an indirect, wholly-owned subsidiary of NorthStar Healthcare Income, Inc., or NHI. NHI indirectly owned a
+24.0
+% membership interest in Trilogy REIT Holdings, and as such, for the three months ended March 31, 2024,
+24.0
+% of the net earnings of Trilogy REIT Holdings were allocated to noncontrolling interests.
+On September 20, 2024, using the net proceeds from the September 2024 Offering, we exercised our option pursuant to a membership interest purchase agreement to purchase NHI’s
+24.0
+% minority membership interest in Trilogy REIT Holdings that was owned by NHI, for a total all-cash purchase price of $
+258,001,000
+. In connection with such purchase and as of September 20, 2024, we own
+100
+% of Trilogy REIT Holdings and indirectly own
+100
+% of Trilogy Investors, LLC.
+22
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Other Noncontrolling Interests
+As of March 31, 2025, we own a
+100
+% interest in a consolidated limited liability company that owned Lakeview IN Medical Plaza. We previously owned an
+86.0
+% interest in such company until February 6, 2024, when we purchased the remaining
+14.0
+% membership interest in such company from an unaffiliated third party for a contract purchase price of $
+441,000
+. As such, from January 1, 2024 through February 5, 2024,
+14.0
+% of the net earnings of Lakeview IN Medical Plaza were allocated to noncontrolling interests.
+As discussed in Note 1, Organization and Description of Business, as of March 31, 2025 and December 31, 2024, we, through our direct and indirect subsidiaries, owned a
+98.8
+% and
+98.7
+%, respectively, general partnership interest in our operating partnership and the remaining
+1.2
+% and
+1.3
+%, respectively, of the OP units in our operating partnership were owned by limited partners. Some of the limited partnership units outstanding had redemption features outside of our control and were accounted for as redeemable noncontrolling interests presented outside of permanent equity prior to February 9, 2024. As a result of the closing of the February 2024 Offering and the listing of our Common Stock on the NYSE, such redemption features are no longer outside of our control and we reclassified the remaining carrying amount of such redeemable noncontrolling interests as of such date to noncontrolling interests in total equity. See Note 11, Redeemable Noncontrolling Interests, for a further discussion.
+Equity Compensation Plans
+AHR Incentive Plan
+Pursuant to our Second Amended and Restated 2015 Incentive Plan, or the AHR Incentive Plan, our board (with respect to options and restricted shares of common stock granted to independent directors) or our compensation committee (with respect to any other award) may grant options, restricted shares of common stock, stock purchase rights, stock appreciation rights or other awards to our independent directors, officers, employees and consultants. The AHR Incentive Plan terminates on June 15, 2033, and the maximum number of shares of our common stock that may be issued pursuant to such plan is
+4,000,000
+shares.
+Restricted common stock
+Pursuant to the AHR Incentive Plan, through March 31, 2025, we granted an aggregate of
+1,316,561
+shares of our restricted common stock, or RSAs, as defined in the AHR Incentive Plan. RSAs were granted to our independent directors in connection with their initial election or re-election to our board or in consideration of their past services rendered, as well as to certain executive officers and key employees. RSAs generally have a vesting period between
+one
+to
+four years
+and are subject to continuous service through the vesting dates.
+Restricted stock units
+Pursuant to the AHR Incentive Plan, through March 31, 2025, we granted to our executive officers an aggregate
+465,665
+of performance-based restricted stock units, or PBUs, representing the right to receive shares of our common stock upon vesting. We also granted to our executive officers and certain employees
+590,268
+time-based restricted stock units, or TBUs, representing the right to receive shares of our common stock upon vesting. PBUs and TBUs are collectively referred to as RSUs. RSUs granted to executive officers and employees generally have a vesting period of up to
+three years
+and are subject to continuous service through the vesting dates and any performance conditions, as applicable.
+23
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+A summary of the status of our nonvested RSAs and RSUs as of March 31, 2025 and December 31, 2024, and the changes for the three months ended March 31, 2025 is presented below:
+Number of
+Nonvested
+RSAs
+Weighted
+Average
+Grant Date
+Fair Value -
+RSAs
+Number of
+Nonvested
+RSUs
+Weighted
+Average
+Grant Date
+Fair Value -
+RSUs
+Balance — December 31, 2024
+1,002,153
+$
+13.53
+650,352
+$
+21.96
+Granted
+—
+$
+—
+327,120
+$
+34.21
+Vested
+(
+244,087
+)
+(1)
+$
+13.22
+(
+104,866
+)
+(1)
+$
+20.03
+Forfeited/cancelled
+—
+$
+—
+(
+3,983
+)
+$
+37.16
+Balance — March 31, 2025
+758,066
+$
+13.62
+868,623
+$
+26.73
+___________
+(1)
+Amount includes
+63,671
+shares of common stock that were withheld to satisfy employee tax minimum withholding requirements associated with the vesting of RSAs and RSUs during the three months ended March 31, 2025.
+For the three months ended March 31, 2025 and 2024, we recognized stock compensation expense related to awards granted pursuant to the AHR Incentive Plan of $
+2,529,000
+and $
+1,914,000
+, respectively. Such expense was based on the grant date fair value for time-based awards and for performance-based awards that are probable of vesting, which fair value calculation used the most recently published estimated per share net asset value for awards granted prior to the February 2024 Offering, and the closing market price of our listed Common Stock commencing with awards granted effective as of the February 2024 Offering date. Stock compensation expense is included in general and administrative expenses in our accompanying condensed consolidated statements of operations and comprehensive loss.
+Employee Stock Purchase Plan
+In November 2024, we adopted the 2024 Employee Stock Purchase Plan, or the ESPP, pursuant to which eligible employees may purchase shares of our Common Stock at a purchase price equal to the lesser of
+85.0
+% of the fair market value of a share on the applicable enrollment date for such offering period or on the applicable exercise date. The maximum number of shares of our common stock that may be issued pursuant to the ESPP is
+1,000,000
+shares. As of March 31, 2025 and December 31, 2024,
+no
+shares were purchased or issued under the ESPP.
+13. Fair Value Measurements
+Assets and Liabilities Reported at Fair Value
+The table below presents our assets and liabilities measured at fair value on a recurring basis as of March 31, 2025, aggregated by the level in the fair value hierarchy within which those measurements fall (in thousands):
+Quoted Prices in
+Active Markets for
+Identical Assets
+and Liabilities
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Unobservable Inputs
+(Level 3)
+Total
+Assets:
+Derivative financial instrument
+$
+—
+$
+571
+$
+—
+$
+571
+Total assets at fair value
+$
+—
+$
+571
+$
+—
+$
+571
+Liabilities:
+Derivative financial instruments
+$
+—
+$
+(
+1,217
+)
+$
+—
+$
+(
+1,217
+)
+Total liabilities at fair value
+$
+—
+$
+(
+1,217
+)
+$
+—
+$
+(
+1,217
+)
+24
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+The table below presents our assets and liabilities measured at fair value on a recurring basis as of December 31, 2024, aggregated by the level in the fair value hierarchy within which those measurements fall (in thousands):
+Quoted Prices in
+Active Markets for
+Identical Assets
+and Liabilities
+(Level 1)
+Significant Other
+Observable Inputs
+(Level 2)
+Significant
+Unobservable Inputs
+(Level 3)
+Total
+Assets:
+Derivative financial instrument
+$
+—
+$
+1,013
+$
+—
+$
+1,013
+Total assets at fair value
+$
+—
+$
+1,013
+$
+—
+$
+1,013
+Liabilities:
+Derivative financial instruments
+$
+—
+$
+(
+909
+)
+$
+—
+$
+(
+909
+)
+Total liabilities at fair value
+$
+—
+$
+(
+909
+)
+$
+—
+$
+(
+909
+)
+There were no transfers into and out of fair value measurement levels during the three months ended March 31, 2025 and 2024.
+Derivative Financial Instruments
+We entered into interest rate swaps to manage interest rate risk associated with variable-rate debt. The valuation of these instruments was determined using widely accepted valuation techniques including a discounted cash flow analysis on the expected cash flows of each derivative. Such valuation reflected the contractual terms of the derivatives, including the period to maturity, and used observable market-based inputs, including interest rate curves, as well as option volatility. The fair values of our interest rate swaps were determined by netting the discounted future fixed cash payments and the discounted expected variable cash receipts. The variable cash receipts were based on an expectation of future interest rates derived from observable market interest rate curves.
+We incorporated credit valuation adjustments to appropriately reflect both our own nonperformance risk and the respective counterparty’s nonperformance risk in the fair value measurements. In adjusting the fair value of our derivative contracts for the effect of nonperformance risk, we considered the impact of netting and any applicable credit enhancements, such as collateral postings, thresholds, mutual puts and guarantees.
+Although we determined that the majority of the inputs used to value our derivative financial instruments fell within Level 2 of the fair value hierarchy, the credit valuation adjustments associated with this instrument utilized Level 3 inputs, such as estimates of current credit spreads, to evaluate the likelihood of default by us and our counterparty. However, as of March 31, 2025, we assessed the significance of the impact of the credit valuation adjustments on the overall valuation of our derivative positions and determined that the credit valuation adjustments were not significant to the overall valuation of our derivatives. As a result, we determined that our derivative valuations in their entirety were classified in Level 2 of the fair value hierarchy.
+Financial Instruments Disclosed at Fair Value
+Our accompanying condensed consolidated balance sheets include the following financial instruments: debt security investment, cash and cash equivalents, restricted cash, accounts and other receivables, accounts payable and accrued liabilities, mortgage loans payable and borrowings under our lines of credit and term loan.
+We consider the carrying values of cash and cash equivalents, restricted cash, accounts and other receivables and accounts payable and accrued liabilities to approximate the fair value for these financial instruments based upon an evaluation of the underlying characteristics and market data, in light of the short period of time between origination of the instruments and their expected realization. The fair values of such financial instruments are classified in Level 2 of the fair value hierarchy.
+25
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+The fair value of our debt security investment is estimated using a discounted cash flow analysis using interest rates available to us for investments with similar terms and maturities. The fair values of our mortgage loans payable and our lines of credit and term loan are estimated using discounted cash flow analyses using borrowing rates available to us for debt instruments with similar terms and maturities. We have determined that the valuations of our debt security investment, mortgage loans payable and lines of credit and term loan are classified in Level 2 within the fair value hierarchy.
+The carrying amounts and estimated fair values of such financial instruments as of March 31, 2025 and December 31, 2024 were as follows (in thousands):
+March 31,
+2025
+December 31,
+2024
+Carrying
+Amount(1)
+Fair
+Value
+Carrying
+Amount(1)
+Fair
+Value
+Financial Assets:
+Debt security investment
+$
+91,698
+$
+93,066
+$
+91,264
+$
+93,369
+Financial Liabilities:
+Mortgage loans payable
+$
+1,000,489
+$
+902,639
+$
+982,071
+$
+858,102
+Lines of credit and term loan
+$
+639,848
+$
+643,059
+$
+684,774
+$
+688,945
+___________
+(1)
+Carrying amount is net of any discount/premium and unamortized deferred financing costs.
+14. Income Taxes
+As a REIT, we generally will not be subject to U.S. federal income tax on taxable income that we distribute to our stockholders. We have elected to treat certain of our consolidated subsidiaries as taxable REIT subsidiaries, or TRS, pursuant to the Code. TRS may participate in services that would otherwise be considered impermissible for REITs and are subject to federal and state income tax at regular corporate tax rates.
+Current Income Tax
+Federal and state income taxes are generally a function of the level of income recognized by our TRS. Foreign income taxes are generally a function of our income on our real estate located in the United Kingdom, or UK, and Isle of Man.
+Deferred Taxes
+Deferred income tax is generally a function of the period’s temporary differences (primarily basis differences between tax and financial reporting for real estate assets and equity investments) and generation of tax net operating loss that may be realized in future periods depending on sufficient taxable income.
+We recognize the effects of an uncertain tax position on the financial statements, when it is more likely than not, based on the technical merits of the tax position, that such a position will be sustained upon examination by the relevant tax authorities. If the tax benefit meets the “more likely than not” threshold, the measurement of the tax benefit will be based on our estimate of the ultimate tax benefit to be sustained if audited by the taxing authority. As of both March 31, 2025 and December 31, 2024, we did not have any tax benefits or liabilities for uncertain tax positions that we believe should be recognized in our accompanying condensed consolidated financial statements.
+We assess the available positive and negative evidence to estimate if sufficient future taxable income will be generated to use the existing deferred tax assets. A valuation allowance is established if we believe it is more likely than not that all or a portion of the deferred tax assets are not realizable. As of both March 31, 2025 and December 31, 2024, our valuation allowance fully reserves the net deferred tax assets due to historical losses and inherent uncertainty of future income. We will continue to monitor industry and economic conditions and our ability to generate taxable income based on our business plan and available tax planning strategies, which would allow us to utilize the tax benefits of the net deferred tax assets and thereby allow us to reverse all, or a portion of, our valuation allowance in the future.
+26
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+15. Leases
+Lessor
+We have operating leases with tenants that expire at various dates through 2050. For the three months ended March 31, 2025 and 2024, we recognized $
+42,508,000
+and $
+46,008,000
+, respectively, of revenues related to operating lease payments, of which $
+9,741,000
+and $
+9,659,000
+, respectively, was for variable lease payments.
+As of March 31, 2025, the following table sets forth the undiscounted cash flows for future minimum base rents due under operating leases for the remaining nine months ending December 31, 2025 and for each of the next four years ending December 31 and thereafter for properties that we wholly own (in thousands):
+Year
+Amount
+2025
+$
+89,874
+2026
+114,302
+2027
+108,013
+2028
+95,971
+2029
+83,428
+Thereafter
+457,327
+Total
+$
+948,915
+Lessee
+We lease certain land, buildings, campus, office equipment and automobiles. We have lease agreements with lease and non-lease components, which are generally accounted for separately. Most leases include one or more options to renew, with renewal terms that generally can extend at various dates through 2107, excluding extension options. The exercise of lease renewal options is at our sole discretion. Certain leases also include options to purchase the leased property. As of March 31, 2025, we had future lease payments of $
+1,566,000
+for an operating lease that had not yet commenced. Such operating lease will commence in fiscal year 2025 with a lease term of
+five years
+.
+The depreciable life of assets and leasehold improvements are limited by the expected lease term, unless there is a transfer of title or purchase option reasonably certain of exercise. Certain of our lease agreements include rental payments that are adjusted periodically based on the United States Bureau of Labor Statistics’ Consumer Price Index and may also include other variable lease costs (i.e., common area maintenance, property taxes and insurance). Our lease agreements do not contain any material residual value guarantees or material restrictive covenants.
+The components of lease costs were as follows (in thousands):
+Three Months Ended March 31,
+Lease Cost
+Classification
+2025
+2024
+Operating lease cost(1)
+Property operating expenses, rental expenses or general and administrative expenses
+$
+8,941
+$
+10,776
+Finance lease cost:
+Amortization of leased assets
+Depreciation and amortization
+17
+561
+Interest on lease liabilities
+Interest expense
+4
+157
+Sublease income
+Resident fees and services revenue or other income
+(
+141
+)
+(
+144
+)
+Total lease cost
+$
+8,821
+$
+11,350
+___________
+(1)
+Includes short-term leases and variable lease costs, which are immaterial.
+27
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Additional information related to our leases for the periods presented below was as follows (dollars in thousands):
+Lease Term and Discount Rate
+March 31,
+2025
+December 31,
+2024
+Weighted average remaining lease term (in years):
+Operating leases
+11.2
+11.0
+Finance leases
+3.7
+3.8
+Weighted average discount rate:
+Operating leases
+5.85
+%
+5.85
+%
+Finance leases
+10.72
+%
+10.60
+%
+Three Months Ended March 31,
+Supplemental Disclosure of Cash Flows Information
+2025
+2024
+Operating cash outflows related to finance leases
+$
+4
+$
+157
+Financing cash outflows related to finance leases
+$
+14
+$
+11
+Right-of-use assets obtained in exchange for operating lease liabilities
+$
+1,281
+$
+—
+Operating Leases
+As of March 31, 2025, the following table sets forth the undiscounted cash flows of our scheduled obligations for future minimum payments for the remaining nine months ending December 31, 2025 and for each of the next four years ending December 31 and thereafter, as well as the reconciliation of those cash flows to operating lease liabilities on our accompanying condensed consolidated balance sheet (in thousands):
+Year
+Amount
+2025
+$
+22,232
+2026
+29,619
+2027
+30,555
+2028
+30,471
+2029
+28,215
+Thereafter
+93,578
+Total undiscounted operating lease payments
+234,670
+Less: interest
+81,085
+Present value of operating lease liabilities
+$
+153,585
+28
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Finance Leases and Financing Obligations
+As of March 31, 2025, the following table sets forth the undiscounted cash flows of our scheduled obligations for future minimum payments for the remaining nine months ending December 31, 2025 and for each of the next four years ending December 31 and thereafter, as well as a reconciliation of those cash flows to finance lease liabilities and financing obligations (in thousands):
+Year
+Amount
+2025
+$
+3,178
+2026
+4,167
+2027
+3,905
+2028
+3,556
+2029
+31,971
+Thereafter
+92
+Total undiscounted payments
+46,869
+Less: interest
+(
+12,270
+)
+Present value of finance lease liabilities and financing obligations
+$
+34,599
+16. Segment Reporting
+Our chief operating decision maker, or CODM, who is our Chief Executive Officer and President, evaluates our business and makes resource allocations based on
+four
+operating segments: integrated senior health campuses, OM, SHOP and triple-net leased properties. These operating segments are also our reportable segments.
+Our integrated senior health campuses each provide a range of independent living, assisted living, memory care, skilled nursing services and certain ancillary businesses that are owned and operated utilizing a RIDEA structure. Our OM buildings are typically leased to multiple tenants under separate leases, thus requiring active management and responsibility for many of the associated operating expenses (much of which are, or can effectively be, passed through to the tenants). Our SHOP segment includes senior housing, which may provide assisted living care, independent living, memory care or skilled nursing services that are owned and operated utilizing a RIDEA structure. Our triple-net leased properties segment includes senior housing, skilled nursing facilities and hospital investments, which are single-tenant properties for which we lease the properties to unaffiliated tenants under triple-net and generally master leases that transfer the obligation for all property operating costs (including maintenance, repairs, taxes, insurance and capital expenditures) to the tenant. In addition, our triple-net leased properties segment includes our debt security investment.
+Our CODM evaluates the performance of our combined properties in each reportable segment and determines how to allocate resources to those segments, primarily based on net operating income, or NOI, for each segment. NOI excludes certain items that are not associated with the operations of our properties. Our CODM also primarily uses NOI for each segment in the annual budget and forecasting process. Further, our CODM considers budget-to-actual variances in NOI on a quarterly basis when making decisions about the allocation of operating and capital resources to each segment. We define segment NOI as total revenues, less property operating expenses and rental expenses, which excludes depreciation and amortization, general and administrative expenses, business acquisition expenses, interest expense, gain or loss in fair value of derivative financial instruments, gain or loss on dispositions of real estate investments, impairment of real estate investments, impairment of intangible assets and goodwill, income or loss from unconsolidated entities, gain on re-measurement of previously held equity interests, foreign currency gain or loss, other income or expense and income tax benefit or expense for each segment. We believe that segment NOI serves as an appropriate supplemental performance measure to net income (loss) because it allows investors and our management to measure unlevered property-level operating results and to compare our operating results to the operating results of other real estate companies and between periods on a consistent basis. We also believe that NOI is a widely accepted measure of comparative operating performance in the real estate community. However, our use of the term NOI may not be comparable to that of other real estate companies as they may have different methodologies for computing this performance measure.
+Interest expense, depreciation and amortization and other expenses not attributable to individual properties are not allocated to individual segments for purposes of assessing segment performance. Non-segment assets primarily consist of corporate assets, including cash and cash equivalents, deferred financing costs, operating lease right-of-use asset and other assets not attributable to individual properties.
+29
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Summary information for our reportable segments, including a summary of segment operating expenses, during the three months ended March 31, 2025 and 2024 was as follows (in thousands):
+Integrated
+Senior Health
+Campuses
+SHOP
+OM
+Triple-Net
+Leased
+Properties
+Three Months Ended
+March 31, 2025
+Revenues:
+Resident fees and services
+$
+423,364
+$
+73,812
+$
+—
+$
+—
+$
+497,176
+Real estate revenue
+—
+—
+33,194
+10,233
+43,427
+Total revenues
+423,364
+73,812
+33,194
+10,233
+540,603
+Less(1):
+Compensation expense
+215,830
+36,955
+—
+—
+Controllable expenses(2)
+135,218
+21,133
+—
+—
+Non-controllable expenses(3)
+12,100
+3,688
+—
+—
+Facility rental expense(4)
+7,499
+—
+—
+—
+Other segment items(5)
+—
+—
+12,685
+958
+Segment net operating income
+$
+52,717
+$
+12,036
+$
+20,509
+$
+9,275
+$
+94,537
+General and administrative
+$
+13,155
+Business acquisition expenses
+1,837
+Depreciation and amortization
+41,114
+Interest expense:
+Interest expense
+(
+22,945
+)
+Loss in fair value of derivative financial instruments
+(
+750
+)
+Loss on dispositions of real estate investments
+(
+359
+)
+Impairment of real estate investment
+(
+21,706
+)
+Loss from unconsolidated entities
+(
+1,848
+)
+Foreign currency gain
+1,416
+Other income, net
+1,525
+Loss before income taxes
+(
+6,236
+)
+Income tax expense
+(
+604
+)
+Net loss
+$
+(
+6,840
+)
+30
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Integrated
+Senior Health
+Campuses
+SHOP
+OM
+Triple-Net
+Leased
+Properties
+Three Months Ended
+March 31, 2024
+Revenues:
+Resident fees and services
+$
+393,122
+$
+58,996
+$
+—
+$
+—
+$
+452,118
+Real estate revenue
+—
+—
+34,067
+13,348
+47,415
+Total revenues
+393,122
+58,996
+34,067
+13,348
+499,533
+Less(1):
+Compensation expense
+207,194
+31,331
+—
+—
+Controllable expenses(2)
+126,013
+17,276
+—
+—
+Non-controllable expenses(3)
+9,095
+3,880
+—
+—
+Facility rental expense(4)
+8,840
+—
+—
+—
+Other segment items(5)
+—
+—
+13,089
+638
+Segment net operating income
+$
+41,980
+$
+6,509
+$
+20,978
+$
+12,710
+$
+82,177
+General and administrative
+$
+11,828
+Business acquisition expenses
+2,782
+Depreciation and amortization
+42,767
+Interest expense:
+Interest expense
+(
+36,438
+)
+Gain in fair value of derivative financial instruments
+6,417
+Gain on dispositions of real estate investments, net
+2,263
+Loss from unconsolidated entities
+(
+1,205
+)
+Foreign currency loss
+(
+426
+)
+Other income, net
+1,863
+Loss before income taxes
+(
+2,726
+)
+Income tax expense
+(
+278
+)
+Net loss
+$
+(
+3,004
+)
+___________
+(1)
+The significant expense categories and amounts below align with the segment-level information that is regularly provided to our CODM.
+(2)
+Controllable expenses include utilities, food, repairs and maintenance, and other operating expenses.
+(3)
+Non-controllable expenses include property taxes and insurance.
+(4)
+Facility rental expense relates to properties operated, but not owned.
+(5)
+Other segment items for the following reportable segments primarily includes:
+•
+OM
+—
+property taxes, insurance, utilities, management fees and certain overhead expenses.
+•
+Triple-Net Leased Properties
+—
+property taxes and insurance.
+31
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Total assets by reportable segment as of March 31, 2025 and December 31, 2024 were as follows (in thousands):
+March 31,
+2025
+December 31,
+2024
+Integrated senior health campuses
+$
+2,214,378
+$
+2,202,582
+OM
+1,110,996
+1,140,785
+SHOP
+714,255
+729,466
+Triple-net leased properties
+400,966
+401,782
+Other
+23,456
+13,442
+Total assets
+$
+4,464,051
+$
+4,488,057
+As of both March 31, 2025 and December 31, 2024, goodwill of $
+168,177,000
+, $
+47,812,000
+and $
+18,953,000
+was allocated to our integrated senior health campuses, OM and triple-net leased properties segments, respectively.
+Our portfolio of properties and other investments are located in the United States, the UK and Isle of Man. Revenues and assets are attributed to the country in which the property is physically located.
+The following is a summary of geographic information for our operations for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Revenues:
+United States
+$
+539,049
+$
+497,646
+International
+1,554
+1,887
+Total
+$
+540,603
+$
+499,533
+The following is a summary of real estate investments, net by geographic regions as of March 31, 2025 and December 31, 2024 (in thousands):
+March 31,
+2025
+December 31,
+2024
+Real estate investments, net:
+United States
+$
+3,294,401
+$
+3,324,982
+International
+42,607
+41,666
+Total
+$
+3,337,008
+$
+3,366,648
+17. Concentration of Credit Risk
+Financial instruments that potentially subject us to a concentration of credit risk are primarily our debt security investment, cash and cash equivalents, restricted cash and accounts and other receivables. We are exposed to credit risk with respect to our debt security investment, but we believe collection of the outstanding amount is probable. Cash and cash equivalents are generally invested in investment-grade, short-term instruments with a maturity of three months or less when purchased. We have cash and cash equivalents in financial institutions that are insured by the Federal Deposit Insurance Corporation, or FDIC. As of March 31, 2025 and December 31, 2024, we had cash and cash equivalents in excess of FDIC insured limits. We believe this risk is not significant. Concentration of credit risk with respect to accounts receivable from tenants and residents is limited. We perform credit evaluations of prospective tenants and security deposits are obtained at the time of property acquisition and upon lease execution.
+32
+Table of Contents
+AMERICAN HEALTHCARE REIT, INC.
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Unaudited) — (Continued)
+Based on leases as of March 31, 2025, properties in
+three
+states in the United States accounted for
+10.0
+% or more of our total consolidated property portfolio’s annualized base rent or annualized NOI, which is based on contractual base rent from leases in effect for our non-RIDEA properties and annualized NOI for our SHOP and integrated senior health campuses as of March 31, 2025. Properties located in Indiana, Ohio and Michigan accounted for
+46.8
+%,
+13.1
+% and
+11.5
+%, respectively, of our total consolidated property portfolio’s annualized base rent or annualized NOI. Accordingly, there is a geographic concentration of risk subject to fluctuations in each state’s economy.
+Based on leases in effect as of March 31, 2025, our integrated senior health campuses, OM, SHOP and triple-net leased properties accounted for
+54.9
+%,
+24.3
+%,
+13.1
+% and
+7.7
+%, respectively, of our total consolidated property portfolio’s annualized base rent or annualized NOI. As of March 31, 2025,
+no
+ne of our tenants at our properties accounted for
+10.0
+% or more of our total consolidated property portfolio’s annualized base rent or annualized NOI.
+18. Earnings Per Share
+Basic earnings (loss) per share for all periods presented are computed by dividing net income (loss) applicable to common stock by the weighted average number of shares of our common stock outstanding during the period. Diluted earnings (loss) per share are computed based on the weighted average number of shares of our common stock and all dilutive securities, if any. TBUs, RSAs, common stock issued pursuant to the ESPP and limited OP units are participating securities and give rise to potentially dilutive shares of our common stock.
+The following participating securities were excluded from the computation of diluted earnings (loss) per share because such securities were anti-dilutive during the periods presented below:
+Three Months Ended March 31,
+2025
+2024
+Nonvested TBUs
+443,835
+395,108
+Nonvested RSAs
+758,066
+1,118,215
+OP units
+2,004,216
+3,501,976
+For the three months ended March 31, 2025 and 2024,
+424,788
+and
+309,256
+nonvested PBUs, respectively, were treated as contingently issuable shares pursuant to Accounting Standards Codification Topic 718, Compensation — Stock Compensation. Such contingently issuable shares were excluded from the computation of diluted earnings (loss) per share because they were anti-dilutive during the period.
+33
+Table of Contents
+Item 2. Management’s Discussion and Analysis of Financial Condition and Results of Operations.
+The use of the words “we,” “us” or “our” refers to American Healthcare REIT, Inc. and its subsidiaries, including American Healthcare REIT Holdings, LP, except where otherwise noted.
+The following Management’s Discussion and Analysis of Financial Condition and Results of Operations is intended to promote understanding of our results of operations and financial condition. Such discussion is provided as a supplement to, and should be read in conjunction with our accompanying condensed consolidated financial statements and notes thereto appearing elsewhere in this Quarterly Report on Form 10-Q and in our 2024 Annual Report on Form 10-K, as filed with the United States Securities and Exchange Commission, or SEC, on February 28, 2025. Such condensed consolidated financial statements and information have been prepared to reflect our financial position as of March 31, 2025 and December 31, 2024, together with our results of operations and cash flows for the three months ended March 31, 2025 and 2024. Our results of operations and financial condition, as reflected in the accompanying condensed consolidated financial statements and related notes, are subject to management’s evaluation and interpretation of business conditions, changing capital market conditions, and other factors that could affect the ongoing operations and occupancy of our tenants and residents.
+Forward-Looking Statements
+Certain statements contained in this report, other than historical facts, may be considered forward-looking statements within the meaning of Section 27A of the Securities Act, Section 21E of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and the Private Securities Litigation Reform Act of 1995 (collectively with the “Securities Act and Exchange Act, or the Acts”). We intend for all such forward-looking statements to be covered by the applicable safe harbor provisions for forward-looking statements contained in the Acts. Such forward-looking statements generally can be identified by the use of forward-looking terminology such as “may,” “will,” “can,” “expect,” “intend,” “anticipate,” “estimate,” “believe,” “continue,” “possible,” “initiatives,” “focus,” “seek,” “objective,” “goal,” “strategy,” “plan,” “potential,” “potentially,” “preparing,” “projected,” “future,” “long-term,” “once,” “should,” “could,” “would,” “might,” “uncertainty,” or other similar words. Readers are cautioned not to place undue reliance on these forward-looking statements, which speak only as of the date this report is filed with the SEC.
+Any such forward-looking statements are based on current expectations, estimates and projections about the industry and markets in which we operate, and beliefs of, and assumptions made by, our management and involve uncertainties that could significantly affect our financial results. Such statements include, but are not limited to: (i) statements about our plans, strategies, initiatives and prospects, including any future capital-raising initiatives and planned or future acquisitions or dispositions of properties and other assets; and (ii) statements about our future results of operations, capital expenditures and liquidity. Such statements are subject to known and unknown risks and uncertainties, which could cause actual results to differ materially from those projected or anticipated, including, without limitation: changes in economic conditions generally and the real estate market specifically; legislative and regulatory changes, including changes to laws governing the taxation of real estate investment trusts, or REITs, and regulations or proposed regulations governing the operations and sales of health care properties; the availability of capital; our ability to pay down, refinance, restructure or extend our indebtedness as it becomes due; our ability to maintain our qualification as a REIT for U.S. federal income tax purposes; changes in interest rates, and foreign currency risk; competition in the real estate industry; changes in accounting principles generally accepted in the United States of America, or GAAP, policies and guidelines applicable to REITs; the success of our investment strategy; cybersecurity incidents and information technology failures, including unauthorized access to our computer systems and/or our vendors’ computer systems and our third-party management companies’ computer systems and/or their vendors’ computer systems; our ability to retain our executive officers and key employees; unexpected labor costs and inflationary pressures; and those risks identified in Item 1A, Risk Factors in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025, this Quarterly Report on Form 10-Q, and any future filings we make with the SEC. These risks and uncertainties should be considered in evaluating forward-looking statements, and undue reliance should not be placed on such statements. Forward-looking statements in this Quarterly Report on Form 10-Q speak only as of the date on which such statements are made, and undue reliance should not be placed on such statements. We undertake no obligation to update any such statements that may become untrue because of subsequent events. Additional information concerning us and our business, including additional factors that could materially affect our financial results, is included herein and in our other filings with the SEC.
+34
+Table of Contents
+Overview and Background
+American Healthcare REIT, Inc., a Maryland corporation, is a self-managed REIT that acquires, owns and operates a diversified portfolio of clinical healthcare real estate properties, focusing primarily on senior housing, skilled nursing facilities, or SNFs, outpatient medical, or OM, buildings, and other healthcare-related facilities. We have built a fully-integrated management platform that operates clinical healthcare properties throughout the United States, and in the United Kingdom and the Isle of Man. We own and operate our integrated senior health campuses and senior-housing operating properties, or SHOP, utilizing the structure permitted by the REIT Investment Diversification and Empowerment Act of 2007, which is commonly referred to as a “RIDEA” structure. We have also originated and acquired secured loans and may acquire other real estate-related investments in the future on an infrequent and opportunistic basis. We generally seek investments that produce current income; however, we have selectively developed, and may continue to selectively develop, healthcare real estate properties. We have elected to be taxed as a REIT for U.S. federal income tax purposes. We believe that we have been organized and operated, and we intend to continue to operate, in conformity with the requirements for qualification and taxation as a REIT under the Internal Revenue Code of 1986, or the Code.
+Operating Partnership
+We conduct substantially all of our operations through American Healthcare REIT Holdings, LP, or our operating partnership, and we are the sole general partner of our operating partnership. As of March 31, 2025 and December 31, 2024
+,
+we owned 98.8% and 98.7%, respectively, of the operating partnership units, or OP units, in our operating partnership, and the remaining 1.2% and 1.3% of the OP units, respectively, were owned by the following limited partners: (i) AHI Group Holdings, LLC, which is owned and controlled by Jeffrey T. Hanson, the non-executive Chairman of our board of directors, or our board, Danny Prosky, our Chief Executive Officer, President and director, and Mathieu B. Streiff, one of our non-executive directors; and (ii) a wholly owned subsidiary of Griffin Capital Company, LLC. See Note 11, Redeemable Noncontrolling Interests, and Note 12, Equity — Noncontrolling Interests in Total Equity, to our accompanying condensed consolidated financial statements for a further discussion of the ownership in our operating partnership.
+Our Real Estate Investments Portfolio
+We currently operate through four reportable business segments: integrated senior health campuses, OM, SHOP and triple-net leased properties. As of March 31, 2025, we owned and/or operated 312 buildings and integrated senior health campuses, representing approximately 19,031,000 square feet of gross leasable area, or GLA, for an aggregate contract purchase price of $4,523,782,000. In addition, as of March 31, 2025, we also owned a real estate-related debt investment purchased for $60,429,000.
+Critical Accounting Estimates
+Our accompanying condensed consolidated financial statements are prepared in conformity with GAAP, which requires management to make estimates and assumptions that affect the amounts reported in our financial statements and accompanying footnotes. These estimates are made and evaluated on an ongoing basis using information that is currently available, as well as various other assumptions believed to be reasonable under the circumstances. Actual results could differ from those estimates, perhaps in material adverse ways, and those estimates could be different under different assumptions or conditions. The complete listing of our Critical Accounting Estimates was previously disclosed in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025, and there have been no material changes to our Critical Accounting Estimates as disclosed therein, except as included within Note 2, Summary of Significant Accounting Policies, to our accompanying condensed consolidated financial statements.
+Interim Unaudited Financial Data
+For a discussion of interim unaudited financial data, see Note 2, Summary of Significant Accounting Policies — Interim Unaudited Financial Data, to our accompanying condensed consolidated financial statements. Our accompanying condensed consolidated financial statements should be read in conjunction with our audited consolidated financial statements and the notes thereto included in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025.
+Acquisitions and Dispositions in 2025
+For a discussion of our acquisitions and dispositions of investments in 2025, see Note 3, Real Estate Investments, Net, to our accompanying condensed consolidated financial statements.
+35
+Table of Contents
+Factors Which May Influence Results of Operations
+Other than the effects of inflation discussed below, as well as other national economic conditions affecting real estate generally, and as otherwise disclosed in our risk factors, we are not aware of any material trends or uncertainties that may reasonably be expected to have a material impact, favorable or unfavorable, on revenues or income from the acquisition, disposition, management and operation of our properties. For a further discussion of these and other factors that could impact our future results or performance, see “Forward-Looking Statements” above and Part II, Item 1A, Risk Factors, of this Quarterly Report on Form 10-Q and those Risk Factors previously disclosed in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025.
+Inflation
+During the three months ended March 31, 2025 and 2024, inflation has affected our operations. The annual rate of inflation in the United States was 2.4% in March 2025 and 3.5% in March 2024, as measured by the Consumer Price Index. We believe inflation has impacted our operations such that we have experienced, and continue to experience, increases in the cost of labor, services, energy and supplies, and therefore continued inflationary pressures on our integrated senior health campuses and SHOP could continue to impact our profitability in future periods. To offset the impact of inflation on the cost of labor and services, we had our RIDEA managers bill higher than average annual rent and care fee increases for existing residents in 2024 and 2025, as compared to prior years, while adjusting market rates as frequently as needed based on competitor pricing and market conditions. We believe this practice will improve operating performance in our integrated senior health campuses and SHOP, as well as increase rent coverage and the stability of our real estate revenue in our triple-net leased properties over time.
+For properties that are not operated under a RIDEA structure, there are provisions in the majority of our tenant leases that help us mitigate the impact of inflation. These provisions include negotiated rental increases, which historically range from 2% to 3% per year, reimbursement billings for operating expense pass-through charges and real estate tax and insurance reimbursements. However, due to the long-term nature of existing leases, among other factors, the leases may not reset frequently enough to cover inflation.
+In addition, inflation has also caused an increase in the cost of our variable-rate debt due to historically rising interest rates. See
+Item 3, Quantitative and Qualitative Disclosures About Market Risk — Interest Rate Risk, of this Quarterly Report on Form 10-Q for a further discussion.
+Scheduled Lease Expirations
+Excluding our SHOP and integrated senior health campuses, as of March 31, 2025, our properties were 89.9% leased, and, during the remainder of 2025, 10.0% of the leased GLA is scheduled to expire. Our leasing strategy focuses on negotiating renewals for leases scheduled to expire during the next 12 months. In the future, if we are unable to negotiate renewals, we will try to identify new tenants or collaborate with existing tenants who are seeking additional space to occupy. As of March 31, 2025, our remaining weighted average lease term was 6.7 years, excluding our SHOP and integrated senior health campuses.
+Our combined SHOP and integrated senior health campuses were 87.6% leased as of March 31, 2025. Substantially all of our leases with residents at such properties are for a term of one year or less.
+Results of Operations
+Comparison of Three Months Ended March 31, 2025 and 2024
+Our operating results are primarily comprised of income derived from our portfolio of properties and expenses in connection with the acquisition and operation of such properties. Our primary sources of revenue include rent generated by our leased, non-RIDEA properties and resident fees and services revenue from our RIDEA properties. Our primary expenses include property operating expenses and rental expenses. In general, we expect such revenues and expenses related to our portfolio of RIDEA properties to increase in the future due to an overall increase in occupancies, resident fees and pricing of care services provided.
+We segregate our operations into reporting segments in order to assess the performance of our business in the same way that management reviews our performance and makes operating decisions. As of March 31, 2025, we operated through four reportable business segments: integrated senior health campuses, OM, SHOP and triple-net leased properties.
+36
+Table of Contents
+The most significant drivers behind changes in our consolidated results of operations for the three months ended March 31, 2025 compared to the corresponding period in 2024 were primarily due to: the increase in resident occupancies and billing rates; the adverse impact of inflation, which resulted in increases in the cost of labor, services, energy and supplies; and our acquisitions and dispositions of investments. Additional information behind the changes in our consolidated results of operations is discussed in more detail below. See Note 3, Real Estate Investments, Net, to our accompanying condensed consolidated financial statements for a further discussion of our acquisitions and dispositions during 2025. As of March 31, 2025 and 2024, we owned and/or operated the following types of properties (dollars in thousands):
+March 31,
+2025
+2024
+Number of
+Buildings/
+Campuses
+Aggregate
+Contract
+Purchase Price
+Leased
+% (1)
+Number of
+Buildings/
+Campuses
+Aggregate
+Contract
+Purchase Price
+Leased
+% (1)
+Integrated senior health campuses
+125
+$
+2,025,365
+88.4
+%
+126
+$
+1,967,091
+86.1
+%
+OM
+84
+1,205,145
+87.4
+%
+86
+1,239,845
+88.1
+%
+SHOP
+83
+920,107
+85.8
+%
+78
+889,928
+83.9
+%
+Triple-net leased properties
+20
+373,165
+100
+%
+28
+469,965
+100
+%
+Total/weighted average(2)
+312
+$
+4,523,782
+89.9
+%
+318
+$
+4,566,829
+91.0
+%
+___________
+(1)
+Leased percentage includes all third-party leased space at our non-RIDEA properties (including master leases), except for our SHOP and integrated senior health campuses where leased percentage represents resident occupancy of the available units/beds therein.
+(2)
+Weighted average leased percentage excludes our SHOP and integrated senior health campuses.
+Revenues
+Our primary sources of revenue include resident fees and services revenue generated by our RIDEA properties and rent from our leased, non-RIDEA properties. For the three months ended March 31, 2025 and 2024, resident fees and services revenue primarily consisted of rental fees related to resident leases, extended health care fees and other ancillary services, and real estate revenue primarily consisted of base rent and expense recoveries. The amount of revenues generated by our RIDEA properties depends principally on our ability to maintain resident occupancy rates. The amount of revenues generated by our non-RIDEA properties is dependent on our ability to maintain tenant occupancy rates of currently leased space and to lease available space at the then existing rental rates. Revenues by reportable segment consisted of the following for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Resident Fees and Services Revenue
+Integrated senior health campuses
+$
+423,364
+$
+393,122
+SHOP
+73,812
+58,996
+Total resident fees and services revenue
+497,176
+452,118
+Real Estate Revenue
+OM
+33,194
+34,067
+Triple-net leased properties
+10,233
+13,348
+Total real estate revenue
+43,427
+47,415
+Total revenues
+$
+540,603
+$
+499,533
+Resident Fees and Services Revenue
+For our integrated senior health campuses segment, we increased resident fees and services revenue by $30,242,000 for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, primarily due to increased resident occupancy and higher resident fees as a result of an increase in billing rates and levels of service.
+For our SHOP segment, resident fees and services revenue increased $14,816,000 for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, primarily due to: (i) an increase of $4,771,000 due to the acquisition of five senior housing properties in Washington in September 2024; (ii) an increase of $4,348,000 due to the acquisition of 14 senior housing properties in Oregon in February 2024; and (iii) an increase of $1,043,000 due to the acquisition of one senior housing property in Georgia in October 2024. The remaining increase in resident fees and services
+37
+Table of Contents
+revenue for our SHOP segment was primarily attributable to increased resident occupancy and higher resident fees as a result of an increase in billing rates.
+Real Estate Revenue
+For the three months ended March 31, 2025, real estate revenue within our triple-net leased properties segment decreased $3,115,000, as compared to the three months ended March 31, 2024, primarily due to the disposition of eight triple-net leased properties in Missouri in December 2024 and straight-line rent adjustment recognized in connection with the early extension of a tenant lease at one of our triple-net leased properties.
+Real estate revenue for our OM segment decreased $873,000 for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, primarily due to dispositions of OM buildings in 2024.
+Property Operating Expenses and Rental Expenses
+Integrated senior health campuses and SHOP typically have a higher percentage of direct operating expenses to revenue than OM buildings and triple-net leased properties due to the nature of RIDEA-type facilities where we conduct day-to-day operations. Property operating expenses and property operating expenses as a percentage of resident fees and services revenue, as well as rental expenses and rental expenses as a percentage of real estate revenue, by reportable segment consisted of the following for the periods presented below (dollars in thousands):
+Three Months Ended March 31,
+2025
+2024
+Property Operating Expenses
+Integrated senior health campuses
+$
+370,647
+87.5
+%
+$
+351,142
+89.3
+%
+SHOP
+61,776
+83.7
+%
+52,487
+89.0
+%
+Total property operating expenses
+$
+432,423
+87.0
+%
+$
+403,629
+89.3
+%
+Rental Expenses
+OM
+$
+12,685
+38.2
+%
+$
+13,089
+38.4
+%
+Triple-net leased properties
+958
+9.4
+%
+638
+4.8
+%
+Total rental expenses
+$
+13,643
+31.4
+%
+$
+13,727
+29.0
+%
+For the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, the increase in total property operating expenses for our integrated senior health campuses segment was predominately due to: (i) increased resident occupancy at the facilities within such segment; and (ii) an increase of $2,511,000 within Trilogy’s ancillary business unit due to higher labor costs associated with the expansion of services offered and inflation’s impact on labor costs and other operating expenses.
+For the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, total property operating expenses for our SHOP segment increased primarily due to: (i) an increase of $3,795,000 due to the acquisition of 14 senior housing properties in Oregon in February 2024; (ii) an increase of $3,688,000 due to the acquisition of five senior housing properties in Washington in September 2024; and (iii) an increase of $905,000 due to the acquisition of one senior housing property in Georgia in October 2024.
+Rental expenses for our OM segment decreased for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, primarily due to the dispositions of OM buildings in 2024.
+38
+Table of Contents
+Interest Expense
+Interest expense, including gain or loss in fair value of derivative financial instruments, consisted of the following for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Interest expense:
+Lines of credit and term loan and derivative financial instruments
+$
+9,650
+$
+17,210
+Mortgage loans payable
+10,550
+14,342
+Amortization of deferred financing costs:
+Lines of credit and term loan
+626
+633
+Mortgage loans payable
+400
+780
+Amortization of debt discount/premium, net
+517
+1,374
+Loss (gain) in fair value of derivative financial instruments
+750
+(6,417)
+Loss on debt extinguishments
+508
+1,280
+Interest on finance lease liabilities
+4
+157
+Interest expense on financing obligations and other liabilities
+690
+662
+Total
+$
+23,695
+$
+30,021
+The decrease in total interest expense for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, was primarily due to an $11,352,000 decrease in interest expense related to a decrease in debt balances. Such decrease in debt balances was predominately a result of the payoff of our variable-rate mortgage loans payable and paydown of our variable-rate lines of credit using net proceeds raised from equity offerings during 2024. Such decrease in total interest expense for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, was partially offset by the $7,167,000 change from gain to loss in fair value of derivative financial instruments.
+Gain or Loss on Dispositions of Real Estate Investments
+For the three months ended March 31, 2025, we recognized an aggregate loss on sale of $359,000 primarily related to the sale of one SHOP and one integrated senior health campus. For the three months ended March 31, 2024, we recognized an aggregate net gain on dispositions of our real estate investments of $2,263,000 related to the sale of two OM buildings and one SHOP. See Note 3, Real Estate Investments, Net — Dispositions of Real Estate Investments, to our accompanying condensed consolidated financial statements for a further discussion.
+Impairment of Real Estate Investments
+As we continued to evaluate our properties based on their historical operating performance and our expected holding period, for the three months ended March 31, 2025, we determined that one of our OM buildings was impaired and recognized an impairment charge of $21,706,000. See Note 3, Real Estate Investments, Net — Impairment of Real Estate Investments, to our accompanying condensed consolidated financial statements for a further discussion. For the three months ended March 31, 2024, we did not recognize impairment charges on real estate investments.
+Liquidity and Capital Resources
+Our principal sources of liquidity are cash flows from operations, net proceeds from the issuances of equity securities, including through our ATM Offering (as defined and described at Note 12, Equity – Common Stock, to our accompanying condensed consolidated financial statements), borrowings under our line of credit and proceeds from the disposition of real estate investments. For the next 12 months, our principal liquidity needs are to: (i) fund property operating expenses and general and administrative expenses; (ii) meet our debt service requirements (including principal and interest); (iii) fund the acquisition of real estate investments, development activities and capital expenditures; and (iv) make distributions to our stockholders, as required for us to continue to qualify as a REIT. We believe that the sources of liquidity described above will be sufficient to satisfy our cash requirements for the next 12 months and thereafter. We do not have any material off-balance sheet arrangements that we expect would materially affect our liquidity and capital resources.
+39
+Table of Contents
+Material Cash Requirements
+Capital Improvement Expenditures
+A capital plan for each investment is established upon acquisition that contemplates the estimated capital needs of that investment, including costs of refurbishment, tenant improvements or other major capital expenditures. The capital plan also sets forth the anticipated sources of the necessary capital, which may include operating cash generated by the investment, capital reserves, a line of credit or other loan established with respect to the investment, other borrowings or additional equity investments from us and joint venture partners. The capital plan for each investment is adjusted through ongoing, regular reviews of our portfolio or as necessary to respond to unanticipated additional capital needs. As of March 31, 2025, we had $13,654,000 of restricted cash in loan impounds and reserve accounts to fund a portion of such capital expenditures. Based on the budget for the properties we owned as of March 31, 2025, we estimate that expenditures for capital and tenant improvements as of such date are approximately $61,066,000 for the remaining nine months of 2025, although actual expenditures are predominantly discretionary and are dependent on many factors which are not presently known.
+Contractual Obligations
+The following table provides information with respect to: (i) the maturity and scheduled principal repayment of our secured mortgage loans payable and line of credit and term loan; (ii) interest payments on our mortgage loans payable and line of credit and term loan, excluding the effect of our interest rate swaps; (iii) operating lease obligations; and (iv) financing and other obligations as of March 31, 2025 (in thousands):
+Payments Due by Period
+2025
+2026-2027
+2028-2029
+Thereafter
+Total
+Principal payments — fixed-rate debt
+$
+28,173
+$
+217,349
+$
+157,602
+$
+620,117
+$
+1,023,241
+Interest payments — fixed-rate debt
+28,297
+65,826
+48,532
+321,967
+464,622
+Principal payments — variable-rate debt
+—
+550,000
+93,000
+—
+643,000
+Interest payments — variable-rate debt (based on rates in effect as of      March 31, 2025)
+27,836
+43,887
+649
+—
+72,372
+Operating lease obligations
+22,232
+60,174
+58,686
+93,578
+234,670
+Financing and other obligations
+3,178
+8,072
+35,527
+92
+46,869
+Total
+$
+109,716
+$
+945,308
+$
+393,996
+$
+1,035,754
+$
+2,484,774
+Distributions
+For information on distributions, see the “Distributions” section below.
+Credit Facility
+We are party to a credit agreement, as amended, with an aggregate maximum principal amount up to $1,150,000,000, or the 2024 Credit Facility. See Note 8, Lines of Credit and Term Loan, to our accompanying condensed consolidated financial statements for a further discussion.
+As of March 31, 2025, our borrowing capacity under the 2024 Credit Facility was $1,150,000,000. As of March 31, 2025, our borrowings outstanding under such credit facility was $643,000,000, and we had $507,000,000 available on such facility. We believe that such resource will be sufficient to satisfy our cash requirements for the next 12 months and the longer term thereafter.
+Cash Flows
+The following table sets forth changes in cash flows (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Cash, cash equivalents and restricted cash — beginning of period
+$
+123,301
+$
+90,782
+Net cash provided by (used in) operating activities
+60,616
+(5,954)
+Net cash used in investing activities
+(32,776)
+(5,223)
+Net cash (used in) provided by financing activities
+(23,776)
+44,962
+Effect of foreign currency translation on cash, cash equivalents and restricted cash
+88
+(36)
+Cash, cash equivalents and restricted cash — end of period
+$
+127,453
+$
+124,531
+40
+Table of Contents
+The following summary discussion of our changes in our cash flows is based on our accompanying condensed consolidated statements of cash flows and is not meant to be an all-inclusive discussion of the changes in our cash flows for the periods presented below.
+Operating Activities
+For the three months ended March 31, 2025 and 2024, cash flows from operating activities were primarily related to property operations, offset by payments of general and administrative expenses and interest payments on our outstanding indebtedness. In general, cash flows from operating activities are affected by the timing of cash receipts and payments, and have increased since 2024 primarily due to improved resident occupancy and expense management at our properties operated under a RIDEA structure. The change from net cash used in operating activities to net cash provided by operating activities for the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, was primarily driven by the increase in operating performance of our real estate investments in our integrated senior health campuses and SHOP segments, as well as a decrease in interest paid on our outstanding indebtedness as a result of mortgage payoffs and paydowns on our lines of credit using net proceeds from our equity offerings in 2024 and 2025. See the “Results of Operations” section above for a further discussion.
+Investing Activities
+For the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, the increase in net cash used in investing activities was primarily due to a $16,090,000 increase in cash paid to acquire real estate investments, a $4,947,000 decrease in proceeds from dispositions of real estate investments and $3,355,000 in deposits paid in pursuit of future real estate investments.
+Financing Activities
+For the three months ended March 31, 2025, as compared to the three months ended March 31, 2024, the change from net cash provided by financing activities to net cash used in financing activities was primarily due to a $725,134,000 decrease in gross equity offering proceeds and a $22,952,000 increase in distributions paid. Such amounts were partially offset by a $602,862,000 decrease in net payments on our lines of credit and mortgage loans payable primarily using the net proceeds from equity offerings, a $46,943,000 decrease in the payment of offering costs, a $5,579,000 decrease in deferred financing costs paid, as well as a $25,312,000 decrease in cash paid to redeem certain equity interests owned in Trilogy Investors, LLC.
+Distributions
+Our board shall authorize distributions, if any, on a quarterly basis, in such amounts as our board shall determine, and each quarterly record date for the purposes of such distributions shall be determined and authorized by our board in the last month of each calendar quarter until such time as our board changes our distribution policy.
+Our board has authorized a quarterly distribution equal to $0.25 per share to holders of our common stock, which we expect will continue to be paid in the future, though we cannot guarantee that our distributions will continue at the current value or at all. Such quarterly distributions were equal to an annualized distribution rate of $1.00 per share and paid in cash, only from legally available funds. The amount of the quarterly distributions paid to our common stockholders was determined by our board and was dependent on a number of factors, including funds available for payment of distributions, our financial condition, capital expenditure requirements and annual distribution requirements needed to maintain our qualification as a REIT under the Code.
+The following tables reflect distributions we paid for the three months ended March 31, 2025 and 2024, and the sources of distributions as compared to cash flows from operations or funds from operations attributable to controlling interest, or FFO, a non-GAAP financial measure (dollars in thousands):
+Three Months Ended March 31,
+2025
+2024
+Distributions paid in cash
+$
+39,548
+$
+16,596
+Sources of distributions:
+Cash flows from operations
+$
+39,548
+100
+%
+$
+—
+—
+%
+Proceeds from borrowings
+—
+—
+16,596
+100
+$
+39,548
+100
+%
+$
+16,596
+100
+%
+41
+Table of Contents
+Three Months Ended March 31,
+2025
+2024
+Distributions paid in cash
+$
+39,548
+$
+16,596
+Sources of distributions:
+NAREIT FFO attributable to controlling interest
+$
+39,548
+100
+%
+$
+16,596
+100
+%
+Proceeds from borrowings
+—
+—
+—
+—
+$
+39,548
+100
+%
+$
+16,596
+100
+%
+As of March 31, 2025, any distributions of amounts in excess of our current and accumulated earnings and profits have resulted in a return of capital to our stockholders, and some portion of a distribution to our stockholders may have been paid from borrowings. For a further discussion of FFO, including a reconciliation of our GAAP net loss to FFO, see “Funds from Operations and Normalized Funds from Operations” below.
+Mortgage Loans Payable, Net
+For a discussion of our mortgage loans payable, see Note 7, Mortgage Loans Payable, Net, to our accompanying condensed consolidated financial statements.
+Lines of Credit and Term Loan
+For a discussion of our lines of credit and term loan, see Note 8, Lines of Credit and Term Loan, to our accompanying condensed consolidated financial statements.
+REIT Requirements
+In order to maintain our qualification as a REIT for U.S. federal income tax purposes, we are required to distribute to our stockholders a minimum of 90.0% of our REIT taxable income. Existing Internal Revenue Service, or IRS, guidance includes a safe harbor pursuant to which publicly offered REITs can satisfy the distribution requirement by distributing a combination of cash and stock to stockholders. In general, to qualify under the safe harbor, each stockholder must elect to receive either cash or stock, and the aggregate cash component of the distribution to stockholders must represent at least 20.0%
+of the total distribution
+. In the event that there is a shortfall in net cash available due to factors including, without limitation, the timing of such distributions or the timing of the collection of receivables, we may seek to obtain capital to make distributions by means of unsecured and secured debt financing through one or more unaffiliated third parties. We may also make distributions with cash from capital transactions including, without limitation, the sale of one or more of our properties.
+Commitments and Contingencies
+For a discussion of our commitments and contingencies, see Note 10, Commitments and Contingencies, to our accompanying condensed consolidated financial statements.
+Debt Service Requirements
+A significant liquidity need is the payment of principal and interest on our outstanding indebtedness. As of March 31, 2025, we had $1,023,241,000 of fixed-rate mortgage loans payable outstanding secured by our properties. As of March 31, 2025, we had $643,000,000 outstanding, and $507,000,000 remained available under our line of credit. The weighted average effective interest rate on our outstanding debt, factoring in our interest rate swaps, was 4.39% per annum as of March 31, 2025. See Note 7, Mortgage Loans Payable, Net, and Note 8, Lines of Credit and Term Loan, to our accompanying condensed consolidated financial statements.
+We are required by the terms of certain loan documents to meet various financial and non-financial covenants, such as leverage ratios, net worth ratios, debt service coverage ratios and fixed charge coverage ratios. As of March 31, 2025, we were in compliance with all such covenants and requirements on our mortgage loans payable and our line of credit and term loan. If any future covenants are violated, we anticipate seeking a waiver or amending the debt covenants with the lenders when and if such event should occur. However, there can be no assurances that management will be able to effectively achieve such plans.
+42
+Table of Contents
+Funds from Operations and Normalized Funds from Operations
+Due to certain unique operating characteristics of real estate companies, the National Association of Real Estate Investment Trusts, or NAREIT, an industry trade group, has promulgated a measure known as funds from operations, a non-GAAP financial measure, which we believe to be an appropriate supplemental performance measure to reflect the operating performance of a REIT. The use of funds from operations is recommended by the REIT industry as a supplemental performance measure, and our management uses FFO to evaluate our performance over time. FFO is not equivalent to our net income (loss) as determined under GAAP.
+We define FFO, a non-GAAP financial measure, consistent with the standards established by the White Paper on funds from operations approved by the Board of Governors of NAREIT, or the White Paper. The White Paper defines funds from operations as net income (loss) computed in accordance with GAAP, excluding gains or losses from sales of certain real estate assets, gains or losses upon consolidation of a previously held equity interest, and impairment writedowns of certain real estate assets and investments, plus depreciation and amortization related to real estate, and after adjustments for unconsolidated partnerships and joint ventures. While impairment charges are excluded from the calculation of FFO as described above, investors are cautioned that impairments are based on estimated future undiscounted cash flows. Adjustments for unconsolidated partnerships and joint ventures are calculated to reflect funds from operations. Our FFO calculation complies with NAREIT’s policy described above.
+Historical accounting for real estate involves the use of GAAP. Any other method of accounting for real estate such as the fair value method cannot be construed to be any more accurate or relevant than the comparable methodologies of real estate valuation found in GAAP. Nevertheless, we believe that the use of FFO, which excludes the impact of real estate-related depreciation and amortization and impairments, provides a further understanding of our operating performance to investors, industry analysts and our management, and when compared year over year, reflects the impact on our operations from trends in occupancy rates, rental rates, operating costs, general and administrative expenses and interest costs, which may not be immediately apparent from net income (loss).
+We define normalized FFO attributable to controlling interest, or Normalized FFO, as FFO further adjusted for the following items included in the determination of GAAP net income (loss): expensed acquisition fees and costs, which we refer to as business acquisition expenses; amounts relating to changes in deferred rent and amortization of above- and below-market leases; the non-cash impact of changes to our equity instruments; non-cash or non-recurring income or expense; the non-cash effect of income tax benefits or expenses; capitalized interest; impairment of intangible assets and goodwill; amortization of closing costs on debt security investments; mark-to-market adjustments included in net income (loss); gains or losses included in net income (loss) from the extinguishment or sale of debt, hedges, foreign exchange, derivatives or securities holdings where trading of such holdings is not a fundamental attribute of the business plan; and after adjustments for consolidated and unconsolidated partnerships and joint ventures, with such adjustments calculated to reflect Normalized FFO on the same basis.
+However, FFO and Normalized FFO should not be construed to be more relevant or accurate than the current GAAP methodology in calculating net income (loss) as an indicator of our operating performance, GAAP cash flows from operations as an indicator of our liquidity or indicative of funds available to fund our cash needs, including our ability to make distributions to our stockholders. The method utilized to evaluate the value and performance of real estate under GAAP should be construed as a more relevant measure of operational performance and considered more prominently than the non-GAAP FFO and Normalized FFO measures and the adjustments to GAAP in calculating FFO and Normalized FFO. Presentation of this information is intended to provide useful information to investors, industry analysts and management as they compare the operating performance used by the REIT industry, although it should be noted that not all REITs calculate funds from operations and normalized funds from operations the same way, so comparisons with other REITs may not be meaningful. FFO and Normalized FFO should be reviewed in conjunction with other measurements as an indication of our performance. None of the SEC, NAREIT, or any other regulatory body has passed judgment on the acceptability of the adjustments that we use to calculate FFO or Normalized FFO. In the future, the SEC, NAREIT, or another regulatory body may decide to standardize the allowable adjustments across the REIT industry and we would have to adjust our calculation and characterization of FFO or Normalized FFO.
+43
+Table of Contents
+The following is a reconciliation of net income or loss, which is the most directly comparable GAAP financial measure, to FFO and Normalized FFO for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Net loss
+$
+(6,840)
+$
+(3,004)
+Depreciation and amortization related to real estate — consolidated properties
+41,015
+42,729
+Depreciation and amortization related to real estate — unconsolidated entities
+497
+186
+Impairment of real estate investment — consolidated properties
+21,706
+—
+Loss (gain) on dispositions of real estate investments, net — consolidated properties
+359
+(2,263)
+Net loss (income) attributable to noncontrolling interests
+36
+(888)
+Depreciation, amortization, impairment and net gain/loss on dispositions — noncontrolling interests
+(892)
+(5,462)
+NAREIT FFO attributable to controlling interest
+$
+55,881
+$
+31,298
+Business acquisition expenses
+$
+1,837
+$
+2,782
+Amortization of above- and below-market leases
+413
+426
+Amortization of closing costs — debt security investment
+37
+76
+Change in deferred rent
+(672)
+(589)
+Non-cash impact of changes to equity instruments
+2,551
+1,935
+Capitalized interest
+(97)
+(134)
+Loss on debt extinguishments
+508
+1,280
+Loss (gain) in fair value of derivative financial instruments
+750
+(6,417)
+Foreign currency (gain) loss
+(1,416)
+426
+Adjustments for unconsolidated entities
+—
+(110)
+Adjustments for noncontrolling interests
+(50)
+125
+Normalized FFO attributable to controlling interest
+$
+59,742
+$
+31,098
+Net Operating Income
+Net operating income, or NOI, is a non-GAAP financial measure that is defined as net income (loss), computed in accordance with GAAP, generated from properties before general and administrative expenses, business acquisition expenses, depreciation and amortization, interest expense, gain or loss in fair value of derivative financial instruments, gain or loss on dispositions of real estate investments, impairment of real estate investments, impairment of intangible assets and goodwill, income or loss from unconsolidated entities, gain on re-measurement of previously held equity interests, foreign currency gain or loss, other income or expense and income tax benefit or expense.
+NOI is not equivalent to our net income (loss) as determined under GAAP and may not be a useful measure in measuring operational income or cash flows. Furthermore, NOI should not be considered as an alternative to net income (loss) as an indication of our operating performance or as an alternative to cash flows from operations as an indication of our liquidity. NOI should not be construed to be more relevant or accurate than the current GAAP methodology in calculating net income (loss). NOI should be reviewed in conjunction with other measurements as an indication of our performance.
+We believe that NOI is an appropriate supplemental performance measure to reflect the performance of our operating assets because NOI excludes certain items that are not associated with the operations of our properties. We believe that NOI is a widely accepted measure of comparative operating performance in the real estate community and is useful to investors in understanding the profitability and operating performance of our property portfolio. However, our use of the term NOI may not be comparable to that of other real estate companies as they may have different methodologies for computing this amount.
+44
+Table of Contents
+To facilitate understanding of this financial measure, the following is a reconciliation of net income or loss, which is the most directly comparable GAAP financial measure, to NOI for the periods presented below (in thousands):
+Three Months Ended March 31,
+2025
+2024
+Net loss
+$
+(6,840)
+$
+(3,004)
+General and administrative
+13,155
+11,828
+Business acquisition expenses
+1,837
+2,782
+Depreciation and amortization
+41,114
+42,767
+Interest expense
+22,945
+36,438
+Loss (gain) in fair value of derivative financial instruments
+750
+(6,417)
+Loss (gain) on dispositions of real estate investments, net
+359
+(2,263)
+Impairment of real estate investment
+21,706
+—
+Loss from unconsolidated entities
+1,848
+1,205
+Foreign currency (gain) loss
+(1,416)
+426
+Other income, net
+(1,525)
+(1,863)
+Income tax expense
+604
+278
+Net operating income
+$
+94,537
+$
+82,177
+Item 3. Quantitative and Qualitative Disclosures About Market Risk.
+Market risk includes risks that arise from changes in interest rates, foreign currency exchange rates, commodity prices, equity prices and other market changes that affect market sensitive instruments. In pursuing our business plan, we expect that the primary market risk to which we will be exposed is interest rate risk. There were no material changes in our market risk exposures, or in the methods we use to manage market risk, from those that were provided for in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025.
+Interest Rate Risk
+We are exposed to the effects of interest rate changes primarily as a result of long-term debt used to acquire and develop properties and other investments. Our interest rate risk is monitored using a variety of techniques. Our interest rate risk management objectives are to limit the impact of interest rate increases on earnings, prepayment penalties and cash flows and to lower overall borrowing costs while taking into account variable interest rate risk. To achieve our objectives, we may borrow or lend at fixed or variable rates.
+We have entered into, and may continue to enter into, derivative financial instruments, such as interest rate swaps and interest rate caps, in order to mitigate our interest rate risk on a related financial instrument. We have not elected, and may continue to not elect, to apply hedge accounting treatment to these derivatives; therefore, changes in the fair value of interest rate derivative financial instruments were recorded as a component of interest expense in gain or loss in fair value of derivative financial instruments in our accompanying condensed consolidated statements of operations and comprehensive loss. As of March 31, 2025, our interest rate swaps are recorded in other assets and other liabilities in our accompanying condensed consolidated balance sheet at their aggregate fair value of $571,000 and $(1,217,000), respectively. We do not enter into derivative transactions for speculative purposes. For information on our interest rate swaps, see Note 9, Derivative Financial Instruments, and Note 13, Fair Value Measurements, to our accompanying condensed consolidated financial statements for a further discussion.
+45
+Table of Contents
+As of March 31, 2025, the table below presents the principal amounts and weighted average interest rates by year of expected maturity to evaluate the expected cash flows and sensitivity to interest rate changes, excluding the effect of our interest rate swaps (dollars in thousands):
+Expected Maturity Date
+2025
+2026
+2027
+2028
+2029
+Thereafter
+Total
+Fair Value
+Assets
+Debt security held-to-maturity
+$
+—
+$
+—
+$
+—
+$
+93,433
+$
+—
+$
+—
+$
+93,433
+$
+93,066
+Weighted average interest rate on maturing fixed-rate debt security
+—
+%
+—
+%
+—
+%
+4.24
+%
+—
+%
+—
+%
+4.24
+%
+—
+Liabilities
+Fixed-rate debt — principal payments
+$
+28,173
+$
+160,412
+$
+56,937
+$
+140,297
+$
+17,305
+$
+620,117
+$
+1,023,241
+$
+902,639
+Weighted average interest rate on maturing fixed-rate debt
+3.60
+%
+3.04
+%
+3.52
+%
+4.40
+%
+3.34
+%
+3.78
+%
+3.72
+%
+—
+Variable-rate debt — principal payments
+$
+—
+$
+—
+$
+550,000
+$
+93,000
+$
+—
+$
+—
+$
+643,000
+$
+643,059
+Weighted average interest rate on maturing variable-rate debt (based on rates in effect as of March 31, 2025)
+—
+%
+—
+%
+5.66
+%
+5.71
+%
+—
+%
+—
+%
+5.67
+%
+—
+Debt Security Investment, Net
+As of March 31, 2025, the net carrying value of our debt security investment was $91,698,000. As we expect to hold our debt security investment to maturity and the amounts due under such debt security investment are limited to the outstanding principal balance and any accrued and unpaid interest, we do not expect that fluctuations in interest rates, and the resulting change in fair value of our debt security investment, would have a significant impact on our operations. See Note 13, Fair Value Measurements, to our accompanying condensed consolidated financial statements for a discussion of the fair value of our investment in a held-to-maturity debt security. The effective interest rate on our debt security investment was 4.24% per annum as of March 31, 2025.
+Mortgage Loans Payable, Net and Lines of Credit and Term Loan
+Mortgage loans payable were $1,023,241,000 ($1,000,489,000, net of discount/premium and deferred financing costs) as of March 31, 2025. As of March 31, 2025, we had 89 fixed-rate mortgage loans payable with effective interest rates ranging from 2.21% to 5.99% per annum and a weighted average effective interest rate of 3.72%. In addition, as of March 31, 2025, we had $643,000,000 ($642,567,000, net of deferred financing fees) outstanding under our line of credit and term loan, at a weighted average interest rate of 5.67% per annum.
+As of March 31, 2025, the weighted average effective interest rate on our outstanding debt, factoring in our fixed-rate interest rate swaps, was 4.39% per annum. An increase in the variable interest rate on our variable-rate line of credit and term loan constitutes a market risk. As of March 31, 2025, a 0.50% increase in the market rates of interest would have increased our overall annualized interest expense on our variable-rate line of credit by $471,000, or 0.6% of total annualized interest expense on our line of credit and term loan. See Note 7, Mortgage Loans Payable, Net, and Note 8, Lines of Credit and Term Loan, to our accompanying condensed consolidated financial statements.
+Other Market Risk
+In addition to changes in interest rates and foreign currency exchange rates, the value of our future investments is subject to fluctuations based on changes in local and regional economic conditions and changes in the creditworthiness of tenants and residents, which may affect our ability to refinance our debt if necessary.
+46
+Table of Contents
+Item 4. Controls and Procedures.
+Evaluation of Disclosure Controls and Procedures
+We maintain disclosure controls and procedures that are designed to ensure that information required to be disclosed in our reports under the Exchange Act is recorded, processed, summarized and reported within the time periods specified in the rules and forms, and that such information is accumulated and communicated to us, including our Chief Executive Officer and Chief Financial Officer, as appropriate, to allow timely decisions regarding required disclosure. In designing and evaluating the disclosure controls and procedures, we recognize that any controls and procedures, no matter how well designed and operated, can provide only reasonable assurance of achieving the desired control objectives, as ours are designed to do, and we necessarily are required to apply our judgment in evaluating whether the benefits of the controls and procedures that we adopt outweigh their costs.
+As required by Rules 13a-15(b) and 15d-15(b) of the Exchange Act, an evaluation as of March 31, 2025 was conducted under the supervision and with the participation of our management, including our Chief Executive Officer and Chief Financial Officer, of the effectiveness of our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) under the Exchange Act). Based on this evaluation, our Chief Executive Officer and Chief Financial Officer concluded that our disclosure controls and procedures, as of March 31, 2025, were effective at the reasonable assurance level.
+Changes in Internal Control over Financial Reporting
+There were no changes in internal control over financial reporting (as defined in Rules 13a-15(f) and 15d-15(f) of the Exchange Act) that occurred during the fiscal quarter ended March 31, 2025 that have materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+47
+Table of Contents
+PART II — OTHER INFORMATION
+Item 1. Legal Proceedings.
+For a discussion of our legal proceedings, see Note 10, Commitments and Contingencies — Litigation, to our accompanying condensed consolidated financial statements.
+Item 1A. Risk Factors.
+There were no material changes from the risk factors previously disclosed in our 2024 Annual Report on Form 10-K, as filed with the SEC on February 28, 2025, other than as set forth below.
+The use of, or inability to use, artificial intelligence by us, our operators, our tenants and our vendors presents risks and challenges that may adversely impact our business and operating results or the business and operating results of our operators and tenants or may adversely impact the demand for properties.
+We may use generative artificial intelligence and/or machine learning, or AI, tools in our operations. If our peers use AI tools to optimize operations and we fail to utilize AI tools in a comparable manner, we may be competitively disadvantaged. However, while AI tools may facilitate optimization and operational efficiencies, they also have the potential for inaccuracy, bias, infringement or misappropriation of intellectual property, and risks related to data privacy and cybersecurity. The use of AI tools may introduce errors or inadequacies that are not easily detectable, including deficiencies, inaccuracies or biases in the data used for AI training, or in the content, analyses or recommendations generated by AI applications. The results of such errors or inadequacies may adversely affect our business, financial condition and results of operations. The legal requirements relating to AI continue to evolve and remain uncertain, including how legal developments could impact our business and ability to enforce our proprietary rights or protect against infringement of those rights.
+Cybersecurity threat actors may utilize AI tools to automate and enhance cybersecurity attacks against us. We utilize software and platforms designed to detect such cybersecurity threats, including AI-based tools, but these threats could become more sophisticated and harder to detect and counteract, which may pose significant risks to our data security and systems. Such cybersecurity attacks, if successful, could lead to data breaches, loss of confidential or sensitive information and financial or reputational harm.
+Our vendors may use AI tools in their products or services without our knowledge, and the providers of these tools may not meet the evolving regulatory or industry standards for privacy and data protection. Consequently, this may inhibit our or our vendors' ability to uphold an appropriate level of service and data privacy. If we, our vendors or other third parties with which we conduct business experience an actual or perceived breach of privacy or security incident due to the use of AI, we may be adversely impacted, lose valuable intellectual property or confidential information and incur harm to our reputation and the public perception of the effectiveness of our security measures.
+In addition, investors, analysts and other market participants may use AI tools to process, summarize or interpret our financial information or other data about us. The use of AI tools in financial and market analysis may introduce risks similar to those described above, including an inaccurate interpretation of our financial or operational performance or market trends or conditions, which in turn could result in inaccurate conclusions or investment recommendations.
+Changes in federal, state or local laws or regulations may limit our opportunities to participate in the ownership of, or investment in, healthcare real estate.
+Changes in federal, state, or local laws or regulations, including changes limiting REIT investment in the healthcare sector, reducing healthcare-related tax benefits for REITs, or requiring additional approvals for healthcare entities to transact with REITs, could have a material adverse effect on our ability to participate in the ownership of or invest in healthcare providers and healthcare real estate. Legislation potentially impacting REIT ownership and investment in the healthcare sector has recently been introduced or is under discussion at the federal and state level. Such legislation or similar laws or regulations, if enacted, could have a material adverse impact on our business.
+48
+Table of Contents
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+Purchase of Equity Securities by the Issuer and Affiliated Purchasers
+AHR Incentive Plan
+During the three months ended March 31, 2025, we acquired shares of our Common Stock in order to satisfy employee tax withholding requirements associated with the vesting of restricted stock awards issued pursuant to the AHR Incentive Plan, as follows:
+Period
+Total Number of
+Shares Purchased
+Average Price per Share (1)
+Total Number of Shares Purchased as Part of
+Publicly Announced Plans or Programs
+Maximum Number (or Approximate Dollar Value) of Shares
+that May Yet be Purchased Under the Plans or Programs
+January 1, 2025 to January 31, 2025
+432
+$
+28.42
+—
+—
+February 1, 2025 to February 28, 2025
+37,100
+29.30
+—
+—
+March 1, 2025 to March 31, 2025
+26,139
+30.22
+—
+—
+Total
+63,671
+$
+29.67
+—
+—
+___________
+(1)
+The value of the shares withheld is based on the closing price of our Common Stock on the day prior to the vesting date, or if such date is not a trading day, the immediately preceding trading day.
+Item 3. Defaults Upon Senior Securities.
+None.
+Item 4. Mine Safety Disclosures.
+Not applicable.
+Item 5. Other Information.
+During the period covered by this report, none of our directors or executive officers (as defined in Rule 16a-1(f) under the Exchange Act) has
+adopted
+or
+terminated
+a Rule 10b5-1 trading arrangement or a non-Rule 10b5-1 trading arrangement (each as defined in Item 408 of Regulation S-K).
+49
+Table of Contents
+Item 6. Exhibits.
+The following exhibits are included, or incorporated by reference, in this Quarterly Report on Form 10-Q for the period ended March 31, 2025 (and are numbered in accordance with Item 601 of Regulation S-K).
+3.1
+Fourth Articles of Amendment and Restatement of Griffin-American Healthcare REIT IV, Inc., dated October 1, 2021 (included as Exhibit 3.1 to our Current Report on Form 8-K (File No. 000-55775) filed October 1, 2021 and incorporated herein by reference)
+3.2
+Articles of Amendment (Reverse Stock Split) of American Healthcare REIT, Inc., dated November 15, 2022 (included as Exhibit 3.1 to our Current Report on Form 8-K (File No. 000-55775) filed November 16, 2022 and incorporated herein by reference)
+3.3
+Articles of Amendment (Par Value Decrease) of American Healthcare REIT, Inc., dated November 15, 2022 (included as Exhibit 3.2 to our Current Report on Form 8-K (File No. 000-55775) filed November 16, 2022 and incorporated herein by reference)
+3.4
+Articles Supplementary (Common Stock Reclassification) of American Healthcare REIT, Inc., dated January 26, 2024 (included as Exhibit 3.1 to our Current Report on Form 8-K (File No. 000-55775) filed January 30, 2024 and incorporated herein by reference)
+3.5
+Articles Supplementary (Subtitle 8 Opt-Out) of American Healthcare REIT, Inc., dated February 7, 2024 (included as Exhibit 3.1 to our Current Report on Form 8-K (File No. 001-41951) filed February 12. 2024 and incorporated herein by reference)
+3.6
+Second Amended and Restated Bylaws of American Healthcare REIT, Inc. (included as Exhibit 3.1 to our Current Report on Form 8-K (File No. 001-41951) filed February 24, 2025 and incorporated herein by reference)
+10.1*
+Seventh Amendment to the First Amended and Restated Senior Secured Credit Agreement, dated as of February 4, 2025, among Trilogy RER, LLC
+and certain subsidiaries of Trilogy RER, LLC, Trilogy Investors, LLC, Trilogy Healthcare Holdings, Inc.
+and certain subsidiaries of Trilogy Healthcare Holdings, Inc.,Trilogy OpCo, LLC, and Trilogy Pro Services, LLC, KeyBank National Association and the other lenders which are parties thereto from time to time
+10.2*
+Agreement Regarding Termination of Commitments, dated as of March 3, 2025, among Trilogy RER, LLC
+and certain subsidiaries of Trilogy RER, LLC, Trilogy Investors, LLC, Trilogy Healthcare Holdings, Inc.
+and certain subsidiaries of Trilogy Healthcare Holdings, Inc., Trilogy OpCo, LLC, and Trilogy Pro Services, LLC, KeyBank National Association and the other lenders which are parties thereto from time to time
+31.1*
+Certification of Chief Executive Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+31.2*
+Certification of Chief Financial Officer, pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+32.1**
+Certification of Chief Executive Officer, pursuant to 18 U.S.C. Section 1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002
+32.2**
+Certification of Chief Financial Officer, pursuant to 18 U.S.C. Section 1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002
+101.INS*
+Inline XBRL Instance Document – the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL Document
+101.SCH*
+Inline XBRL Taxonomy Extension Schema Document
+101.CAL*
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+101.DEF*
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+101.LAB*
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE*
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104*
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+______
+*
+Filed herewith.
+**
+Furnished herewith. In accordance with Item 601(b)(32) of Regulation S-K, this Exhibit is not deemed “filed” for purposes of Section 18 of the Exchange Act or otherwise subject to the liabilities of that section. Such certifications will not be deemed incorporated by reference into any filing under the Securities Act of 1933, as amended, or the Securities Exchange Act of 1934, as amended, except to the extent that the registrant specifically incorporates it by reference.
+50
+Table of Contents
+SIGNATURES
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+American Healthcare REIT, Inc.
+(Registrant)
+May 9, 2025
+By:
+/s/ D
+ANNY
+P
+ROSKY
+Date
+Danny Prosky
+Chief Executive Officer, President and Director
+(Principal Executive Officer)
+May 9, 2025
+By:
+/s/ B
+RIAN
+S. P
+EAY
+Date
+Brian S. Peay
+Chief Financial Officer
+(Principal Financial Officer and Principal Accounting Officer)
+51
+

@@ -1,0 +1,307 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm247849d1_8k.htm ===
+================================================================================
+
+false
+0000740260
+0000740260
+2024-03-04
+2024-03-04
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED
+STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM
+8-K
+CURRENT REPORT
+Pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of Earliest Event Reported):
+March 4, 2024
+Ventas, Inc.
+(Exact Name of Registrant as Specified in
+Its Charter)
+Delaware
+1-10989
+61-1055020
+(State or Other Jurisdiction
+of Incorporation)
+(Commission
+File Number)
+(IRS Employer
+Identification No.)
+353
+N. Clark Street
+,
+Suite
+3300
+,
+Chicago
+,
+Illinois
+60654
+(Address of Principal Executive Offices)
+(Zip Code)
+Registrant’s Telephone Number, Including
+Area Code:
+(
+877
+)
+483-6827
+Not applicable
+Former Name or Former Address, if Changed
+Since Last Report
+Check the appropriate box below if the Form 8-K filing
+is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol(s)
+Name of each exchange on which
+registered
+Common stock, $0.25 par value
+VTR
+New York Stock Exchange
+Indicate by check mark whether the registrant is an emerging
+growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of
+the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth
+company
+¨
+If an emerging
+growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with
+any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+Item 1.01 Entry into a Material Definitive
+Agreement.
+On March 4, 2024, Ventas, Inc. (“we,” “us,”
+“our,” “Company” and other similar terms) entered into a cooperation agreement (the “Cooperation Agreement”)
+with Land & Buildings Investment Management, LLC and certain of its affiliates (collectively, “Land & Buildings”).
+Pursuant to the Cooperation Agreement, the Company has appointed Theodore
+R. Bigman, Founder and Chief Investment Officer of Bigman Holdings and former Head of Global Listed Real Assets Investing at Morgan Stanley
+Investment Management and Joe V. Rodriguez, Jr., President of Burnt Mountain Investments LLC and former Chief Investment Officer
+of Invesco Real Estate to the Company’s Board of Directors (the “Board”). In addition, Mr. Bigman has been appointed
+to the Investment Committee of the Board and Mr. Rodriguez has been appointed to the Nominating, Governance and Corporate Responsibility
+Committee of the Board. The Company also agreed to nominate Mr. Bigman and Mr. Rodriguez for re-election at the Company’s
+2024 Annual Meeting of Stockholders.
+The Cooperation Agreement will remain effective until the day after
+the Company’s 2025 Annual Meeting of Stockholders.
+Pursuant to the Cooperation Agreement, Land & Buildings has
+agreed to abide by certain voting commitments and standstill restrictions. The Cooperation Agreement also contains a customary mutual
+non-disparagement provision.
+The foregoing description does not purport to be complete and is qualified
+in its entirety by reference to the Cooperation Agreement, a copy of which is attached hereto as Exhibit 10.1 and is incorporated
+by reference herein.
+Item 5.02 Departure of Directors or Certain Officers; Election of
+Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+The information set forth in Item 1.01 is incorporated herein by reference.
+On March 4, 2024, Theodore R. Bigman and Joe V. Rodriguez, Jr.
+were appointed to the Board effective immediately. The Board has affirmatively determined that each of Mr. Bigman and Mr. Rodriguez
+is “independent” under the rules of the New York Stock Exchange and the rules and regulations of the U.S. Securities
+Exchange Act of 1934, as amended. Mr. Bigman has been appointed to the Investment Committee of the Board effective immediately and
+Mr. Rodriguez has been appointed to the Nominating, Governance and Corporate Responsibility Committee of the Board effective immediately.
+Neither Mr. Bigman nor Mr. Rodriguez are a party to any transaction with the Company that would require disclosure under Item 404(a) of Regulation S-K, and there are no arrangements
+or understandings between Mr. Bigman and Mr. Rodriguez and any other persons pursuant to which he was selected as a director,
+other than with respect to the matters referred to in Item 1.01.
+Mr. Bigman and Mr. Rodriguez will participate
+in the compensation arrangements for non-employee directors, including receiving an initial award of shares of restricted stock, as described
+in the Company’s 2023 proxy statement filed with the U.S. Securities and Exchange Commission on April 5, 2023.
+Item 7.01 Regulation FD Disclosure.
+On March 4, 2024, the Company issued a press
+release announcing the Cooperation Agreement and Mr. Bigman and Mr. Rodriguez’s appointment to the Board. A copy of the
+press release is attached to this Current Report on Form 8-K as Exhibit 99.1 and incorporated herein by reference.
+The information furnished pursuant to Item 7.01
+of this Current Report on Form 8-K, including Exhibit 99.1 hereto, shall not be deemed to be “filed” for purposes
+of Section 18 of the Exchange Act, or otherwise subject to the liabilities of that Section, and shall not be deemed to be incorporated
+by reference into any filing of the Company under the Securities Act of 1933, as amended, or the Exchange Act, except as may be expressly
+set forth by specific reference in such filing.
+Item
+9.01. Financial Statements and Exhibits.
+(d)
+Exhibits
+.
+Exhibit
+Number
+Description
+10.1
+Cooperation Agreement, dated March 4, 2024
+99.1
+Press Release, dated March 4, 2024
+104
+Cover Page Interactive Data File (formatted as inline XBRL)
+SIGNATURES
+Pursuant to the requirements
+of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto
+duly authorized.
+VENTAS, INC.
+Date:
+March 4, 2024
+By:
+/s/ Carey S. Roberts
+Carey S. Roberts
+Executive Vice President, General Counsel and Ethics and Compliance Officer
+
+
+================================================================================
+=== DOCUMENT 3: EX-99.1 - tm247849d1_ex99-1.htm ===
+================================================================================
+
+Exhibit 99.1
+Ventas Appoints Theodore Bigman and Joe V. Rodriguez, Jr.
+to Board of Directors
+Enters Into Cooperation Agreement with Land &
+Buildings
+CHICAGO – MARCH 4, 2024 – Ventas, Inc. (NYSE:
+VTR) today announced that its Board of Directors has appointed Theodore Bigman and Joe V. Rodriguez, Jr. to the Board, effective
+immediately. In connection with the appointments, which align with Ventas’s ongoing focus on Board refreshment and maintaining strong
+governance, the Company has entered into a mutual cooperation agreement (the “Cooperation Agreement”) with shareholder Land &
+Buildings Investment Management LLC (“Land & Buildings”).
+Mr. Bigman brings significant investing and capital markets experience,
+and has served as a private investor and as founder and Chief Investment Officer of Bigman Holdings, his family office, since March 2021.
+Prior to that, Mr. Bigman held a number of positions at MSIM, an asset management firm and subsidiary of Morgan Stanley, from 1995
+to 2021, most recently as Head of Global Listed Real Assets Investing. In connection with his position at MSIM, Mr. Bigman served
+as a member of the Board of Trust Managers for each of American Industrial Properties REIT, a real estate investment trust, and Grove
+Property Trust, a real estate investment trust.
+Mr. Rodriguez is a seasoned real estate investor with 30 years
+of experience across capital markets, finance and portfolio management. Mr. Rodriguez was a Founding Partner and Chief Investment
+Officer at Invesco Real Estate and helped scale the firm from $1 billion to more than $90 billion in assets under management. He has served
+as a Board Advisor to Invesco Office J-REIT and AIM Select Real Estate Income Fund.
+Debra A. Cafaro, Ventas Chairman and CEO, said, “I am pleased
+to welcome Ted and Joe to the Board and look forward to working with them to drive value for shareholders. I have great respect for their
+professional accomplishments and REIT investment experience and am delighted we are adding directors of their caliber to the Board.”
+“We appreciate the constructive dialogue we have had with a cross-section
+of shareholders, as we continue to refresh Ventas’s Board to complement our existing skillset, support the Company’s execution
+of its strategy and enhance value for Ventas shareholders,” said Melody Barnes, Chair of the Board’s Nominating, Governance
+and Corporate Responsibility Committee.
+“Joe and Ted are both accomplished investors who will add important
+perspectives to the Board as it seeks to drive value for all shareholders,” said Jonathan Litt, Founder & CIO, Land &
+Buildings. “We are confident these appointments will benefit the Company as it executes its strategy, and we would like to thank
+the Board for its collaborative engagement in reaching this outcome.”
+With Mr. Bigman’s and Mr. Rodriguez’s appointments,
+the Ventas Board will temporarily expand to 13 directors, 12 of whom are independent and over 50% of whom identify as diverse by gender
+or ethnicity. The Board is expected to comprise 12 directors following the Annual Meeting. Mr. Bigman will join the Investment Committee
+of Ventas’s Board and Mr. Rodriguez will join the Nominating, Governance and Corporate Responsibility Committee, effective
+immediately.
+In connection with the Cooperation Agreement, Land & Buildings
+will vote its shares in favor of all of the Board’s director nominees at the 2024 Annual Meeting of Stockholders. Land &
+Buildings has also agreed to customary standstill, voting and other provisions. The full agreement between Ventas and Land &
+Buildings will be filed on a Form 8-K with the U.S. Securities and Exchange Commission (the “SEC”).
+In a separate release issued today, Ventas announced additional governance
+actions.
+About Ventas
+Ventas, Inc. (NYSE: VTR) is a leading S&P 500 real estate
+investment trust focused on delivering strong, sustainable shareholder returns by enabling exceptional environments that benefit a large
+and growing aging population. The Company’s growth is fueled by its senior housing communities, which provide valuable services
+to residents and enable them to thrive in supported environments. Ventas leverages its unmatched operational expertise, data-driven insights
+from its Ventas Operational Insights
+TM
+platform, extensive relationships and strong financial position to achieve its
+goal of delivering outsized performance across approximately 1,400 properties. The Ventas portfolio is composed of senior housing communities,
+outpatient medical buildings, research centers and healthcare facilities in North America and the United Kingdom. The Company benefits
+from a seasoned team of talented professionals who share a commitment to excellence, integrity and a common purpose of helping people
+live longer, healthier, happier lives.
+Forward-Looking Statements
+This communication includes forward-looking statements within the meaning
+of Section 27A of the Securities Act of 1933, as amended, and Section 21E of the Securities Exchange Act of 1934, as amended.
+These forward-looking statements include, among others, statements of expectations, beliefs, future plans and strategies, anticipated
+results from operations and developments and other matters that are not historical facts. Forward-looking statements include, among other
+things, statements regarding our and our officers’ intent, belief or expectation as identified by the use of words such as “assume,”
+“may,” “will,” “project,” “expect,” “believe,” “intend,” “anticipate,”
+“seek,” “target,” “forecast,” “plan,” “potential,” “opportunity,”
+“estimate,” “could,” “would,” “should” and other comparable and derivative terms or the
+negatives thereof.
+Forward-looking statements are based on management’s beliefs
+as well as on a number of assumptions concerning future events. You should not put undue reliance on these forward-looking statements,
+which are not a guarantee of performance and are subject to a number of uncertainties and other factors that could cause actual events
+or results to differ materially from those expressed or implied by the forward-looking statements. We do not undertake a duty to update
+these forward-looking statements, which speak only as of the date on which they are made. We urge you to carefully review the disclosures
+we make concerning risks and uncertainties that may affect our business and future financial performance, including those made below and
+in our filings with the Securities and Exchange Commission, such as in the sections titled “Cautionary Statements - Summary Risk
+Factors,” “Risk Factors” and “Management’s Discussion and Analysis of Financial Condition and Results of
+Operations” in our Annual Report on Form 10-K for the year ended December 31, 2023.
+Certain factors that could affect our future results and our ability
+to achieve our stated goals include, but are not limited to: (a) our ability to achieve the anticipated benefits and synergies from,
+and effectively integrate, our completed or anticipated acquisitions and investments of properties, including our ownership of the properties
+included in our equitized loan portfolio; (b) our exposure and the exposure of our tenants, managers and borrowers to complex healthcare
+and other regulation, including evolving laws and regulations regarding data privacy and cybersecurity and environmental matters, and
+the challenges and expense associated with complying with such regulation; (c) the potential for significant general and commercial
+claims, legal actions, regulatory proceedings or enforcement actions that could subject us or our tenants, managers or borrowers to increased
+operating costs, uninsured liabilities, fines or significant operational limitations, including the loss or suspension of or moratoriums
+on accreditations, licenses or certificates of need, suspension of or nonpayment for new admissions, denial of reimbursement, suspension,
+decertification or exclusion from federal, state or foreign healthcare programs or the closure of facilities or communities; (d) the
+impact of market and general economic conditions on us, our tenants, managers and borrowers and in areas in which our properties are geographically
+concentrated, including macroeconomic trends and financial market events, such as bank failures and other events affecting financial institutions,
+market volatility, increases in inflation, changes in or elevated interest and exchange rates, tightening of lending standards and reduced
+availability of credit or capital, geopolitical conditions, supply chain pressures, rising labor costs and historically low unemployment,
+events that affect consumer confidence, our occupancy rates and resident fee revenues, and the actual and perceived state of the real
+estate markets, labor markets and public and private capital markets; (e) our reliance and the reliance of our tenants, managers
+and borrowers on the financial, credit and capital markets and the risk that those markets may be disrupted or become constrained, including
+as a result of bank failures or concerns or rumors about such events, tightening of lending standards and reduced availability of credit
+or capital; (f) the secondary and tertiary effects of the COVID-19 pandemic on our business, financial condition and results of operations
+and the implementation and impact of regulations related to the CARES Act and other stimulus legislation, including the risk that some
+or all of the CARES Act or other COVID-19 relief payments we or our tenants, managers or borrowers received could be recouped; (g) our
+ability, and the ability of our tenants, managers and borrowers, to navigate the trends impacting our or their businesses and the industries
+in which we or they operate, and the financial condition or business prospect of our tenants, managers and borrowers; (h) the risk
+of bankruptcy, inability to obtain benefits from governmental programs, insolvency or financial deterioration of our tenants, managers,
+borrowers and other obligors which may, among other things, have an adverse impact on the ability of such parties to make payments or
+meet their other obligations to us, which could have an adverse impact on our results of operations and financial condition; (i) the
+risk that the borrowers under our loans or other investments default or that, to the extent we are able to foreclose or otherwise acquire
+the collateral securing our loans or other investments, we will be required to incur additional expense or indebtedness in connection
+therewith, that the assets will underperform expectations or that we may not be able to subsequently dispose of all or part of such assets
+on favorable terms; (j) our current and future amount of outstanding indebtedness, and our ability to access capital and to incur
+additional debt which is subject to our compliance with covenants in instruments governing our and our subsidiaries’ existing indebtedness;
+(k) the recognition of reserves, allowances, credit losses or impairment charges are inherently uncertain, may increase or decrease
+in the future and may not represent or reflect the ultimate value of, or loss that we ultimately realize with respect to, the relevant
+assets, which could have an adverse impact on our results of operations and financial condition; (l) the non-renewal of any leases
+or management agreement or defaults by tenants or managers thereunder and the risk of our inability to replace those tenants or managers
+on a timely basis or on favorable terms, if at all; (m) our ability to identify and consummate future investments in or dispositions
+of healthcare assets and effectively manage our portfolio opportunities and our investments in co-investment vehicles, joint ventures
+and minority interests, including our ability to dispose of such assets on favorable terms as a result of rights of first offer or rights
+of first refusal in favor of third parties; (n) risks related to development, redevelopment and construction projects, including
+costs associated with inflation, rising or elevated interest rates, labor conditions and supply chain pressures, and risks related to
+increased construction and development in markets in which our properties are located, including adverse effect on our future occupancy
+rates; (o) our ability to attract and retain talented employees; (p) the limitations and significant requirements imposed upon
+our business as a result of our status as a REIT and the adverse consequences (including the possible loss of our status as a REIT) that
+would result if we are not able to comply with such requirements; (q) the ownership limits contained in our certificate of incorporation
+with respect to our capital stock in order to preserve our qualification as a REIT, which may delay, defer or prevent a change of control
+of our company; (r) the risk of changes in healthcare law or regulation or in tax laws, guidance and interpretations, particularly
+as applied to REITs, that could adversely affect us or our tenants, managers or borrowers; (s) increases in our borrowing costs as
+a result of becoming more leveraged, including in connection with acquisitions or other investment activity and rising or elevated interest
+rates; (t) our reliance on third-party managers and tenants to operate or exert substantial control over properties they manage for
+or rent from us, which limits our control and influence over such operations and results; (u) our exposure to various operational
+risks, liabilities and claims from our operating assets; (v) our dependency on a limited number of tenants and managers for a significant
+portion of our revenues and operating income; (w) our exposure to particular risks due to our specific asset classes and operating
+markets, such as adverse changes affecting our specific asset classes and the real estate industry, the competitiveness or financial viability
+of hospitals on or near the campuses where our outpatient medical buildings are located, our relationships with universities, the level
+of expense and uncertainty of our research tenants, and the limitation of our uses of some properties we own that are subject to ground
+lease, air rights or other restrictive agreements; (x) the risk of damage to our reputation; (y) the availability, adequacy
+and pricing of insurance coverage provided by our policies and policies maintained by our tenants, managers or other counterparties; (z) the
+risk of exposure to unknown liabilities from our investments in properties or businesses; (aa) the occurrence of cybersecurity threats
+and incidents that could disrupt our or our tenants’, managers’ or borrower’s operations, result in the loss of confidential
+or personal information or damage our business relationships and reputation; (bb) the failure to maintain effective internal controls,
+which could harm our business, results of operations and financial condition; (cc) the impact of merger, acquisition and investment activity
+in the healthcare industry or otherwise affecting our tenants, managers or borrowers; (dd) disruptions to the management and operations
+of our business and the uncertainties caused by activist investors; (ee) the risk of catastrophic or extreme weather and other natural
+events and the physical effects of climate change; (ff) the risk of potential dilution resulting from future sales or issuances of our
+equity securities; and (gg) the other factors set forth in our periodic filings with the Securities and Exchange Commission.
+Contacts
+Investors
+BJ Grant
+(877) 4-VENTAS
+Media
+Andrew Siegel / Joseph Sala / Greg Klassen
+Joele Frank, Wilkinson Brimmer Katcher
+(212) 355-4449
+

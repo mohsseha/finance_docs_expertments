@@ -1,0 +1,225 @@
+
+================================================================================
+=== DOCUMENT 1: 8-K - tm2333482d1_8k.htm ===
+================================================================================
+
+false
+0001075415
+0001075415
+2023-12-21
+2023-12-21
+0001075415
+us-gaap:CommonStockMember
+2023-12-21
+2023-12-21
+0001075415
+DHC:SeniorNotesDue2042Member
+2023-12-21
+2023-12-21
+0001075415
+DHC:SeniorNotesDue2046Member
+2023-12-21
+2023-12-21
+iso4217:USD
+xbrli:shares
+iso4217:USD
+xbrli:shares
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+WASHINGTON, DC  20549
+FORM
+8-K
+CURRENT REPORT PURSUANT
+TO SECTION 13 OR 15(d) OF THE
+SECURITIES EXCHANGE ACT OF 1934
+Date of Report (Date of earliest event reported):
+December 21, 2023
+DIVERSIFIED HEALTHCARE TRUST
+(Exact Name of Registrant as Specified in
+Its Charter)
+Maryland
+(State or Other Jurisdiction of Incorporation)
+001-15319
+04-3445278
+(Commission File Number)
+(IRS Employer Identification No.)
+Two Newton Place
+,
+255 Washington Street
+,
+Suite 300
+,
+Newton
+,
+Massachusetts
+02458-1634
+(Address of Principal Executive Offices) (Zip Code)
+617
+-
+796-8350
+(Registrant’s Telephone Number, Including
+Area Code)
+Check the appropriate box below if the
+Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities
+registered pursuant to Section 12(b) of the Act:
+Title Of Each Class
+Trading Symbol(s)
+Name Of Each Exchange
+On Which Registered
+Common
+Shares of Beneficial Interest
+DHC
+The
+Nasdaq Stock Market LLC
+5.625%
+Senior Notes due 2042
+DHCNI
+The
+Nasdaq Stock Market LLC
+6.25%
+Senior Notes due 2046
+DHCNL
+The
+Nasdaq Stock Market LLC
+Indicate by check mark whether the registrant
+is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2
+of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company
+¨
+If an emerging growth company, indicate
+by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial
+accounting standards provided pursuant to Section 13(a) of the Exchange Act.
+¨
+In this Current Report on Form 8-K, the terms “we”,
+“us”, and “our” refer to Diversified Healthcare Trust.
+Item 1.01. Entry Into a Material Definitive Agreement.
+Item 1.02. Termination of a Material Definitive Agreement.
+Item 2.03. Creation of a Direct Financial Obligation or an Obligation
+under an Off-Balance Sheet Arrangement of a Registrant.
+Senior Secured Notes Transaction
+On
+December 21, 2023, we completed a private offering of $940,534,000 in aggregate principal amount at maturity of senior secured notes due
+2026, or the Notes.
+The net proceeds from the offering were approximately $732 million, after initial purchaser discounts and estimated
+offering costs. We used approximately $450 million of these net proceeds to repay in full our secured credit facility and will use approximately
+$250 million of these net proceeds to redeem in full our outstanding 4.750% senior notes due 2024, each as further described below, and
+will use the excess proceeds to pay fees and expenses associated with such repayment and redemption and for general business purposes.
+After purchasing the Notes from us, the initial
+purchasers offered and sold the Notes only to persons reasonably believed
+to be qualified institutional buyers pursuant to Rule 144A under
+the
+Securities Act
+of 1933, as amended, or the Securities Act, and outside the United States to non-United States persons in compliance with Regulation S
+under the Securities Act. The Notes have not been registered under the Securities Act or under any state securities law and may not be
+offered or sold in the United States absent registration or an applicable exemption from, or in a transaction not subject to, the registration
+requirements of the Securities Act and applicable state securities laws.
+The Notes
+and
+the guarantees thereof
+were issued under an indenture, dated as of December 21, 2023, or the Indenture, among us, the Collateral
+Guarantors and the Non-Collateral Guarantors (each as defined below), and
+U.S. Bank Trust Company,
+National Association, or U.S. Bank, as trustee and collateral agent.
+No cash interest
+will accrue on the Notes prior to maturity, unless we elect to exercise the extension option described below. The Notes will have an initial
+accreted value of $797.42 per $1,000 principal amount at maturity, which was the offering price of the Notes to investors in the offering.
+The accreted value of each Note will increase from the date of issuance until January 15, 2026, the maturity date of the Notes, at a rate
+of 11.25% per annum compounded semiannually on January 15 and July 15 of each year, such that the accreted value will equal the principal
+amount at maturity of each Note on that date.
+We have a
+one-time option to extend the maturity date of the Notes by one year, to January 15, 2027, without the consent of the noteholders, subject
+to the satisfaction of certain conditions and payment of an extension fee. If we exercise this option, interest payments will be due semiannually
+during the extension period at an initial interest rate of 11.25% with increases of 50 basis points every 90 days that the Notes remain
+outstanding.
+The Notes
+are fully and unconditionally guaranteed, on a joint, several and senior secured basis, by certain of our subsidiaries that own 95 properties
+with an estimated fair value of approximately $1.57 billion, or the Collateral Guarantors, and on a joint, several and unsecured basis,
+by all our subsidiaries that currently guarantee our 9.750% senior notes due 2025 and our 4.375% senior notes due 2031 that do not own
+the collateral properties, or the Non-Collateral Guarantors. The Notes and the guarantees provided by the Collateral Guarantors will be
+secured by a first-priority lien and security interest on each of the collateral properties and 100% of the equity interests in each of
+the Collateral Guarantors.
+The Notes are subject to certain restrictive financial
+and operating covenants, including covenants that restrict our ability to incur debts, including debts secured by mortgages on our properties,
+in excess of calculated amounts and require us to maintain certain
+financial
+ratios.
+Affiliates of certain of the initial purchasers
+are lenders under our secured credit facility and therefore may receive a portion of the net proceeds from the offering. Additionally,
+certain of the initial purchasers or their respective affiliates hold a portion of our 4.750% senior notes due 2024 and therefore may
+receive a portion of the net proceeds from the offering.
+The foregoing description of the Notes
+is
+not complete and is subject to and qualified in its entirety by reference to the copy of the
+Indenture attached hereto as Exhibit
+4.1, which is incorporated by reference herein.
+Repayment and Termination of Secured Credit Facility
+In connection with the closing of the offering
+of the Notes, on December 21, 2023, we repaid the $450 million outstanding under our secured credit facility with
+Wells
+Fargo Bank, National Association, as administrative agent and a lender, and a syndicate of other lenders,
+and then terminated the
+agreement governing that facility in accordance with its terms and without penalty.
+The foregoing description of the agreement governing
+our terminated credit facility
+is not complete and is subject to and qualified in its entirety by
+reference to the conformed copy of the
+credit agreement, as amended, that was previously filed as
+Exhibit 10.1
+to
+our Current Report on Form 8-K dated February 14, 2023.
+2024 Notes Redemption
+Following
+the closing of the offering of the Notes, on December 21, 2023, we delivered a notice of redemption to U.S. Bank, as successor trustee
+to U.S. Bank National Association, with respect to all of our outstanding
+4.750% senior notes due 2024,
+for
+a redemption price equal to the principal amount of $250 million, plus accrued and unpaid interest to, but excluding the date of redemption.
+The redemption date is January 20, 2024 and payment of the redemption price is expected to occur on or about January 22, 2024. This Current
+Report on Form 8-K does not constitute notices of redemption with respect to our
+4.750% senior notes due 2024
+.
+Item 8.01. Other Events.
+On December
+20, 2023, we and ABP Trust agreed that our right to purchase common shares of AlerisLife Inc. pursuant to the Consent and Amendment Agreement,
+dated as of February 2, 2023, among us and our applicable subsidiaries, and ABP Trust, its applicable subsidiaries and Adam D. Portnoy,
+at any time prior to December 31, 2023 and otherwise on the terms specified in the Consent and Amendment Agreement, be extended to March
+31, 2024.
+The foregoing description of the Consent and Amendment
+Agreement
+is not complete and is subject to and qualified in its entirety by reference to the copy
+thereof
+that was previously filed as
+Exhibit 99.1
+to our Current Report on Form 8-K dated
+February 2, 2023.
+Item 9.01. Financial Statements and Exhibits.
+Exhibit
+Number
+Description
+4.1
+Indenture, dated as of December 21, 2023, among Diversified Healthcare Trust, certain of its subsidiaries named therein as guarantors and
+U.S. Bank Trust Company, National Association
+.
+104
+Cover Page Interactive Data File. (Embedded within the Inline XBRL Document)
+SIGNATURES
+Pursuant to the requirements of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+DIVERSIFIED HEALTHCARE TRUST
+By:
+/s/ Matthew C. Brown
+Name:
+Matthew C. Brown
+Title:
+Chief Financial Officer and Treasurer
+Dated:  December 22, 2023
+
