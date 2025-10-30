@@ -2,20 +2,26 @@
 
 This repository contains processed SEC EDGAR filings for senior housing REITs, making them easier to access and analyze for natural language processing and financial analysis tasks.
 
-## Tickers Included
+## FAQ
+
+**What is this repository?**
+
+This repository provides cleaned and structured data from SEC EDGAR filings for a curated list of senior housing REITs. The goal is to provide LLM-ready text and machine-readable financial data.
+
+**What companies are included?**
 
 - **AHR**: American Healthcare REIT, Inc.
 - **DHC**: Diversified Healthcare Trust
 - **VTR**: Ventas, Inc.
 - **WELL**: Welltower Inc.
 
-## Data Coverage
+**What is the date range of the filings?**
 
 The filings in this repository cover the period from **2024 to 2025**.
 
-## Repository Structure
+**How is the repository structured?**
 
-To navigate the repository, follow this structure:
+Filings are organized by ticker, form type, and accession number:
 
 ```
 /<TICKER>/<FORM_TYPE>/<ACCESSION_NUMBER>/
@@ -27,18 +33,14 @@ For example, to find the 10-K for VTR with accession number `0000740260-25-00005
 /VTR/10-K/0000740260-25-000052/
 ```
 
-### Processed Files
+**What files are in each filing directory?**
 
-Within each accession number directory, you will find the following files:
+-   `clean-text-for-llm.txt`: The clean, narrative text of the filing, with HTML, XBRL, and other markup removed.
+-   `xbrl-data-markdown.md`: Structured financial data extracted from the filing's inline XBRL tags, presented in markdown tables.
 
--   `clean-text-for-llm.txt`: This file contains the clean, narrative text of the filing, with HTML, XBRL, and other markup removed. It is suitable for natural language processing and analysis.
--   `xbrl-data-markdown.md`: This file contains structured financial data extracted from the filing's inline XBRL tags, presented in markdown tables for easy readability.
+**What are the limitations of the data?**
 
-## Limitations
-
-The processing scripts (`extract_text.py` and `batch_process_filings.py`) have the following limitations, which affect the content of the processed files:
-
--   **Images are not included**: Any images or graphical content within the filings are skipped and not converted to text (i.e., no OCR is performed).
--   **Complex table structures may be lost**: While the XBRL data is extracted into markdown tables, complex HTML tables in the narrative text are converted to plain text, which may result in a loss of their original structure.
--   **Exhibits and other documents**: The processing focuses on the main filing documents (8-K, 10-K, 10-Q) and key exhibits (EX-99.1, EX-99.2). Other documents, such as XBRL schema files, are excluded.
--   **XBRL data is simplified**: The XBRL extraction is basic and captures inline XBRL tags. It does not parse the full XBRL taxonomy to establish complex relationships between financial concepts.
+-   **Images are not included**: Images and graphical content are not processed.
+-   **Complex table structures may be lost**: HTML tables in the narrative text are converted to plain text, potentially losing their original structure.
+-   **Limited scope of documents**: Processing focuses on main filing documents (8-K, 10-K, 10-Q) and key exhibits (EX-99.1, EX-99.2).
+-   **Simplified XBRL data**: The XBRL extraction is basic and does not parse the full XBRL taxonomy for complex financial relationships.
